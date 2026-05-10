@@ -1,0 +1,17 @@
+BBCode,Icon,Stat Name
+[img=20x20]res://items/stats/max_hp.png[/img],,Max HP
+[img=20x20]res://items/stats/hp_regeneration.png[/img],,HP Regeneration
+[img=20x20]res://items/stats/lifesteal.png[/img],,Life Steal
+[img=20x20]res://items/stats/percent_damage.png[/img],,Damage
+[img=20x20]res://items/stats/melee_damage.png[/img],,Melee Damage
+[img=20x20]res://items/stats/ranged_damage.png[/img],,Ranged Damage
+[img=20x20]res://items/stats/elemental_damage.png[/img],,Elemental Damage
+[img=20x20]res://items/stats/attack_speed.png[/img],,Attack Speed
+[img=20x20]res://items/stats/crit_chance.png[/img],,Crit Chance
+[img=20x20]res://items/stats/engineering.png[/img],,Engineering
+[img=20x20]res://items/stats/range.png[/img],,Range
+[img=20x20]res://items/stats/armor.png[/img],,Armor
+[img=20x20]res://items/stats/dodge.png[/img],,Dodge
+[img=20x20]res://items/stats/speed.png[/img],,Speed
+[img=20x20]res://items/stats/luck.png[/img],,Luck
+[img=20x20]res://items/stats/harvesting.png[/img],,Harvesting

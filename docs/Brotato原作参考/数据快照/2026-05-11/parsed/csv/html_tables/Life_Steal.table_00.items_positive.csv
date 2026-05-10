@@ -1,0 +1,13 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Bat,Tier 1,+2 % Life Steal -2 Harvesting,20,,,Life Steal
+Blood Leech,Tier 2,+2 % Life Steal +2 HP Regeneration -3 Harvesting,45,,,"Life Steal, HP Regeneration"
+Bloody Hand,Tier 4,+10 % Life Steal +2 % Damage for every 1 % Life Steal you have You take 1 damage per second (does not give invulnerability time),110,1.0,,Life Steal
+Butterfly,Tier 1,+2 % Life Steal -1 Elemental Damage,30,,,Life Steal
+Cape,Tier 4,+5 % Life Steal +20 % Dodge -2 Melee Damage -2 Ranged Damage -2 Elemental Damage,110,,,"Life Steal, Dodge"
+Decomposing Flesh,Tier 2,+1 % Life Steal when you level up -1 Max HP when you level up,30,,Win a run with Vampire,Life Steal
+Fin,Tier 3,+10 % Speed +3 % Life Steal -8 Luck,65,,Win a run with Speedy,"Speed, Life Steal"
+Fresh Meat,Tier 1,+2 % Life Steal -1 HP Regeneration,25,,,Life Steal
+Mouse,Tier 3,+5 % Life Steal +10% Enemies -5 Harvesting,55,5.0,,"Life Steal, More Enemies"
+Octopus,Tier 4,+12 Max HP +5 HP Regeneration +3 % Life Steal -8 % Crit Chance,105,,Win a run with Mutant,"Max HP, Life Steal, HP Regeneration"
+Ritual,Tier 2,+6 % Damage +2 % Life Steal -2 Engineering,60,,Win a run with Ghost,"Damage, Life Steal"
+Whetstone,Tier 2,+4 % Life Steal -3 Knockback,40,,Win a run with Sick,Life Steal

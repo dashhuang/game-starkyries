@@ -1,0 +1,9 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Cauldron(DLC),Tier 2,+50% pickup range +20 % Damage for 2 seconds after picking up a consumable -2 HP Regeneration,35,1.0,Win a run with Druid,Pickup
+Extra Stomach,Tier 4,+1 Max HP when picking up a consumable while at maximum health (max +8 per wave),100,1.0,,"Max HP, Luck"
+Fruit Basket,Tier 2,Enemies have a higher chance of dropping fruits -3 HP Regeneration,45,4.0,Collect 100 fruits while at maximum health,Consumable
+Garden,Tier 2,Spawns a garden that creates a fruit every 15 seconds,50,,,"Consumable, Structure"
+Jerky(DLC),Tier 2,+3 HP recovered from consumables Consumables heal you over 4 seconds instead of instantly,50,1.0,,Consumable
+Lemonade,Tier 1,+1 HP recovered from consumables,15,,,Consumable
+Spicy Sauce,Tier 2,+3 Max HP Consumables have a 50% chance to explode for 10 (+100%) damage when picked up,40,2.0,Win a run with Glutton,"Max HP, Luck, Explosive"
+Weird Food,Tier 1,+2 HP recovered from consumables -2 % Dodge,20,,,Consumable

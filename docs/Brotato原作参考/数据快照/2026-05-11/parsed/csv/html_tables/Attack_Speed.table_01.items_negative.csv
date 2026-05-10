@@ -1,0 +1,14 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Baby Squid(DLC),Tier 2,+1 HP Regeneration when you level up -3 % Attack Speed,55,,,HP Regeneration
+Big Arms,Tier 4,+12 Melee Damage +6 Ranged Damage +3 Knockback -3 % Attack Speed -3 % Speed,105,,Win a run with Generalist,"Melee Damage, Ranged Damage, Knockback"
+Bowler Hat,Tier 3,+15 Luck +18 Harvesting -5 % Attack Speed -3 % Crit Chance,75,,Win a run with Entrepreneur,"Luck, Harvesting"
+Defective Steroids,Tier 1,+2 Max HP +2 Melee Damage -3 % Attack Speed,20,,,"Max HP, Melee Damage"
+Focus,Tier 4,+30 % Damage -3 % Attack Speed for every different weapon you have,110,,Win a run with One Armed,Damage
+Heavy Bullets,Tier 4,+5 Ranged Damage +10 % Damage +10 Range -5 % Attack Speed -5 % Crit Chance,100,,,"Ranged Damage, Damage, Range"
+Missile,Tier 2,+10 % Damage -4 % Attack Speed,45,,,Damage
+Pencil,Tier 1,+2 Engineering -1 % Attack Speed -1 % Crit Chance,15,,,Engineering
+Scope,Tier 2,+2 Ranged Damage +25 Range -7 % Attack Speed,48,,,"Ranged Damage, Range"
+Small Fish(DLC),Tier 1,+10% damage against targets above 75% health -3 % Attack Speed,18,,,Damage
+Stone Skin,Tier 3,+1 Max HP for every permanent 1 Armor you have -6 % Attack Speed,85,1.0,Win a run with Golem,"Armor, Max HP"
+Toolbox,Tier 3,+6 Engineering -8 % Attack Speed,55,,,Engineering
+Will-o'-Wisp,Tier 3,+1 Elemental Damage for every 30 burning enemies you kill during a wave (max +4 per wave) -7% Attack Speed,80,,Kill 30 enemies by burning them in a single wave,Elemental Damage

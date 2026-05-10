@@ -1,0 +1,324 @@
+[
+  {
+    "table_index": 0,
+    "section": "Primary Stats",
+    "columns": [
+      "Stats",
+      "Stats.1",
+      "Stats.2",
+      "Stats.3"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Stats": "Max HP",
+        "Stats.1": "Melee Damage",
+        "Stats.2": "Crit Chance",
+        "Stats.3": "Dodge"
+      },
+      {
+        "Stats": "HP Regeneration",
+        "Stats.1": "Ranged Damage",
+        "Stats.2": "Engineering",
+        "Stats.3": "Speed"
+      },
+      {
+        "Stats": "Life Steal",
+        "Stats.1": "Elemental Damage",
+        "Stats.2": "Range",
+        "Stats.3": "Luck"
+      },
+      {
+        "Stats": "Damage",
+        "Stats.1": "Attack Speed",
+        "Stats.2": "Armor",
+        "Stats.3": "Harvesting"
+      },
+      {
+        "Stats": "DLC Stats",
+        "Stats.1": "DLC Stats",
+        "Stats.2": "DLC Stats",
+        "Stats.3": "DLC Stats"
+      },
+      {
+        "Stats": "Curse",
+        "Stats.1": "Curse",
+        "Stats.2": "Curse",
+        "Stats.3": "Curse"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Primary Stats > DLC Stats",
+    "columns": [
+      "Name",
+      "Effects",
+      "Limit",
+      "Negative stat effect"
+    ],
+    "row_count": 16,
+    "rows": [
+      {
+        "Name": "Max HP",
+        "Effects": "Amount of damage you can take before dying",
+        "Limit": "No limit",
+        "Negative stat effect": "Acts like the stat is at 1"
+      },
+      {
+        "Name": "HP Regeneration",
+        "Effects": "Passive healing that restores 1 HP per n seconds, where the healing interval n becomes shorter with increasing HP Regeneration.  The first point of HP regeneration gives 0.20 HP/s and all further points increase it by 0.089 HP/s(details)",
+        "Limit": "No limit",
+        "Negative stat effect": "Acts like the stat is at 0"
+      },
+      {
+        "Name": "Life Steal",
+        "Effects": "Your attacks have a x% chance to heal you for 1HP.  The character's Life Steal chance is added to each weapon individually.",
+        "Limit": "Can only trigger once per 0.1 second for a maximum of 10HP/second",
+        "Negative stat effect": "Decreases the life steal chance of all weapons to minimum of 0"
+      },
+      {
+        "Name": "Damage",
+        "Effects": "Increases all damage dealt by 1% per point in Damage.  Does not affect Engineering structures.",
+        "Limit": "No limit",
+        "Negative stat effect": "Decreases damage by 1% per negative point instead. The minimum damage caused by a weapon or effect is always 1"
+      },
+      {
+        "Name": "Melee Damage",
+        "Effects": "Modifies the base attack damage of weapons, if their damage scales with Melee Damage.  Some items deal damage based on this stat.",
+        "Limit": "No limit",
+        "Negative stat effect": "Decreases the base attack damage. The minimum damage caused by a weapon or effect is always 1"
+      },
+      {
+        "Name": "Ranged Damage",
+        "Effects": "Modifies the base attack damage of weapons, if their damage scales with Ranged Damage.  Some items deal damage based on this stat.",
+        "Limit": "No limit",
+        "Negative stat effect": "Decreases the base attack damage. The minimum damage caused by a weapon or effect is always 1"
+      },
+      {
+        "Name": "Elemental Damage",
+        "Effects": "Modifies the base attack damage of weapons, if their damage scales with Elemental Damage.  Some items deal damage based on this stat.",
+        "Limit": "No limit",
+        "Negative stat effect": "Decreases the base attack damage. The minimum damage caused by a weapon or effect is always 1"
+      },
+      {
+        "Name": "Attack Speed",
+        "Effects": "You attack x% faster. Also applies to Ranged Weapons but not Structures",
+        "Limit": "Diminishing Returns at higher values, can't attack faster than 12 times per second, slower for melee weapons.",
+        "Negative stat effect": "You attack slower. Negative attack speed is calculated differently and doesn't impact you as much as positive attack speed."
+      },
+      {
+        "Name": "Crit Chance",
+        "Effects": "Your weapons have an x increased chance to deal a critical hit.",
+        "Limit": "Maximum 100% chance to do critical hits on a hit.",
+        "Negative stat effect": "The amount is subtracted from the base crit chance of your weapon. Minimum is 0% chance in total to crit."
+      },
+      {
+        "Name": "Engineering",
+        "Effects": "Increases the power of your structures. The other stats don't affect structures but specials do (piercing, bouncing, explosion etc.)",
+        "Limit": "No limit",
+        "Negative stat effect": "Your structures have x decreased power down to a minimum of 1 damage or healing"
+      },
+      {
+        "Name": "Range",
+        "Effects": "The max range of your weapons is increased by x. A higher range also increases the cooldown of melee weapons.(longer travel distance)",
+        "Limit": "No limit",
+        "Negative stat effect": "Your weapons have x less range. (Halved for melee weapons). Minimum of 25 range."
+      },
+      {
+        "Name": "Armor",
+        "Effects": "You reduce incoming damage by x%. Each point of armor means it takes 6.66% more damage to kill you.",
+        "Limit": "No limit",
+        "Negative stat effect": "The damage you take is increased by x% instead of decreased."
+      },
+      {
+        "Name": "Dodge",
+        "Effects": "You have a x% chance to dodge attacks.",
+        "Limit": "60% (70% with Cryptid, 90% with Ghost)",
+        "Negative stat effect": "Acts like this stat is 0"
+      },
+      {
+        "Name": "Speed",
+        "Effects": "You move x% faster.",
+        "Limit": "No limit",
+        "Negative stat effect": "You move x% slower, coming to a standstill at -100% or more."
+      },
+      {
+        "Name": "Luck",
+        "Effects": "You have an x% more chance of finding items or consumables when you kill enemies. Also increases the rarity of the items in the shop and level upgrades.",
+        "Limit": "No limit",
+        "Negative stat effect": "You have an x% less chance of finding items or consumables when you kill enemies. Also decreases the rarity of the items in the shop and level upgrades."
+      },
+      {
+        "Name": "Harvesting",
+        "Effects": "You earn x materials and XP at the end of a wave. Increased by 5% every time it activates. (Rounded up)",
+        "Limit": "No limit",
+        "Negative stat effect": "You lose x materials and XP at the end of a wave. The 5% Increment doesn't happen."
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Table of Secondary Stats",
+    "columns": [
+      "Name",
+      "Effects",
+      "Limit",
+      "Negative stat effect"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Name": "Curse",
+        "Effects": "Gives enemies a chance to spawn cursed with a purple outline. Cursed enemies have +25% Damage, +15% Speed, and +150% HP +2% per Curse Stat additional HP. They also drop 33% additional Materials. Causes items and weapons in the Shop to have a chance to spawn enhanced with a curse buff, increasing their stats significantly and decreasing their downsides.",
+        "Limit": "Diminishing Returns on chance to spawn enemies and items. Can't go above 50% Chance to spawn cursed enemies, 15% to spawn cursed items. Cursed HP scaling maxes out at 300 Curse.",
+        "Negative stat effect": "Can't be Negative"
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "",
+    "columns": [
+      "Stat",
+      "Description",
+      "Related Item Tags",
+      "Notable Items"
+    ],
+    "row_count": 22,
+    "rows": [
+      {
+        "Stat": "Consumable Heal",
+        "Description": "Increases or decreases the healing done by consumables.",
+        "Related Item Tags": "Consumable (Item Tag)",
+        "Notable Items": "Alien Worm, Jerky, Lemonade, Weird Food"
+      },
+      {
+        "Stat": "% Materials Healing",
+        "Description": "Chance of being healed by 1 when picking up Materials. Currently only used by Cute Monkey.",
+        "Related Item Tags": "Pickup",
+        "Notable Items": "Cute Monkey"
+      },
+      {
+        "Stat": "% XP Gain",
+        "Description": "Increases or decreases all forms of Experience you earn.",
+        "Related Item Tags": "XP Gain",
+        "Notable Items": "Bean Teacher, Black Belt, Celery Tea, Diploma, Feather, Peacock, Scar"
+      },
+      {
+        "Stat": "% Pickup Range",
+        "Description": "Increases or decreases the range at which you pick up materials and consumables.",
+        "Related Item Tags": "Pickup",
+        "Notable Items": "Alien Tongue, Cauldron, Gnome, Little Frog,"
+      },
+      {
+        "Stat": "% Items Price",
+        "Description": "Increases or decreases Shop Prices.",
+        "Related Item Tags": "Economy",
+        "Notable Items": "Coupon"
+      },
+      {
+        "Stat": "% Explosion Damage",
+        "Description": "Increases or decreases the damage of Explosions",
+        "Related Item Tags": "Explosive (Item Tag)",
+        "Notable Items": "Dynamite, Explosive Shells, Honey"
+      },
+      {
+        "Stat": "% Explosion Size",
+        "Description": "Increases or decreases the size of Explosions",
+        "Related Item Tags": "Economy",
+        "Notable Items": "Explosive Shells, Honey, Plastic Explosive"
+      },
+      {
+        "Stat": "Bounces",
+        "Description": "Gives projectiles additional Bounces",
+        "Related Item Tags": "Ranged Damage",
+        "Notable Items": "Ricochet"
+      },
+      {
+        "Stat": "Piercing",
+        "Description": "Gives projectiles additional Piercing",
+        "Related Item Tags": "Ranged Damage",
+        "Notable Items": "Bandana, Sharp Bullet"
+      },
+      {
+        "Stat": "% Piercing Damage",
+        "Description": "Increases or decreases the piercing damage falloff for projectile weapons.",
+        "Related Item Tags": "Ranged Damage",
+        "Notable Items": "Pumpkin, Sharp Bullet"
+      },
+      {
+        "Stat": "% Damage against Bosses",
+        "Description": "Multiplies the damage you do against Bosses and Elites.",
+        "Related Item Tags": "Damage",
+        "Notable Items": "Silver Bullet"
+      },
+      {
+        "Stat": "% Structure Attack Speed",
+        "Description": "Increases or decreases the rate of turrets attacking, Landmines spawning, and Gardens spawning Consumables.",
+        "Related Item Tags": "Structure (Item Tag)",
+        "Notable Items": "Clockwork Wasp, Improved Tools"
+      },
+      {
+        "Stat": "Structure Range",
+        "Description": "Increases or decreases the range of Structures.",
+        "Related Item Tags": "",
+        "Notable Items": "Only available on Builder"
+      },
+      {
+        "Stat": "% Burning Speed",
+        "Description": "Increases or decreases the rate of which Burn ticks for damage.",
+        "Related Item Tags": "Elemental Damage",
+        "Notable Items": "Eyes Surgery, Frozen Heart"
+      },
+      {
+        "Stat": "Burning Spread",
+        "Description": "Increases the amount of times Burn spreads.",
+        "Related Item Tags": "Elemental Damage",
+        "Notable Items": "Snake"
+      },
+      {
+        "Stat": "Knockback",
+        "Description": "Increases or decreases the distance enemies are knockbacked back when hit.",
+        "Related Item Tags": "Knockback",
+        "Notable Items": "Ball and Chain, Banner, Coil, Black Belt, Boxing Glove"
+      },
+      {
+        "Stat": "% Double Material Chance",
+        "Description": "Increases the chance of gaining double materials when picking up Materials",
+        "Related Item Tags": "Economy, Pickup",
+        "Notable Items": "Metal Detector"
+      },
+      {
+        "Stat": "Free Rerolls",
+        "Description": "Provides an amount of free reroll at the beginning of each Shop",
+        "Related Item Tags": "Economy",
+        "Notable Items": "Dangerous Bunny"
+      },
+      {
+        "Stat": "Trees",
+        "Description": "Increases the amount of Trees that spawn. See the Wiki page for details.",
+        "Related Item Tags": "Exploration",
+        "Notable Items": "Tree"
+      },
+      {
+        "Stat": "% Enemies",
+        "Description": "Increases or decreases the amount of Enemies that spawn during waves.",
+        "Related Item Tags": "More Enemies, Less Enemies",
+        "Notable Items": "Black Flag, Candle, Gentle Alien, Mouse, White Flag"
+      },
+      {
+        "Stat": "% Enemy Speed",
+        "Description": "Increases or decreases the speed of Enemies that spawn during waves.",
+        "Related Item Tags": "Less Enemy Speed",
+        "Notable Items": "Snail"
+      },
+      {
+        "Stat": "% Reroll Price",
+        "Description": "Increases or decreases the price of rerolling in the [[Shop}]] and when choosing Upgrades",
+        "Related Item Tags": "",
+        "Notable Items": "Spyglass"
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Ashes(DLC),Tier 4,+20 % Damage +20 % Attack Speed +100 Range -1 Armor at the end of a wave,100,,,"Attack Speed, Damage, Range"
+Baby Gecko,Tier 1,+10 Range +25% chance to instantly attract a material when it’s dropped,18,4.0,,"Pickup, Range"
+Banner,Tier 2,+20 Range +10 % Attack Speed -5 Knockback,55,,,"Range, Attack Speed"
+Glasses,Tier 1,+20 Range,20,,,Range
+Gummy Berserker,Tier 1,+5 % Attack Speed +25 Range -1 Armor,25,,,"Attack Speed, Range"
+Lantern(DLC),Tier 4,+10 % Damage +50 Range +15 Knockback Knocks nearby enemies back every 3 seconds,100,1.0,,"Damage, Range, Knockback"
+Night Goggles,Tier 4,+15 % Crit Chance +50 Range -3 Max HP -1 Armor,95,,Win a run with Ranger,"Crit Chance, Range"
+Poisonous Tonic,Tier 3,+10 % Attack Speed +5 % Crit Chance +15 Range -2 HP Regeneration,80,,,"Attack Speed, Crit Chance, Range"
+Shackles,Tier 3,+8 HP Regeneration +8 Engineering +80 Range Your Speed is capped at its current value,80,1.0,,"Range, HP Regeneration, Engineering"
+Spyglass(DLC),Tier 2,+10 Range -25 % Reroll Price,30,2.0,,Range
+Wings,Tier 3,+10 % Speed +30 Range -2 Elemental Damage,85,,,"Speed, Range"
+Scope,Tier 2,+2 Ranged Damage +25 Range -7 % Attack Speed,48,,,"Ranged Damage, Range"

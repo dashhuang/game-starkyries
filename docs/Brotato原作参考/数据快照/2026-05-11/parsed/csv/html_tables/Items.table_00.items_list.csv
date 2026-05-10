@@ -1,0 +1,232 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Acid,Tier 2,+8 Max HP -2 % Dodge -2 Knockback,65,,,Max HP
+Adrenaline,Tier 3,+5 % Dodge 50% chance to heal 5 HP when dodging an attack,60,1.0,,Dodge
+Alien Baby,Tier 3,+15 Max HP +10 % Enemy health,80,,,Max HP
+Alien Eyes,Tier 2,Shoots 6 alien eyes around you every 3 seconds dealing 6 (+50%) damage each,50,,,Max HP
+Alien Magic,Tier 3,+8 Max HP +3 HP Regeneration -8 Luck,85,,,"Max HP, HP Regeneration"
+Alien Tongue,Tier 1,+30% pickup range +1 Knockback,25,,,"Pickup, Knockback"
+Alien Worm,Tier 1,+3 Max HP +2 HP Regeneration -1 HP recovered from consumables,15,,,"Max HP, HP Regeneration"
+Alloy,Tier 3,+3 Melee Damage +3 Ranged Damage +3 Elemental Damage +3 Engineering +5 % Crit Chance -6 % Dodge,80,,,"Melee Damage, Ranged Damage, Engineering, Crit Chance, Elemental Damage"
+Anvil,Tier 4,"A random weapon is upgraded when entering a shop. If you have no weapon to upgrade, you gain +2 Armor instead.",120,1.0,Win a run with Arms Dealer,
+Ashes(DLC),Tier 4,+20 % Damage +20 % Attack Speed +100 Range -1 Armor at the end of a wave,100,,,"Attack Speed, Damage, Range"
+Axolotl(DLC),Tier 4,Your highest (Max HP) and lowest (Max HP) positive primary stats are swapped when you get this item,130,1.0,,
+Baby Elephant,Tier 1,25% chance to deal 1 (25%) damage to a random enemy when you pick up a material,22,,,"Luck, Pickup"
+Baby Gecko,Tier 1,+10 Range +25% chance to instantly attract a material when it’s dropped,18,4.0,,"Pickup, Range"
+Baby Squid(DLC),Tier 2,+1 HP Regeneration when you level up -3 % Attack Speed,55,,,HP Regeneration
+Baby with a Beard,Tier 3,One bullet dealing 1 (+100%) damage is fired from an enemy corpse when they die -50 Range,100,,,Ranged Damage
+Bag,Tier 1,+15 materials when you pick up a crate -1 % Speed,15,3.0,,"Luck, Exploration, Economy"
+Bait,Tier 2,+8 % Damage Special enemies appear at the beginning of the next wave,25,,,"Damage, Number of Enemies"
+Ball and Chain,Tier 3,+15 % Damage +3 Armor +5 Knockback -3 % Speed Weapons have a minimum cooldown of 0.75 seconds between attacks,75,1.0,,"Damage, Armor, Knockback"
+Bandana,Tier 3,Projectiles pierce through 1 additional target -10 % Damage,75,,,Ranged Damage
+Banner,Tier 2,+20 Range +10 % Attack Speed -5 Knockback,55,,,"Range, Attack Speed"
+Barnacle(DLC),Tier 3,+35% stats gained from level upgrades +1 Curse when you level up,80,1.0,Win a run with Creature,"Curse, XP Gain"
+Barricade,Tier 3,+3 Knockback +8 Armor while standing still -5 % Speed,75,,,"Armor, Stand Still, Knockback"
+Bat,Tier 1,+2 % Life Steal -2 Harvesting,20,,,Life Steal
+Bean Teacher,Tier 3,+50 % XP Gain -2 % Life Steal,70,,,XP Gain
+Beanie,Tier 1,+4 % Speed -6 Range,20,,,Speed
+Big Arms,Tier 4,+12 Melee Damage +6 Ranged Damage +3 Knockback -3 % Attack Speed -3 % Speed,105,,Win a run with Generalist,"Melee Damage, Ranged Damage, Knockback"
+Black Belt,Tier 2,+25 % XP Gain +3 Melee Damage +3 Knockback -8 Luck,50,,,"Melee Damage, XP Gain, Knockback"
+Black Flag(DLC),Tier 3,+1 material when you kill a cursed enemy +10% Enemies +10 % Enemy health +10 % Enemy damage +5 Curse,60,1.0,,"Curse, More Enemies"
+Blindfold,Tier 2,+5 % Crit Chance +5 % Dodge -15 Range,45,,,"Crit Chance, Dodge"
+Blood Donation,Tier 3,+40 Harvesting You take 1 damage per second (does not give invulnerability time),50,,,Harvesting
+Blood Leech,Tier 2,+2 % Life Steal +2 HP Regeneration -3 Harvesting,45,,,"Life Steal, HP Regeneration"
+Bloody Hand,Tier 4,+10 % Life Steal +2 % Damage for every 1 % Life Steal you have You take 1 damage per second (does not give invulnerability time),110,1.0,,Life Steal
+Boiling Water,Tier 1,+2 Elemental Damage -1 Max HP,30,,,Elemental Damage
+Bone Dice(DLC),Tier 2,+50% chance to get +1 % Damage when rerolling in the shop +10% chance to get -1 Max HP when rerolling in the shop,30,2.0,,Damage
+Book,Tier 1,+1 Engineering,8,,,Engineering
+Bowler Hat,Tier 3,+15 Luck +18 Harvesting -5 % Attack Speed -3 % Crit Chance,75,,Win a run with Entrepreneur,"Luck, Harvesting"
+Boxing Glove,Tier 1,+1 Melee Damage +3 Knockback,18,,,"Melee Damage, Knockback"
+Broken Mouth,Tier 1,+5 Max HP -1 HP Regeneration,25,,,Max HP
+Butterfly,Tier 1,+2 % Life Steal -1 Elemental Damage,30,,,Life Steal
+Cake,Tier 1,+3 Max HP -1 % Damage,15,,,Max HP
+Campfire,Tier 2,+2 Elemental Damage +2 HP Regeneration -2 % Speed,40,,,"Elemental Damage, HP Regeneration"
+Candle,Tier 3,+4 Elemental Damage +1 HP Regeneration -10% Enemies -5 % Damage,65,1.0,,"Elemental Damage, HP Regeneration, Less Enemies"
+Cape,Tier 4,+5 % Life Steal +20 % Dodge -2 Melee Damage -2 Ranged Damage -2 Elemental Damage,110,,,"Life Steal, Dodge"
+Cauldron(DLC),Tier 2,+50% pickup range +20 % Damage for 2 seconds after picking up a consumable -2 HP Regeneration,35,1.0,Win a run with Druid,Pickup
+Celery Tea,Tier 2,+5 % XP Gain at the end of a wave +50 % XP Gain during the next wave +100 % Enemy health during the next wave,35,,Win a run with Baby,XP Gain
+Chameleon,Tier 3,+3 % Dodge +20 % Dodge while standing still -4 % Damage,70,,,"Dodge, Stand Still"
+Charcoal,Tier 1,+1 Elemental Damage +2 Melee Damage -2 Harvesting,20,,,"Elemental Damage, Melee Damage"
+Claw Tree,Tier 1,+1 Melee Damage +3 % Crit Chance -1 Max HP,20,,,"Melee Damage, Crit Chance"
+Clockwork Wasp,Tier 2,+10 % Structure attack speed +5 % Speed,45,,,"Structure, Speed"
+Clover,Tier 3,+20 Luck +6 % Dodge -2 % Life Steal,65,,,"Luck, Dodge"
+Candy Bag,Tier 3,"Each wave grants 8 points randomly split between your primary stats Each wave, 10% chance to spawn an additional elite",70,1.0,Win a run without locking any items in the shop,
+Coffee,Tier 1,+10 % Attack Speed -2 % Damage,20,,,Attack Speed
+Cog,Tier 2,+4 Engineering +1 Knockback -4 % Damage,35,,,"Engineering, Knockback"
+Coil,Tier 3,+5 Knockback +1 % Damage for every 1 Knockback you have,70,3.0,,"Damage, Knockback"
+Community Support,Tier 3,+1 % Attack Speed for every current living enemy -2 Armor,75,1.0,Win a run with Streamer,Attack Speed
+Compass,Tier 2,+5 % Speed +3 Engineering -3 % Crit Chance,40,,Win a run with Explorer,"Speed, Engineering"
+Coral(DLC),Tier 2,+10 HP Regeneration while standing still -10 Range,40,,,"HP Regeneration, Stand Still"
+Corrupted Shard(DLC),Tier 1,+3 % Damage +1 Curse,12,,,"Damage, Curse"
+Coupon,Tier 1,-5 % Items Price,15,5.0,,Economy
+Crown,Tier 3,Harvesting increases by an additional 8% at the end of a wave,70,1.0,,Harvesting
+Crystal(DLC),Tier 3,+5 % Attack Speed +1 % Attack Speed every 1 second until the end of the wave Bonus is lost when taking damage -2 Engineering,65,,,Attack Speed
+Cute Monkey,Tier 1,+8% chance to heal 1 HP when picking up a material -1 Ranged Damage,25,13.0,,Pickup
+Cyberball,Tier 2,25% chance to deal 1 (25%) damage to a random enemy when an enemy dies,30,,,Luck
+Cyclops Worm,Tier 2,+12 % Damage -12 Range,45,,,Damage
+Dangerous Bunny,Tier 2,+1 free reroll in the shop,30,3.0,,Economy
+Decomposing Flesh,Tier 2,+1 % Life Steal when you level up -1 Max HP when you level up,30,,Win a run with Vampire,Life Steal
+Defective Steroids,Tier 1,+2 Max HP +2 Melee Damage -3 % Attack Speed,20,,,"Max HP, Melee Damage"
+Diploma,Tier 4,+10 Engineering +50 % XP Gain -3 Max HP,90,,,"Engineering, XP Gain"
+Duct Tape,Tier 1,+1 Armor +1 Engineering -2 Max HP,20,,,"Armor, Engineering"
+Dynamite,Tier 1,+15 % Explosion Damage,20,,,Explosive
+Energy Bracelet,Tier 2,+4 % Crit Chance +2 Elemental Damage -2 Ranged Damage,55,,,"Crit Chance, Elemental Damage"
+Esty's Couch,Tier 4,+5 Max HP +2 HP Regeneration for every permanent -1 % Speed you have -20 % Speed,100,1.0,,"HP Regeneration, Max HP"
+Exoskeleton,Tier 4,+3 Armor +5 % Crit Chance +5 Engineering +5 % Speed -2 HP Regeneration -2 % Life Steal,90,,,"Armor, Crit Chance, Engineering, Speed"
+Explosive Shells,Tier 4,+60 % Explosion Damage +15 % Explosion Size -15 % Damage,100,,Win a run with Artificer,Explosive
+Explosive Turret,Tier 4,Spawns a turret that shoots explosive bullets dealing 25 (+150%) damage in an area,80,,,"Engineering, Structure"
+Extra Stomach,Tier 4,+1 Max HP when picking up a consumable while at maximum health (max +8 per wave),100,1.0,,"Max HP, Luck"
+Eyepatch(DLC),Tier 2,Projectiles get +1 piercing on critical hit +3 % Crit Chance -10% Accuracy,55,,Win a run with Buccaneer,"Crit Chance, Ranged Damage"
+Eyes Surgery,Tier 2,Burning activates 20% faster +1 Elemental Damage -10 Range,60,2.0,,Elemental Damage
+Fertilizer,Tier 1,+8 Harvesting -1 Melee Damage,15,,,Harvesting
+Fairy,Tier 3,+1 HP Regeneration for every different Tier I item you have -3 HP Regeneration for every different Tier IV item you have,85,1.0,Win a run with Renegade,HP Regeneration
+Feather(DLC),Tier 1,+1 Ranged Damage +3 % Dodge -3 % XP Gain,18,,,"Ranged Damage, Dodge"
+Fin,Tier 3,+10 % Speed +3 % Life Steal -8 Luck,65,,Win a run with Speedy,"Speed, Life Steal"
+Fish Hook(DLC),Tier 2,Locked items and weapons have a 20% chance to become cursed when leaving the shop +1 Curse,35,3.0,,"Curse, Lock (Item Tag)"
+Focus,Tier 4,+30 % Damage -3 % Attack Speed for every different weapon you have,110,,Win a run with One Armed,Damage
+Fresh Meat,Tier 1,+2 % Life Steal -1 HP Regeneration,25,,,Life Steal
+Fried Rice,Tier 3,+1 HP Regeneration for every currently burning enemy,60,1.0,,HP Regeneration
+Frozen Heart,Tier 3,+8 Elemental Damage +5 % Crit Chance Weapon damage additionally scales with 10% Elemental Damage Burning activates 100% slower,90,1.0,,"Elemental Damage, Crit Chance"
+Fruit Basket,Tier 2,Enemies have a higher chance of dropping fruits -3 HP Regeneration,45,4.0,Collect 100 fruits while at maximum health,Consumable
+Fuel Tank,Tier 2,+4 Elemental Damage -1 Melee Damage -1 Ranged Damage,45,,,Elemental Damage
+Gambling Token,Tier 2,+8 % Dodge -1 Armor,50,,,Dodge
+Garden,Tier 2,Spawns a garden that creates a fruit every 15 seconds,50,,,"Consumable, Structure"
+Gentle Alien,Tier 1,+2 Max HP +5 % Damage +5% Enemies,30,10.0,,"Max HP, Damage, More Enemies"
+Ghost Outfit,Tier 3,Dodge is capped at 70% +10% Dodge -5% Speed -3 Armor,80,1.0,Reach 70% Dodge,Dodge
+Giant Belt,Tier 4,Critical hits deal 10% of an enemy’s current health as bonus damage (1% for bosses and elites),110,1.0,Win a run with Jack,Crit Chance
+Glass Cannon,Tier 3,+25 % Damage -3 Armor,75,,,Damage
+Glasses,Tier 1,+20 Range,20,,,Range
+Gnome,Tier 4,+10 Melee Damage +10 Elemental Damage -20 Range -20% pickup range,100,,Win a run with Bull,"Melee Damage, Elemental Damage"
+Goat Skull,Tier 1,+3 Melee Damage -2 % Crit Chance,25,,,Melee Damage
+Gobbler's Hat,Tier 4,+70% materials dropped -15% Speed -10% Dodge,130,1.0,Kill the Gobbler 5 times,
+Goblet(DLC),Tier 3,+15% chance to heal 1 HP when killing an enemy -3 HP Regeneration,70,3.0,,
+Goldfish(DLC),Tier 3,Items will be 1 tier higher after the next reroll,23,,,
+Greek Fire,Tier 4,Burning deals an additional 10% of current enemy HP as damage (1% for bosses and elites),100,1.0,,Elemental Damage
+Grind's Magical Leaf,Tier 4,+3 Max HP at the end of a wave +1 HP Regeneration at the end of a wave +1 % Life Steal at the end of a wave,110,,,"Max HP, HP Regeneration, Life Steal"
+Gummy Berserker,Tier 1,+5 % Attack Speed +25 Range -1 Armor,25,,,"Attack Speed, Range"
+Handcuffs,Tier 3,+8 Melee Damage +8 Ranged Damage +8 Elemental Damage Your Max HP is capped at its current value,80,1.0,,"Melee Damage, Ranged Damage, Elemental Damage"
+Head Injury,Tier 1,+6 % Damage -8 Range,25,,,Damage
+Heavy Bullets,Tier 4,+5 Ranged Damage +10 % Damage +10 Range -5 % Attack Speed -5 % Crit Chance,100,,,"Ranged Damage, Damage, Range"
+Hedgehog,Tier 1,+2 Melee Damage +1 Ranged Damage -1 HP Regeneration,30,,,"Melee Damage, Ranged Damage"
+Helmet,Tier 1,+1 Armor -2 % Speed,15,,,Armor
+Honey,Tier 3,+3 Ranged Damage +10 % Explosion Damage +5 % Explosion Size -3 % Speed -3 % Dodge,70,,,"Ranged Damage, Explosive"
+Hourglass,Tier 4,"Turns back time, decreasing the current wave count by 1 Start the next wave with 1 HP",100,1.0,"During the last 5 seconds of a wave after wave 2, press 'Return to Main Menu'. Then press 'Resume' to try the wave again.",
+Hunting Trophy,Tier 3,33% chance to gain 1 material when killing an enemy with a critical hit,55,3.0,Win a run with Crazy,Crit Chance
+Ice Cube,Tier 2,Enemies take 10% more damage for 3 seconds when first hit by Elemental Damage,50,1.0,,Elemental Damage
+Improved Tools,Tier 3,+10 % Attack Speed Increases the attack speed of your structures by 0% (50%),70,1.0,Win a run with Cyborg,"Structure, Attack Speed"
+Incendiary Turret,Tier 2,Spawns a turret that shoots flames dealing 8x5 (+33%) burning damage,40,,,"Engineering, Structure"
+Injection,Tier 1,+7 % Damage -2 Max HP,20,,,Damage
+Insanity,Tier 1,+6 % Crit Chance -3 % Damage,20,,,Crit Chance
+Jelly,Tier 1,+1 Max HP for every different weapon you have,15,,Win a run with Vagabond,Max HP
+Jerky(DLC),Tier 2,+3 HP recovered from consumables Consumables heal you over 4 seconds instead of instantly,50,1.0,,Consumable
+Jet Pack,Tier 4,+15 % Speed +10 % Dodge -5 Max HP -1 Armor,100,,,"Speed, Dodge"
+Knot(DLC),Tier 3,+15 % Damage +15 Max HP Weapons can no longer be upgraded or recycled,80,1.0,,"Damage, Max HP"
+Kraken's Eye(DLC),Tier 4,You have a 50% chance to explode for 10 (+500%) damage when you get hit +10 Max HP +10 Curse,110,1.0,,"Explosive, Max HP, Curse"
+Landmines,Tier 1,A landmine spawns every 12 seconds dealing 10 (+100%) damage in an area,15,,,"Engineering, Explosive, Structure"
+Lantern(DLC),Tier 4,+10 % Damage +50 Range +15 Knockback Knocks nearby enemies back every 3 seconds,100,1.0,,"Damage, Range, Knockback"
+Laser Turret,Tier 3,Spawns a turret that shoots piercing bullets dealing 20 (+125%) damage,65,,,"Engineering, Structure"
+Leather Vest,Tier 2,+2 Armor +6 % Dodge -3 Max HP,45,,,"Armor, Dodge"
+Lemonade,Tier 1,+1 HP recovered from consumables,15,,,Consumable
+Lens,Tier 1,+1 Ranged Damage -5 Range,20,,,Ranged Damage
+Lighthouse(DLC),Tier 3,+20 Engineering -1 Engineering for every 1 Structure you have,80,1.0,Win a run with Builder,Engineering
+Little Frog,Tier 2,+20% pickup range +10 Harvesting -3 % Dodge,45,,,"Harvesting, Pickup"
+Little Muscley Dude,Tier 2,+3 Melee Damage +5 Max HP -15 Range,50,,,"Melee Damage, Max HP"
+Lost Duck,Tier 1,+8 Luck -1 Elemental Damage,25,,,Luck
+Lucky Charm,Tier 3,+30 Luck -2 Melee Damage -1 Ranged Damage,75,,Win a run with Lucky,Luck
+Lucky Coin,Tier 4,+2 Luck for every 1 % Crit Chance you have -2 Armor,105,1.0,,"Crit Chance, Luck"
+Lure,Tier 2,+2 HP Regeneration 2 additional loot aliens appear during the next wave,34,,Win a run with Fisherman,HP Regeneration
+Lumberjack Shirt,Tier 1,Trees die in one hit,15,1.0,,Exploration
+Mammoth,Tier 4,+20 Melee Damage +5 HP Regeneration +5 Knockback -8 % Damage -3 % Speed,110,,,"Melee Damage, HP Regeneration, Knockback"
+Mastery,Tier 2,+6 Melee Damage -3 Ranged Damage,55,,,Melee Damage
+Medal,Tier 2,+3 Max HP +3 % Damage +1 Armor +3 % Speed -4 % Crit Chance,55,,,"Max HP, Damage, Armor, Speed"
+Medical Turret,Tier 2,Spawns a medical turret that shoots bullets healing 3 (+5%) HP,40,,,"Engineering, Structure"
+Medikit,Tier 4,+10 HP Regeneration +2 HP Regeneration every 5 seconds until the end of the wave -10 Luck,95,,Win a run with Doctor,HP Regeneration
+Metal Detector,Tier 2,+5% chance to double the value of picked up materials +6 Luck +2 Engineering -5 % Damage,40,20.0,,"Luck, Engineering, Pickup, Economy"
+Metal Plate,Tier 2,+2 Armor -3 % Damage,40,,,Armor
+Mirror(DLC),Tier 3,Duplicates the next item you get from the shop (item limits can't be exceeded),60,,,
+Missile,Tier 2,+10 % Damage -4 % Attack Speed,45,,,Damage
+Mouse,Tier 3,+5 % Life Steal +10% Enemies -5 Harvesting,55,5.0,,"Life Steal, More Enemies"
+Mushroom,Tier 1,+3 HP Regeneration -2 Luck,25,,,HP Regeneration
+Mutation,Tier 1,+1 Ranged Damage +1 Elemental Damage -3 Knockback,25,,,"Ranged Damage, Elemental Damage"
+Nail,Tier 3,+5 Engineering Weapon damage additionally scales with 20% Engineering -2 Ranged Damage,65,1.0,,Engineering
+Night Goggles,Tier 4,+15 % Crit Chance +50 Range -3 Max HP -1 Armor,95,,Win a run with Ranger,"Crit Chance, Range"
+Octopus,Tier 4,+12 Max HP +5 HP Regeneration +3 % Life Steal -8 % Crit Chance,105,,Win a run with Mutant,"Max HP, Life Steal, HP Regeneration"
+Padding,Tier 2,+3 Max HP +1 Max HP for every 80 Materials you have,45,1.0,Win a run with Saver,Max HP
+Panda,Tier 4,+12 Max HP +25 Luck -5 % Damage,100,,Win a run with Pacifist,"Max HP, Luck"
+Peaceful Bee,Tier 1,+4 % Dodge +4 Harvesting -1 Melee Damage -1 Ranged Damage,18,,,"Dodge, Harvesting"
+Peacock,Tier 3,+25 % XP Gain +100 % XP Gain during the next wave +50 % Enemy damage during the next wave,50,,,XP Gain
+Pearl(DLC),Tier 2,+1 % Damage for every permanent 10 Luck you have +3% chance of finding an extra Pearl in a crate,60,20.0,Win a run with Curious,Luck
+Pencil,Tier 1,+2 Engineering -1 % Attack Speed -1 % Crit Chance,15,,,Engineering
+Penguin(DLC),Tier 1,+1 HP Regeneration +1 HP Regeneration until the end of the wave when picking up a consumable while at maximum health,25,3.0,,HP Regeneration
+Piggy Bank,Tier 2,+20% of your materials at the start of waves (stops working at wave 20),40,1.0,,
+Pile of Books,Tier 3,Your structures can crit +3 % Crit Chance +3 Engineering,70,1.0,,"Crit Chance, Engineering"
+Plant,Tier 1,+3 HP Regeneration -1 % Life Steal,15,,,HP Regeneration
+Plastic Explosive,Tier 3,+25 % Explosion Size,60,,,Explosive
+Poisonous Tonic,Tier 3,+10 % Attack Speed +5 % Crit Chance +15 Range -2 HP Regeneration,80,,,"Attack Speed, Crit Chance, Range"
+Pocket Factory,Tier 2,+2 Engineering Killing a tree spawns a turret,75,1.0,,"Engineering, Exploration, Structure"
+Potato,Tier 4,+3 Max HP +2 HP Regeneration +1 % Life Steal +5 % Damage +5 % Attack Speed +3 % Speed +3 % Dodge +1 Armor +5 Luck,95,,Win a run with Well Rounded,"Max HP, HP Regeneration, Damage, Speed, Luck"
+Power Generator,Tier 3,+1 % Damage for every permanent 1 % Speed you have -5 % Damage,65,1.0,,"Speed, Damage"
+Propeller Hat,Tier 1,+10 Luck -2 % Damage,28,,,Luck
+Pumpkin,Tier 2,+15% Piercing Damage. Can't go above base damage -2 % Damage,40,,,Ranged Damage
+Recycling Machine,Tier 2,Gain 35% more materials from recycling items,35,1.0,,Economy
+Regeneration Potion,Tier 4,HP Regeneration is doubled when you have less than 50% health +3 HP Regeneration,90,1.0,,HP Regeneration
+Reinforced Steel,Tier 2,+2 Ranged Damage +3 Engineering -3 % Speed,50,,,"Ranged Damage, Engineering"
+Retromation's Hoodie,Tier 4,+2 % Attack Speed for every 1 % Dodge you have -80 Range,110,1.0,,Dodge
+Ricochet,Tier 4,Your projectiles gain +1 bounce -25 % Damage,110,,,Ranged Damage
+Rip and Tear,Tier 3,Enemies have a 20% chance to explode for 10 (+50%) damage when they die -5 % Crit Chance,65,5.0,Win a run with Loud,"Melee Damage, Explosive"
+Riposte,Tier 2,+2 Melee Damage 100% chance to deal 1 (300%) damage to an enemy when dodging their attack,40,,,"Dodge, Melee Damage"
+Ritual,Tier 2,+6 % Damage +2 % Life Steal -2 Engineering,60,,Win a run with Ghost,"Damage, Life Steal"
+Robot Arm,Tier 4,+3 Melee Damage at the end of a wave +3 Engineering at the end of a wave -1 Max HP at the end of a wave,100,,Win a run with Engineer,"Melee Damage, Engineering"
+Sad Tomato,Tier 3,+8 HP Regeneration Start waves with -50% HP,50,1.0,,HP Regeneration
+Saltwater(DLC),Tier 2,+2 Melee Damage +3 % Attack Speed +10 % Speed for 3 seconds when you take damage -1 Elemental Damage,50,1.0,,"Melee Damage, Attack Speed, Speed"
+Scar,Tier 1,+20 % XP Gain -8 Range,25,,,XP Gain
+Scared Sausage,Tier 1,Attacks have a 25% chance to deal 3x1 (+100%) burning damage,25,4.0,,Elemental Damage
+Scarf(DLC),Tier 3,+4 HP Regeneration +4 Melee Damage +4 % Speed +25 % Enemy Speed during the next wave,80,,Win a run with Hiker,"HP Regeneration, Melee Damage, Speed"
+Scope,Tier 2,+2 Ranged Damage +25 Range -7 % Attack Speed,48,,,"Ranged Damage, Range"
+Seashell(DLC),Tier 4,Every ranged weapon's 5th projectile has +3 projectiles -10 % Damage,100,1.0,,Ranged Damage
+Shackles,Tier 3,+8 HP Regeneration +8 Engineering +80 Range Your Speed is capped at its current value,80,1.0,,"Range, HP Regeneration, Engineering"
+Shady Potion,Tier 2,+20 Luck -2 HP Regeneration,48,,,Luck
+Sharp Bullet,Tier 1,Projectiles pierce through 1 additional target -20% Piercing Damage -5 % Damage -3 Knockback,25,1.0,,Ranged Damage
+Shmoop,Tier 3,+6 Max HP +2 HP Regeneration -2 Melee Damage -1 Ranged Damage,60,,,"Max HP, HP Regeneration"
+Sifd's Relic,Tier 4,+3 Armor +100% chance to instantly attract a material when it’s dropped,100,1.0,,"Pickup, Armor"
+Silver Bullet,Tier 3,+25% damage against bosses and elites,70,,,Damage
+Small Fish(DLC),Tier 1,+10% damage against targets above 75% health -3 % Attack Speed,18,,,Damage
+Small Magazine,Tier 2,+2 Ranged Damage +10 % Attack Speed -6 % Damage,60,,,"Ranged Damage, Attack Speed"
+Snail,Tier 2,-8 % Enemy Speed -3 % Speed,40,1.0,Win a run with Old,Less Enemy Speed
+Snake,Tier 1,Burning spreads to an additional nearby enemy -1 Max HP,25,,,Elemental Damage
+Snowball,Tier 2,+1 Elemental Damage every time you get an item that increases Elemental Damage,50,1.0,,Elemental Damage
+Spicy Sauce,Tier 2,+3 Max HP Consumables have a 50% chance to explode for 10 (+100%) damage when picked up,40,2.0,Win a run with Glutton,"Max HP, Luck, Explosive"
+Spider,Tier 4,+12 % Damage +6 % Attack Speed for every different weapon you have -3 % Dodge -5 Harvesting,110,,Win a run with Gladiator,"Damage, Attack Speed"
+Spyglass(DLC),Tier 2,+10 Range -25 % Reroll Price,30,2.0,,Range
+Starfish(DLC),Tier 3,+20% materials dropped from enemies +10 Harvesting +15 % Enemy damage,75,3.0,Win a run with Diver,Harvesting
+Statue,Tier 3,+40 % Attack Speed while standing still -10 % Speed,60,,,"Attack Speed, Stand Still"
+Strange Book,Tier 3,+1 Engineering for every permanent 1 Elemental Damage you have -1 Melee Damage -1 Ranged Damage,70,1.0,,"Engineering, Elemental Damage"
+Stone Skin,Tier 3,+1 Max HP for every permanent 1 Armor you have -6 % Attack Speed,85,1.0,Win a run with Golem,"Armor, Max HP"
+Sunglasses,Tier 2,+10 % Crit Chance -1 Armor,50,,,Crit Chance
+Sunken Bell(DLC),Tier 3,"Once per wave, you explode for 100 (+500%+500%+500%+500%) damage when you fall below 40% health",65,1.0,,Explosive
+Tardigrade,Tier 3,Nullifies the damage of one hit taken every wave,50,,,
+Tentacle,Tier 2,+3 % Crit Chance +20% chance to heal 1 HP when killing an enemy with a critical hit,35,5.0,Win a run with Lich,Crit Chance
+Terrified Onion,Tier 1,+4 % Speed -5 Luck,15,,,Speed
+Toolbox,Tier 3,+6 Engineering -8 % Attack Speed,55,,,Engineering
+Torture,Tier 4,+15 Max HP Restore 5 HP per second. Cannot heal any other way.,100,1.0,,Max HP
+Toxic Sludge,Tier 1,+2 Elemental Damage -2 % Dodge,20,,,Elemental Damage
+Tractor,Tier 3,+40 Harvesting -8 % Damage,70,,,Harvesting
+Treasure Map(DLC),Tier 2,+20% chance of finding an extra item in a crate,35,5.0,Win a run with Sailor,Luck
+Tree,Tier 1,More trees spawn,15,,,Exploration
+Triangle of Power,Tier 3,+20 % Damage +1 Armor -2 % Damage when you take damage until the end of the wave,65,,,Damage
+Turret,Tier 1,Spawns a turret that shoots bullets dealing 10 (+80%) damage,15,,,"Engineering, Structure"
+Tyler,Tier 3,Spawns a little guy that slowly shoots 10 piercing lightning projectiles around him for 10 (+75%+75%) damage each,75,,,"Engineering, Elemental Damage, Structure"
+Ugly Tooth,Tier 1,Hitting an enemy removes 5% of their speed. Max 20% -3 % Speed,25,1.0,,Less Enemy Speed
+Vigilante Ring,Tier 3,+3 % Damage at the end of a wave,92,,,Damage
+Wandering Bot,Tier 3,Spawns a little bot that slows down nearby enemies,60,,,"Less Enemy Speed, Structure"
+Warrior Helmet,Tier 3,+3 Armor +5 Max HP -5 % Speed,80,,,"Armor, Max HP"
+Weird Food,Tier 1,+2 HP recovered from consumables -2 % Dodge,20,,,Consumable
+Weird Ghost,Tier 1,+3 Max HP Start the next wave with 1 HP,12,,,Max HP
+Wheat,Tier 3,+4 Melee Damage +2 Ranged Damage +10 Harvesting -2 Elemental Damage,85,,Win a run with Farmer,"Melee Damage, Ranged Damage, Harvesting"
+Wheelbarrow,Tier 2,+16 Harvesting -1 Armor,40,,,Harvesting
+Whetstone,Tier 2,+4 % Life Steal -3 Knockback,40,,Win a run with Sick,Life Steal
+Whistle(DLC),Tier 1,+50% chance for loot aliens to appear +20% movement speed for loot aliens,25,1.0,,
+White Flag,Tier 2,+5 Harvesting -5% Enemies,40,1.0,,"Harvesting, Less Enemies"
+Will-o'-Wisp,Tier 3,+1 Elemental Damage for every 30 burning enemies you kill during a wave (max +4 per wave) -7% Attack Speed,80,,Kill 30 enemies by burning them in a single wave,Elemental Damage
+Wings,Tier 3,+10 % Speed +30 Range -2 Elemental Damage,85,,,"Speed, Range"
+Wisdom,Tier 3,+5 % Damage every 5 seconds until the end of the wave -15 % Damage,85,1.0,,Damage
+Wolf Helmet,Tier 4,+10 Elemental Damage +20 Luck -5 Engineering,90,,,"Elemental Damage, Luck"

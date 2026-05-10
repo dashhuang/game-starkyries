@@ -1,0 +1,51 @@
+[
+  {
+    "table_index": 0,
+    "section": "Danger Levels",
+    "columns": [
+      "Danger",
+      "Screenshot",
+      "Modifiers",
+      "Unlocks"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Danger": "0",
+        "Screenshot": "Danger 0  Difficulty  No modifiers",
+        "Modifiers": "No Modifiers",
+        "Unlocks": "One Armed"
+      },
+      {
+        "Danger": "1",
+        "Screenshot": "Danger 1  Difficulty  New Enemies Appear",
+        "Modifiers": "New Enemies Appear",
+        "Unlocks": "Bull"
+      },
+      {
+        "Danger": "2",
+        "Screenshot": "Danger 2  Difficulty  New Enemies Appear  Elites and hordes appear",
+        "Modifiers": "New Enemies Appear An Elite or horde appears for 1 round (round 11 or 12)",
+        "Unlocks": "Soldier"
+      },
+      {
+        "Danger": "3",
+        "Screenshot": "Danger 3  Difficulty  New Enemies Appear  Elites and hordes appear  Enemies are stronger",
+        "Modifiers": "New Enemies Appear An Elite or horde appears for 1 round (rounds 11 or 12) Enemies are stronger (Enemies deal 12% more damage and have 12% more HP)",
+        "Unlocks": "Masochist"
+      },
+      {
+        "Danger": "4",
+        "Screenshot": "Danger 4  Difficulty  New Enemies Appear  Elites and hordes appear  Enemies are stronger  More elites and hordes appear",
+        "Modifiers": "New Enemies Appear An Elite or horde appears for 3 rounds (rounds 11 to 18) Enemies are stronger (Enemies deal 26% more damage and have 26% more HP)",
+        "Unlocks": "Knight"
+      },
+      {
+        "Danger": "5",
+        "Screenshot": "Danger 5  Difficulty  New Enemies Appear  Elites and hordes appear  Enemies are stronger  More elites and hordes appear  Two bosses appear at once",
+        "Modifiers": "New Enemies Appear An Elite or horde appears for 3 rounds (rounds 11 to 18) Enemies are stronger (Enemies deal 40% more damage and have 40% more HP) Two Bosses spawn instead of one (round 20) (Bosses have -25% less HP)",
+        "Unlocks": "Demon"
+      }
+    ]
+  }
+]

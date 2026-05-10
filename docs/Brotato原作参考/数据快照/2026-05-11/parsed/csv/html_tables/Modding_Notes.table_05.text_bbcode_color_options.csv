@@ -1,0 +1,11 @@
+Code,Color,Example,Notes,Via
+[color=#00ff00]TEXT[/color],Green,TEXT,,Utils.POS_COLOR_STR
+[color=red]TEXT[/color],Red,TEXT,,Utils.NEG_COLOR_STR
+[color=white]TEXT[/color],White,TEXT,,Color.white
+[color=#555555]TEXT[/color],Grey,TEXT,,Utils.GRAY_COLOR_STR
+[color=#76FF76]TEXT[/color],Materials,TEXT,"Actually rgb(118,255,118)",Utils.GOLD_COLOR
+[color=#EAE2B0]TEXT[/color],Secondary,TEXT,"Actually rgb(234,226,176)",Utils.SECONDARY_FONT_COLOR
+[color=#C8C8C8]TEXT[/color],Tier 1,TEXT,,NA [c 1]
+[color=#4A9BD1]TEXT[/color],Tier 2,TEXT,"Actually rgb(74,155,209)",ItemService.TIER_UNCOMMON_COLOR
+[color=#AD5AFF]TEXT[/color],Tier 3,TEXT,"Actually rgb(173,90,255)",ItemService.TIER_RARE_COLOR
+[color=#FF3B3B]TEXT[/color],Tier 4,TEXT,"Actually rgb(255,59,59)",ItemService.TIER_LEGENDARY_COLOR

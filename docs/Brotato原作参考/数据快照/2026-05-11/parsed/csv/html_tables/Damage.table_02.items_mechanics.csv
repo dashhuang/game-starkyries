@@ -1,0 +1,9 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Bloody Hand,Tier 4,+10 % Life Steal +2 % Damage for every 1 % Life Steal you have You take 1 damage per second (does not give invulnerability time),110,1.0,,Life Steal
+Bone Dice(DLC),Tier 2,+50% chance to get +1 % Damage when rerolling in the shop +10% chance to get -1 Max HP when rerolling in the shop,30,2.0,,Damage
+Coil,Tier 3,+5 Knockback +1 % Damage for every 1 Knockback you have,70,3.0,,"Damage, Knockback"
+Pearl(DLC),Tier 2,+1 % Damage for every permanent 10 Luck you have +3% chance of finding an extra Pearl in a crate,60,20.0,Win a run with Curious,Luck
+Power Generator,Tier 3,+1 % Damage for every permanent 1 % Speed you have -5 % Damage,65,1.0,,"Speed, Damage"
+Triangle of Power,Tier 3,+20 % Damage +1 Armor -2 % Damage when you take damage until the end of the wave,65,,,Damage
+Vigilante Ring,Tier 3,+3 % Damage at the end of a wave,92,,,Damage
+Wisdom,Tier 3,+5 % Damage every 5 seconds until the end of the wave -15 % Damage,85,1.0,,Damage

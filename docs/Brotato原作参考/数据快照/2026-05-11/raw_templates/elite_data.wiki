@@ -1,0 +1,77 @@
+<includeonly>{{#switch:{{lc:{{{1|}}}}}
+|rhino= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">1</span> HP<br><span style="color:rgb(0,255,0);">+750</span> +HP per wave<br><span style="color:rgb(0,255,0);">+250</span> Speed<br><span style="color:rgb(0,255,0);">1</span> Damage<br><span style="color:rgb(0,255,0);">1.5</span> +Damage per wave<br><span style="color:rgb(0,255,0);">Starting waves</span> Elite Waves (round 11-18)<br>
+	|minimumdanger=<span style="color:rgb(0,255,0);">2</span>
+	|reward=<span style="color:rgb(255,0,0);">Legendary [[Items|Item]]</span><br><span style="color:rgb(0,255,0);">10</span> Coins Dropped
+	|#default=-
+}}
+|butcher= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">1</span> HP<br><span style="color:rgb(0,255,0);">+750</span> +HP per wave<br><span style="color:rgb(0,255,0);">+200</span> Speed<br><span style="color:rgb(0,255,0);">1</span> Damage<br><span style="color:rgb(0,255,0);">1.5</span> +Damage per wave<br><span style="color:rgb(0,255,0);">10</span>Coins Dropped<br><span style="color:rgb(0,255,0);">Starting waves</span> Elite Waves (round 11-18)<br>
+	|minimumdanger=[[Dangers]] 2
+	|reward=<span style="color:rgb(255,0,0);">Legendary [[Items|Item]]</span><br><span style="color:rgb(0,255,0);">10</span> Coins Dropped
+	|#default=-
+}}
+|monk= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">1</span> HP<br><span style="color:rgb(0,255,0);">+700</span> +HP per wave<br><span style="color:rgb(0,255,0);">+350</span> Speed<br><span style="color:rgb(0,255,0);">1</span> Damage<br><span style="color:rgb(0,255,0);">1.5</span> +Damage per wave<br><span style="color:rgb(0,255,0);">10</span> Coins Dropped<br><span style="color:rgb(0,255,0);">Starting waves</span> Elite Waves (round 11-18)<br>
+	|minimumdanger=[[Dangers]] 2
+	|reward=<span style="color:rgb(255,0,0);">Legendary [[Items|Item]]</span><br><span style="color:rgb(0,255,0);">10</span> Coins Dropped
+	|#default=-
+}}
+|croc= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">1</span> HP<br><span style="color:rgb(0,255,0);">+750</span> +HP per wave<br><span style="color:rgb(0,255,0);">+350</span> Speed<br><span style="color:rgb(0,255,0);">1</span> Damage<br><span style="color:rgb(0,255,0);">1.5</span> +Damage per wave<br><span style="color:rgb(0,255,0);">10</span> Coins Dropped<br><span style="color:rgb(0,255,0);">Starting waves</span> Elite Waves (round 11-18)<br>
+	|minimumdanger=[[Dangers]] 2
+	|reward=<span style="color:rgb(255,0,0);">Legendary [[Items|Item]]</span><br><span style="color:rgb(0,255,0);">10</span> Coins Dropped
+	|#default=-
+}}
+|colossus= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">1</span> HP<br><span style="color:rgb(0,255,0);">+750</span> +HP per wave<br><span style="color:rgb(0,255,0);">+300</span> Speed<br><span style="color:rgb(0,255,0);">1</span> Damage<br><span style="color:rgb(0,255,0);">1.5</span> +Damage per wave<br><span style="color:rgb(0,255,0);">10</span> Coins Dropped<br><span style="color:rgb(0,255,0);">Starting waves</span> Elite Waves (round 11-18)<br>
+	|minimumdanger=[[Dangers]] 2
+	|reward=<span style="color:rgb(255,0,0);">Legendary [[Items|Item]]</span><br><span style="color:rgb(0,255,0);">10</span> Coins Dropped
+	|#default=-
+}}
+|mantis= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">1</span> HP<br><span style="color:rgb(0,255,0);">+750</span> +HP per wave<br><span style="color:rgb(0,255,0);">+250</span> Speed<br><span style="color:rgb(0,255,0);">1</span> Damage<br><span style="color:rgb(0,255,0);">1.5</span> +Damage per wave<br><span style="color:rgb(0,255,0);">10</span> Coins Dropped<br><span style="color:rgb(0,255,0);">Starting waves</span> Elite Waves (round 11-18)<br>
+	|minimumdanger=[[Dangers]] 2
+	|reward=<span style="color:rgb(255,0,0);">Legendary [[Items|Item]]</span><br><span style="color:rgb(0,255,0);">10</span> Coins Dropped
+	|#default=-
+}}
+|mother= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">1</span> HP<br><span style="color:rgb(0,255,0);">+750</span> +HP per wave<br><span style="color:rgb(0,255,0);">+250</span> Speed<br><span style="color:rgb(0,255,0);">1</span> Damage<br><span style="color:rgb(0,255,0);">1.5</span> +Damage per wave<br><span style="color:rgb(0,255,0);">10</span> Coins Dropped<br><span style="color:rgb(0,255,0);">Starting waves</span> Elite Waves (round 11-18)<br>
+	|minimumdanger=[[Dangers]] 2
+	|reward=<span style="color:rgb(255,0,0);">Legendary [[Items|Item]]</span><br><span style="color:rgb(0,255,0);">10</span> Coins Dropped
+	|#default=-
+}}
+|gargoyle= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">1</span> HP<br><span style="color:rgb(0,255,0);">+750</span> +HP per wave<br><span style="color:rgb(0,255,0);">+350</span> Speed<br><span style="color:rgb(0,255,0);">1</span> Damage<br><span style="color:rgb(0,255,0);">1.5</span> +Damage per wave<br><span style="color:rgb(0,255,0);">10</span> Coins Dropped<br><span style="color:rgb(0,255,0);">Starting waves</span> Elite Waves (round 11-18)<br>
+	|minimumdanger=[[Dangers]] 2
+	|reward=<span style="color:rgb(255,0,0);">Legendary [[Items|Item]]</span><br><span style="color:rgb(0,255,0);">10</span> Coins Dropped
+	|#default=-
+}}
+|#default=Elite name not found}}</includeonly><noinclude>
+Usage:
+<pre>
+{{Elite Data
+|any Elite name
+|select one of these to output corresponding information (stats/minimumdanger/reward)
+}}
+</pre>
+
+Example:
+<pre>
+{{Elite Data|Rhino|stats}}
+</pre>
+{{Character Data|Rhino|stats}}
+
+
+Example:
+<pre>
+{{Elite Data
+|Rhino
+|stats
+}}
+</pre>
+{{Elite Data
+|Rhino
+|stats
+}}
+</noinclude>

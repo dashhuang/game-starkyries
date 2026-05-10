@@ -1,0 +1,17 @@
+Stats,Misc
+stat_armor,economy
+stat_attack_speed,exploration
+stat_crit_chance,explosive
+stat_dodge,less_enemies
+stat_elemental_damage,less_enemy_speed
+stat_engineering,more_enemies
+stat_harvesting,pickup
+stat_hp_regeneration,saving
+stat_lifesteal,stand_still
+stat_luck,xp_gain
+stat_max_hp,
+stat_melee_damage,
+stat_percent_damage,
+stat_range,
+stat_ranged_damage,
+stat_speed,

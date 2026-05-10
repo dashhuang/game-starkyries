@@ -1,0 +1,4 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Snail,Tier 2,-8 % Enemy Speed -3 % Speed,40,1.0,Win a run with Old,Less Enemy Speed
+Ugly Tooth,Tier 1,Hitting an enemy removes 5% of their speed. Max 20% -3 % Speed,25,1.0,,Less Enemy Speed
+Wandering Bot,Tier 3,Spawns a little bot that slows down nearby enemies,60,,,"Less Enemy Speed, Structure"

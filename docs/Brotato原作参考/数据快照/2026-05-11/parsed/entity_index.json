@@ -1,0 +1,2330 @@
+[
+  {
+    "kind": "character",
+    "id": "well rounded",
+    "name": "Well Rounded",
+    "url": "https://brotato.wiki.spellsandguns.com/Well_Rounded"
+  },
+  {
+    "kind": "character",
+    "id": "brawler",
+    "name": "Brawler",
+    "url": "https://brotato.wiki.spellsandguns.com/Brawler"
+  },
+  {
+    "kind": "character",
+    "id": "crazy",
+    "name": "Crazy",
+    "url": "https://brotato.wiki.spellsandguns.com/Crazy"
+  },
+  {
+    "kind": "character",
+    "id": "ranger",
+    "name": "Ranger",
+    "url": "https://brotato.wiki.spellsandguns.com/Ranger"
+  },
+  {
+    "kind": "character",
+    "id": "mage",
+    "name": "Mage",
+    "url": "https://brotato.wiki.spellsandguns.com/Mage"
+  },
+  {
+    "kind": "character",
+    "id": "chunky",
+    "name": "Chunky",
+    "url": "https://brotato.wiki.spellsandguns.com/Chunky"
+  },
+  {
+    "kind": "character",
+    "id": "old",
+    "name": "Old",
+    "url": "https://brotato.wiki.spellsandguns.com/Old"
+  },
+  {
+    "kind": "character",
+    "id": "lucky",
+    "name": "Lucky",
+    "url": "https://brotato.wiki.spellsandguns.com/Lucky"
+  },
+  {
+    "kind": "character",
+    "id": "mutant",
+    "name": "Mutant",
+    "url": "https://brotato.wiki.spellsandguns.com/Mutant"
+  },
+  {
+    "kind": "character",
+    "id": "generalist",
+    "name": "Generalist",
+    "url": "https://brotato.wiki.spellsandguns.com/Generalist"
+  },
+  {
+    "kind": "character",
+    "id": "loud",
+    "name": "Loud",
+    "url": "https://brotato.wiki.spellsandguns.com/Loud"
+  },
+  {
+    "kind": "character",
+    "id": "multitasker",
+    "name": "Multitasker",
+    "url": "https://brotato.wiki.spellsandguns.com/Multitasker"
+  },
+  {
+    "kind": "character",
+    "id": "wildling",
+    "name": "Wildling",
+    "url": "https://brotato.wiki.spellsandguns.com/Wildling"
+  },
+  {
+    "kind": "character",
+    "id": "pacifist",
+    "name": "Pacifist",
+    "url": "https://brotato.wiki.spellsandguns.com/Pacifist"
+  },
+  {
+    "kind": "character",
+    "id": "gladiator",
+    "name": "Gladiator",
+    "url": "https://brotato.wiki.spellsandguns.com/Gladiator"
+  },
+  {
+    "kind": "character",
+    "id": "saver",
+    "name": "Saver",
+    "url": "https://brotato.wiki.spellsandguns.com/Saver"
+  },
+  {
+    "kind": "character",
+    "id": "sick",
+    "name": "Sick",
+    "url": "https://brotato.wiki.spellsandguns.com/Sick"
+  },
+  {
+    "kind": "character",
+    "id": "farmer",
+    "name": "Farmer",
+    "url": "https://brotato.wiki.spellsandguns.com/Farmer"
+  },
+  {
+    "kind": "character",
+    "id": "ghost",
+    "name": "Ghost",
+    "url": "https://brotato.wiki.spellsandguns.com/Ghost"
+  },
+  {
+    "kind": "character",
+    "id": "speedy",
+    "name": "Speedy",
+    "url": "https://brotato.wiki.spellsandguns.com/Speedy"
+  },
+  {
+    "kind": "character",
+    "id": "entrepreneur",
+    "name": "Entrepreneur",
+    "url": "https://brotato.wiki.spellsandguns.com/Entrepreneur"
+  },
+  {
+    "kind": "character",
+    "id": "engineer",
+    "name": "Engineer",
+    "url": "https://brotato.wiki.spellsandguns.com/Engineer"
+  },
+  {
+    "kind": "character",
+    "id": "explorer",
+    "name": "Explorer",
+    "url": "https://brotato.wiki.spellsandguns.com/Explorer"
+  },
+  {
+    "kind": "character",
+    "id": "doctor",
+    "name": "Doctor",
+    "url": "https://brotato.wiki.spellsandguns.com/Doctor"
+  },
+  {
+    "kind": "character",
+    "id": "hunter",
+    "name": "Hunter",
+    "url": "https://brotato.wiki.spellsandguns.com/Hunter"
+  },
+  {
+    "kind": "character",
+    "id": "artificer",
+    "name": "Artificer",
+    "url": "https://brotato.wiki.spellsandguns.com/Artificer"
+  },
+  {
+    "kind": "character",
+    "id": "arms dealer",
+    "name": "Arms Dealer",
+    "url": "https://brotato.wiki.spellsandguns.com/Arms_Dealer"
+  },
+  {
+    "kind": "character",
+    "id": "streamer",
+    "name": "Streamer",
+    "url": "https://brotato.wiki.spellsandguns.com/Streamer"
+  },
+  {
+    "kind": "character",
+    "id": "cyborg",
+    "name": "Cyborg",
+    "url": "https://brotato.wiki.spellsandguns.com/Cyborg"
+  },
+  {
+    "kind": "character",
+    "id": "glutton",
+    "name": "Glutton",
+    "url": "https://brotato.wiki.spellsandguns.com/Glutton"
+  },
+  {
+    "kind": "character",
+    "id": "jack",
+    "name": "Jack",
+    "url": "https://brotato.wiki.spellsandguns.com/Jack"
+  },
+  {
+    "kind": "character",
+    "id": "lich",
+    "name": "Lich",
+    "url": "https://brotato.wiki.spellsandguns.com/Lich"
+  },
+  {
+    "kind": "character",
+    "id": "apprentice",
+    "name": "Apprentice",
+    "url": "https://brotato.wiki.spellsandguns.com/Apprentice"
+  },
+  {
+    "kind": "character",
+    "id": "cryptid",
+    "name": "Cryptid",
+    "url": "https://brotato.wiki.spellsandguns.com/Cryptid"
+  },
+  {
+    "kind": "character",
+    "id": "fisherman",
+    "name": "Fisherman",
+    "url": "https://brotato.wiki.spellsandguns.com/Fisherman"
+  },
+  {
+    "kind": "character",
+    "id": "golem",
+    "name": "Golem",
+    "url": "https://brotato.wiki.spellsandguns.com/Golem"
+  },
+  {
+    "kind": "character",
+    "id": "king",
+    "name": "King",
+    "url": "https://brotato.wiki.spellsandguns.com/King"
+  },
+  {
+    "kind": "character",
+    "id": "renegade",
+    "name": "Renegade",
+    "url": "https://brotato.wiki.spellsandguns.com/Renegade"
+  },
+  {
+    "kind": "character",
+    "id": "one armed",
+    "name": "One Armed",
+    "url": "https://brotato.wiki.spellsandguns.com/One_Armed"
+  },
+  {
+    "kind": "character",
+    "id": "bull",
+    "name": "Bull",
+    "url": "https://brotato.wiki.spellsandguns.com/Bull"
+  },
+  {
+    "kind": "character",
+    "id": "soldier",
+    "name": "Soldier",
+    "url": "https://brotato.wiki.spellsandguns.com/Soldier"
+  },
+  {
+    "kind": "character",
+    "id": "masochist",
+    "name": "Masochist",
+    "url": "https://brotato.wiki.spellsandguns.com/Masochist"
+  },
+  {
+    "kind": "character",
+    "id": "knight",
+    "name": "Knight",
+    "url": "https://brotato.wiki.spellsandguns.com/Knight"
+  },
+  {
+    "kind": "character",
+    "id": "demon",
+    "name": "Demon",
+    "url": "https://brotato.wiki.spellsandguns.com/Demon"
+  },
+  {
+    "kind": "character",
+    "id": "baby",
+    "name": "Baby",
+    "url": "https://brotato.wiki.spellsandguns.com/Baby"
+  },
+  {
+    "kind": "character",
+    "id": "vagabond",
+    "name": "Vagabond",
+    "url": "https://brotato.wiki.spellsandguns.com/Vagabond"
+  },
+  {
+    "kind": "character",
+    "id": "technomage",
+    "name": "Technomage",
+    "url": "https://brotato.wiki.spellsandguns.com/Technomage"
+  },
+  {
+    "kind": "character",
+    "id": "vampire",
+    "name": "Vampire",
+    "url": "https://brotato.wiki.spellsandguns.com/Vampire"
+  },
+  {
+    "kind": "character",
+    "id": "sailor",
+    "name": "Sailor",
+    "url": "https://brotato.wiki.spellsandguns.com/Sailor"
+  },
+  {
+    "kind": "character",
+    "id": "curious",
+    "name": "Curious",
+    "url": "https://brotato.wiki.spellsandguns.com/Curious"
+  },
+  {
+    "kind": "character",
+    "id": "builder",
+    "name": "Builder",
+    "url": "https://brotato.wiki.spellsandguns.com/Builder"
+  },
+  {
+    "kind": "character",
+    "id": "captain",
+    "name": "Captain",
+    "url": "https://brotato.wiki.spellsandguns.com/Captain"
+  },
+  {
+    "kind": "character",
+    "id": "creature",
+    "name": "Creature",
+    "url": "https://brotato.wiki.spellsandguns.com/Creature"
+  },
+  {
+    "kind": "character",
+    "id": "chef",
+    "name": "Chef",
+    "url": "https://brotato.wiki.spellsandguns.com/Chef"
+  },
+  {
+    "kind": "character",
+    "id": "druid",
+    "name": "Druid",
+    "url": "https://brotato.wiki.spellsandguns.com/Druid"
+  },
+  {
+    "kind": "character",
+    "id": "dwarf",
+    "name": "Dwarf",
+    "url": "https://brotato.wiki.spellsandguns.com/Dwarf"
+  },
+  {
+    "kind": "character",
+    "id": "gangster",
+    "name": "Gangster",
+    "url": "https://brotato.wiki.spellsandguns.com/Gangster"
+  },
+  {
+    "kind": "character",
+    "id": "diver",
+    "name": "Diver",
+    "url": "https://brotato.wiki.spellsandguns.com/Diver"
+  },
+  {
+    "kind": "character",
+    "id": "hiker",
+    "name": "Hiker",
+    "url": "https://brotato.wiki.spellsandguns.com/Hiker"
+  },
+  {
+    "kind": "character",
+    "id": "buccaneer",
+    "name": "Buccaneer",
+    "url": "https://brotato.wiki.spellsandguns.com/Buccaneer"
+  },
+  {
+    "kind": "character",
+    "id": "ogre",
+    "name": "Ogre",
+    "url": "https://brotato.wiki.spellsandguns.com/Ogre"
+  },
+  {
+    "kind": "character",
+    "id": "romantic",
+    "name": "Romantic",
+    "url": "https://brotato.wiki.spellsandguns.com/Romantic"
+  },
+  {
+    "kind": "weapon",
+    "id": "cacti club",
+    "name": "Cacti Club",
+    "url": "https://brotato.wiki.spellsandguns.com/Cacti_Club"
+  },
+  {
+    "kind": "weapon",
+    "id": "chopper",
+    "name": "Chopper",
+    "url": "https://brotato.wiki.spellsandguns.com/Chopper"
+  },
+  {
+    "kind": "weapon",
+    "id": "circular saw",
+    "name": "Circular Saw",
+    "url": "https://brotato.wiki.spellsandguns.com/Circular_Saw"
+  },
+  {
+    "kind": "weapon",
+    "id": "claw",
+    "name": "Claw",
+    "url": "https://brotato.wiki.spellsandguns.com/Claw"
+  },
+  {
+    "kind": "weapon",
+    "id": "drill",
+    "name": "Drill",
+    "url": "https://brotato.wiki.spellsandguns.com/Drill"
+  },
+  {
+    "kind": "weapon",
+    "id": "excalibur",
+    "name": "Excalibur",
+    "url": "https://brotato.wiki.spellsandguns.com/Excalibur"
+  },
+  {
+    "kind": "weapon",
+    "id": "quarterstaff",
+    "name": "Quarterstaff",
+    "url": "https://brotato.wiki.spellsandguns.com/Quarterstaff"
+  },
+  {
+    "kind": "weapon",
+    "id": "fist",
+    "name": "Fist",
+    "url": "https://brotato.wiki.spellsandguns.com/Fist"
+  },
+  {
+    "kind": "weapon",
+    "id": "flaming brass knuckles",
+    "name": "Flaming Brass Knuckles",
+    "url": "https://brotato.wiki.spellsandguns.com/Flaming_Brass_Knuckles"
+  },
+  {
+    "kind": "weapon",
+    "id": "ghost axe",
+    "name": "Ghost Axe",
+    "url": "https://brotato.wiki.spellsandguns.com/Ghost_Axe"
+  },
+  {
+    "kind": "weapon",
+    "id": "ghost flint",
+    "name": "Ghost Flint",
+    "url": "https://brotato.wiki.spellsandguns.com/Ghost_Flint"
+  },
+  {
+    "kind": "weapon",
+    "id": "hammer",
+    "name": "Hammer",
+    "url": "https://brotato.wiki.spellsandguns.com/Hammer"
+  },
+  {
+    "kind": "weapon",
+    "id": "hand",
+    "name": "Hand",
+    "url": "https://brotato.wiki.spellsandguns.com/Hand"
+  },
+  {
+    "kind": "weapon",
+    "id": "hatchet",
+    "name": "Hatchet",
+    "url": "https://brotato.wiki.spellsandguns.com/Hatchet"
+  },
+  {
+    "kind": "weapon",
+    "id": "jousting lance",
+    "name": "Jousting Lance",
+    "url": "https://brotato.wiki.spellsandguns.com/Jousting_Lance"
+  },
+  {
+    "kind": "weapon",
+    "id": "knife",
+    "name": "Knife",
+    "url": "https://brotato.wiki.spellsandguns.com/Knife"
+  },
+  {
+    "kind": "weapon",
+    "id": "lightning shiv",
+    "name": "Lightning Shiv",
+    "url": "https://brotato.wiki.spellsandguns.com/Lightning_Shiv"
+  },
+  {
+    "kind": "weapon",
+    "id": "plank",
+    "name": "Plank",
+    "url": "https://brotato.wiki.spellsandguns.com/Plank"
+  },
+  {
+    "kind": "weapon",
+    "id": "plasma sledge",
+    "name": "Plasma Sledge",
+    "url": "https://brotato.wiki.spellsandguns.com/Plasma_Sledge"
+  },
+  {
+    "kind": "weapon",
+    "id": "power fist",
+    "name": "Power Fist",
+    "url": "https://brotato.wiki.spellsandguns.com/Power_Fist"
+  },
+  {
+    "kind": "weapon",
+    "id": "pruner",
+    "name": "Pruner",
+    "url": "https://brotato.wiki.spellsandguns.com/Pruner"
+  },
+  {
+    "kind": "weapon",
+    "id": "rock",
+    "name": "Rock",
+    "url": "https://brotato.wiki.spellsandguns.com/Rock"
+  },
+  {
+    "kind": "weapon",
+    "id": "scissors",
+    "name": "Scissors",
+    "url": "https://brotato.wiki.spellsandguns.com/Scissors"
+  },
+  {
+    "kind": "weapon",
+    "id": "screwdriver",
+    "name": "Screwdriver",
+    "url": "https://brotato.wiki.spellsandguns.com/Screwdriver"
+  },
+  {
+    "kind": "weapon",
+    "id": "scythe",
+    "name": "Scythe",
+    "url": "https://brotato.wiki.spellsandguns.com/Scythe"
+  },
+  {
+    "kind": "weapon",
+    "id": "spear",
+    "name": "Spear",
+    "url": "https://brotato.wiki.spellsandguns.com/Spear"
+  },
+  {
+    "kind": "weapon",
+    "id": "spiky shield",
+    "name": "Spiky Shield",
+    "url": "https://brotato.wiki.spellsandguns.com/Spiky_Shield"
+  },
+  {
+    "kind": "weapon",
+    "id": "stick",
+    "name": "Stick",
+    "url": "https://brotato.wiki.spellsandguns.com/Stick"
+  },
+  {
+    "kind": "weapon",
+    "id": "sword",
+    "name": "Sword",
+    "url": "https://brotato.wiki.spellsandguns.com/Sword"
+  },
+  {
+    "kind": "weapon",
+    "id": "thief dagger",
+    "name": "Thief Dagger",
+    "url": "https://brotato.wiki.spellsandguns.com/Thief_Dagger"
+  },
+  {
+    "kind": "weapon",
+    "id": "thunder sword",
+    "name": "Thunder Sword",
+    "url": "https://brotato.wiki.spellsandguns.com/Thunder_Sword"
+  },
+  {
+    "kind": "weapon",
+    "id": "torch",
+    "name": "Torch",
+    "url": "https://brotato.wiki.spellsandguns.com/Torch"
+  },
+  {
+    "kind": "weapon",
+    "id": "wrench",
+    "name": "Wrench",
+    "url": "https://brotato.wiki.spellsandguns.com/Wrench"
+  },
+  {
+    "kind": "weapon",
+    "id": "chain gun",
+    "name": "Chain Gun",
+    "url": "https://brotato.wiki.spellsandguns.com/Chain_Gun"
+  },
+  {
+    "kind": "weapon",
+    "id": "crossbow",
+    "name": "Crossbow",
+    "url": "https://brotato.wiki.spellsandguns.com/Crossbow"
+  },
+  {
+    "kind": "weapon",
+    "id": "double barrel shotgun",
+    "name": "Double Barrel Shotgun",
+    "url": "https://brotato.wiki.spellsandguns.com/Double_Barrel_Shotgun"
+  },
+  {
+    "kind": "weapon",
+    "id": "flamethrower",
+    "name": "Flamethrower",
+    "url": "https://brotato.wiki.spellsandguns.com/Flamethrower"
+  },
+  {
+    "kind": "weapon",
+    "id": "gatling laser",
+    "name": "Gatling Laser",
+    "url": "https://brotato.wiki.spellsandguns.com/Gatling_Laser"
+  },
+  {
+    "kind": "weapon",
+    "id": "ghost scepter",
+    "name": "Ghost Scepter",
+    "url": "https://brotato.wiki.spellsandguns.com/Ghost_Scepter"
+  },
+  {
+    "kind": "weapon",
+    "id": "laser gun",
+    "name": "Laser Gun",
+    "url": "https://brotato.wiki.spellsandguns.com/Laser_Gun"
+  },
+  {
+    "kind": "weapon",
+    "id": "medical gun",
+    "name": "Medical Gun",
+    "url": "https://brotato.wiki.spellsandguns.com/Medical_Gun"
+  },
+  {
+    "kind": "weapon",
+    "id": "minigun",
+    "name": "Minigun",
+    "url": "https://brotato.wiki.spellsandguns.com/Minigun"
+  },
+  {
+    "kind": "weapon",
+    "id": "nuclear launcher",
+    "name": "Nuclear Launcher",
+    "url": "https://brotato.wiki.spellsandguns.com/Nuclear_Launcher"
+  },
+  {
+    "kind": "weapon",
+    "id": "obliterator",
+    "name": "Obliterator",
+    "url": "https://brotato.wiki.spellsandguns.com/Obliterator"
+  },
+  {
+    "kind": "weapon",
+    "id": "pistol",
+    "name": "Pistol",
+    "url": "https://brotato.wiki.spellsandguns.com/Pistol"
+  },
+  {
+    "kind": "weapon",
+    "id": "potato thrower",
+    "name": "Potato Thrower",
+    "url": "https://brotato.wiki.spellsandguns.com/Potato_Thrower"
+  },
+  {
+    "kind": "weapon",
+    "id": "revolver",
+    "name": "Revolver",
+    "url": "https://brotato.wiki.spellsandguns.com/Revolver"
+  },
+  {
+    "kind": "weapon",
+    "id": "rocket launcher",
+    "name": "Rocket Launcher",
+    "url": "https://brotato.wiki.spellsandguns.com/Rocket_Launcher"
+  },
+  {
+    "kind": "weapon",
+    "id": "shredder",
+    "name": "Shredder",
+    "url": "https://brotato.wiki.spellsandguns.com/Shredder"
+  },
+  {
+    "kind": "weapon",
+    "id": "shuriken",
+    "name": "Shuriken",
+    "url": "https://brotato.wiki.spellsandguns.com/Shuriken"
+  },
+  {
+    "kind": "weapon",
+    "id": "slingshot",
+    "name": "Slingshot",
+    "url": "https://brotato.wiki.spellsandguns.com/Slingshot"
+  },
+  {
+    "kind": "weapon",
+    "id": "smg",
+    "name": "Smg",
+    "url": "https://brotato.wiki.spellsandguns.com/Smg"
+  },
+  {
+    "kind": "weapon",
+    "id": "sniper gun",
+    "name": "Sniper Gun",
+    "url": "https://brotato.wiki.spellsandguns.com/Sniper_Gun"
+  },
+  {
+    "kind": "weapon",
+    "id": "taser",
+    "name": "Taser",
+    "url": "https://brotato.wiki.spellsandguns.com/Taser"
+  },
+  {
+    "kind": "weapon",
+    "id": "wand",
+    "name": "Wand",
+    "url": "https://brotato.wiki.spellsandguns.com/Wand"
+  },
+  {
+    "kind": "weapon",
+    "id": "anchor",
+    "name": "Anchor",
+    "url": "https://brotato.wiki.spellsandguns.com/Anchor"
+  },
+  {
+    "kind": "weapon",
+    "id": "blunderbuss",
+    "name": "Blunderbuss",
+    "url": "https://brotato.wiki.spellsandguns.com/Blunderbuss"
+  },
+  {
+    "kind": "weapon",
+    "id": "brick",
+    "name": "Brick",
+    "url": "https://brotato.wiki.spellsandguns.com/Brick"
+  },
+  {
+    "kind": "weapon",
+    "id": "captain’s sword",
+    "name": "Captain’s Sword",
+    "url": "https://brotato.wiki.spellsandguns.com/Captain%E2%80%99s_Sword"
+  },
+  {
+    "kind": "weapon",
+    "id": "chainsaw",
+    "name": "Chainsaw",
+    "url": "https://brotato.wiki.spellsandguns.com/Chainsaw"
+  },
+  {
+    "kind": "weapon",
+    "id": "dex-troyer",
+    "name": "Dex-troyer",
+    "url": "https://brotato.wiki.spellsandguns.com/Dex-troyer"
+  },
+  {
+    "kind": "weapon",
+    "id": "fireball",
+    "name": "Fireball",
+    "url": "https://brotato.wiki.spellsandguns.com/Fireball"
+  },
+  {
+    "kind": "weapon",
+    "id": "flute",
+    "name": "Flute",
+    "url": "https://brotato.wiki.spellsandguns.com/Flute"
+  },
+  {
+    "kind": "weapon",
+    "id": "grenade launcher",
+    "name": "Grenade Launcher",
+    "url": "https://brotato.wiki.spellsandguns.com/Grenade_Launcher"
+  },
+  {
+    "kind": "weapon",
+    "id": "harpoon gun",
+    "name": "Harpoon Gun",
+    "url": "https://brotato.wiki.spellsandguns.com/Harpoon_Gun"
+  },
+  {
+    "kind": "weapon",
+    "id": "hiking pole",
+    "name": "Hiking Pole",
+    "url": "https://brotato.wiki.spellsandguns.com/Hiking_Pole"
+  },
+  {
+    "kind": "weapon",
+    "id": "icicle",
+    "name": "Icicle",
+    "url": "https://brotato.wiki.spellsandguns.com/Icicle"
+  },
+  {
+    "kind": "weapon",
+    "id": "javelin",
+    "name": "Javelin",
+    "url": "https://brotato.wiki.spellsandguns.com/Javelin"
+  },
+  {
+    "kind": "weapon",
+    "id": "lute",
+    "name": "Lute",
+    "url": "https://brotato.wiki.spellsandguns.com/Lute"
+  },
+  {
+    "kind": "weapon",
+    "id": "mace",
+    "name": "Mace",
+    "url": "https://brotato.wiki.spellsandguns.com/Mace"
+  },
+  {
+    "kind": "weapon",
+    "id": "particle accelerator",
+    "name": "Particle Accelerator",
+    "url": "https://brotato.wiki.spellsandguns.com/Particle_Accelerator"
+  },
+  {
+    "kind": "weapon",
+    "id": "sharp tooth",
+    "name": "Sharp Tooth",
+    "url": "https://brotato.wiki.spellsandguns.com/Sharp_Tooth"
+  },
+  {
+    "kind": "weapon",
+    "id": "sickle",
+    "name": "Sickle",
+    "url": "https://brotato.wiki.spellsandguns.com/Sickle"
+  },
+  {
+    "kind": "weapon",
+    "id": "spoon",
+    "name": "Spoon",
+    "url": "https://brotato.wiki.spellsandguns.com/Spoon"
+  },
+  {
+    "kind": "weapon",
+    "id": "trident",
+    "name": "Trident",
+    "url": "https://brotato.wiki.spellsandguns.com/Trident"
+  },
+  {
+    "kind": "weapon",
+    "id": "vorpal sword",
+    "name": "Vorpal Sword",
+    "url": "https://brotato.wiki.spellsandguns.com/Vorpal_Sword"
+  },
+  {
+    "kind": "weapon",
+    "id": "war hammer",
+    "name": "War Hammer",
+    "url": "https://brotato.wiki.spellsandguns.com/War_Hammer"
+  },
+  {
+    "kind": "item",
+    "id": "acid",
+    "name": "Acid",
+    "url": "https://brotato.wiki.spellsandguns.com/Acid"
+  },
+  {
+    "kind": "item",
+    "id": "adrenaline",
+    "name": "Adrenaline",
+    "url": "https://brotato.wiki.spellsandguns.com/Adrenaline"
+  },
+  {
+    "kind": "item",
+    "id": "alien baby",
+    "name": "Alien Baby",
+    "url": "https://brotato.wiki.spellsandguns.com/Alien_Baby"
+  },
+  {
+    "kind": "item",
+    "id": "alien eyes",
+    "name": "Alien Eyes",
+    "url": "https://brotato.wiki.spellsandguns.com/Alien_Eyes"
+  },
+  {
+    "kind": "item",
+    "id": "alien magic",
+    "name": "Alien Magic",
+    "url": "https://brotato.wiki.spellsandguns.com/Alien_Magic"
+  },
+  {
+    "kind": "item",
+    "id": "alien tongue",
+    "name": "Alien Tongue",
+    "url": "https://brotato.wiki.spellsandguns.com/Alien_Tongue"
+  },
+  {
+    "kind": "item",
+    "id": "alien worm",
+    "name": "Alien Worm",
+    "url": "https://brotato.wiki.spellsandguns.com/Alien_Worm"
+  },
+  {
+    "kind": "item",
+    "id": "alloy",
+    "name": "Alloy",
+    "url": "https://brotato.wiki.spellsandguns.com/Alloy"
+  },
+  {
+    "kind": "item",
+    "id": "anvil",
+    "name": "Anvil",
+    "url": "https://brotato.wiki.spellsandguns.com/Anvil"
+  },
+  {
+    "kind": "item",
+    "id": "ashes",
+    "name": "Ashes",
+    "url": "https://brotato.wiki.spellsandguns.com/Ashes"
+  },
+  {
+    "kind": "item",
+    "id": "axolotl",
+    "name": "Axolotl",
+    "url": "https://brotato.wiki.spellsandguns.com/Axolotl"
+  },
+  {
+    "kind": "item",
+    "id": "baby elephant",
+    "name": "Baby Elephant",
+    "url": "https://brotato.wiki.spellsandguns.com/Baby_Elephant"
+  },
+  {
+    "kind": "item",
+    "id": "baby gecko",
+    "name": "Baby Gecko",
+    "url": "https://brotato.wiki.spellsandguns.com/Baby_Gecko"
+  },
+  {
+    "kind": "item",
+    "id": "baby squid",
+    "name": "Baby Squid",
+    "url": "https://brotato.wiki.spellsandguns.com/Baby_Squid"
+  },
+  {
+    "kind": "item",
+    "id": "baby with a beard",
+    "name": "Baby With A Beard",
+    "url": "https://brotato.wiki.spellsandguns.com/Baby_With_A_Beard"
+  },
+  {
+    "kind": "item",
+    "id": "bag",
+    "name": "Bag",
+    "url": "https://brotato.wiki.spellsandguns.com/Bag"
+  },
+  {
+    "kind": "item",
+    "id": "bait",
+    "name": "Bait",
+    "url": "https://brotato.wiki.spellsandguns.com/Bait"
+  },
+  {
+    "kind": "item",
+    "id": "ball and chain",
+    "name": "Ball And Chain",
+    "url": "https://brotato.wiki.spellsandguns.com/Ball_And_Chain"
+  },
+  {
+    "kind": "item",
+    "id": "bandana",
+    "name": "Bandana",
+    "url": "https://brotato.wiki.spellsandguns.com/Bandana"
+  },
+  {
+    "kind": "item",
+    "id": "ban system",
+    "name": "Ban System",
+    "url": "https://brotato.wiki.spellsandguns.com/Ban_System"
+  },
+  {
+    "kind": "item",
+    "id": "banner",
+    "name": "Banner",
+    "url": "https://brotato.wiki.spellsandguns.com/Banner"
+  },
+  {
+    "kind": "item",
+    "id": "barnacle",
+    "name": "Barnacle",
+    "url": "https://brotato.wiki.spellsandguns.com/Barnacle"
+  },
+  {
+    "kind": "item",
+    "id": "barricade",
+    "name": "Barricade",
+    "url": "https://brotato.wiki.spellsandguns.com/Barricade"
+  },
+  {
+    "kind": "item",
+    "id": "bat",
+    "name": "Bat",
+    "url": "https://brotato.wiki.spellsandguns.com/Bat"
+  },
+  {
+    "kind": "item",
+    "id": "bean teacher",
+    "name": "Bean Teacher",
+    "url": "https://brotato.wiki.spellsandguns.com/Bean_Teacher"
+  },
+  {
+    "kind": "item",
+    "id": "beanie",
+    "name": "Beanie",
+    "url": "https://brotato.wiki.spellsandguns.com/Beanie"
+  },
+  {
+    "kind": "item",
+    "id": "big arms",
+    "name": "Big Arms",
+    "url": "https://brotato.wiki.spellsandguns.com/Big_Arms"
+  },
+  {
+    "kind": "item",
+    "id": "black belt",
+    "name": "Black Belt",
+    "url": "https://brotato.wiki.spellsandguns.com/Black_Belt"
+  },
+  {
+    "kind": "item",
+    "id": "black flag",
+    "name": "Black Flag",
+    "url": "https://brotato.wiki.spellsandguns.com/Black_Flag"
+  },
+  {
+    "kind": "item",
+    "id": "blindfold",
+    "name": "Blindfold",
+    "url": "https://brotato.wiki.spellsandguns.com/Blindfold"
+  },
+  {
+    "kind": "item",
+    "id": "blood donation",
+    "name": "Blood Donation",
+    "url": "https://brotato.wiki.spellsandguns.com/Blood_Donation"
+  },
+  {
+    "kind": "item",
+    "id": "blood leech",
+    "name": "Blood Leech",
+    "url": "https://brotato.wiki.spellsandguns.com/Blood_Leech"
+  },
+  {
+    "kind": "item",
+    "id": "bloody hand",
+    "name": "Bloody Hand",
+    "url": "https://brotato.wiki.spellsandguns.com/Bloody_Hand"
+  },
+  {
+    "kind": "item",
+    "id": "boiling water",
+    "name": "Boiling Water",
+    "url": "https://brotato.wiki.spellsandguns.com/Boiling_Water"
+  },
+  {
+    "kind": "item",
+    "id": "bone dice",
+    "name": "Bone Dice",
+    "url": "https://brotato.wiki.spellsandguns.com/Bone_Dice"
+  },
+  {
+    "kind": "item",
+    "id": "book",
+    "name": "Book",
+    "url": "https://brotato.wiki.spellsandguns.com/Book"
+  },
+  {
+    "kind": "item",
+    "id": "bowler hat",
+    "name": "Bowler Hat",
+    "url": "https://brotato.wiki.spellsandguns.com/Bowler_Hat"
+  },
+  {
+    "kind": "item",
+    "id": "boxing glove",
+    "name": "Boxing Glove",
+    "url": "https://brotato.wiki.spellsandguns.com/Boxing_Glove"
+  },
+  {
+    "kind": "item",
+    "id": "broken hourglass",
+    "name": "Broken Hourglass",
+    "url": "https://brotato.wiki.spellsandguns.com/Broken_Hourglass"
+  },
+  {
+    "kind": "item",
+    "id": "broken mirror",
+    "name": "Broken Mirror",
+    "url": "https://brotato.wiki.spellsandguns.com/Broken_Mirror"
+  },
+  {
+    "kind": "item",
+    "id": "broken mouth",
+    "name": "Broken Mouth",
+    "url": "https://brotato.wiki.spellsandguns.com/Broken_Mouth"
+  },
+  {
+    "kind": "item",
+    "id": "builder's turret",
+    "name": "Builder's Turret",
+    "url": "https://brotato.wiki.spellsandguns.com/Builder%27s_Turret"
+  },
+  {
+    "kind": "item",
+    "id": "builder's turret ii",
+    "name": "Builder's Turret Ii",
+    "url": "https://brotato.wiki.spellsandguns.com/Builder%27s_Turret_Ii"
+  },
+  {
+    "kind": "item",
+    "id": "builder's turret iii",
+    "name": "Builder's Turret Iii",
+    "url": "https://brotato.wiki.spellsandguns.com/Builder%27s_Turret_Iii"
+  },
+  {
+    "kind": "item",
+    "id": "builder's turret iv",
+    "name": "Builder's Turret Iv",
+    "url": "https://brotato.wiki.spellsandguns.com/Builder%27s_Turret_Iv"
+  },
+  {
+    "kind": "item",
+    "id": "butterfly",
+    "name": "Butterfly",
+    "url": "https://brotato.wiki.spellsandguns.com/Butterfly"
+  },
+  {
+    "kind": "item",
+    "id": "cake",
+    "name": "Cake",
+    "url": "https://brotato.wiki.spellsandguns.com/Cake"
+  },
+  {
+    "kind": "item",
+    "id": "campfire",
+    "name": "Campfire",
+    "url": "https://brotato.wiki.spellsandguns.com/Campfire"
+  },
+  {
+    "kind": "item",
+    "id": "candle",
+    "name": "Candle",
+    "url": "https://brotato.wiki.spellsandguns.com/Candle"
+  },
+  {
+    "kind": "item",
+    "id": "candy bag",
+    "name": "Candy Bag",
+    "url": "https://brotato.wiki.spellsandguns.com/Candy_Bag"
+  },
+  {
+    "kind": "item",
+    "id": "cape",
+    "name": "Cape",
+    "url": "https://brotato.wiki.spellsandguns.com/Cape"
+  },
+  {
+    "kind": "item",
+    "id": "cauldron",
+    "name": "Cauldron",
+    "url": "https://brotato.wiki.spellsandguns.com/Cauldron"
+  },
+  {
+    "kind": "item",
+    "id": "celery tea",
+    "name": "Celery Tea",
+    "url": "https://brotato.wiki.spellsandguns.com/Celery_Tea"
+  },
+  {
+    "kind": "item",
+    "id": "chameleon",
+    "name": "Chameleon",
+    "url": "https://brotato.wiki.spellsandguns.com/Chameleon"
+  },
+  {
+    "kind": "item",
+    "id": "charcoal",
+    "name": "Charcoal",
+    "url": "https://brotato.wiki.spellsandguns.com/Charcoal"
+  },
+  {
+    "kind": "item",
+    "id": "claw tree",
+    "name": "Claw Tree",
+    "url": "https://brotato.wiki.spellsandguns.com/Claw_Tree"
+  },
+  {
+    "kind": "item",
+    "id": "clockwork wasp",
+    "name": "Clockwork Wasp",
+    "url": "https://brotato.wiki.spellsandguns.com/Clockwork_Wasp"
+  },
+  {
+    "kind": "item",
+    "id": "clover",
+    "name": "Clover",
+    "url": "https://brotato.wiki.spellsandguns.com/Clover"
+  },
+  {
+    "kind": "item",
+    "id": "coffee",
+    "name": "Coffee",
+    "url": "https://brotato.wiki.spellsandguns.com/Coffee"
+  },
+  {
+    "kind": "item",
+    "id": "cog",
+    "name": "Cog",
+    "url": "https://brotato.wiki.spellsandguns.com/Cog"
+  },
+  {
+    "kind": "item",
+    "id": "coil",
+    "name": "Coil",
+    "url": "https://brotato.wiki.spellsandguns.com/Coil"
+  },
+  {
+    "kind": "item",
+    "id": "community support",
+    "name": "Community Support",
+    "url": "https://brotato.wiki.spellsandguns.com/Community_Support"
+  },
+  {
+    "kind": "item",
+    "id": "compass",
+    "name": "Compass",
+    "url": "https://brotato.wiki.spellsandguns.com/Compass"
+  },
+  {
+    "kind": "item",
+    "id": "coral",
+    "name": "Coral",
+    "url": "https://brotato.wiki.spellsandguns.com/Coral"
+  },
+  {
+    "kind": "item",
+    "id": "corrupted shard",
+    "name": "Corrupted Shard",
+    "url": "https://brotato.wiki.spellsandguns.com/Corrupted_Shard"
+  },
+  {
+    "kind": "item",
+    "id": "coupon",
+    "name": "Coupon",
+    "url": "https://brotato.wiki.spellsandguns.com/Coupon"
+  },
+  {
+    "kind": "item",
+    "id": "crown",
+    "name": "Crown",
+    "url": "https://brotato.wiki.spellsandguns.com/Crown"
+  },
+  {
+    "kind": "item",
+    "id": "crystal",
+    "name": "Crystal",
+    "url": "https://brotato.wiki.spellsandguns.com/Crystal"
+  },
+  {
+    "kind": "item",
+    "id": "cute monkey",
+    "name": "Cute Monkey",
+    "url": "https://brotato.wiki.spellsandguns.com/Cute_Monkey"
+  },
+  {
+    "kind": "item",
+    "id": "cyberball",
+    "name": "Cyberball",
+    "url": "https://brotato.wiki.spellsandguns.com/Cyberball"
+  },
+  {
+    "kind": "item",
+    "id": "cyclops worm",
+    "name": "Cyclops Worm",
+    "url": "https://brotato.wiki.spellsandguns.com/Cyclops_Worm"
+  },
+  {
+    "kind": "item",
+    "id": "dangerous bunny",
+    "name": "Dangerous Bunny",
+    "url": "https://brotato.wiki.spellsandguns.com/Dangerous_Bunny"
+  },
+  {
+    "kind": "item",
+    "id": "decomposing flesh",
+    "name": "Decomposing Flesh",
+    "url": "https://brotato.wiki.spellsandguns.com/Decomposing_Flesh"
+  },
+  {
+    "kind": "item",
+    "id": "defective steroids",
+    "name": "Defective Steroids",
+    "url": "https://brotato.wiki.spellsandguns.com/Defective_Steroids"
+  },
+  {
+    "kind": "item",
+    "id": "diploma",
+    "name": "Diploma",
+    "url": "https://brotato.wiki.spellsandguns.com/Diploma"
+  },
+  {
+    "kind": "item",
+    "id": "duct tape",
+    "name": "Duct Tape",
+    "url": "https://brotato.wiki.spellsandguns.com/Duct_Tape"
+  },
+  {
+    "kind": "item",
+    "id": "dynamite",
+    "name": "Dynamite",
+    "url": "https://brotato.wiki.spellsandguns.com/Dynamite"
+  },
+  {
+    "kind": "item",
+    "id": "energy bracelet",
+    "name": "Energy Bracelet",
+    "url": "https://brotato.wiki.spellsandguns.com/Energy_Bracelet"
+  },
+  {
+    "kind": "item",
+    "id": "esty’s couch",
+    "name": "Esty’s Couch",
+    "url": "https://brotato.wiki.spellsandguns.com/Esty%E2%80%99s_Couch"
+  },
+  {
+    "kind": "item",
+    "id": "exoskeleton",
+    "name": "Exoskeleton",
+    "url": "https://brotato.wiki.spellsandguns.com/Exoskeleton"
+  },
+  {
+    "kind": "item",
+    "id": "explosive shells",
+    "name": "Explosive Shells",
+    "url": "https://brotato.wiki.spellsandguns.com/Explosive_Shells"
+  },
+  {
+    "kind": "item",
+    "id": "explosive turret",
+    "name": "Explosive Turret",
+    "url": "https://brotato.wiki.spellsandguns.com/Explosive_Turret"
+  },
+  {
+    "kind": "item",
+    "id": "extra stomach",
+    "name": "Extra Stomach",
+    "url": "https://brotato.wiki.spellsandguns.com/Extra_Stomach"
+  },
+  {
+    "kind": "item",
+    "id": "eyepatch",
+    "name": "Eyepatch",
+    "url": "https://brotato.wiki.spellsandguns.com/Eyepatch"
+  },
+  {
+    "kind": "item",
+    "id": "eyes surgery",
+    "name": "Eyes Surgery",
+    "url": "https://brotato.wiki.spellsandguns.com/Eyes_Surgery"
+  },
+  {
+    "kind": "item",
+    "id": "fairy",
+    "name": "Fairy",
+    "url": "https://brotato.wiki.spellsandguns.com/Fairy"
+  },
+  {
+    "kind": "item",
+    "id": "feather",
+    "name": "Feather",
+    "url": "https://brotato.wiki.spellsandguns.com/Feather"
+  },
+  {
+    "kind": "item",
+    "id": "fertilizer",
+    "name": "Fertilizer",
+    "url": "https://brotato.wiki.spellsandguns.com/Fertilizer"
+  },
+  {
+    "kind": "item",
+    "id": "fin",
+    "name": "Fin",
+    "url": "https://brotato.wiki.spellsandguns.com/Fin"
+  },
+  {
+    "kind": "item",
+    "id": "fish hook",
+    "name": "Fish Hook",
+    "url": "https://brotato.wiki.spellsandguns.com/Fish_Hook"
+  },
+  {
+    "kind": "item",
+    "id": "focus",
+    "name": "Focus",
+    "url": "https://brotato.wiki.spellsandguns.com/Focus"
+  },
+  {
+    "kind": "item",
+    "id": "fresh meat",
+    "name": "Fresh Meat",
+    "url": "https://brotato.wiki.spellsandguns.com/Fresh_Meat"
+  },
+  {
+    "kind": "item",
+    "id": "fried rice",
+    "name": "Fried Rice",
+    "url": "https://brotato.wiki.spellsandguns.com/Fried_Rice"
+  },
+  {
+    "kind": "item",
+    "id": "frozen heart",
+    "name": "Frozen Heart",
+    "url": "https://brotato.wiki.spellsandguns.com/Frozen_Heart"
+  },
+  {
+    "kind": "item",
+    "id": "fruit basket",
+    "name": "Fruit Basket",
+    "url": "https://brotato.wiki.spellsandguns.com/Fruit_Basket"
+  },
+  {
+    "kind": "item",
+    "id": "fuel tank",
+    "name": "Fuel Tank",
+    "url": "https://brotato.wiki.spellsandguns.com/Fuel_Tank"
+  },
+  {
+    "kind": "item",
+    "id": "gambling token",
+    "name": "Gambling Token",
+    "url": "https://brotato.wiki.spellsandguns.com/Gambling_Token"
+  },
+  {
+    "kind": "item",
+    "id": "garden",
+    "name": "Garden",
+    "url": "https://brotato.wiki.spellsandguns.com/Garden"
+  },
+  {
+    "kind": "item",
+    "id": "gentle alien",
+    "name": "Gentle Alien",
+    "url": "https://brotato.wiki.spellsandguns.com/Gentle_Alien"
+  },
+  {
+    "kind": "item",
+    "id": "ghost outfit",
+    "name": "Ghost Outfit",
+    "url": "https://brotato.wiki.spellsandguns.com/Ghost_Outfit"
+  },
+  {
+    "kind": "item",
+    "id": "giant belt",
+    "name": "Giant Belt",
+    "url": "https://brotato.wiki.spellsandguns.com/Giant_Belt"
+  },
+  {
+    "kind": "item",
+    "id": "glass cannon",
+    "name": "Glass Cannon",
+    "url": "https://brotato.wiki.spellsandguns.com/Glass_Cannon"
+  },
+  {
+    "kind": "item",
+    "id": "glasses",
+    "name": "Glasses",
+    "url": "https://brotato.wiki.spellsandguns.com/Glasses"
+  },
+  {
+    "kind": "item",
+    "id": "gnome",
+    "name": "Gnome",
+    "url": "https://brotato.wiki.spellsandguns.com/Gnome"
+  },
+  {
+    "kind": "item",
+    "id": "goat skull",
+    "name": "Goat Skull",
+    "url": "https://brotato.wiki.spellsandguns.com/Goat_Skull"
+  },
+  {
+    "kind": "item",
+    "id": "gobbler's hat",
+    "name": "Gobbler's Hat",
+    "url": "https://brotato.wiki.spellsandguns.com/Gobbler%27s_Hat"
+  },
+  {
+    "kind": "item",
+    "id": "goblet",
+    "name": "Goblet",
+    "url": "https://brotato.wiki.spellsandguns.com/Goblet"
+  },
+  {
+    "kind": "item",
+    "id": "goldfish",
+    "name": "Goldfish",
+    "url": "https://brotato.wiki.spellsandguns.com/Goldfish"
+  },
+  {
+    "kind": "item",
+    "id": "greek fire",
+    "name": "Greek Fire",
+    "url": "https://brotato.wiki.spellsandguns.com/Greek_Fire"
+  },
+  {
+    "kind": "item",
+    "id": "grind's magical leaf",
+    "name": "Grind's Magical Leaf",
+    "url": "https://brotato.wiki.spellsandguns.com/Grind%27s_Magical_Leaf"
+  },
+  {
+    "kind": "item",
+    "id": "gummy berserker",
+    "name": "Gummy Berserker",
+    "url": "https://brotato.wiki.spellsandguns.com/Gummy_Berserker"
+  },
+  {
+    "kind": "item",
+    "id": "handcuffs",
+    "name": "Handcuffs",
+    "url": "https://brotato.wiki.spellsandguns.com/Handcuffs"
+  },
+  {
+    "kind": "item",
+    "id": "head injury",
+    "name": "Head Injury",
+    "url": "https://brotato.wiki.spellsandguns.com/Head_Injury"
+  },
+  {
+    "kind": "item",
+    "id": "heavy bullets",
+    "name": "Heavy Bullets",
+    "url": "https://brotato.wiki.spellsandguns.com/Heavy_Bullets"
+  },
+  {
+    "kind": "item",
+    "id": "hedgehog",
+    "name": "Hedgehog",
+    "url": "https://brotato.wiki.spellsandguns.com/Hedgehog"
+  },
+  {
+    "kind": "item",
+    "id": "helmet",
+    "name": "Helmet",
+    "url": "https://brotato.wiki.spellsandguns.com/Helmet"
+  },
+  {
+    "kind": "item",
+    "id": "honey",
+    "name": "Honey",
+    "url": "https://brotato.wiki.spellsandguns.com/Honey"
+  },
+  {
+    "kind": "item",
+    "id": "hourglass",
+    "name": "Hourglass",
+    "url": "https://brotato.wiki.spellsandguns.com/Hourglass"
+  },
+  {
+    "kind": "item",
+    "id": "hunting trophy",
+    "name": "Hunting Trophy",
+    "url": "https://brotato.wiki.spellsandguns.com/Hunting_Trophy"
+  },
+  {
+    "kind": "item",
+    "id": "ice cube",
+    "name": "Ice Cube",
+    "url": "https://brotato.wiki.spellsandguns.com/Ice_Cube"
+  },
+  {
+    "kind": "item",
+    "id": "improved tools",
+    "name": "Improved Tools",
+    "url": "https://brotato.wiki.spellsandguns.com/Improved_Tools"
+  },
+  {
+    "kind": "item",
+    "id": "incendiary turret",
+    "name": "Incendiary Turret",
+    "url": "https://brotato.wiki.spellsandguns.com/Incendiary_Turret"
+  },
+  {
+    "kind": "item",
+    "id": "injection",
+    "name": "Injection",
+    "url": "https://brotato.wiki.spellsandguns.com/Injection"
+  },
+  {
+    "kind": "item",
+    "id": "insanity",
+    "name": "Insanity",
+    "url": "https://brotato.wiki.spellsandguns.com/Insanity"
+  },
+  {
+    "kind": "item",
+    "id": "jelly",
+    "name": "Jelly",
+    "url": "https://brotato.wiki.spellsandguns.com/Jelly"
+  },
+  {
+    "kind": "item",
+    "id": "jerky",
+    "name": "Jerky",
+    "url": "https://brotato.wiki.spellsandguns.com/Jerky"
+  },
+  {
+    "kind": "item",
+    "id": "jet pack",
+    "name": "Jet Pack",
+    "url": "https://brotato.wiki.spellsandguns.com/Jet_Pack"
+  },
+  {
+    "kind": "item",
+    "id": "knot",
+    "name": "Knot",
+    "url": "https://brotato.wiki.spellsandguns.com/Knot"
+  },
+  {
+    "kind": "item",
+    "id": "kraken's eye",
+    "name": "Kraken's Eye",
+    "url": "https://brotato.wiki.spellsandguns.com/Kraken%27s_Eye"
+  },
+  {
+    "kind": "item",
+    "id": "landmines",
+    "name": "Landmines",
+    "url": "https://brotato.wiki.spellsandguns.com/Landmines"
+  },
+  {
+    "kind": "item",
+    "id": "lantern",
+    "name": "Lantern",
+    "url": "https://brotato.wiki.spellsandguns.com/Lantern"
+  },
+  {
+    "kind": "item",
+    "id": "laser turret",
+    "name": "Laser Turret",
+    "url": "https://brotato.wiki.spellsandguns.com/Laser_Turret"
+  },
+  {
+    "kind": "item",
+    "id": "leather vest",
+    "name": "Leather Vest",
+    "url": "https://brotato.wiki.spellsandguns.com/Leather_Vest"
+  },
+  {
+    "kind": "item",
+    "id": "lemonade",
+    "name": "Lemonade",
+    "url": "https://brotato.wiki.spellsandguns.com/Lemonade"
+  },
+  {
+    "kind": "item",
+    "id": "lens",
+    "name": "Lens",
+    "url": "https://brotato.wiki.spellsandguns.com/Lens"
+  },
+  {
+    "kind": "item",
+    "id": "lighthouse",
+    "name": "Lighthouse",
+    "url": "https://brotato.wiki.spellsandguns.com/Lighthouse"
+  },
+  {
+    "kind": "item",
+    "id": "little frog",
+    "name": "Little Frog",
+    "url": "https://brotato.wiki.spellsandguns.com/Little_Frog"
+  },
+  {
+    "kind": "item",
+    "id": "little muscley dude",
+    "name": "Little Muscley Dude",
+    "url": "https://brotato.wiki.spellsandguns.com/Little_Muscley_Dude"
+  },
+  {
+    "kind": "item",
+    "id": "lost duck",
+    "name": "Lost Duck",
+    "url": "https://brotato.wiki.spellsandguns.com/Lost_Duck"
+  },
+  {
+    "kind": "item",
+    "id": "lucky charm",
+    "name": "Lucky Charm",
+    "url": "https://brotato.wiki.spellsandguns.com/Lucky_Charm"
+  },
+  {
+    "kind": "item",
+    "id": "lucky coin",
+    "name": "Lucky Coin",
+    "url": "https://brotato.wiki.spellsandguns.com/Lucky_Coin"
+  },
+  {
+    "kind": "item",
+    "id": "lumberjack shirt",
+    "name": "Lumberjack Shirt",
+    "url": "https://brotato.wiki.spellsandguns.com/Lumberjack_Shirt"
+  },
+  {
+    "kind": "item",
+    "id": "lure",
+    "name": "Lure",
+    "url": "https://brotato.wiki.spellsandguns.com/Lure"
+  },
+  {
+    "kind": "item",
+    "id": "mammoth",
+    "name": "Mammoth",
+    "url": "https://brotato.wiki.spellsandguns.com/Mammoth"
+  },
+  {
+    "kind": "item",
+    "id": "mastery",
+    "name": "Mastery",
+    "url": "https://brotato.wiki.spellsandguns.com/Mastery"
+  },
+  {
+    "kind": "item",
+    "id": "medal",
+    "name": "Medal",
+    "url": "https://brotato.wiki.spellsandguns.com/Medal"
+  },
+  {
+    "kind": "item",
+    "id": "medical turret",
+    "name": "Medical Turret",
+    "url": "https://brotato.wiki.spellsandguns.com/Medical_Turret"
+  },
+  {
+    "kind": "item",
+    "id": "medikit",
+    "name": "Medikit",
+    "url": "https://brotato.wiki.spellsandguns.com/Medikit"
+  },
+  {
+    "kind": "item",
+    "id": "metal detector",
+    "name": "Metal Detector",
+    "url": "https://brotato.wiki.spellsandguns.com/Metal_Detector"
+  },
+  {
+    "kind": "item",
+    "id": "metal plate",
+    "name": "Metal Plate",
+    "url": "https://brotato.wiki.spellsandguns.com/Metal_Plate"
+  },
+  {
+    "kind": "item",
+    "id": "mirror",
+    "name": "Mirror",
+    "url": "https://brotato.wiki.spellsandguns.com/Mirror"
+  },
+  {
+    "kind": "item",
+    "id": "missile",
+    "name": "Missile",
+    "url": "https://brotato.wiki.spellsandguns.com/Missile"
+  },
+  {
+    "kind": "item",
+    "id": "mouse",
+    "name": "Mouse",
+    "url": "https://brotato.wiki.spellsandguns.com/Mouse"
+  },
+  {
+    "kind": "item",
+    "id": "mushroom",
+    "name": "Mushroom",
+    "url": "https://brotato.wiki.spellsandguns.com/Mushroom"
+  },
+  {
+    "kind": "item",
+    "id": "mutation",
+    "name": "Mutation",
+    "url": "https://brotato.wiki.spellsandguns.com/Mutation"
+  },
+  {
+    "kind": "item",
+    "id": "nail",
+    "name": "Nail",
+    "url": "https://brotato.wiki.spellsandguns.com/Nail"
+  },
+  {
+    "kind": "item",
+    "id": "night goggles",
+    "name": "Night Goggles",
+    "url": "https://brotato.wiki.spellsandguns.com/Night_Goggles"
+  },
+  {
+    "kind": "item",
+    "id": "octopus",
+    "name": "Octopus",
+    "url": "https://brotato.wiki.spellsandguns.com/Octopus"
+  },
+  {
+    "kind": "item",
+    "id": "padding",
+    "name": "Padding",
+    "url": "https://brotato.wiki.spellsandguns.com/Padding"
+  },
+  {
+    "kind": "item",
+    "id": "panda",
+    "name": "Panda",
+    "url": "https://brotato.wiki.spellsandguns.com/Panda"
+  },
+  {
+    "kind": "item",
+    "id": "peaceful bee",
+    "name": "Peaceful Bee",
+    "url": "https://brotato.wiki.spellsandguns.com/Peaceful_Bee"
+  },
+  {
+    "kind": "item",
+    "id": "peacock",
+    "name": "Peacock",
+    "url": "https://brotato.wiki.spellsandguns.com/Peacock"
+  },
+  {
+    "kind": "item",
+    "id": "pearl",
+    "name": "Pearl",
+    "url": "https://brotato.wiki.spellsandguns.com/Pearl"
+  },
+  {
+    "kind": "item",
+    "id": "pencil",
+    "name": "Pencil",
+    "url": "https://brotato.wiki.spellsandguns.com/Pencil"
+  },
+  {
+    "kind": "item",
+    "id": "penguin",
+    "name": "Penguin",
+    "url": "https://brotato.wiki.spellsandguns.com/Penguin"
+  },
+  {
+    "kind": "item",
+    "id": "piggy bank",
+    "name": "Piggy Bank",
+    "url": "https://brotato.wiki.spellsandguns.com/Piggy_Bank"
+  },
+  {
+    "kind": "item",
+    "id": "pile of books",
+    "name": "Pile Of Books",
+    "url": "https://brotato.wiki.spellsandguns.com/Pile_Of_Books"
+  },
+  {
+    "kind": "item",
+    "id": "plant",
+    "name": "Plant",
+    "url": "https://brotato.wiki.spellsandguns.com/Plant"
+  },
+  {
+    "kind": "item",
+    "id": "plastic explosive",
+    "name": "Plastic Explosive",
+    "url": "https://brotato.wiki.spellsandguns.com/Plastic_Explosive"
+  },
+  {
+    "kind": "item",
+    "id": "pocket factory",
+    "name": "Pocket Factory",
+    "url": "https://brotato.wiki.spellsandguns.com/Pocket_Factory"
+  },
+  {
+    "kind": "item",
+    "id": "poisonous tonic",
+    "name": "Poisonous Tonic",
+    "url": "https://brotato.wiki.spellsandguns.com/Poisonous_Tonic"
+  },
+  {
+    "kind": "item",
+    "id": "potato",
+    "name": "Potato",
+    "url": "https://brotato.wiki.spellsandguns.com/Potato"
+  },
+  {
+    "kind": "item",
+    "id": "power generator",
+    "name": "Power Generator",
+    "url": "https://brotato.wiki.spellsandguns.com/Power_Generator"
+  },
+  {
+    "kind": "item",
+    "id": "propeller hat",
+    "name": "Propeller Hat",
+    "url": "https://brotato.wiki.spellsandguns.com/Propeller_Hat"
+  },
+  {
+    "kind": "item",
+    "id": "pumpkin",
+    "name": "Pumpkin",
+    "url": "https://brotato.wiki.spellsandguns.com/Pumpkin"
+  },
+  {
+    "kind": "item",
+    "id": "recycling machine",
+    "name": "Recycling Machine",
+    "url": "https://brotato.wiki.spellsandguns.com/Recycling_Machine"
+  },
+  {
+    "kind": "item",
+    "id": "regeneration potion",
+    "name": "Regeneration Potion",
+    "url": "https://brotato.wiki.spellsandguns.com/Regeneration_Potion"
+  },
+  {
+    "kind": "item",
+    "id": "reinforced steel",
+    "name": "Reinforced Steel",
+    "url": "https://brotato.wiki.spellsandguns.com/Reinforced_Steel"
+  },
+  {
+    "kind": "item",
+    "id": "resting goldfish",
+    "name": "Resting Goldfish",
+    "url": "https://brotato.wiki.spellsandguns.com/Resting_Goldfish"
+  },
+  {
+    "kind": "item",
+    "id": "retromation’s hoodie",
+    "name": "Retromation’s Hoodie",
+    "url": "https://brotato.wiki.spellsandguns.com/Retromation%E2%80%99s_Hoodie"
+  },
+  {
+    "kind": "item",
+    "id": "ricochet",
+    "name": "Ricochet",
+    "url": "https://brotato.wiki.spellsandguns.com/Ricochet"
+  },
+  {
+    "kind": "item",
+    "id": "rip and tear",
+    "name": "Rip And Tear",
+    "url": "https://brotato.wiki.spellsandguns.com/Rip_And_Tear"
+  },
+  {
+    "kind": "item",
+    "id": "riposte",
+    "name": "Riposte",
+    "url": "https://brotato.wiki.spellsandguns.com/Riposte"
+  },
+  {
+    "kind": "item",
+    "id": "ritual",
+    "name": "Ritual",
+    "url": "https://brotato.wiki.spellsandguns.com/Ritual"
+  },
+  {
+    "kind": "item",
+    "id": "robot arm",
+    "name": "Robot Arm",
+    "url": "https://brotato.wiki.spellsandguns.com/Robot_Arm"
+  },
+  {
+    "kind": "item",
+    "id": "sad tomato",
+    "name": "Sad Tomato",
+    "url": "https://brotato.wiki.spellsandguns.com/Sad_Tomato"
+  },
+  {
+    "kind": "item",
+    "id": "saltwater",
+    "name": "Saltwater",
+    "url": "https://brotato.wiki.spellsandguns.com/Saltwater"
+  },
+  {
+    "kind": "item",
+    "id": "scar",
+    "name": "Scar",
+    "url": "https://brotato.wiki.spellsandguns.com/Scar"
+  },
+  {
+    "kind": "item",
+    "id": "scared sausage",
+    "name": "Scared Sausage",
+    "url": "https://brotato.wiki.spellsandguns.com/Scared_Sausage"
+  },
+  {
+    "kind": "item",
+    "id": "scarf",
+    "name": "Scarf",
+    "url": "https://brotato.wiki.spellsandguns.com/Scarf"
+  },
+  {
+    "kind": "item",
+    "id": "scope",
+    "name": "Scope",
+    "url": "https://brotato.wiki.spellsandguns.com/Scope"
+  },
+  {
+    "kind": "item",
+    "id": "seashell",
+    "name": "Seashell",
+    "url": "https://brotato.wiki.spellsandguns.com/Seashell"
+  },
+  {
+    "kind": "item",
+    "id": "shackles",
+    "name": "Shackles",
+    "url": "https://brotato.wiki.spellsandguns.com/Shackles"
+  },
+  {
+    "kind": "item",
+    "id": "shady potion",
+    "name": "Shady Potion",
+    "url": "https://brotato.wiki.spellsandguns.com/Shady_Potion"
+  },
+  {
+    "kind": "item",
+    "id": "sharp bullet",
+    "name": "Sharp Bullet",
+    "url": "https://brotato.wiki.spellsandguns.com/Sharp_Bullet"
+  },
+  {
+    "kind": "item",
+    "id": "shmoop",
+    "name": "Shmoop",
+    "url": "https://brotato.wiki.spellsandguns.com/Shmoop"
+  },
+  {
+    "kind": "item",
+    "id": "sifd’s relic",
+    "name": "Sifd’s Relic",
+    "url": "https://brotato.wiki.spellsandguns.com/Sifd%E2%80%99s_Relic"
+  },
+  {
+    "kind": "item",
+    "id": "silver bullet",
+    "name": "Silver Bullet",
+    "url": "https://brotato.wiki.spellsandguns.com/Silver_Bullet"
+  },
+  {
+    "kind": "item",
+    "id": "small fish",
+    "name": "Small Fish",
+    "url": "https://brotato.wiki.spellsandguns.com/Small_Fish"
+  },
+  {
+    "kind": "item",
+    "id": "small magazine",
+    "name": "Small Magazine",
+    "url": "https://brotato.wiki.spellsandguns.com/Small_Magazine"
+  },
+  {
+    "kind": "item",
+    "id": "snail",
+    "name": "Snail",
+    "url": "https://brotato.wiki.spellsandguns.com/Snail"
+  },
+  {
+    "kind": "item",
+    "id": "snake",
+    "name": "Snake",
+    "url": "https://brotato.wiki.spellsandguns.com/Snake"
+  },
+  {
+    "kind": "item",
+    "id": "snowball",
+    "name": "Snowball",
+    "url": "https://brotato.wiki.spellsandguns.com/Snowball"
+  },
+  {
+    "kind": "item",
+    "id": "spicy sauce",
+    "name": "Spicy Sauce",
+    "url": "https://brotato.wiki.spellsandguns.com/Spicy_Sauce"
+  },
+  {
+    "kind": "item",
+    "id": "spider",
+    "name": "Spider",
+    "url": "https://brotato.wiki.spellsandguns.com/Spider"
+  },
+  {
+    "kind": "item",
+    "id": "spyglass",
+    "name": "Spyglass",
+    "url": "https://brotato.wiki.spellsandguns.com/Spyglass"
+  },
+  {
+    "kind": "item",
+    "id": "starfish",
+    "name": "Starfish",
+    "url": "https://brotato.wiki.spellsandguns.com/Starfish"
+  },
+  {
+    "kind": "item",
+    "id": "statue",
+    "name": "Statue",
+    "url": "https://brotato.wiki.spellsandguns.com/Statue"
+  },
+  {
+    "kind": "item",
+    "id": "stone skin",
+    "name": "Stone Skin",
+    "url": "https://brotato.wiki.spellsandguns.com/Stone_Skin"
+  },
+  {
+    "kind": "item",
+    "id": "strange book",
+    "name": "Strange Book",
+    "url": "https://brotato.wiki.spellsandguns.com/Strange_Book"
+  },
+  {
+    "kind": "item",
+    "id": "sunglasses",
+    "name": "Sunglasses",
+    "url": "https://brotato.wiki.spellsandguns.com/Sunglasses"
+  },
+  {
+    "kind": "item",
+    "id": "sunken bell",
+    "name": "Sunken Bell",
+    "url": "https://brotato.wiki.spellsandguns.com/Sunken_Bell"
+  },
+  {
+    "kind": "item",
+    "id": "tardigrade",
+    "name": "Tardigrade",
+    "url": "https://brotato.wiki.spellsandguns.com/Tardigrade"
+  },
+  {
+    "kind": "item",
+    "id": "tentacle",
+    "name": "Tentacle",
+    "url": "https://brotato.wiki.spellsandguns.com/Tentacle"
+  },
+  {
+    "kind": "item",
+    "id": "terrified onion",
+    "name": "Terrified Onion",
+    "url": "https://brotato.wiki.spellsandguns.com/Terrified_Onion"
+  },
+  {
+    "kind": "item",
+    "id": "toolbox",
+    "name": "Toolbox",
+    "url": "https://brotato.wiki.spellsandguns.com/Toolbox"
+  },
+  {
+    "kind": "item",
+    "id": "torture",
+    "name": "Torture",
+    "url": "https://brotato.wiki.spellsandguns.com/Torture"
+  },
+  {
+    "kind": "item",
+    "id": "toxic sludge",
+    "name": "Toxic Sludge",
+    "url": "https://brotato.wiki.spellsandguns.com/Toxic_Sludge"
+  },
+  {
+    "kind": "item",
+    "id": "tractor",
+    "name": "Tractor",
+    "url": "https://brotato.wiki.spellsandguns.com/Tractor"
+  },
+  {
+    "kind": "item",
+    "id": "treasure map",
+    "name": "Treasure Map",
+    "url": "https://brotato.wiki.spellsandguns.com/Treasure_Map"
+  },
+  {
+    "kind": "item",
+    "id": "tree",
+    "name": "Tree",
+    "url": "https://brotato.wiki.spellsandguns.com/Tree"
+  },
+  {
+    "kind": "item",
+    "id": "triangle of power",
+    "name": "Triangle Of Power",
+    "url": "https://brotato.wiki.spellsandguns.com/Triangle_Of_Power"
+  },
+  {
+    "kind": "item",
+    "id": "turret",
+    "name": "Turret",
+    "url": "https://brotato.wiki.spellsandguns.com/Turret"
+  },
+  {
+    "kind": "item",
+    "id": "tyler",
+    "name": "Tyler",
+    "url": "https://brotato.wiki.spellsandguns.com/Tyler"
+  },
+  {
+    "kind": "item",
+    "id": "ugly tooth",
+    "name": "Ugly Tooth",
+    "url": "https://brotato.wiki.spellsandguns.com/Ugly_Tooth"
+  },
+  {
+    "kind": "item",
+    "id": "vigilante ring",
+    "name": "Vigilante Ring",
+    "url": "https://brotato.wiki.spellsandguns.com/Vigilante_Ring"
+  },
+  {
+    "kind": "item",
+    "id": "wandering bot",
+    "name": "Wandering Bot",
+    "url": "https://brotato.wiki.spellsandguns.com/Wandering_Bot"
+  },
+  {
+    "kind": "item",
+    "id": "warrior helmet",
+    "name": "Warrior Helmet",
+    "url": "https://brotato.wiki.spellsandguns.com/Warrior_Helmet"
+  },
+  {
+    "kind": "item",
+    "id": "weird food",
+    "name": "Weird Food",
+    "url": "https://brotato.wiki.spellsandguns.com/Weird_Food"
+  },
+  {
+    "kind": "item",
+    "id": "weird ghost",
+    "name": "Weird Ghost",
+    "url": "https://brotato.wiki.spellsandguns.com/Weird_Ghost"
+  },
+  {
+    "kind": "item",
+    "id": "wheat",
+    "name": "Wheat",
+    "url": "https://brotato.wiki.spellsandguns.com/Wheat"
+  },
+  {
+    "kind": "item",
+    "id": "wheelbarrow",
+    "name": "Wheelbarrow",
+    "url": "https://brotato.wiki.spellsandguns.com/Wheelbarrow"
+  },
+  {
+    "kind": "item",
+    "id": "whetstone",
+    "name": "Whetstone",
+    "url": "https://brotato.wiki.spellsandguns.com/Whetstone"
+  },
+  {
+    "kind": "item",
+    "id": "whistle",
+    "name": "Whistle",
+    "url": "https://brotato.wiki.spellsandguns.com/Whistle"
+  },
+  {
+    "kind": "item",
+    "id": "white flag",
+    "name": "White Flag",
+    "url": "https://brotato.wiki.spellsandguns.com/White_Flag"
+  },
+  {
+    "kind": "item",
+    "id": "will-o'-wisp",
+    "name": "Will-o'-wisp",
+    "url": "https://brotato.wiki.spellsandguns.com/Will-o%27-wisp"
+  },
+  {
+    "kind": "item",
+    "id": "wings",
+    "name": "Wings",
+    "url": "https://brotato.wiki.spellsandguns.com/Wings"
+  },
+  {
+    "kind": "item",
+    "id": "wisdom",
+    "name": "Wisdom",
+    "url": "https://brotato.wiki.spellsandguns.com/Wisdom"
+  },
+  {
+    "kind": "item",
+    "id": "wolf helmet",
+    "name": "Wolf Helmet",
+    "url": "https://brotato.wiki.spellsandguns.com/Wolf_Helmet"
+  },
+  {
+    "kind": "elite",
+    "id": "rhino",
+    "name": "Rhino",
+    "url": "https://brotato.wiki.spellsandguns.com/Rhino"
+  },
+  {
+    "kind": "elite",
+    "id": "butcher",
+    "name": "Butcher",
+    "url": "https://brotato.wiki.spellsandguns.com/Butcher"
+  },
+  {
+    "kind": "elite",
+    "id": "monk",
+    "name": "Monk",
+    "url": "https://brotato.wiki.spellsandguns.com/Monk"
+  },
+  {
+    "kind": "elite",
+    "id": "croc",
+    "name": "Croc",
+    "url": "https://brotato.wiki.spellsandguns.com/Croc"
+  },
+  {
+    "kind": "elite",
+    "id": "colossus",
+    "name": "Colossus",
+    "url": "https://brotato.wiki.spellsandguns.com/Colossus"
+  },
+  {
+    "kind": "elite",
+    "id": "mantis",
+    "name": "Mantis",
+    "url": "https://brotato.wiki.spellsandguns.com/Mantis"
+  },
+  {
+    "kind": "elite",
+    "id": "mother",
+    "name": "Mother",
+    "url": "https://brotato.wiki.spellsandguns.com/Mother"
+  },
+  {
+    "kind": "elite",
+    "id": "gargoyle",
+    "name": "Gargoyle",
+    "url": "https://brotato.wiki.spellsandguns.com/Gargoyle"
+  },
+  {
+    "kind": "boss",
+    "id": "predator",
+    "name": "Predator",
+    "url": "https://brotato.wiki.spellsandguns.com/Predator"
+  },
+  {
+    "kind": "boss",
+    "id": "invoker",
+    "name": "Invoker",
+    "url": "https://brotato.wiki.spellsandguns.com/Invoker"
+  }
+]

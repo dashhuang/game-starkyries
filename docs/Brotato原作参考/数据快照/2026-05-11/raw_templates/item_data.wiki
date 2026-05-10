@@ -1,0 +1,2699 @@
+<includeonly>{{#switch:{{lc:{{{1|}}}}}
+|acid = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+8}} Max HP<br>{{Color|red|-2}} % Dodge<br>{{Color|red|-2}} Knockback
+	|price=65
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Max HP]]
+	|isdlc=-
+	|#default=-
+}}
+|adrenaline = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+5}} % Dodge<br>{{Color|green|50%}} chance to heal {{Color|green|5}} HP when dodging an attack
+	|price=60
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Dodge]]
+	|isdlc=-
+	|#default=-
+}}
+|alien baby = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+15}} Max HP<br>{{Color|red|+10}} % Enemy health
+	|price=80
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Max HP]]
+	|isdlc=-
+	|#default=-
+}}
+|alien eyes = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats=Shoots {{Color|green|6}} alien eyes around you every {{Color|green|3}} seconds dealing {{Color|green|6}} ({{Color|green|+50%{{StatIcon|Max HP}}}}) damage each
+	|price=50
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Max HP]]
+	|isdlc=-
+	|#default=-
+}}
+|alien magic = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+8}} Max HP<br>{{Color|green|+3}} HP Regeneration<br>{{Color|red|-8}} Luck
+	|price=85
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Max HP]], [[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|alien tongue = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+30%}} pickup range<br>{{Color|green|+1}} Knockback
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Pickup]], [[Knockback]]
+	|isdlc=-
+	|#default=-
+}}
+|alien worm = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+3}} Max HP<br>{{Color|green|+2}} HP Regeneration<br>{{Color|red|-1}} HP recovered from consumables
+	|price=15
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Max HP]], [[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|alloy = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+3}} Melee Damage<br>{{Color|green|+3}} Ranged Damage<br>{{Color|green|+3}} Elemental Damage<br>{{Color|green|+3}} Engineering<br>{{Color|green|+5}} % Crit Chance<br>{{Color|red|-6}} % Dodge
+	|price=80
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Melee Damage]], [[Ranged Damage]], [[Engineering]], [[Crit Chance]], [[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|anvil = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats=A random weapon is upgraded when entering a shop. If you have no weapon to upgrade, you gain {{Color|green|+2}} {{Color|green|Armor}} instead.
+	|price=120
+	|unique=true
+	|unlockedby=Win a run with [[File:Arms Dealer.png|link=Arms Dealer|x30px]] [[Arms Dealer]]
+	|limit=1
+	|tags=
+	|isdlc=-
+	|#default=-
+}}
+|ashes = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+20}} % Damage<br>{{Color|green|+20}} % Attack Speed<br>{{Color|green|+100}} Range<br>{{Color|red|-1}} {{Color|red|Armor}} at the end of a wave
+	|price=100
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags= [[Attack Speed]], [[Damage]], [[Range]]
+	|isdlc=1
+	|#default=-
+}}
+|axolotl = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats=Your highest ({{Color|green|Max HP}}) and lowest ({{Color|green|Max HP}}) positive primary stats are swapped when you get this item
+	|price=130
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=
+	|isdlc=1
+	|#default=-
+}}
+|baby elephant = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|25%}} chance to deal {{Color|green|1}} ({{Color|green|25%{{StatIcon|Luck}}}}) damage to a random enemy when you pick up a material
+	|price=22
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Luck]], [[Pickup]]
+	|isdlc=-
+	|#default=-
+}}
+|baby gecko = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+10}} Range<br>{{Color|green|+25%}} chance to instantly attract a material when it’s dropped
+	|price=18
+	|unique=
+	|unlockedby=
+	|limit=4
+	|tags=[[Pickup]], [[Range]]
+	|isdlc=-
+	|#default=-
+}}
+|baby squid = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+1}} {{Color|green|HP Regeneration}} when you level up<br>{{Color|red|-3}} % Attack Speed
+	|price=55
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[HP Regeneration]]
+	|isdlc=1
+	|#default=-
+}}
+|baby with a beard = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=One bullet dealing {{Color|green|1}} ({{Color|green|+100%{{StatIcon|Ranged Damage}}}}) damage is fired from an enemy corpse when they die<br>{{Color|red|-50}} Range
+	|price=100
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Ranged Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|bag = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+15}} materials when you pick up a crate<br>{{Color|red|-1}} % Speed
+	|price=15
+	|unique=
+	|unlockedby=
+	|limit=3
+	|tags=[[Luck]], [[Exploration]], [[Economy]]
+	|isdlc=-
+	|#default=-
+}}
+|bait = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+8}} % Damage<br>Special enemies appear at the beginning of the next wave
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Damage]], [[Number of Enemies]]
+	|isdlc=-
+	|#default=-
+}}
+|ball and chain = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+15}} % Damage<br>{{Color|green|+3}} Armor<br>{{Color|green|+5}} Knockback<br>{{Color|red|-3}} % Speed<br>Weapons have a minimum cooldown of {{Color|red|0.75}} seconds between attacks
+	|price=75
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Damage]], [[Armor]], [[Knockback]]
+	|isdlc=-
+	|#default=-
+}}
+|bandana = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=Projectiles pierce through {{Color|green|1}} additional target<br>{{Color|red|-10}} % Damage
+	|price=75
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Ranged Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|ban system = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats=
+	|price=
+	|unique=
+	|unlockedby=Win a run in Danger 3 or more
+	|limit=
+	|tags=
+	|isdlc=
+	|#default=-
+}}
+|banner = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+20}} Range<br>{{Color|green|+10}} % Attack Speed<br>{{Color|red|-5}} Knockback
+	|price=55
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Range]], [[Attack Speed]]
+	|isdlc=-
+	|#default=-
+}}
+|barnacle = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+35%}} stats gained from level upgrades<br>{{Color|curse|+1}} {{Color|curse|Curse}} when you level up
+	|price=80
+	|unique=true
+	|unlockedby=Win a run with [[File:Creature.png|link=Creature|x30px]] [[Creature]]
+	|limit=1
+	|tags=[[Curse]], [[XP Gain]]
+	|isdlc=1
+	|#default=-
+}}
+|barricade = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+3}} Knockback<br>{{Color|green|+8}} {{Color|green|Armor}} while standing still<br>{{Color|red|-5}} % Speed
+	|price=75
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Armor]], [[Stand Still]], [[Knockback]]
+	|isdlc=-
+	|#default=-
+}}
+|bat = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+2}} % Life Steal<br>{{Color|red|-2}} Harvesting
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Life Steal]]
+	|isdlc=-
+	|#default=-
+}}
+|bean teacher = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+50}} % XP Gain<br>{{Color|red|-2}} % Life Steal
+	|price=70
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[XP Gain]]
+	|isdlc=-
+	|#default=-
+}}
+|beanie = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+4}} % Speed<br>{{Color|red|-6}} Range
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Speed]]
+	|isdlc=-
+	|#default=-
+}}
+|big arms = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+12}} Melee Damage<br>{{Color|green|+6}} Ranged Damage<br>{{Color|green|+3}} Knockback<br>{{Color|red|-3}} % Attack Speed<br>{{Color|red|-3}} % Speed
+	|price=105
+	|unique=
+	|unlockedby=Win a run with [[File:Generalist.png|link=Generalist|x30px]] [[Generalist]]
+	|limit=
+	|tags=[[Melee Damage]], [[Ranged Damage]], [[Knockback]]
+	|isdlc=-
+	|#default=-
+}}
+|black belt = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+25}} % XP Gain<br>{{Color|green|+3}} Melee Damage<br>{{Color|green|+3}} Knockback<br>{{Color|red|-8}} Luck
+	|price=50
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Melee Damage]], [[XP Gain]], [[Knockback]]
+	|isdlc=-
+	|#default=-
+}}
+|black flag = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+1}} material when you kill a cursed enemy<br>+10% Enemies<br>{{Color|red|+10}} % Enemy health<br>{{Color|red|+10}} % Enemy damage<br>{{Color|curse|+5}} Curse
+	|price=60
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Curse]], [[More Enemies]]
+	|isdlc=1
+	|#default=-
+}}
+|blindfold = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+5}} % Crit Chance<br>{{Color|green|+5}} % Dodge<br>{{Color|red|-15}} Range
+	|price=45
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Crit Chance]], [[Dodge]]
+	|isdlc=-
+	|#default=-
+}}
+|blood donation = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+40}} Harvesting<br>You take {{Color|red|1}} damage per second (does not give invulnerability time)
+	|price=50
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Harvesting]]
+	|isdlc=-
+	|#default=-
+}}
+|blood leech = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+2}} % Life Steal<br>{{Color|green|+2}} HP Regeneration<br>{{Color|red|-3}} Harvesting
+	|price=45
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Life Steal]], [[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|bloody hand = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+10}} % Life Steal<br>{{Color|green|+2}} {{Color|green|% Damage}} for every {{Color|green|1}} {{Color|green|% Life Steal}} you have <br>You take {{Color|red|1}} damage per second (does not give invulnerability time)
+	|price=110
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Life Steal]]
+	|isdlc=-
+	|#default=-
+}}
+|boiling water = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+2}} Elemental Damage<br>{{Color|red|-1}} Max HP
+	|price=30
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|bone dice = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+50%}} chance to get {{Color|green|+1}} {{Color|green|% Damage}} when rerolling in the shop<br>{{Color|red|+10%}} chance to get {{Color|red|-1}} {{Color|red|Max HP}} when rerolling in the shop
+	|price=30
+	|unique=
+	|unlockedby=
+	|limit=2
+	|tags=[[Damage]]
+	|isdlc=1
+	|#default=-
+}}
+|book = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+1}} Engineering
+	|price=8
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Engineering]]
+	|isdlc=-
+	|#default=-
+}}
+|bowler hat = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+15}} Luck<br>{{Color|green|+18}} Harvesting<br>{{Color|red|-5}} % Attack Speed<br>{{Color|red|-3}} % Crit Chance
+	|price=75
+	|unique=
+	|unlockedby=Win a run with [[File:Entrepreneur.png|link=Entrepreneur|x30px]] [[Entrepreneur]]
+	|limit=
+	|tags=[[Luck]], [[Harvesting]]
+	|isdlc=-
+	|#default=-
+}}
+|boxing glove = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+1}} Melee Damage<br>{{Color|green|+3}} Knockback
+	|price=18
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Melee Damage]], [[Knockback]]
+	|isdlc=-
+	|#default=-
+}}
+|broken hourglass = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats=This hourglass broke after resetting the wave counter, also losing all its effects.<br>Start the next wave with 1 HP
+	|price=1
+	|unique=
+	|unlockedby=
+	|limit=0
+	|tags=
+	|isdlc=-
+	|#default=-
+}}
+|broken mirror = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=This mirror duplicated an item
+	|price=1
+	|unique=
+	|unlockedby=
+	|limit=0
+	|tags=
+	|isdlc=-
+	|#default=-
+}}
+|broken mouth = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+5}} Max HP<br>{{Color|red|-1}} HP Regeneration
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Max HP]]
+	|isdlc=-
+	|#default=-
+}}
+|builder's turret = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats=This turret's stats are derived from your best ranged weapon's base stats and scale with {{Color|green|Engineering}} ({{Color|green|-}})<br>{{Color|green|+1}} projectile when you reach {{Color|green|30}} {{Color|green|Structure Range}}
+	|price=1
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=
+	|isdlc=1
+	|#default=-
+}}
+|builder's turret ii = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats=This turret's stats are derived from your best ranged weapon's base stats and scale with {{Color|green|Engineering}} ({{Color|green|-}})<br>{{Color|green|+1}} projectile<br>{{Color|green|+1}} projectile when you reach {{Color|green|150}} {{Color|green|Structure Range}}
+	|price=1
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=
+	|isdlc=1
+	|#default=-
+}}
+|builder's turret iii = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=This turret's stats are derived from your best ranged weapon's base stats and scale with {{Color|green|Engineering}} ({{Color|green|-}})<br>{{Color|green|+2}} projectiles<br>{{Color|green|+1}} projectile when you reach {{Color|green|300}} {{Color|green|Structure Range}}
+	|price=1
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=
+	|isdlc=1
+	|#default=-
+}}
+|builder's turret iv = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats=This turret's stats are derived from your best ranged weapon's base stats and scale with {{Color|green|Engineering}} ({{Color|green|-}})<br>{{Color|green|+3}} projectiles
+	|price=1
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=
+	|isdlc=1
+	|#default=-
+}}
+|butterfly = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+2}} % Life Steal<br>{{Color|red|-1}} Elemental Damage
+	|price=30
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Life Steal]]
+	|isdlc=-
+	|#default=-
+}}
+|cake = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+3}} Max HP<br>{{Color|red|-1}} % Damage
+	|price=15
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Max HP]]
+	|isdlc=-
+	|#default=-
+}}
+|campfire = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+2}} Elemental Damage<br>{{Color|green|+2}} HP Regeneration<br>{{Color|red|-2}} % Speed
+	|price=40
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Elemental Damage]], [[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|candle = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+4}} Elemental Damage<br>{{Color|green|+1}} HP Regeneration<br>-10% Enemies<br>{{Color|red|-5}} % Damage
+	|price=65
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Elemental Damage]], [[HP Regeneration]], [[Less Enemies]]
+	|isdlc=-
+	|#default=-
+}}
+|candy bag = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=Each wave grants {{Color|green|8}} points randomly split between your primary stats<br>Each wave, {{Color|red|10%}} chance to spawn an additional elite
+	|price=70
+	|unique=true
+	|unlockedby=Win a run without locking any items in the shop
+	|limit=1
+	|tags=
+	|isdlc=-
+	|#default=-
+}}
+|cape = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+5}} % Life Steal<br>{{Color|green|+20}} % Dodge<br>{{Color|red|-2}} Melee Damage<br>{{Color|red|-2}} Ranged Damage<br>{{Color|red|-2}} Elemental Damage
+	|price=110
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Life Steal]], [[Dodge]]
+	|isdlc=-
+	|#default=-
+}}
+|cauldron = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+50%}} pickup range<br>{{Color|green|+20}} {{Color|green|% Damage}} for {{Color|green|2}} seconds after picking up a consumable<br>{{Color|red|-2}} HP Regeneration
+	|price=35
+	|unique=true
+	|unlockedby=Win a run with [[File:Druid.png|link=Druid|x30px]] [[Druid]]
+	|limit=1
+	|tags=[[Pickup]]
+	|isdlc=1
+	|#default=-
+}}
+|celery tea = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+5}} {{Color|green|% XP Gain}} at the end of a wave<br>{{Color|green|+50}} {{Color|green|% XP Gain}} during the next wave<br>{{Color|red|+100}} {{Color|red|% Enemy health}} during the next wave
+	|price=35
+	|unique=
+	|unlockedby=Win a run with [[File:Baby.png|link=Baby|x30px]] [[Baby]]
+	|limit=
+	|tags=[[XP Gain]]
+	|isdlc=-
+	|#default=-
+}}
+|chameleon = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+3}} % Dodge<br>{{Color|green|+20}} {{Color|green|% Dodge}} while standing still<br>{{Color|red|-4}} % Damage
+	|price=70
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Dodge]], [[Stand Still]]
+	|isdlc=-
+	|#default=-
+}}
+|charcoal = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+1}} Elemental Damage<br>{{Color|green|+2}} Melee Damage<br>{{Color|red|-2}} Harvesting
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Elemental Damage]], [[Melee Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|claw tree = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+1}} Melee Damage<br>{{Color|green|+3}} % Crit Chance<br>{{Color|red|-1}} Max HP
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Melee Damage]], [[Crit Chance]]
+	|isdlc=-
+	|#default=-
+}}
+|clockwork wasp = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+10}} % Structure attack speed<br>{{Color|green|+5}} % Speed
+	|price=45
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Structure (Item Tag)|Structure]], [[Speed]]
+	|isdlc=-
+	|#default=-
+}}
+|clover = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+20}} Luck<br>{{Color|green|+6}} % Dodge<br>{{Color|red|-2}} % Life Steal
+	|price=65
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Luck]], [[Dodge]]
+	|isdlc=-
+	|#default=-
+}}
+|coffee = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+10}} % Attack Speed<br>{{Color|red|-2}} % Damage
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Attack Speed]]
+	|isdlc=-
+	|#default=-
+}}
+|cog = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+4}} Engineering<br>{{Color|green|+1}} Knockback<br>{{Color|red|-4}} % Damage
+	|price=35
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Engineering]], [[Knockback]]
+	|isdlc=-
+	|#default=-
+}}
+|coil = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+5}} Knockback<br>{{Color|green|+1}} {{Color|green|% Damage}} for every {{Color|green|1}} {{Color|green|Knockback}} you have 
+	|price=70
+	|unique=
+	|unlockedby=
+	|limit=3
+	|tags=[[Damage]], [[Knockback]]
+	|isdlc=-
+	|#default=-
+}}
+|community support = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+1}} {{Color|green|% Attack Speed}} for every current living enemy <br>{{Color|red|-2}} Armor
+	|price=75
+	|unique=true
+	|unlockedby=Win a run with [[File:Streamer.png|link=Streamer|x30px]] [[Streamer]]
+	|limit=1
+	|tags=[[Attack Speed]]
+	|isdlc=-
+	|#default=-
+}}
+|compass = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+5}} % Speed<br>{{Color|green|+3}} Engineering<br>{{Color|red|-3}} % Crit Chance
+	|price=40
+	|unique=
+	|unlockedby=Win a run with [[File:Explorer.png|link=Explorer|x30px]] [[Explorer]]
+	|limit=
+	|tags=[[Speed]], [[Engineering]]
+	|isdlc=-
+	|#default=-
+}}
+|coral = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+10}} {{Color|green|HP Regeneration}} while standing still<br>{{Color|red|-10}} Range
+	|price=40
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[HP Regeneration]], [[Stand Still]]
+	|isdlc=1
+	|#default=-
+}}
+|corrupted shard = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+3}} % Damage<br>{{Color|curse|+1}} Curse
+	|price=12
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Damage]], [[Curse]]
+	|isdlc=1
+	|#default=-
+}}
+|coupon = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|-5}} % Items Price
+	|price=15
+	|unique=
+	|unlockedby=
+	|limit=5
+	|tags=[[Economy]]
+	|isdlc=-
+	|#default=-
+}}
+|crown = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=Harvesting increases by an additional {{Color|green|8%}} at the end of a wave
+	|price=70
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Harvesting]]
+	|isdlc=-
+	|#default=-
+}}
+|crystal = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+5}} % Attack Speed<br>{{Color|green|+1}} {{Color|green|% Attack Speed}} every 1 second until the end of the wave<br>Bonus is lost when taking damage<br>{{Color|red|-2}} Engineering
+	|price=65
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Attack Speed]]
+	|isdlc=1
+	|#default=-
+}}
+|cute monkey = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+8%}} chance to heal 1 HP when picking up a material<br>{{Color|red|-1}} Ranged Damage
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=13
+	|tags=[[Pickup]]
+	|isdlc=-
+	|#default=-
+}}
+|cyberball = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|25%}} chance to deal {{Color|green|1}} ({{Color|green|25%{{StatIcon|Luck}}}}) damage to a random enemy when an enemy dies
+	|price=30
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Luck]]
+	|isdlc=-
+	|#default=-
+}}
+|cyclops worm = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+12}} % Damage<br>{{Color|red|-12}} Range
+	|price=45
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|dangerous bunny = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+1}} free reroll in the shop
+	|price=30
+	|unique=
+	|unlockedby=
+	|limit=3
+	|tags=[[Economy]]
+	|isdlc=-
+	|#default=-
+}}
+|decomposing flesh = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+1}} {{Color|green|% Life Steal}} when you level up<br>{{Color|red|-1}} {{Color|red|Max HP}} when you level up
+	|price=30
+	|unique=
+	|unlockedby=Win a run with [[File:Vampire.png|link=Vampire|x30px]] [[Vampire]]
+	|limit=
+	|tags=[[Life Steal]]
+	|isdlc=-
+	|#default=-
+}}
+|defective steroids = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+2}} Max HP<br>{{Color|green|+2}} Melee Damage<br>{{Color|red|-3}} % Attack Speed
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Max HP]], [[Melee Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|diploma = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+10}} Engineering<br>{{Color|green|+50}} % XP Gain<br>{{Color|red|-3}} Max HP
+	|price=90
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Engineering]], [[XP Gain]]
+	|isdlc=-
+	|#default=-
+}}
+|duct tape = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+1}} Armor<br>{{Color|green|+1}} Engineering<br>{{Color|red|-2}} Max HP
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Armor]], [[Engineering]]
+	|isdlc=-
+	|#default=-
+}}
+|dynamite = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+15}} % Explosion Damage
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Explosive (Item Tag)|Explosive]]
+	|isdlc=-
+	|#default=-
+}}
+|energy bracelet = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+4}} % Crit Chance<br>{{Color|green|+2}} Elemental Damage<br>{{Color|red|-2}} Ranged Damage
+	|price=55
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Crit Chance]], [[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|esty's couch
+|esty’s couch = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+5}} Max HP<br>{{Color|green|+2}} {{Color|green|HP Regeneration}} for every permanent {{Color|red|-1}} {{Color|red|% Speed}} you have <br>{{Color|red|-20}} % Speed
+	|price=100
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[HP Regeneration]], [[Max HP]]
+	|isdlc=-
+	|#default=-
+}}
+|exoskeleton = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+3}} Armor<br>{{Color|green|+5}} % Crit Chance<br>{{Color|green|+5}} Engineering<br>{{Color|green|+5}} % Speed<br>{{Color|red|-2}} HP Regeneration<br>{{Color|red|-2}} % Life Steal
+	|price=90
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Armor]], [[Crit Chance]], [[Engineering]], [[Speed]]
+	|isdlc=-
+	|#default=-
+}}
+|explosive shells = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+60}} % Explosion Damage<br>{{Color|green|+15}} % Explosion Size<br>{{Color|red|-15}} % Damage
+	|price=100
+	|unique=
+	|unlockedby=Win a run with [[File:Artificer.png|link=Artificer|x30px]] [[Artificer]]
+	|limit=
+	|tags=[[Explosive (Item Tag)|Explosive]]
+	|isdlc=-
+	|#default=-
+}}
+|explosive turret = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats=Spawns a turret that shoots explosive bullets dealing {{Color|green|25}} ({{Color|green|+150%{{StatIcon|Engineering}}}}) damage in an area
+	|price=80
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Engineering]], [[Structure (Item Tag)|Structure]]
+	|isdlc=-
+	|#default=-
+}}
+|extra stomach = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+1}} {{Color|green|Max HP}} when picking up a consumable while at maximum health (max {{Color|green|+8}} per wave)
+	|price=100
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Max HP]], [[Luck]]
+	|isdlc=-
+	|#default=-
+}}
+|eyepatch = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats=Projectiles get {{Color|green|+1}} piercing on critical hit<br>{{Color|green|+3}} % Crit Chance<br>{{Color|red|-10%}} Accuracy
+	|price=55
+	|unique=
+	|unlockedby=Win a run with [[File:Buccaneer.png|link=Buccaneer|x30px]] [[Buccaneer]]
+	|limit=
+	|tags=[[Crit Chance]], [[Ranged Damage]]
+	|isdlc=1
+	|#default=-
+}}
+|eyes surgery = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats=Burning activates {{Color|green|20%}} faster<br>{{Color|green|+1}} Elemental Damage<br>{{Color|red|-10}} Range
+	|price=60
+	|unique=
+	|unlockedby=
+	|limit=2
+	|tags=[[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|fairy = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+1}} {{Color|green|HP Regeneration}} for every different {{Color|green|Tier I item}} you have <br>{{Color|red|-3}} {{Color|red|HP Regeneration}} for every different {{Color|red|Tier IV item}} you have 
+	|price=85
+	|unique=true
+	|unlockedby=Win a run with [[File:Renegade.png|link=Renegade|x30px]] [[Renegade]]
+	|limit=1
+	|tags=[[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|feather = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+1}} Ranged Damage<br>{{Color|green|+3}} % Dodge<br>{{Color|red|-3}} % XP Gain
+	|price=18
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Ranged Damage]], [[Dodge]]
+	|isdlc=1
+	|#default=-
+}}
+|fertilizer = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+8}} Harvesting<br>{{Color|red|-1}} Melee Damage
+	|price=15
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Harvesting]]
+	|isdlc=-
+	|#default=-
+}}
+|fin = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+10}} % Speed<br>{{Color|green|+3}} % Life Steal<br>{{Color|red|-8}} Luck
+	|price=65
+	|unique=
+	|unlockedby=Win a run with [[File:Speedy.png|link=Speedy|x30px]] [[Speedy]]
+	|limit=
+	|tags=[[Speed]], [[Life Steal]]
+	|isdlc=-
+	|#default=-
+}}
+|fish hook = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats=Locked items and weapons have a {{Color|green|20%}} chance to become cursed when leaving the shop<br>{{Color|curse|+1}} Curse
+	|price=35
+	|unique=
+	|unlockedby=
+	|limit=3
+	|tags=[[Curse]], [[Lock (Item Tag)]]
+	|isdlc=1
+	|#default=-
+}}
+|focus = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+30}} % Damage<br>{{Color|red|-3}} {{Color|red|% Attack Speed}} for every different weapon you have 
+	|price=110
+	|unique=
+	|unlockedby=Win a run with [[File:One Armed.png|link=One Armed|x30px]] [[One Armed]]
+	|limit=
+	|tags=[[Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|fresh meat = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+2}} % Life Steal<br>{{Color|red|-1}} HP Regeneration
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Life Steal]]
+	|isdlc=-
+	|#default=-
+}}
+|fried rice = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+1}} {{Color|green|HP Regeneration}} for every currently burning enemy 
+	|price=60
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|frozen heart = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+8}} Elemental Damage<br>{{Color|green|+5}} % Crit Chance<br>Weapon damage additionally scales with {{Color|green|10%}} {{Color|green|Elemental Damage}}<br>Burning activates {{Color|red|100%}} slower
+	|price=90
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Elemental Damage]], [[Crit Chance]]
+	|isdlc=-
+	|#default=-
+}}
+|fruit basket = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats=Enemies have a higher chance of dropping fruits<br>{{Color|red|-3}} HP Regeneration
+	|price=45
+	|unique=
+	|unlockedby=Collect 100 fruits while at maximum health
+	|limit=4
+	|tags=[[Consumable (Item Tag)|Consumable]]
+	|isdlc=-
+	|#default=-
+}}
+|fuel tank = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+4}} Elemental Damage<br>{{Color|red|-1}} Melee Damage<br>{{Color|red|-1}} Ranged Damage
+	|price=45
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|gambling token = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+8}} % Dodge<br>{{Color|red|-1}} Armor
+	|price=50
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Dodge]]
+	|isdlc=-
+	|#default=-
+}}
+|garden = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats=Spawns a garden that creates a fruit every {{Color|green|15}} seconds
+	|price=50
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Consumable (Item Tag)|Consumable]], [[Structure (Item Tag)|Structure]]
+	|isdlc=-
+	|#default=-
+}}
+|gentle alien = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+2}} Max HP<br>{{Color|green|+5}} % Damage<br>+5% Enemies
+	|price=30
+	|unique=
+	|unlockedby=
+	|limit=10
+	|tags=[[Max HP]], [[Damage]], [[More Enemies]]
+	|isdlc=-
+	|#default=-
+}}
+|ghost outfit = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=Dodge is capped at {{Color|green|70%}}<br>{{Color|green|+10}}% Dodge<br>{{Color|red|-5}}% Speed<br>{{Color|red|-3}} Armor
+	|price=80
+	|unique=true
+	|unlockedby=Reach 70% Dodge
+	|limit=1
+	|tags=[[Dodge]]
+	|isdlc=-
+	|#default=-
+}}
+|giant belt = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats=Critical hits deal {{Color|green|10%}} of an enemy’s current health as bonus damage ({{Color|green|1%}} for bosses and elites)
+	|price=110
+	|unique=true
+	|unlockedby=Win a run with [[File:Jack.png|link=Jack|x30px]] [[Jack]]
+	|limit=1
+	|tags=[[Crit Chance]]
+	|isdlc=-
+	|#default=-
+}}
+|glass cannon = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+25}} % Damage<br>{{Color|red|-3}} Armor
+	|price=75
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|glasses = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+20}} Range
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Range]]
+	|isdlc=-
+	|#default=-
+}}
+|gnome = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+10}} Melee Damage<br>{{Color|green|+10}} Elemental Damage<br>{{Color|red|-20}} Range<br>{{Color|red|-20%}} pickup range
+	|price=100
+	|unique=
+	|unlockedby=Win a run with [[File:Bull.png|link=Bull|x30px]] [[Bull]]
+	|limit=
+	|tags=[[Melee Damage]], [[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|goat skull = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+3}} Melee Damage<br>{{Color|red|-2}} % Crit Chance
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Melee Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|gobbler's hat = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+70%}} materials dropped<br>{{Color|red|-15}}% Speed<br>{{Color|red|-10}}% Dodge
+	|price=130
+	|unique=true
+	|unlockedby=Kill the Gobbler 5 times
+	|limit=1
+	|tags=
+	|isdlc=-
+	|#default=-
+}}
+|goblet = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+15%}} chance to heal 1 HP when killing an enemy<br>{{Color|red|-3}} HP Regeneration
+	|price=70
+	|unique=
+	|unlockedby=
+	|limit=3
+	|tags=
+	|isdlc=1
+	|#default=-
+}}
+|goldfish = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=Items will be {{Color|green|1}} tier higher after the next reroll
+	|price=23
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=
+	|isdlc=1
+	|#default=-
+}}
+|greek fire = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats=Burning deals an additional {{Color|green|10%}} of current enemy HP as damage ({{Color|green|1%}} for bosses and elites)
+	|price=100
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|grind's magical leaf = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+3}} {{Color|green|Max HP}} at the end of a wave<br>{{Color|green|+1}} {{Color|green|HP Regeneration}} at the end of a wave<br>{{Color|green|+1}} {{Color|green|% Life Steal}} at the end of a wave
+	|price=110
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Max HP]], [[HP Regeneration]], [[Life Steal]]
+	|isdlc=-
+	|#default=-
+}}
+|gummy berserker = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+5}} % Attack Speed<br>{{Color|green|+25}} Range<br>{{Color|red|-1}} Armor
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Attack Speed]], [[Range]]
+	|isdlc=-
+	|#default=-
+}}
+|handcuffs = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+8}} Melee Damage<br>{{Color|green|+8}} Ranged Damage<br>{{Color|green|+8}} Elemental Damage<br>Your Max HP is capped at its current value
+	|price=80
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Melee Damage]], [[Ranged Damage]], [[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|head injury = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+6}} % Damage<br>{{Color|red|-8}} Range
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|heavy bullets = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+5}} Ranged Damage<br>{{Color|green|+10}} % Damage<br>{{Color|green|+10}} Range<br>{{Color|red|-5}} % Attack Speed<br>{{Color|red|-5}} % Crit Chance
+	|price=100
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Ranged Damage]], [[Damage]], [[Range]]
+	|isdlc=-
+	|#default=-
+}}
+|hedgehog = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+2}} Melee Damage<br>{{Color|green|+1}} Ranged Damage<br>{{Color|red|-1}} HP Regeneration
+	|price=30
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Melee Damage]], [[Ranged Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|helmet = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+1}} Armor<br>{{Color|red|-2}} % Speed
+	|price=15
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Armor]]
+	|isdlc=-
+	|#default=-
+}}
+|honey = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+3}} Ranged Damage<br>{{Color|green|+10}} % Explosion Damage<br>{{Color|green|+5}} % Explosion Size<br>{{Color|red|-3}} % Speed<br>{{Color|red|-3}} % Dodge
+	|price=70
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Ranged Damage]], [[Explosive (Item Tag)|Explosive]]
+	|isdlc=-
+	|#default=-
+}}
+|hourglass = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats=Turns back time, decreasing the current wave count by {{Color|green|1}}<br>Start the next wave with 1 HP
+	|price=100
+	|unique=true
+	|unlockedby=During the last 5 seconds of a wave after wave 2, press 'Return to Main Menu'. Then press 'Resume' to try the wave again.
+	|limit=1
+	|tags=
+	|isdlc=-
+	|#default=-
+}}
+|hunting trophy = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|33%}} chance to gain 1 material when killing an enemy with a critical hit
+	|price=55
+	|unique=
+	|unlockedby=Win a run with [[File:Crazy.png|link=Crazy|x30px]] [[Crazy]]
+	|limit=3
+	|tags=[[Crit Chance]]
+	|isdlc=-
+	|#default=-
+}}
+|ice cube = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats=Enemies take {{Color|green|10%}} more damage for {{Color|green|3}} seconds when first hit by {{Color|green|Elemental Damage}}
+	|price=50
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|improved tools = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+10}} % Attack Speed<br>Increases the attack speed of your structures by 0% ({{Color|green|50%{{StatIcon|Attack Speed}}}})
+	|price=70
+	|unique=true
+	|unlockedby=Win a run with [[File:Cyborg.png|link=Cyborg|x30px]] [[Cyborg]]
+	|limit=1
+	|tags=[[Structure (Item Tag)|Structure]], [[Attack Speed]]
+	|isdlc=-
+	|#default=-
+}}
+|incendiary turret = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats=Spawns a turret that shoots flames dealing 8x{{Color|green|5}} ({{Color|green|+33%{{StatIcon|Engineering}}}}) burning damage
+	|price=40
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Engineering]], [[Structure (Item Tag)|Structure]]
+	|isdlc=-
+	|#default=-
+}}
+|injection = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+7}} % Damage<br>{{Color|red|-2}} Max HP
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|insanity = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+6}} % Crit Chance<br>{{Color|red|-3}} % Damage
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Crit Chance]]
+	|isdlc=-
+	|#default=-
+}}
+|jelly = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+1}} {{Color|green|Max HP}} for every different weapon you have 
+	|price=15
+	|unique=
+	|unlockedby=Win a run with [[File:Vagabond.png|link=Vagabond|x30px]] [[Vagabond]]
+	|limit=
+	|tags=[[Max HP]]
+	|isdlc=-
+	|#default=-
+}}
+|jerky = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+3}} HP recovered from consumables<br>Consumables heal you over {{Color|green|4}} seconds instead of instantly
+	|price=50
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Consumable (Item Tag)|Consumable]]
+	|isdlc=1
+	|#default=-
+}}
+|jet pack = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+15}} % Speed<br>{{Color|green|+10}} % Dodge<br>{{Color|red|-5}} Max HP<br>{{Color|red|-1}} Armor
+	|price=100
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Speed]], [[Dodge]]
+	|isdlc=-
+	|#default=-
+}}
+|knot = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+15}} % Damage<br>{{Color|green|+15}} Max HP<br>Weapons can no longer be upgraded or recycled
+	|price=80
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Damage]], [[Max HP]]
+	|isdlc=1
+	|#default=-
+}}
+|kraken's eye = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats=You have a {{Color|green|50%}} chance to explode for {{Color|green|10}} ({{Color|green|+500%{{StatIcon|Curse}}}}) damage when you get hit<br>{{Color|green|+10}} Max HP<br>{{Color|curse|+10}} Curse
+	|price=110
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Explosive (Item Tag)|Explosive]], [[Max HP]], [[Curse]]
+	|isdlc=1
+	|#default=-
+}}
+|landmines = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats=A landmine spawns every {{Color|green|12}} seconds dealing {{Color|green|10}} ({{Color|green|+100%{{StatIcon|Engineering}}}}) damage in an area
+	|price=15
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Engineering]], [[Explosive (Item Tag)|Explosive]], [[Structure (Item Tag)|Structure]]
+	|isdlc=-
+	|#default=-
+}}
+|lantern = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+10}} % Damage<br>{{Color|green|+50}} Range<br>{{Color|green|+15}} Knockback<br>Knocks nearby enemies back every {{Color|green|3}} seconds
+	|price=100
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags= [[Damage]], [[Range]], [[Knockback]]
+	|isdlc=1
+	|#default=-
+}}
+|laser turret = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=Spawns a turret that shoots piercing bullets dealing {{Color|green|20}} ({{Color|green|+125%{{StatIcon|Engineering}}}}) damage
+	|price=65
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Engineering]], [[Structure (Item Tag)|Structure]]
+	|isdlc=-
+	|#default=-
+}}
+|leather vest = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+2}} Armor<br>{{Color|green|+6}} % Dodge<br>{{Color|red|-3}} Max HP
+	|price=45
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Armor]], [[Dodge]]
+	|isdlc=-
+	|#default=-
+}}
+|lemonade = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+1}} HP recovered from consumables
+	|price=15
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Consumable (Item Tag)|Consumable]]
+	|isdlc=-
+	|#default=-
+}}
+|lens = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+1}} Ranged Damage<br>{{Color|red|-5}} Range
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Ranged Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|lighthouse = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+20}} Engineering<br>{{Color|red|-1}} {{Color|red|Engineering}} for every {{Color|green|1}} {{Color|green|Structure}} you have 
+	|price=80
+	|unique=true
+	|unlockedby=Win a run with [[File:Builder.png|link=Builder|x30px]] [[Builder]]
+	|limit=1
+	|tags=[[Engineering]]
+	|isdlc=1
+	|#default=-
+}}
+|little frog = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+20%}} pickup range<br>{{Color|green|+10}} Harvesting<br>{{Color|red|-3}} % Dodge
+	|price=45
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Harvesting]], [[Pickup]]
+	|isdlc=-
+	|#default=-
+}}
+|little muscley dude = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+3}} Melee Damage<br>{{Color|green|+5}} Max HP<br>{{Color|red|-15}} Range
+	|price=50
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Melee Damage]], [[Max HP]]
+	|isdlc=-
+	|#default=-
+}}
+|lost duck = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+8}} Luck<br>{{Color|red|-1}} Elemental Damage
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Luck]]
+	|isdlc=-
+	|#default=-
+}}
+|lucky charm = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+30}} Luck<br>{{Color|red|-2}} Melee Damage<br>{{Color|red|-1}} Ranged Damage
+	|price=75
+	|unique=
+	|unlockedby=Win a run with [[File:Lucky.png|link=Lucky|x30px]] [[Lucky]]
+	|limit=
+	|tags=[[Luck]]
+	|isdlc=-
+	|#default=-
+}}
+|lucky coin = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+2}} {{Color|green|Luck}} for every {{Color|green|1}} {{Color|green|% Crit Chance}} you have <br>{{Color|red|-2}} Armor
+	|price=105
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Crit Chance]], [[Luck]]
+	|isdlc=-
+	|#default=-
+}}
+|lumberjack shirt = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats=Trees die in one hit
+	|price=15
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Exploration]]
+	|isdlc=-
+	|#default=-
+}}
+|lure = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+2}} HP Regeneration<br>{{Color|green|2}} additional loot aliens appear during the next wave
+	|price=34
+	|unique=
+	|unlockedby=Win a run with [[File:Fisherman.png|link=Fisherman|x30px]] [[Fisherman]]
+	|limit=
+	|tags=[[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|mammoth = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+20}} Melee Damage<br>{{Color|green|+5}} HP Regeneration<br>{{Color|green|+5}} Knockback<br>{{Color|red|-8}} % Damage<br>{{Color|red|-3}} % Speed
+	|price=110
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Melee Damage]], [[HP Regeneration]], [[Knockback]]
+	|isdlc=-
+	|#default=-
+}}
+|mastery = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+6}} Melee Damage<br>{{Color|red|-3}} Ranged Damage
+	|price=55
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Melee Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|medal = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+3}} Max HP<br>{{Color|green|+3}} % Damage<br>{{Color|green|+1}} Armor<br>{{Color|green|+3}} % Speed<br>{{Color|red|-4}} % Crit Chance
+	|price=55
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Max HP]], [[Damage]], [[Armor]], [[Speed]]
+	|isdlc=-
+	|#default=-
+}}
+|medical turret = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats=Spawns a medical turret that shoots bullets healing {{Color|green|3}} ({{Color|green|+5%{{StatIcon|Engineering}}}}) HP
+	|price=40
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Engineering]], [[Structure (Item Tag)|Structure]]
+	|isdlc=-
+	|#default=-
+}}
+|medikit = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+10}} HP Regeneration<br>{{Color|green|+2}} {{Color|green|HP Regeneration}} every 5 seconds until the end of the wave<br>{{Color|red|-10}} Luck
+	|price=95
+	|unique=
+	|unlockedby=Win a run with [[File:Doctor.png|link=Doctor|x30px]] [[Doctor]]
+	|limit=
+	|tags=[[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|metal detector = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+5%}} chance to double the value of picked up materials<br>{{Color|green|+6}} Luck<br>{{Color|green|+2}} Engineering<br>{{Color|red|-5}} % Damage
+	|price=40
+	|unique=
+	|unlockedby=
+	|limit=20
+	|tags=[[Luck]], [[Engineering]], [[Pickup]], [[Economy]]
+	|isdlc=-
+	|#default=-
+}}
+|metal plate = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+2}} Armor<br>{{Color|red|-3}} % Damage
+	|price=40
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Armor]]
+	|isdlc=-
+	|#default=-
+}}
+|mirror = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=Duplicates the next item you get from the shop (item limits can't be exceeded)
+	|price=60
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=
+	|isdlc=1
+	|#default=-
+}}
+|missile = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+10}} % Damage<br>{{Color|red|-4}} % Attack Speed
+	|price=45
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|mouse = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+5}} % Life Steal<br>+10% Enemies<br>{{Color|red|-5}} Harvesting
+	|price=55
+	|unique=
+	|unlockedby=
+	|limit=5
+	|tags=[[Life Steal]], [[More Enemies]]
+	|isdlc=-
+	|#default=-
+}}
+|mushroom = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+3}} HP Regeneration<br>{{Color|red|-2}} Luck
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|mutation = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+1}} Ranged Damage<br>{{Color|green|+1}} Elemental Damage<br>{{Color|red|-3}} Knockback
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Ranged Damage]], [[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|nail = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+5}} Engineering<br>Weapon damage additionally scales with {{Color|green|20%}} {{Color|green|Engineering}}<br>{{Color|red|-2}} Ranged Damage
+	|price=65
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Engineering]]
+	|isdlc=-
+	|#default=-
+}}
+|night goggles = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+15}} % Crit Chance<br>{{Color|green|+50}} Range<br>{{Color|red|-3}} Max HP<br>{{Color|red|-1}} Armor
+	|price=95
+	|unique=
+	|unlockedby=Win a run with [[File:Ranger.png|link=Ranger|x30px]] [[Ranger]]
+	|limit=
+	|tags=[[Crit Chance]], [[Range]]
+	|isdlc=-
+	|#default=-
+}}
+|octopus = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+12}} Max HP<br>{{Color|green|+5}} HP Regeneration<br>{{Color|green|+3}} % Life Steal<br>{{Color|red|-8}} % Crit Chance
+	|price=105
+	|unique=
+	|unlockedby=Win a run with [[File:Mutant.png|link=Mutant|x30px]] [[Mutant]]
+	|limit=
+	|tags=[[Max HP]], [[Life Steal]], [[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|padding = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+3}} Max HP<br>{{Color|green|+1}} {{Color|green|Max HP}} for every {{Color|green|80}} {{Color|green|Materials}} you have 
+	|price=45
+	|unique=true
+	|unlockedby=Win a run with [[File:Saver.png|link=Saver|x30px]] [[Saver]]
+	|limit=1
+	|tags=[[Max HP]]
+	|isdlc=-
+	|#default=-
+}}
+|panda = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+12}} Max HP<br>{{Color|green|+25}} Luck<br>{{Color|red|-5}} % Damage
+	|price=100
+	|unique=
+	|unlockedby=Win a run with [[File:Pacifist.png|link=Pacifist|x30px]] [[Pacifist]]
+	|limit=
+	|tags=[[Max HP]], [[Luck]]
+	|isdlc=-
+	|#default=-
+}}
+|peaceful bee = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+4}} % Dodge<br>{{Color|green|+4}} Harvesting<br>{{Color|red|-1}} Melee Damage<br>{{Color|red|-1}} Ranged Damage
+	|price=18
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Dodge]], [[Harvesting]]
+	|isdlc=-
+	|#default=-
+}}
+|peacock = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+25}} % XP Gain<br>{{Color|green|+100}} {{Color|green|% XP Gain}} during the next wave<br>{{Color|red|+50}} {{Color|red|% Enemy damage}} during the next wave
+	|price=50
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[XP Gain]]
+	|isdlc=-
+	|#default=-
+}}
+|pearl = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+1}} {{Color|green|% Damage}} for every permanent {{Color|green|10}} {{Color|green|Luck}} you have <br>{{Color|green|+3%}} chance of finding an extra {{Color|green|Pearl}} in a crate
+	|price=60
+	|unique=
+	|unlockedby=Win a run with [[File:Curious.png|link=Curious|x30px]] [[Curious]]
+	|limit=20
+	|tags=[[Luck]]
+	|isdlc=1
+	|#default=-
+}}
+|pencil = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+2}} Engineering<br>{{Color|red|-1}} % Attack Speed<br>{{Color|red|-1}} % Crit Chance
+	|price=15
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Engineering]]
+	|isdlc=-
+	|#default=-
+}}
+|penguin = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+1}} HP Regeneration<br>{{Color|green|+1}} {{Color|green|HP Regeneration}} until the end of the wave when picking up a consumable while at maximum health
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=3
+	|tags=[[HP Regeneration]]
+	|isdlc=1
+	|#default=-
+}}
+|piggy bank = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+20%}} of your materials at the start of waves (stops working at wave 20)
+	|price=40
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=
+	|isdlc=-
+	|#default=-
+}}
+|pile of books = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=Your structures can crit<br>{{Color|green|+3}} % Crit Chance<br>{{Color|green|+3}} Engineering
+	|price=70
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Crit Chance]], [[Engineering]]
+	|isdlc=-
+	|#default=-
+}}
+|plant = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+3}} HP Regeneration<br>{{Color|red|-1}} % Life Steal
+	|price=15
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|plastic explosive = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+25}} % Explosion Size
+	|price=60
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Explosive (Item Tag)|Explosive]]
+	|isdlc=-
+	|#default=-
+}}
+|pocket factory = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+2}} Engineering<br>Killing a tree spawns a turret
+	|price=75
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Engineering]], [[Exploration]], [[Structure (Item Tag)|Structure]]
+	|isdlc=-
+	|#default=-
+}}
+|poisonous tonic = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+10}} % Attack Speed<br>{{Color|green|+5}} % Crit Chance<br>{{Color|green|+15}} Range<br>{{Color|red|-2}} HP Regeneration
+	|price=80
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Attack Speed]], [[Crit Chance]], [[Range]]
+	|isdlc=-
+	|#default=-
+}}
+|potato = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+3}} Max HP<br>{{Color|green|+2}} HP Regeneration<br>{{Color|green|+1}} % Life Steal<br>{{Color|green|+5}} % Damage<br>{{Color|green|+5}} % Attack Speed<br>{{Color|green|+3}} % Speed<br>{{Color|green|+3}} % Dodge<br>{{Color|green|+1}} Armor<br>{{Color|green|+5}} Luck
+	|price=95
+	|unique=
+	|unlockedby=Win a run with [[File:Well Rounded.png|link=Well Rounded|x30px]] [[Well Rounded]]
+	|limit=
+	|tags=[[Max HP]], [[HP Regeneration]], [[Damage]], [[Speed]], [[Luck]]
+	|isdlc=-
+	|#default=-
+}}
+|power generator = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+1}} {{Color|green|% Damage}} for every permanent {{Color|green|1}} {{Color|green|% Speed}} you have <br>{{Color|red|-5}} % Damage
+	|price=65
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Speed]], [[Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|propeller hat = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+10}} Luck<br>{{Color|red|-2}} % Damage
+	|price=28
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Luck]]
+	|isdlc=-
+	|#default=-
+}}
+|pumpkin = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+15%}} Piercing Damage. Can't go above base damage<br>{{Color|red|-2}} % Damage
+	|price=40
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Ranged Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|recycling machine = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats=Gain {{Color|green|35%}} more materials from recycling items
+	|price=35
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Economy]]
+	|isdlc=-
+	|#default=-
+}}
+|regeneration potion = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats=HP Regeneration is doubled when you have less than {{Color|green|50%}} health<br>{{Color|green|+3}} HP Regeneration
+	|price=90
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|reinforced steel = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+2}} Ranged Damage<br>{{Color|green|+3}} Engineering<br>{{Color|red|-3}} % Speed
+	|price=50
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Ranged Damage]], [[Engineering]]
+	|isdlc=-
+	|#default=-
+}}
+|resting goldfish = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=This goldfish is resting after a hard day's work
+	|price=30
+	|unique=
+	|unlockedby=
+	|limit=0
+	|tags=
+	|isdlc=-
+	|#default=-
+}}
+|retromation's hoodie
+|retromation’s hoodie = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+2}} {{Color|green|% Attack Speed}} for every {{Color|green|1}} {{Color|green|% Dodge}} you have <br>{{Color|red|-80}} Range
+	|price=110
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Dodge]]
+	|isdlc=-
+	|#default=-
+}}
+|ricochet = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats=Your projectiles gain {{Color|green|+1}} bounce<br>{{Color|red|-25}} % Damage
+	|price=110
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Ranged Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|rip and tear = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=Enemies have a {{Color|green|20%}} chance to explode for {{Color|green|10}} ({{Color|green|+50%{{StatIcon|Melee Damage}}}}) damage when they die<br>{{Color|red|-5}} % Crit Chance
+	|price=65
+	|unique=
+	|unlockedby=Win a run with [[File:Loud.png|link=Loud|x30px]] [[Loud]]
+	|limit=5
+	|tags=[[Melee Damage]], [[Explosive (Item Tag)|Explosive]]
+	|isdlc=-
+	|#default=-
+}}
+|riposte = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+2}} Melee Damage<br>{{Color|green|100%}} chance to deal {{Color|green|1}} ({{Color|green|300%{{StatIcon|Melee Damage}}}}) damage to an enemy when dodging their attack
+	|price=40
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Dodge]], [[Melee Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|ritual = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+6}} % Damage<br>{{Color|green|+2}} % Life Steal<br>{{Color|red|-2}} Engineering
+	|price=60
+	|unique=
+	|unlockedby=Win a run with [[File:Ghost.png|link=Ghost|x30px]] [[Ghost]]
+	|limit=
+	|tags=[[Damage]], [[Life Steal]]
+	|isdlc=-
+	|#default=-
+}}
+|robot arm = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+3}} {{Color|green|Melee Damage}} at the end of a wave<br>{{Color|green|+3}} {{Color|green|Engineering}} at the end of a wave<br>{{Color|red|-1}} {{Color|red|Max HP}} at the end of a wave
+	|price=100
+	|unique=
+	|unlockedby=Win a run with [[File:Engineer.png|link=Engineer|x30px]] [[Engineer]]
+	|limit=
+	|tags=[[Melee Damage]], [[Engineering]]
+	|isdlc=-
+	|#default=-
+}}
+|sad tomato = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+8}} HP Regeneration<br>Start waves with {{Color|red|-50%}} HP
+	|price=50
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|saltwater = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+2}} Melee Damage<br>{{Color|green|+3}} % Attack Speed<br>{{Color|green|+10}} {{Color|green|% Speed}} for {{Color|green|3}} seconds when you take damage<br>{{Color|red|-1}} Elemental Damage
+	|price=50
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Melee Damage]], [[Attack Speed]], [[Speed]]
+	|isdlc=1
+	|#default=-
+}}
+|scar = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+20}} % XP Gain<br>{{Color|red|-8}} Range
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[XP Gain]]
+	|isdlc=-
+	|#default=-
+}}
+|scared sausage = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats=Attacks have a {{Color|green|25%}} chance to deal 3x{{Color|green|1}} ({{Color|green|+100%{{StatIcon|Elemental Damage}}}}) burning damage
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=4
+	|tags=[[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|scarf = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+4}} HP Regeneration<br>{{Color|green|+4}} Melee Damage<br>{{Color|green|+4}} % Speed<br>{{Color|red|+25}} {{Color|red|% Enemy Speed}} during the next wave
+	|price=80
+	|unique=
+	|unlockedby=Win a run with [[File:Hiker.png|link=Hiker|x30px]] [[Hiker]]
+	|limit=
+	|tags=[[HP Regeneration]], [[Melee Damage]], [[Speed]]
+	|isdlc=1
+	|#default=-
+}}
+|scope = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+2}} Ranged Damage<br>{{Color|green|+25}} Range<br>{{Color|red|-7}} % Attack Speed
+	|price=48
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Ranged Damage]], [[Range]]
+	|isdlc=-
+	|#default=-
+}}
+|seashell = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats=Every ranged weapon's 5th projectile has {{Color|green|+3}} projectiles<br>{{Color|red|-10}} % Damage
+	|price=100
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Ranged Damage]]
+	|isdlc=1
+	|#default=-
+}}
+|shackles = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+8}} HP Regeneration<br>{{Color|green|+8}} Engineering<br>{{Color|green|+80}} Range<br>Your Speed is capped at its current value
+	|price=80
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Range]], [[HP Regeneration]], [[Engineering]]
+	|isdlc=-
+	|#default=-
+}}
+|shady potion = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+20}} Luck<br>{{Color|red|-2}} HP Regeneration
+	|price=48
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Luck]]
+	|isdlc=-
+	|#default=-
+}}
+|sharp bullet = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats=Projectiles pierce through {{Color|green|1}} additional target<br>{{Color|red|-20%}} Piercing Damage<br>{{Color|red|-5}} % Damage<br>{{Color|red|-3}} Knockback
+	|price=25
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Ranged Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|shmoop = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+6}} Max HP<br>{{Color|green|+2}} HP Regeneration<br>{{Color|red|-2}} Melee Damage<br>{{Color|red|-1}} Ranged Damage
+	|price=60
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Max HP]], [[HP Regeneration]]
+	|isdlc=-
+	|#default=-
+}}
+|sifd's relic
+|sifd’s relic = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+3}} Armor<br>{{Color|green|+100%}} chance to instantly attract a material when it’s dropped
+	|price=100
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Pickup]], [[Armor]]
+	|isdlc=-
+	|#default=-
+}}
+|silver bullet = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+25%}} damage against bosses and elites
+	|price=70
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|small fish = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+10%}} damage against targets above {{Color|green|75%}} health<br>{{Color|red|-3}} % Attack Speed
+	|price=18
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Damage]]
+	|isdlc=1
+	|#default=-
+}}
+|small magazine = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+2}} Ranged Damage<br>{{Color|green|+10}} % Attack Speed<br>{{Color|red|-6}} % Damage
+	|price=60
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Ranged Damage]], [[Attack Speed]]
+	|isdlc=-
+	|#default=-
+}}
+|snail = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|-8}} % Enemy Speed<br>{{Color|red|-3}} % Speed
+	|price=40
+	|unique=true
+	|unlockedby=Win a run with [[File:Old.png|link=Old|x30px]] [[Old]]
+	|limit=1
+	|tags=[[Less Enemy Speed]]
+	|isdlc=-
+	|#default=-
+}}
+|snake = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats=Burning spreads to an additional nearby enemy<br>{{Color|red|-1}} Max HP
+	|price=25
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|snowball = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+1}} {{Color|green|Elemental Damage}} every time you get an item that increases {{Color|green|Elemental Damage}}
+	|price=50
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|spicy sauce = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+3}} Max HP<br>Consumables have a {{Color|green|50%}} chance to explode for {{Color|green|10}} ({{Color|green|+100%{{StatIcon|Max HP}}}}) damage when picked up
+	|price=40
+	|unique=
+	|unlockedby=Win a run with [[File:Glutton.png|link=Glutton|x30px]] [[Glutton]]
+	|limit=2
+	|tags=[[Max HP]], [[Luck]], [[Explosive (Item Tag)|Explosive]]
+	|isdlc=-
+	|#default=-
+}}
+|spider = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+12}} % Damage<br>{{Color|green|+6}} {{Color|green|% Attack Speed}} for every different weapon you have <br>{{Color|red|-3}} % Dodge<br>{{Color|red|-5}} Harvesting
+	|price=110
+	|unique=
+	|unlockedby=Win a run with [[File:Gladiator.png|link=Gladiator|x30px]] [[Gladiator]]
+	|limit=
+	|tags=[[Damage]], [[Attack Speed]]
+	|isdlc=-
+	|#default=-
+}}
+|spyglass = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+10}} Range<br>{{Color|green|-25}} % Reroll Price
+	|price=30
+	|unique=
+	|unlockedby=
+	|limit=2
+	|tags=[[Range]]
+	|isdlc=1
+	|#default=-
+}}
+|starfish = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+20%}} materials dropped from enemies<br>{{Color|green|+10}} Harvesting<br>{{Color|red|+15}} % Enemy damage
+	|price=75
+	|unique=
+	|unlockedby=Win a run with [[File:Diver.png|link=Diver|x30px]] [[Diver]]
+	|limit=3
+	|tags=[[Harvesting]]
+	|isdlc=1
+	|#default=-
+}}
+|statue = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+40}} {{Color|green|% Attack Speed}} while standing still<br>{{Color|red|-10}} % Speed
+	|price=60
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Attack Speed]], [[Stand Still]]
+	|isdlc=-
+	|#default=-
+}}
+|stone skin = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+1}} {{Color|green|Max HP}} for every permanent {{Color|green|1}} {{Color|green|Armor}} you have <br>{{Color|red|-6}} % Attack Speed
+	|price=85
+	|unique=true
+	|unlockedby=Win a run with [[File:Golem.png|link=Golem|x30px]] [[Golem]]
+	|limit=1
+	|tags=[[Armor]], [[Max HP]]
+	|isdlc=-
+	|#default=-
+}}
+|strange book = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+1}} {{Color|green|Engineering}} for every permanent {{Color|green|1}} {{Color|green|Elemental Damage}} you have <br>{{Color|red|-1}} Melee Damage<br>{{Color|red|-1}} Ranged Damage
+	|price=70
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Engineering]], [[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|sunglasses = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+10}} % Crit Chance<br>{{Color|red|-1}} Armor
+	|price=50
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Crit Chance]]
+	|isdlc=-
+	|#default=-
+}}
+|sunken bell = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=Once per wave, you explode for {{Color|green|100}} ({{Color|green|+500%{{StatIcon|Melee Damage}}+500%{{StatIcon|Ranged Damage}}+500%{{StatIcon|Elemental Damage}}+500%{{StatIcon|Engineering}}}}) damage when you fall below {{Color|green|40%}} health
+	|price=65
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Explosive (Item Tag)|Explosive]]
+	|isdlc=1
+	|#default=-
+}}
+|tardigrade = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=Nullifies the damage of one hit taken every wave
+	|price=50
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=
+	|isdlc=-
+	|#default=-
+}}
+|tentacle = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+3}} % Crit Chance<br>{{Color|green|+20%}} chance to heal 1 HP when killing an enemy with a critical hit
+	|price=35
+	|unique=
+	|unlockedby=Win a run with [[File:Lich.png|link=Lich|x30px]] [[Lich]]
+	|limit=5
+	|tags=[[Crit Chance]]
+	|isdlc=-
+	|#default=-
+}}
+|terrified onion = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+4}} % Speed<br>{{Color|red|-5}} Luck
+	|price=15
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Speed]]
+	|isdlc=-
+	|#default=-
+}}
+|toolbox = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+6}} Engineering<br>{{Color|red|-8}} % Attack Speed
+	|price=55
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Engineering]]
+	|isdlc=-
+	|#default=-
+}}
+|torture = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+15}} Max HP<br>Restore {{Color|green|5}} HP per second. Cannot heal any other way.
+	|price=100
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Max HP]]
+	|isdlc=-
+	|#default=-
+}}
+|toxic sludge = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+2}} Elemental Damage<br>{{Color|red|-2}} % Dodge
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|tractor = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+40}} Harvesting<br>{{Color|red|-8}} % Damage
+	|price=70
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Harvesting]]
+	|isdlc=-
+	|#default=-
+}}
+|treasure map = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+20%}} chance of finding an extra item in a crate
+	|price=35
+	|unique=
+	|unlockedby=Win a run with [[File:Sailor.png|link=Sailor|x30px]] [[Sailor]]
+	|limit=5
+	|tags=[[Luck]]
+	|isdlc=1
+	|#default=-
+}}
+|tree = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats=More trees spawn
+	|price=15
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Exploration]]
+	|isdlc=-
+	|#default=-
+}}
+|triangle of power = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+20}} % Damage<br>{{Color|green|+1}} Armor<br>{{Color|red|-2}} {{Color|red|% Damage}} when you take damage until the end of the wave
+	|price=65
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|turret = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats=Spawns a turret that shoots bullets dealing {{Color|green|10}} ({{Color|green|+80%{{StatIcon|Engineering}}}}) damage
+	|price=15
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Engineering]], [[Structure (Item Tag)|Structure]]
+	|isdlc=-
+	|#default=-
+}}
+|tyler = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=Spawns a little guy that slowly shoots {{Color|green|10}} piercing lightning projectiles around him for {{Color|green|10}} ({{Color|green|+75%{{StatIcon|Engineering}}+75%{{StatIcon|Elemental Damage}}}}) damage each
+	|price=75
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Engineering]], [[Elemental Damage]], [[Structure (Item Tag)|Structure]]
+	|isdlc=-
+	|#default=-
+}}
+|ugly tooth = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats=Hitting an enemy removes {{Color|green|5%}} of their speed. Max {{Color|green|20%}}<br>{{Color|red|-3}} % Speed
+	|price=25
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Less Enemy Speed]]
+	|isdlc=-
+	|#default=-
+}}
+|vigilante ring = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+3}} {{Color|green|% Damage}} at the end of a wave
+	|price=92
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|wandering bot = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats=Spawns a little bot that slows down nearby enemies
+	|price=60
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Less Enemy Speed]], [[Structure (Item Tag)|Structure]]
+	|isdlc=-
+	|#default=-
+}}
+|warrior helmet = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+3}} Armor<br>{{Color|green|+5}} Max HP<br>{{Color|red|-5}} % Speed
+	|price=80
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Armor]], [[Max HP]]
+	|isdlc=-
+	|#default=-
+}}
+|weird food = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+2}} HP recovered from consumables<br>{{Color|red|-2}} % Dodge
+	|price=20
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Consumable (Item Tag)|Consumable]]
+	|isdlc=-
+	|#default=-
+}}
+|weird ghost = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+3}} Max HP<br>Start the next wave with 1 HP
+	|price=12
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Max HP]]
+	|isdlc=-
+	|#default=-
+}}
+|wheat = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+4}} Melee Damage<br>{{Color|green|+2}} Ranged Damage<br>{{Color|green|+10}} Harvesting<br>{{Color|red|-2}} Elemental Damage
+	|price=85
+	|unique=
+	|unlockedby=Win a run with [[File:Farmer.png|link=Farmer|x30px]] [[Farmer]]
+	|limit=
+	|tags=[[Melee Damage]], [[Ranged Damage]], [[Harvesting]]
+	|isdlc=-
+	|#default=-
+}}
+|wheelbarrow = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+16}} Harvesting<br>{{Color|red|-1}} Armor
+	|price=40
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Harvesting]]
+	|isdlc=-
+	|#default=-
+}}
+|whetstone = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+4}} % Life Steal<br>{{Color|red|-3}} Knockback
+	|price=40
+	|unique=
+	|unlockedby=Win a run with [[File:Sick.png|link=Sick|x30px]] [[Sick]]
+	|limit=
+	|tags=[[Life Steal]]
+	|isdlc=-
+	|#default=-
+}}
+|whistle = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=1
+	|stats={{Color|green|+50%}} chance for loot aliens to appear<br>{{Color|red|+20%}} movement speed for loot aliens
+	|price=25
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=
+	|isdlc=1
+	|#default=-
+}}
+|white flag = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=2
+	|stats={{Color|green|+5}} Harvesting<br>-5% Enemies
+	|price=40
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Harvesting]], [[Less Enemies]]
+	|isdlc=-
+	|#default=-
+}}
+|will-o'-wisp = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+1}} Elemental Damage for every {{Color|green|30}} burning enemies you kill during a wave (max {{Color|green|+4}} per wave)<br>{{Color|red|-7}}% Attack Speed
+	|price=80
+	|unique=
+	|unlockedby=Kill 30 enemies by burning them in a single wave
+	|limit=
+	|tags=[[Elemental Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|wings = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+10}} % Speed<br>{{Color|green|+30}} Range<br>{{Color|red|-2}} Elemental Damage
+	|price=85
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Speed]], [[Range]]
+	|isdlc=-
+	|#default=-
+}}
+|wisdom = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=3
+	|stats={{Color|green|+5}} {{Color|green|% Damage}} every 5 seconds until the end of the wave<br>{{Color|red|-15}} % Damage
+	|price=85
+	|unique=true
+	|unlockedby=
+	|limit=1
+	|tags=[[Damage]]
+	|isdlc=-
+	|#default=-
+}}
+|wolf helmet = {{#switch:{{lc:{{{2|}}}}}
+	|rarity=4
+	|stats={{Color|green|+10}} Elemental Damage<br>{{Color|green|+20}} Luck<br>{{Color|red|-5}} Engineering
+	|price=90
+	|unique=
+	|unlockedby=
+	|limit=
+	|tags=[[Elemental Damage]], [[Luck]]
+	|isdlc=-
+	|#default=-
+}}
+|#default=Item name not found}}</includeonly><noinclude>
+Usage:
+<pre>
+{{Item Data
+|any item name
+|rarity/stats/price/unique/unlockedby/limit/isdlc
+}}
+</pre>
+
+Example:
+<pre>
+{{Item Data|acid|rarity}}
+</pre>
+{{Item Data|acid|rarity}}
+
+
+Example:
+<pre>
+{{Item Data|acid|stats}}
+</pre>
+{{Item Data|acid|stats}}
+
+
+Example: No options passed
+<pre>
+{{Item Data|acid}}
+</pre>
+{{Item Data|acid}}
+
+
+Example: Not an item
+<pre>
+{{Item Data|Knife}}
+</pre>
+{{Item Data|Knife}}
+
+Example: Check if the item is part of the {{DLCLink|Abyssal Terrors DLC}}
+<pre>
+{{Item Data|acid|isdlc}}
+{{Item Data|axolotl|isdlc}}
+</pre>
+{{Item Data|acid|isdlc}}
+<br>{{Item Data|axolotl|isdlc}}
+
+
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "Name",
+			"example": "Acid",
+			"type": "string",
+			"required": true,
+			"suggested": true
+		},
+		"2": {
+			"label": "Data",
+			"example": "price",
+			"type": "string",
+			"required": true,
+			"suggested": true
+		}
+	},
+	"format": "inline"
+}
+</templatedata></noinclude>

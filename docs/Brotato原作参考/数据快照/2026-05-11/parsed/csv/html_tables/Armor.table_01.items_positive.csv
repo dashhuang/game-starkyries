@@ -1,0 +1,12 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Ball and Chain,Tier 3,+15 % Damage +3 Armor +5 Knockback -3 % Speed Weapons have a minimum cooldown of 0.75 seconds between attacks,75,1.0,,"Damage, Armor, Knockback"
+Barricade,Tier 3,+3 Knockback +8 Armor while standing still -5 % Speed,75,,,"Armor, Stand Still, Knockback"
+Duct Tape,Tier 1,+1 Armor +1 Engineering -2 Max HP,20,,,"Armor, Engineering"
+Exoskeleton,Tier 4,+3 Armor +5 % Crit Chance +5 Engineering +5 % Speed -2 HP Regeneration -2 % Life Steal,90,,,"Armor, Crit Chance, Engineering, Speed"
+Helmet,Tier 1,+1 Armor -2 % Speed,15,,,Armor
+Leather Vest,Tier 2,+2 Armor +6 % Dodge -3 Max HP,45,,,"Armor, Dodge"
+Medal,Tier 2,+3 Max HP +3 % Damage +1 Armor +3 % Speed -4 % Crit Chance,55,,,"Max HP, Damage, Armor, Speed"
+Metal Plate,Tier 2,+2 Armor -3 % Damage,40,,,Armor
+Sifd's Relic,Tier 4,+3 Armor +100% chance to instantly attract a material when it’s dropped,100,1.0,,"Pickup, Armor"
+Triangle of Power,Tier 3,+20 % Damage +1 Armor -2 % Damage when you take damage until the end of the wave,65,,,Damage
+Warrior Helmet,Tier 3,+3 Armor +5 Max HP -5 % Speed,80,,,"Armor, Max HP"

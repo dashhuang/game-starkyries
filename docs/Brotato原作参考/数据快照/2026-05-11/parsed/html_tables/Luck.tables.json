@@ -1,0 +1,413 @@
+[
+  {
+    "table_index": 0,
+    "section": "Items > Positive",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 11,
+    "rows": [
+      {
+        "Name": "Bowler Hat",
+        "Rarity": "Tier 3",
+        "Effects": "+15 Luck +18 Harvesting -5 % Attack Speed -3 % Crit Chance",
+        "Base Price": "75",
+        "Limit": "",
+        "Unlocked By": "Win a run with Entrepreneur",
+        "Tags": "Luck, Harvesting"
+      },
+      {
+        "Name": "Clover",
+        "Rarity": "Tier 3",
+        "Effects": "+20 Luck +6 % Dodge -2 % Life Steal",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Luck, Dodge"
+      },
+      {
+        "Name": "Lost Duck",
+        "Rarity": "Tier 1",
+        "Effects": "+8 Luck -1 Elemental Damage",
+        "Base Price": "25",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Luck"
+      },
+      {
+        "Name": "Lucky Charm",
+        "Rarity": "Tier 3",
+        "Effects": "+30 Luck -2 Melee Damage -1 Ranged Damage",
+        "Base Price": "75",
+        "Limit": "",
+        "Unlocked By": "Win a run with Lucky",
+        "Tags": "Luck"
+      },
+      {
+        "Name": "Lucky Coin",
+        "Rarity": "Tier 4",
+        "Effects": "+2 Luck for every 1 % Crit Chance you have -2 Armor",
+        "Base Price": "105",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Crit Chance, Luck"
+      },
+      {
+        "Name": "Metal Detector",
+        "Rarity": "Tier 2",
+        "Effects": "+5% chance to double the value of picked up materials +6 Luck +2 Engineering -5 % Damage",
+        "Base Price": "40",
+        "Limit": "20.0",
+        "Unlocked By": "",
+        "Tags": "Luck, Engineering, Pickup, Economy"
+      },
+      {
+        "Name": "Panda",
+        "Rarity": "Tier 4",
+        "Effects": "+12 Max HP +25 Luck -5 % Damage",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "Win a run with Pacifist",
+        "Tags": "Max HP, Luck"
+      },
+      {
+        "Name": "Potato",
+        "Rarity": "Tier 4",
+        "Effects": "+3 Max HP +2 HP Regeneration +1 % Life Steal +5 % Damage +5 % Attack Speed +3 % Speed +3 % Dodge +1 Armor +5 Luck",
+        "Base Price": "95",
+        "Limit": "",
+        "Unlocked By": "Win a run with Well Rounded",
+        "Tags": "Max HP, HP Regeneration, Damage, Speed, Luck"
+      },
+      {
+        "Name": "Propeller Hat",
+        "Rarity": "Tier 1",
+        "Effects": "+10 Luck -2 % Damage",
+        "Base Price": "28",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Luck"
+      },
+      {
+        "Name": "Shady Potion",
+        "Rarity": "Tier 2",
+        "Effects": "+20 Luck -2 HP Regeneration",
+        "Base Price": "48",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Luck"
+      },
+      {
+        "Name": "Wolf Helmet",
+        "Rarity": "Tier 4",
+        "Effects": "+10 Elemental Damage +20 Luck -5 Engineering",
+        "Base Price": "90",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Elemental Damage, Luck"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Items > Negative",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 5,
+    "rows": [
+      {
+        "Name": "Alien Magic",
+        "Rarity": "Tier 3",
+        "Effects": "+8 Max HP +3 HP Regeneration -8 Luck",
+        "Base Price": "85",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, HP Regeneration"
+      },
+      {
+        "Name": "Fin",
+        "Rarity": "Tier 3",
+        "Effects": "+10 % Speed +3 % Life Steal -8 Luck",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "Win a run with Speedy",
+        "Tags": "Speed, Life Steal"
+      },
+      {
+        "Name": "Medikit",
+        "Rarity": "Tier 4",
+        "Effects": "+10 HP Regeneration +2 HP Regeneration every 5 seconds until the end of the wave -10 Luck",
+        "Base Price": "95",
+        "Limit": "",
+        "Unlocked By": "Win a run with Doctor",
+        "Tags": "HP Regeneration"
+      },
+      {
+        "Name": "Mushroom",
+        "Rarity": "Tier 1",
+        "Effects": "+3 HP Regeneration -2 Luck",
+        "Base Price": "25",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "HP Regeneration"
+      },
+      {
+        "Name": "Terrified Onion",
+        "Rarity": "Tier 1",
+        "Effects": "+4 % Speed -5 Luck",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Speed"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Items > Affected Items",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Baby Elephant",
+        "Rarity": "Tier 1",
+        "Effects": "25% chance to deal 1 (25%) damage to a random enemy when you pick up a material",
+        "Base Price": "22",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Luck, Pickup"
+      },
+      {
+        "Name": "Cyberball",
+        "Rarity": "Tier 2",
+        "Effects": "25% chance to deal 1 (25%) damage to a random enemy when an enemy dies",
+        "Base Price": "30",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Luck"
+      },
+      {
+        "Name": "Pearl(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+1 % Damage for every permanent 10 Luck you have +3% chance of finding an extra Pearl in a crate",
+        "Base Price": "60",
+        "Limit": "20.0",
+        "Unlocked By": "Win a run with Curious",
+        "Tags": "Luck"
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Characters > Positive Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 5,
+    "rows": [
+      {
+        "Name": "Chef(DLC)",
+        "Stats": "+35 Luck +200% damage from non elemental sources against burning targets Consumables explode for 5x1 (+100%) burning damage when picked up You start with 1 Scared Sausage +100 % Enemy health Elemental Damage modifications are reduced by 75%",
+        "Unlocked By": "Have at least 25 enemies burning at the same time",
+        "Unlocks": "Spoon",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Druid(DLC)",
+        "Stats": "+5 Max HP +15 Luck Enemies have a higher chance of dropping fruits 33% chance to get +1 Luck when you pick up a fruit 33% of fruits are poisoned and hurt you (ignores Dodge and Armor) -100 HP Regeneration -100 % Life Steal Engineering modifications are reduced by 50%",
+        "Unlocked By": "Collect 250 consumables by the end of wave 20",
+        "Unlocks": "Cauldron",
+        "Item Tags": "Consumable, Luck"
+      },
+      {
+        "Name": "Glutton",
+        "Stats": "+50 Luck +1 % Explosion Damage when picking up a consumable while at maximum health Consumable have a 100% chance to explode for 10 (500% ) damage when picked up +25 % Items Price -25 % XP Gain",
+        "Unlocked By": "Pick up 20 consumables during a run",
+        "Unlocks": "Spicy Sauce",
+        "Item Tags": "Consumable, Explosive (Item Tag), Melee Damage"
+      },
+      {
+        "Name": "Lucky",
+        "Stats": "+100 Luck Luck modifications are increased by 25% +75% chance to deal 1 (15%Luck) damage to a random enemy when you pick up a material -60% Attack Speed -50% XP Gain",
+        "Unlocked By": "Collect 300 materials",
+        "Unlocks": "Lucky Charm",
+        "Item Tags": "Luck, Pickup, Exploration"
+      },
+      {
+        "Name": "King",
+        "Stats": "+50 Luck +25 % Damage for every Tier IV weapon you have +25% Attack Speed for every Tier IV weapon you have +5 Max HP for every different Tier IV item you have -15% Damage for every Tier I weapon you have -15% Attack Speed for every Tier I weapon you have -2 Max HP for every different Tier I item you have UNLISTED BONUS: Starting weapon is Tier II",
+        "Unlocked By": "Get 3 tier IV weapons at once",
+        "Unlocks": "Excalibur",
+        "Item Tags": ""
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "Characters > Negative Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 2,
+    "rows": [
+      {
+        "Name": "Gladiator",
+        "Stats": "+20% Attack Speed for every different weapon you have  +5 Melee Damage You can't equip ranged weapons -40% Attack Speed -30 Luck",
+        "Unlocked By": "Kill 20000 enemies",
+        "Unlocks": "Spider",
+        "Item Tags": "Melee Damage"
+      },
+      {
+        "Name": "Vagabond",
+        "Stats": "Equipped weapons always contribute to the class bonuses of other equipped weapons You can't equip two of the same weapon at the same time -5 Armor -5 % Dodge Luck modifications are reduced by 50% Harvesting modifications are reduced by 50%",
+        "Unlocked By": "Have 6 different weapons at once",
+        "Unlocks": "Jelly",
+        "Item Tags": ""
+      }
+    ]
+  },
+  {
+    "table_index": 5,
+    "section": "Weapons",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 2,
+    "rows": [
+      {
+        "Name": "Flute(DLC)",
+        "Class": "Musical",
+        "Damage": "5(+50%+10%)  8(+50%+15%)  11(+50%+20%)  15(+50%+25%)",
+        "Attack Speed": "1.2s  1.12s  1.03s  0.95s",
+        "DPS": "4.2(41.7%8.3%)/s  7.2(44.8%13.4%)/s  10.6(48.4%19.4%)/s  15.8(52.6%26.3%)/s",
+        "Crit Damage/Chance": "x1.5 (3% chance)  x1.5 (3% chance)  x1.5 (3% chance)  x1.5 (3% chance)",
+        "Range": "300  325  350  375",
+        "Knockback": "0  0  0  0",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Hitting an enemy that has less than 60%/65%/70%/75% health has a 10%/15%/20%/25% chance to charm it for 8 seconds",
+        "Base price": "20  45  80  165",
+        "Unlocked by": "Win a run with Romantic"
+      },
+      {
+        "Name": "Lute(DLC)",
+        "Class": "Musical, Support",
+        "Damage": "4(+50%+10%)  8(+50%+15%)  12(+50%+20%)  16(+50%+25%)",
+        "Attack Speed": "1.31s  1.25s  1.2s  1.14s",
+        "DPS": "3.1(38.1%7.6%)/s  6.4(39.9%12%)/s  10(41.7%16.7%)/s  14(43.8%21.9%)/s",
+        "Crit Damage/Chance": "x1.5 (3% chance)  x1.5 (3% chance)  x1.5 (3% chance)  x1.5 (3% chance)",
+        "Range": "150  175  200  225",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Enemies hit take 10% more damage for 3 seconds (max: 30%/50%/70%/100%)",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Default"
+      }
+    ]
+  },
+  {
+    "table_index": 6,
+    "section": "Weapon Classes",
+    "columns": [
+      "Class",
+      "Bonuses",
+      "Weapons"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Class": "Musical",
+        "Bonuses": "(2)+5 Luck (3)+10 Luck (4)+15 Luck (5)+20 Luck (6)+25 Luck",
+        "Weapons": "Flute  Lute"
+      }
+    ]
+  },
+  {
+    "table_index": 7,
+    "section": "",
+    "columns": [
+      "Stats",
+      "Stats.1",
+      "Stats.2",
+      "Stats.3"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Stats": "Max HP",
+        "Stats.1": "Melee Damage",
+        "Stats.2": "Crit Chance",
+        "Stats.3": "Dodge"
+      },
+      {
+        "Stats": "HP Regeneration",
+        "Stats.1": "Ranged Damage",
+        "Stats.2": "Engineering",
+        "Stats.3": "Speed"
+      },
+      {
+        "Stats": "Life Steal",
+        "Stats.1": "Elemental Damage",
+        "Stats.2": "Range",
+        "Stats.3": "Luck"
+      },
+      {
+        "Stats": "Damage",
+        "Stats.1": "Attack Speed",
+        "Stats.2": "Armor",
+        "Stats.3": "Harvesting"
+      },
+      {
+        "Stats": "DLC Stats",
+        "Stats.1": "DLC Stats",
+        "Stats.2": "DLC Stats",
+        "Stats.3": "DLC Stats"
+      },
+      {
+        "Stats": "Curse",
+        "Stats.1": "Curse",
+        "Stats.2": "Curse",
+        "Stats.3": "Curse"
+      }
+    ]
+  }
+]

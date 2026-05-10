@@ -1,0 +1,39 @@
+<includeonly>{{#switch:{{lc:{{{1|}}}}}
+|predator= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">29900</span> HP (Danger 0-4)<br><span style="color:rgb(0,255,0);">31395</span> HP (Danger 5)<br><span style="color:rgb(0,255,0);">300</span> Speed<br><span style="color:rgb(0,255,0);">29.5</span> Damage<br>
+	|reward=<span style="color:rgb(0,255,0);">Winning the game (D1-4)</span><br><span style="color:rgb(255,0,0);">It's no longer a threat (D5)</span><br>
+	|#default=-
+}}
+|invoker= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">29900</span> HP (Danger 0-4)<br><span style="color:rgb(0,255,0);">31395</span> HP (Danger 5)<br><span style="color:rgb(0,255,0);">200 (M0 and M1)<span style="color:rgb(255,0,0);"> 500 (M2)<span style="color:rgb(255,255,255);"> Speed<br><span style="color:rgb(0,255,0);">19.5 (M0 and M1)<span style=color:rgb(255,0,00);"> 73 (M2)<span style=color:rgb(255,255,255);"> Damage<br>
+	|reward=<span style="color:rgb(0,255,0);">Winning the game (D1-4)</span><br><span style="color:rgb(255,0,0);">It's no longer a threat (D5)<br>
+	|#default=-
+}}
+|#default=Boss name not found}}</includeonly><noinclude>
+Usage:
+<pre>
+{{Boss Data
+|any Boss name
+|select one of these to output corresponding information (stats/reward)
+}}
+</pre>
+
+Example:
+<pre>
+{{Boss Data|Predator|stats}}
+</pre>
+{{Character Data|Predator|stats}}
+
+
+Example:
+<pre>
+{{Boss Data
+|Predator
+|stats
+}}
+</pre>
+{{Boss Data
+|Predator
+|stats
+}}
+</noinclude>

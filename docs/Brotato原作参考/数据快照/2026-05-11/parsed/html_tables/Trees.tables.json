@@ -1,0 +1,114 @@
+[
+  {
+    "table_index": 0,
+    "section": "Trees",
+    "columns": [
+      "Thing",
+      "Effects",
+      "Notes"
+    ],
+    "row_count": 5,
+    "rows": [
+      {
+        "Thing": "Tree",
+        "Effects": "Increases the amount of trees that spawn.",
+        "Notes": "Grants on average 0.33 trees spawned every 10 seconds."
+      },
+      {
+        "Thing": "Lumberjack Shirt",
+        "Effects": "Allows you to kill trees in one hit, as if the tree had 1 HP.",
+        "Notes": "Trees by default have a limit, where they will die after taking 8 hits. The Shirt changes this to 1 hit instead."
+      },
+      {
+        "Thing": "Pocket Factory",
+        "Effects": "Spawns a Turret when you kill a tree.",
+        "Notes": "This is a quite powerful effect if you have engineering and some tree stats. Especially Explorer can make great use of it."
+      },
+      {
+        "Thing": "Explorer",
+        "Effects": "Starts with the equivalent of 12 Tree items.",
+        "Notes": "Also, the first group of trees spawn at the beginning of the wave instead of 10 seconds in. (But the second tree spawn is still after 20 seconds just like with everyone else)"
+      },
+      {
+        "Thing": "Cryptid",
+        "Effects": "Starts with the equivalent of 6 Tree items.",
+        "Notes": "Does not have the early trees feature that Explorer has."
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Spawn > Spawn Smoother",
+    "columns": [
+      "Amount of Tree items/stat",
+      "Amount of Trees Spawned every 10 Seconds"
+    ],
+    "row_count": 16,
+    "rows": [
+      {
+        "Amount of Tree items/stat": "0 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "0 (49.5%) or 1 (50.5%)"
+      },
+      {
+        "Amount of Tree items/stat": "1 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "0 (17.5%) or 1 (82.5%)"
+      },
+      {
+        "Amount of Tree items/stat": "2 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "0 (0.5%) or 1 (83.5%) or 2 (16.0%)"
+      },
+      {
+        "Amount of Tree items/stat": "3 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "1 (48.5%) or 2 (51.5%)"
+      },
+      {
+        "Amount of Tree items/stat": "4 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "1 (18.5%) or 2 (81.5%)"
+      },
+      {
+        "Amount of Tree items/stat": "5 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "1 (1.0%) or 2 (83.5%) or 3 (15.5%)"
+      },
+      {
+        "Amount of Tree items/stat": "6 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "2 (47.5%) or 3 (52.5%)"
+      },
+      {
+        "Amount of Tree items/stat": "7 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "2 (19.5%) or 3 (80.5%)"
+      },
+      {
+        "Amount of Tree items/stat": "8 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "2 (1.5%) or 3 (83.5%) or 4 (15.0%)"
+      },
+      {
+        "Amount of Tree items/stat": "9 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "3 (46.5%) or 4 (53.5%)"
+      },
+      {
+        "Amount of Tree items/stat": "10 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "3 (20.5%) or 4 (79.5%)"
+      },
+      {
+        "Amount of Tree items/stat": "11 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "3 (2.0%) or 4 (83.5%) or 5 (14,5%)"
+      },
+      {
+        "Amount of Tree items/stat": "12 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "4 (45.5%) or 5 (54.5%)"
+      },
+      {
+        "Amount of Tree items/stat": "13 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "4 (21.5%) or 5 (78.5%)"
+      },
+      {
+        "Amount of Tree items/stat": "14 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "4 (2.5%) or 5 (83.5%) or 6 (14,0%)"
+      },
+      {
+        "Amount of Tree items/stat": "15 Tree Stat",
+        "Amount of Trees Spawned every 10 Seconds": "5 (44.5%) or 6 (55.5%)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,979 @@
+[
+  {
+    "table_index": 0,
+    "section": "Crash Site > Game Challenges",
+    "columns": [
+      "Group",
+      "Icon",
+      "Name",
+      "Challenge",
+      "Unlocks",
+      "Notes & Tips"
+    ],
+    "row_count": 43,
+    "rows": [
+      {
+        "Group": "Danger Level",
+        "Icon": "",
+        "Name": "Danger 0",
+        "Challenge": "Win a run in Danger 0",
+        "Unlocks": "One Armed",
+        "Notes & Tips": "Also unlocks Danger 1"
+      },
+      {
+        "Group": "Danger Level",
+        "Icon": "",
+        "Name": "Danger 1",
+        "Challenge": "Win a run in Danger 1",
+        "Unlocks": "Bull",
+        "Notes & Tips": "Also unlocks Danger 2"
+      },
+      {
+        "Group": "Danger Level",
+        "Icon": "",
+        "Name": "Danger 2",
+        "Challenge": "Win a run in Danger 2",
+        "Unlocks": "Soldier",
+        "Notes & Tips": "Also unlocks Danger 3"
+      },
+      {
+        "Group": "Danger Level",
+        "Icon": "",
+        "Name": "Danger 3",
+        "Challenge": "Win a run in Danger 3",
+        "Unlocks": "Masochist",
+        "Notes & Tips": "Also unlocks Danger 4"
+      },
+      {
+        "Group": "Danger Level",
+        "Icon": "",
+        "Name": "Danger 4",
+        "Challenge": "Win a run in Danger 4",
+        "Unlocks": "Knight",
+        "Notes & Tips": "Also unlocks Danger 5"
+      },
+      {
+        "Group": "Danger Level",
+        "Icon": "",
+        "Name": "Danger 5",
+        "Challenge": "Win a run in Danger 5",
+        "Unlocks": "Demon",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Survivor",
+        "Icon": "",
+        "Name": "Survivor 1",
+        "Challenge": "Kill 300 enemies",
+        "Unlocks": "Old",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Survivor",
+        "Icon": "",
+        "Name": "Survivor 2",
+        "Challenge": "Kill 2000 enemies",
+        "Unlocks": "Mutant",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Survivor",
+        "Icon": "",
+        "Name": "Survivor 3",
+        "Challenge": "Kill 5000 enemies",
+        "Unlocks": "Loud",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Survivor",
+        "Icon": "",
+        "Name": "Survivor 4",
+        "Challenge": "Kill 10000 enemies",
+        "Unlocks": "Wildling",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Survivor",
+        "Icon": "",
+        "Name": "Survivor 5",
+        "Challenge": "Kill 20000 enemies",
+        "Unlocks": "Gladiator",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Gatherer",
+        "Icon": "",
+        "Name": "Gatherer 1",
+        "Challenge": "Collect 300 materials",
+        "Unlocks": "Lucky",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Gatherer",
+        "Icon": "",
+        "Name": "Gatherer 2",
+        "Challenge": "Collect 2000 materials",
+        "Unlocks": "Generalist",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Gatherer",
+        "Icon": "",
+        "Name": "Gatherer 3",
+        "Challenge": "Collect 5000 materials",
+        "Unlocks": "Multitasker",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Gatherer",
+        "Icon": "",
+        "Name": "Gatherer 4",
+        "Challenge": "Collect 10000 materials",
+        "Unlocks": "Pacifist",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Gatherer",
+        "Icon": "",
+        "Name": "Gatherer 5",
+        "Challenge": "Collect 20000 materials",
+        "Unlocks": "Saver",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Rookie",
+        "Challenge": "Die for the first time",
+        "Unlocks": "Chunky",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Dying",
+        "Challenge": "Reach -5 HP Regeneration",
+        "Unlocks": "Sick",
+        "Notes & Tips": "See the Wiki Page for a list of items that give negative HP Regeneration."
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Agriculture",
+        "Challenge": "Reach +200 Harvesting",
+        "Unlocks": "Farmer",
+        "Notes & Tips": "Can happen on all characters, but Pacifist or Entrepreneur are good candidates. If you see an early Crown or Tractor, that run has a good shot of reaching 200+ Harvesting."
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Hallucination",
+        "Challenge": "Reach +60% Dodge",
+        "Unlocks": "Ghost",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Fast",
+        "Challenge": "Reach +50% Speed",
+        "Unlocks": "Speedy",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Hoarder",
+        "Challenge": "Hold 3000 Materials",
+        "Unlocks": "Entrepreneur",
+        "Notes & Tips": "Easiest with Saver, who likes to hold on to Materials."
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Builder",
+        "Challenge": "Get 5 turrets on the map simultaneously",
+        "Unlocks": "Engineer",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Lumberjack",
+        "Challenge": "Kill 50 trees",
+        "Unlocks": "Explorer",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Medicine",
+        "Challenge": "Heal 200 HP in one wave",
+        "Unlocks": "Doctor",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Perfect Vision",
+        "Challenge": "Reach +300 Range",
+        "Unlocks": "Hunter",
+        "Notes & Tips": "Ranger has an advantage here. They have +50 Range and are tagged for Range Items."
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Fireworks",
+        "Challenge": "Kill 15 enemies with a single explosion",
+        "Unlocks": "Artificer",
+        "Notes & Tips": "Easiest with Bull, who regularly emits a single explosion"
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Recycling",
+        "Challenge": "Recycle 12 weapons during a run",
+        "Unlocks": "Arms Dealer",
+        "Notes & Tips": "This one rarely happens naturally. You can either make a dummy run where you just buy 12 weapons, sell them, and then lose the run. Or you can buy cheap tier 1 weapons over the duration of a regular run. Entrepreneur can be quite good at this, since you have to spend all your money, and you get more money back from recycling."
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Slow",
+        "Challenge": "Reach -20% Speed",
+        "Unlocks": "Streamer",
+        "Notes & Tips": "Playing Old gives you the first -10%. Then you can use the Blunt Weapon set to get more. Otherwise just buy items with negative Speed. The Page got a list of items with negative speed."
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Hungry",
+        "Challenge": "Pick up 20 consumables during a run",
+        "Unlocks": "Glutton",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Advanced Technology",
+        "Challenge": "Reach 10 Ranged Damage and get 3 structures  at the same time",
+        "Unlocks": "Cyborg",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Giant Slayer",
+        "Challenge": "Kill a boss or an elite in less than 15 seconds",
+        "Unlocks": "Jack",
+        "Notes & Tips": "This one can be a bit tricky. Look for characters that can deal amazing damage with ranged builds. Loud or Soldier can deal a ton of damage to elites. Try a ranged build that deals a lot of single target damage like for example a build using SMG or Revolver."
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Robust",
+        "Challenge": "Reach +100 Max HP",
+        "Unlocks": "Lich",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Baited",
+        "Challenge": "Get 2 Bait during a run",
+        "Unlocks": "Fisherman",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Forest",
+        "Challenge": "Finish a wave with 10 or more living trees",
+        "Unlocks": "Cryptid",
+        "Notes & Tips": "This one doesn't happen naturally. The only easy way to get it is by playing Explorer for some waves until the wave duration is long enough. Then play through a wave destroying as few trees as possible."
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Bourgeoisie",
+        "Challenge": "Get 3 tier IV weapons at once",
+        "Unlocks": "King",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Student",
+        "Challenge": "Reach level 20",
+        "Unlocks": "Apprentice",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Reckless",
+        "Challenge": "Finish a wave with 1 HP",
+        "Unlocks": "Golem",
+        "Notes & Tips": ""
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Scavenger",
+        "Challenge": "Get 10 different tier I items during a run",
+        "Unlocks": "Renegade",
+        "Notes & Tips": "The 10 different items must be Items and not Weapons. Sometimes \"items\" refers to both, but not here."
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Fast Learner",
+        "Challenge": "Reach level 10 before wave 6",
+        "Unlocks": "Baby",
+        "Notes & Tips": "Play a few waves as Mutant"
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Experimentation",
+        "Challenge": "Have 6 different weapons at once",
+        "Unlocks": "Vagabond",
+        "Notes & Tips": "You can play a game with Gladiator, or it can be done in the first shop with Arms Dealer"
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Magic and Machinery",
+        "Challenge": "Reach 10 Elemental Damage and get 3 structures at the same time",
+        "Unlocks": "Technomage",
+        "Notes & Tips": "Can be done with any elemental build by just buying some Structures. An engineering build on Apprentice gets it automatically as you level up."
+      },
+      {
+        "Group": "Misc",
+        "Icon": "",
+        "Name": "Blood Drinker",
+        "Challenge": "Reach +40% Life Steal",
+        "Unlocks": "Vampire",
+        "Notes & Tips": "Easiest way is to play as Sick and buy all Lifesteal you see in the shop."
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Crash Site > Character Challenges",
+    "columns": [
+      "Icon",
+      "Name",
+      "Challenge",
+      "Unlocks",
+      "Unlock Type"
+    ],
+    "row_count": 48,
+    "rows": [
+      {
+        "Icon": "",
+        "Name": "Apprentice",
+        "Challenge": "Win a run with Apprentice",
+        "Unlocks": "Quarterstaff",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Arms Dealer",
+        "Challenge": "Win a run with Arms Dealer",
+        "Unlocks": "Anvil",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Artificer",
+        "Challenge": "Win a run with Artificer",
+        "Unlocks": "Explosive Shells",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Baby",
+        "Challenge": "Win a run with Baby",
+        "Unlocks": "Celery Tea",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Brawler",
+        "Challenge": "Win a run with Brawler",
+        "Unlocks": "Power Fist",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Bull",
+        "Challenge": "Win a run with Bull",
+        "Unlocks": "Gnome",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Chunky",
+        "Challenge": "Win a run with Chunky",
+        "Unlocks": "Potato Thrower",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Crazy",
+        "Challenge": "Win a run with Crazy",
+        "Unlocks": "Hunting Trophy",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Cryptid",
+        "Challenge": "Win a run with Cryptid",
+        "Unlocks": "Claw",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Cyborg",
+        "Challenge": "Win a run with Cyborg",
+        "Unlocks": "Improved Tools",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Demon",
+        "Challenge": "Win a run with Demon",
+        "Unlocks": "Obliterator",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Doctor",
+        "Challenge": "Win a run with Doctor",
+        "Unlocks": "Medikit",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Hunter",
+        "Challenge": "Win a run with Hunter",
+        "Unlocks": "Sniper Gun",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Engineer",
+        "Challenge": "Win a run with Engineer",
+        "Unlocks": "Robot Arm",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Entrepreneur",
+        "Challenge": "Win a run with Entrepreneur",
+        "Unlocks": "Bowler Hat",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Explorer",
+        "Challenge": "Win a run with Explorer",
+        "Unlocks": "Compass",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Farmer",
+        "Challenge": "Win a run with Farmer",
+        "Unlocks": "Wheat",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Fisherman",
+        "Challenge": "Win a run with Fisherman",
+        "Unlocks": "Lure",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Generalist",
+        "Challenge": "Win a run with Generalist",
+        "Unlocks": "Big Arms",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Ghost",
+        "Challenge": "Win a run with Ghost",
+        "Unlocks": "Ritual",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Gladiator",
+        "Challenge": "Win a run with Gladiator",
+        "Unlocks": "Spider",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Glutton",
+        "Challenge": "Win a run with Glutton",
+        "Unlocks": "Spicy Sauce",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Golem",
+        "Challenge": "Win a run with Golem",
+        "Unlocks": "Stone Skin",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Jack",
+        "Challenge": "Win a run with Jack",
+        "Unlocks": "Giant Belt",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "King",
+        "Challenge": "Win a run with King",
+        "Unlocks": "Excalibur",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Knight",
+        "Challenge": "Win a run with Knight",
+        "Unlocks": "Plasma Sledge",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Lich",
+        "Challenge": "Win a run with Lich",
+        "Unlocks": "Tentacle",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Loud",
+        "Challenge": "Win a run with Loud",
+        "Unlocks": "Rip and Tear",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Lucky",
+        "Challenge": "Win a run with Lucky",
+        "Unlocks": "Lucky Charm",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Mage",
+        "Challenge": "Win a run with Mage",
+        "Unlocks": "Thunder Sword",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Masochist",
+        "Challenge": "Win a run with Masochist",
+        "Unlocks": "Spiky Shield",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Multitasker",
+        "Challenge": "Win a run with Multitasker",
+        "Unlocks": "Chopper",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Mutant",
+        "Challenge": "Win a run with Mutant",
+        "Unlocks": "Octopus",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Old",
+        "Challenge": "Win a run with Old",
+        "Unlocks": "Snail",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "One Armed",
+        "Challenge": "Win a run with One Armed",
+        "Unlocks": "Focus",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Pacifist",
+        "Challenge": "Win a run with Pacifist",
+        "Unlocks": "Panda",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Ranger",
+        "Challenge": "Win a run with Ranger",
+        "Unlocks": "Night Goggles",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Renegade",
+        "Challenge": "Win a run with Renegade",
+        "Unlocks": "Fairy",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Saver",
+        "Challenge": "Win a run with Saver",
+        "Unlocks": "Padding",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Sick",
+        "Challenge": "Win a run with Sick",
+        "Unlocks": "Whetstone",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Soldier",
+        "Challenge": "Win a run with Soldier",
+        "Unlocks": "Nuclear Launcher",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Speedy",
+        "Challenge": "Win a run with Speedy",
+        "Unlocks": "Fin",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Streamer",
+        "Challenge": "Win a run with Streamer",
+        "Unlocks": "Community Support",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Technomage",
+        "Challenge": "Win a run with Technomage",
+        "Unlocks": "Particle Accelerator",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Vagabond",
+        "Challenge": "Win a run with Vagabond",
+        "Unlocks": "Jelly",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Vampire",
+        "Challenge": "Win a run with Vampire",
+        "Unlocks": "Decomposing Flesh",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Well Rounded",
+        "Challenge": "Win a run with Well Rounded",
+        "Unlocks": "Potato",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Wildling",
+        "Challenge": "Win a run with Wildling",
+        "Unlocks": "Hatchet",
+        "Unlock Type": "Weapon"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Crash Site > New Dawn Challenges",
+    "columns": [
+      "Icon",
+      "Name",
+      "Challenge",
+      "Unlocks",
+      "Unlock Type",
+      "Notes"
+    ],
+    "row_count": 8,
+    "rows": [
+      {
+        "Icon": "",
+        "Name": "Give the money back",
+        "Challenge": "Kill the Gobbler 5 times",
+        "Unlocks": "Gobbler's Hat",
+        "Unlock Type": "Item",
+        "Notes": "The Gobbler appears randomly (3% chance after 10 seconds into the wave)"
+      },
+      {
+        "Icon": "",
+        "Name": "Ew, what's that smell?!",
+        "Challenge": "Win a run in Danger 3 or more",
+        "Unlocks": "Ban System",
+        "Unlock Type": "Item",
+        "Notes": "System, allows you to banish 8 items from the shop per run"
+      },
+      {
+        "Icon": "",
+        "Name": "Let's try this wave again",
+        "Challenge": "During the last 5 seconds of a wave after wave 2, press 'Return to Main Menu'. Then press 'Resume' to try the wave again.",
+        "Unlocks": "Hourglass",
+        "Unlock Type": "Item",
+        "Notes": ""
+      },
+      {
+        "Icon": "",
+        "Name": "Trick or Treat?",
+        "Challenge": "Win a run without locking any items in the shop.",
+        "Unlocks": "Candy Bag",
+        "Unlock Type": "Item",
+        "Notes": "Playing as a character like Gangster who can't lock items will make this simple. Lower difficulty levels also work."
+      },
+      {
+        "Icon": "",
+        "Name": "Mmm, so juicy!",
+        "Challenge": "Collect 100 fruits while at maximum health",
+        "Unlocks": "Fruit Basket",
+        "Unlock Type": "Item",
+        "Notes": "Characters who benefit from fruit at max health like Glutton or Farmer may get this achievement passively. Also consider Penguin."
+      },
+      {
+        "Icon": "",
+        "Name": "Smells like something's burning?",
+        "Challenge": "Kill 30 enemies by burning them in a single wave",
+        "Unlocks": "Will-o'-Wisp",
+        "Unlock Type": "Item",
+        "Notes": "A fire-focused Mage build should pick this up easily. Alternatively, as this seems to count enemies who died while on fire, any character with a Scared Sausage and lots of damage should do it."
+      },
+      {
+        "Icon": "",
+        "Name": "BooOOooOoo~",
+        "Challenge": "Reach 70% Dodge",
+        "Unlocks": "Ghost Outfit",
+        "Unlock Type": "Item",
+        "Notes": "Ghost is recommended"
+      },
+      {
+        "Icon": "",
+        "Name": "Crit Happens",
+        "Challenge": "Reach 100% Crit Chance",
+        "Unlocks": "Vorpal Sword",
+        "Unlock Type": "Weapon",
+        "Notes": "This is easiest to achieve in Endless mode by going for Crit Chance upgrades after you have a build going, as 100% Crit Chance is much higher than you'd normally aim for in a game."
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "The Abyss > Game Challenges (DLC)",
+    "columns": [
+      "Icon",
+      "Name",
+      "Challenge",
+      "Unlocks",
+      "Notes and Tips"
+    ],
+    "row_count": 9,
+    "rows": [
+      {
+        "Icon": "",
+        "Name": "Smelly Feet",
+        "Challenge": "Walk a total of 20000 steps",
+        "Unlocks": "Hiker",
+        "Notes and Tips": "Unlocks automatically by playing multiple runs."
+      },
+      {
+        "Icon": "",
+        "Name": "Herbalist",
+        "Challenge": "Collect 250 consumables by the end of wave 20",
+        "Unlocks": "Druid",
+        "Notes and Tips": "Playing a character based around consumables, like Farmer or Glutton makes this much easier to achieve."
+      },
+      {
+        "Icon": "",
+        "Name": "Unstoppable Force",
+        "Challenge": "Hit at least 25 enemies with a single melee attack",
+        "Unlocks": "Dwarf",
+        "Notes and Tips": "Use big slow weapons such as Spear or Anchor and hit a ton of enemies. Look for a Horde Wave. You can also use Loud. The additional enemies makes it much easier to hit 25."
+      },
+      {
+        "Icon": "",
+        "Name": "Barbecue",
+        "Challenge": "Have at least 25 enemies burning at the same time",
+        "Unlocks": "Chef",
+        "Notes and Tips": "Use a Fireball or Flamethrower to spread a ton of fire. You can try to find a Horde wave. Pacifist is great for this, since the burning enemies don't die."
+      },
+      {
+        "Icon": "",
+        "Name": "Unlucky",
+        "Challenge": "Reroll 10 times in a single shop",
+        "Unlocks": "Gangster",
+        "Notes and Tips": "This one can be done at the first shop. Just reroll 10 times. Pick a Character with starting harvesting like Saver for an easier time."
+      },
+      {
+        "Icon": "",
+        "Name": "Overkill",
+        "Challenge": "Deal 1000 damage to an enemy in a single hit",
+        "Unlocks": "Ogre",
+        "Notes and Tips": "Sailor with an Anchor is quite great here. The +200% damage to cursed enemies makes it easy to deal 1000 damage."
+      },
+      {
+        "Icon": "",
+        "Name": "Uncorrupted",
+        "Challenge": "Finish a run with 0 Curse",
+        "Unlocks": "Romantic",
+        "Notes and Tips": "Use short ranged Melee weapons and avoid killing the Sea Pig / Curse Hoarders. They give +1 Curse when killed. Avoid buying items that give curse. You can play Pacifist for an easier time. The Crash Zone map also have fewer enemies that give Curse on death."
+      },
+      {
+        "Icon": "",
+        "Name": "Cautious",
+        "Challenge": "Kill 1000 enemies that are more than 700 range away from you",
+        "Unlocks": "Diver",
+        "Notes and Tips": "You get it over multiple games. Use weapons like Slingshot or Play Lucky/ Hunter to hit enemies all over the map."
+      },
+      {
+        "Icon": "",
+        "Name": "Blind Greed",
+        "Challenge": "Reach +100 % Pickup Range",
+        "Unlocks": "Buccaneer",
+        "Notes and Tips": "Start a game as Soldier. You instantly get it."
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "The Abyss > Character Challenges (DLC)",
+    "columns": [
+      "Icon",
+      "Name",
+      "Challenge",
+      "Unlocks",
+      "Unlock Type"
+    ],
+    "row_count": 14,
+    "rows": [
+      {
+        "Icon": "",
+        "Name": "Builder",
+        "Challenge": "Win a run with Builder",
+        "Unlocks": "Lighthouse",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Chef",
+        "Challenge": "Win a run with Chef",
+        "Unlocks": "Spoon",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Captain",
+        "Challenge": "Win a run with Captain",
+        "Unlocks": "Captain’s Sword",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Creature",
+        "Challenge": "Win a run with Creature",
+        "Unlocks": "Barnacle",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Curious",
+        "Challenge": "Win a run with Curious",
+        "Unlocks": "Pearl",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Diver",
+        "Challenge": "Win a run with Diver",
+        "Unlocks": "Starfish",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Druid",
+        "Challenge": "Win a run with Druid",
+        "Unlocks": "Cauldron",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Dwarf",
+        "Challenge": "Win a run with Dwarf",
+        "Unlocks": "War Hammer",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Gangster",
+        "Challenge": "Win a run with Gangster",
+        "Unlocks": "Grenade Launcher",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Hiker",
+        "Challenge": "Win a run with Hiker",
+        "Unlocks": "Scarf",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Buccaneer",
+        "Challenge": "Win a run with Buccaneer",
+        "Unlocks": "Eyepatch",
+        "Unlock Type": "Item"
+      },
+      {
+        "Icon": "",
+        "Name": "Ogre",
+        "Challenge": "Win a run with Ogre",
+        "Unlocks": "Mace",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Romantic",
+        "Challenge": "Win a run with Romantic",
+        "Unlocks": "Flute",
+        "Unlock Type": "Weapon"
+      },
+      {
+        "Icon": "",
+        "Name": "Sailor",
+        "Challenge": "Win a run with Sailor",
+        "Unlocks": "Treasure Map",
+        "Unlock Type": "Item"
+      }
+    ]
+  }
+]

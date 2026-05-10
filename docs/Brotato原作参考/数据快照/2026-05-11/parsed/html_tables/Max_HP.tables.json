@@ -1,0 +1,786 @@
+[
+  {
+    "table_index": 0,
+    "section": "Items > Positive",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 26,
+    "rows": [
+      {
+        "Name": "Acid",
+        "Rarity": "Tier 2",
+        "Effects": "+8 Max HP -2 % Dodge -2 Knockback",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP"
+      },
+      {
+        "Name": "Alien Baby",
+        "Rarity": "Tier 3",
+        "Effects": "+15 Max HP +10 % Enemy health",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP"
+      },
+      {
+        "Name": "Alien Magic",
+        "Rarity": "Tier 3",
+        "Effects": "+8 Max HP +3 HP Regeneration -8 Luck",
+        "Base Price": "85",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, HP Regeneration"
+      },
+      {
+        "Name": "Alien Worm",
+        "Rarity": "Tier 1",
+        "Effects": "+3 Max HP +2 HP Regeneration -1 HP recovered from consumables",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, HP Regeneration"
+      },
+      {
+        "Name": "Broken Mouth",
+        "Rarity": "Tier 1",
+        "Effects": "+5 Max HP -1 HP Regeneration",
+        "Base Price": "25",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP"
+      },
+      {
+        "Name": "Cake",
+        "Rarity": "Tier 1",
+        "Effects": "+3 Max HP -1 % Damage",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP"
+      },
+      {
+        "Name": "Defective Steroids",
+        "Rarity": "Tier 1",
+        "Effects": "+2 Max HP +2 Melee Damage -3 % Attack Speed",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, Melee Damage"
+      },
+      {
+        "Name": "Esty's Couch",
+        "Rarity": "Tier 4",
+        "Effects": "+5 Max HP +2 HP Regeneration for every permanent -1 % Speed you have -20 % Speed",
+        "Base Price": "100",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "HP Regeneration, Max HP"
+      },
+      {
+        "Name": "Extra Stomach",
+        "Rarity": "Tier 4",
+        "Effects": "+1 Max HP when picking up a consumable while at maximum health (max +8 per wave)",
+        "Base Price": "100",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Max HP, Luck"
+      },
+      {
+        "Name": "Grind's Magical Leaf",
+        "Rarity": "Tier 4",
+        "Effects": "+3 Max HP at the end of a wave +1 HP Regeneration at the end of a wave +1 % Life Steal at the end of a wave",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, HP Regeneration, Life Steal"
+      },
+      {
+        "Name": "Gentle Alien",
+        "Rarity": "Tier 1",
+        "Effects": "+2 Max HP +5 % Damage +5% Enemies",
+        "Base Price": "30",
+        "Limit": "10.0",
+        "Unlocked By": "",
+        "Tags": "Max HP, Damage, More Enemies"
+      },
+      {
+        "Name": "Jelly",
+        "Rarity": "Tier 1",
+        "Effects": "+1 Max HP for every different weapon you have",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "Win a run with Vagabond",
+        "Tags": "Max HP"
+      },
+      {
+        "Name": "Knot(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "+15 % Damage +15 Max HP Weapons can no longer be upgraded or recycled",
+        "Base Price": "80",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Damage, Max HP"
+      },
+      {
+        "Name": "Kraken's Eye(DLC)",
+        "Rarity": "Tier 4",
+        "Effects": "You have a 50% chance to explode for 10 (+500%) damage when you get hit +10 Max HP +10 Curse",
+        "Base Price": "110",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Explosive, Max HP, Curse"
+      },
+      {
+        "Name": "Little Muscley Dude",
+        "Rarity": "Tier 2",
+        "Effects": "+3 Melee Damage +5 Max HP -15 Range",
+        "Base Price": "50",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Max HP"
+      },
+      {
+        "Name": "Medal",
+        "Rarity": "Tier 2",
+        "Effects": "+3 Max HP +3 % Damage +1 Armor +3 % Speed -4 % Crit Chance",
+        "Base Price": "55",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, Damage, Armor, Speed"
+      },
+      {
+        "Name": "Octopus",
+        "Rarity": "Tier 4",
+        "Effects": "+12 Max HP +5 HP Regeneration +3 % Life Steal -8 % Crit Chance",
+        "Base Price": "105",
+        "Limit": "",
+        "Unlocked By": "Win a run with Mutant",
+        "Tags": "Max HP, Life Steal, HP Regeneration"
+      },
+      {
+        "Name": "Padding",
+        "Rarity": "Tier 2",
+        "Effects": "+3 Max HP +1 Max HP for every 80 Materials you have",
+        "Base Price": "45",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Saver",
+        "Tags": "Max HP"
+      },
+      {
+        "Name": "Panda",
+        "Rarity": "Tier 4",
+        "Effects": "+12 Max HP +25 Luck -5 % Damage",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "Win a run with Pacifist",
+        "Tags": "Max HP, Luck"
+      },
+      {
+        "Name": "Potato",
+        "Rarity": "Tier 4",
+        "Effects": "+3 Max HP +2 HP Regeneration +1 % Life Steal +5 % Damage +5 % Attack Speed +3 % Speed +3 % Dodge +1 Armor +5 Luck",
+        "Base Price": "95",
+        "Limit": "",
+        "Unlocked By": "Win a run with Well Rounded",
+        "Tags": "Max HP, HP Regeneration, Damage, Speed, Luck"
+      },
+      {
+        "Name": "Shmoop",
+        "Rarity": "Tier 3",
+        "Effects": "+6 Max HP +2 HP Regeneration -2 Melee Damage -1 Ranged Damage",
+        "Base Price": "60",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, HP Regeneration"
+      },
+      {
+        "Name": "Spicy Sauce",
+        "Rarity": "Tier 2",
+        "Effects": "+3 Max HP Consumables have a 50% chance to explode for 10 (+100%) damage when picked up",
+        "Base Price": "40",
+        "Limit": "2.0",
+        "Unlocked By": "Win a run with Glutton",
+        "Tags": "Max HP, Luck, Explosive"
+      },
+      {
+        "Name": "Stone Skin",
+        "Rarity": "Tier 3",
+        "Effects": "+1 Max HP for every permanent 1 Armor you have -6 % Attack Speed",
+        "Base Price": "85",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Golem",
+        "Tags": "Armor, Max HP"
+      },
+      {
+        "Name": "Torture",
+        "Rarity": "Tier 4",
+        "Effects": "+15 Max HP Restore 5 HP per second. Cannot heal any other way.",
+        "Base Price": "100",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Max HP"
+      },
+      {
+        "Name": "Warrior Helmet",
+        "Rarity": "Tier 3",
+        "Effects": "+3 Armor +5 Max HP -5 % Speed",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Armor, Max HP"
+      },
+      {
+        "Name": "Weird Ghost",
+        "Rarity": "Tier 1",
+        "Effects": "+3 Max HP Start the next wave with 1 HP",
+        "Base Price": "12",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Items > Positive - Interactions",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 2,
+    "rows": [
+      {
+        "Name": "Alien Eyes",
+        "Rarity": "Tier 2",
+        "Effects": "Shoots 6 alien eyes around you every 3 seconds dealing 6 (+50%) damage each",
+        "Base Price": "50",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP"
+      },
+      {
+        "Name": "Spicy Sauce",
+        "Rarity": "Tier 2",
+        "Effects": "+3 Max HP Consumables have a 50% chance to explode for 10 (+100%) damage when picked up",
+        "Base Price": "40",
+        "Limit": "2.0",
+        "Unlocked By": "Win a run with Glutton",
+        "Tags": "Max HP, Luck, Explosive"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Items > Negative",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 12,
+    "rows": [
+      {
+        "Name": "Boiling Water",
+        "Rarity": "Tier 1",
+        "Effects": "+2 Elemental Damage -1 Max HP",
+        "Base Price": "30",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Elemental Damage"
+      },
+      {
+        "Name": "Bone Dice(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+50% chance to get +1 % Damage when rerolling in the shop +10% chance to get -1 Max HP when rerolling in the shop",
+        "Base Price": "30",
+        "Limit": "2.0",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Claw Tree",
+        "Rarity": "Tier 1",
+        "Effects": "+1 Melee Damage +3 % Crit Chance -1 Max HP",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Crit Chance"
+      },
+      {
+        "Name": "Decomposing Flesh",
+        "Rarity": "Tier 2",
+        "Effects": "+1 % Life Steal when you level up -1 Max HP when you level up",
+        "Base Price": "30",
+        "Limit": "",
+        "Unlocked By": "Win a run with Vampire",
+        "Tags": "Life Steal"
+      },
+      {
+        "Name": "Diploma",
+        "Rarity": "Tier 4",
+        "Effects": "+10 Engineering +50 % XP Gain -3 Max HP",
+        "Base Price": "90",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering, XP Gain"
+      },
+      {
+        "Name": "Duct Tape",
+        "Rarity": "Tier 1",
+        "Effects": "+1 Armor +1 Engineering -2 Max HP",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Armor, Engineering"
+      },
+      {
+        "Name": "Injection",
+        "Rarity": "Tier 1",
+        "Effects": "+7 % Damage -2 Max HP",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Jet Pack",
+        "Rarity": "Tier 4",
+        "Effects": "+15 % Speed +10 % Dodge -5 Max HP -1 Armor",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Speed, Dodge"
+      },
+      {
+        "Name": "Leather Vest",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Armor +6 % Dodge -3 Max HP",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Armor, Dodge"
+      },
+      {
+        "Name": "Night Goggles",
+        "Rarity": "Tier 4",
+        "Effects": "+15 % Crit Chance +50 Range -3 Max HP -1 Armor",
+        "Base Price": "95",
+        "Limit": "",
+        "Unlocked By": "Win a run with Ranger",
+        "Tags": "Crit Chance, Range"
+      },
+      {
+        "Name": "Robot Arm",
+        "Rarity": "Tier 4",
+        "Effects": "+3 Melee Damage at the end of a wave +3 Engineering at the end of a wave -1 Max HP at the end of a wave",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "Win a run with Engineer",
+        "Tags": "Melee Damage, Engineering"
+      },
+      {
+        "Name": "Snake",
+        "Rarity": "Tier 1",
+        "Effects": "Burning spreads to an additional nearby enemy -1 Max HP",
+        "Base Price": "25",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Elemental Damage"
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Items > Negative - Interactions",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Name": "Handcuffs",
+        "Rarity": "Tier 3",
+        "Effects": "+8 Melee Damage +8 Ranged Damage +8 Elemental Damage Your Max HP is capped at its current value",
+        "Base Price": "80",
+        "Limit": "1",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Ranged Damage, Elemental Damage"
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "Characters > Positive Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 13,
+    "rows": [
+      {
+        "Name": "Bull",
+        "Stats": "+20 Max HP +15 HP Regeneration +10 Armor HP Regeneration modifications are increased by 50% You explode for 30 (300% 300% 300%) damage when you take damage This explosion has a 1.5x crit multiplier You can't equip weapons",
+        "Unlocked By": "Win a run in Danger 1",
+        "Unlocks": "Gnome",
+        "Item Tags": "Armor, HP Regeneration, Explosive (Item Tag)"
+      },
+      {
+        "Name": "Chunky",
+        "Stats": "Max HP modifications are increased by 25%  +1% Damage for every 3 Max HP you have +3 HP recovered from consumables -100% Life Steal HP Regeneration modifications are reduced by 50%  Dodge modifications are reduced by 50% Speed modifications are reduced by 100%",
+        "Unlocked By": "Die for the first time",
+        "Unlocks": "Potato Thrower",
+        "Item Tags": "Max HP, Luck, Consumable"
+      },
+      {
+        "Name": "Demon",
+        "Stats": "+50% of your Materials are converted into Max HP at the end of a wave (13 Materials=1 Max HP) You buy items using Max HP instead of materials",
+        "Unlocked By": "Win a run in Danger 5",
+        "Unlocks": "Obliterator",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Druid(DLC)",
+        "Stats": "+5 Max HP +15 Luck Enemies have a higher chance of dropping fruits 33% chance to get +1 Luck when you pick up a fruit 33% of fruits are poisoned and hurt you (ignores Dodge and Armor) -100 HP Regeneration -100 % Life Steal Engineering modifications are reduced by 50%",
+        "Unlocked By": "Collect 250 consumables by the end of wave 20",
+        "Unlocks": "Cauldron",
+        "Item Tags": "Consumable, Luck"
+      },
+      {
+        "Name": "Fisherman",
+        "Stats": "+5 Max HP +20 Harvesting Shops always sell a Bait -100% Bait price +2 Harvesting for every 1 Bait you have Baits make some special enemies spawn throughout all future waves -50% materials dropped from enemies",
+        "Unlocked By": "Get 2 Bait during a run",
+        "Unlocks": "Lure",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Golem",
+        "Stats": "+20 Max HP Max HP modifications are increased by 33% Armor modifications are increased by 33% +40 % Attack Speed when you have less than 50% health +20 % Speed when you have less than 50% health You can't heal in any way",
+        "Unlocked By": "Finish a wave with 1 HP",
+        "Unlocks": "Stone Skin",
+        "Item Tags": "Max HP, Armor"
+      },
+      {
+        "Name": "Hiker(DLC)",
+        "Stats": "Earn 5 materials for every 10 steps you take during a wave +1 Max HP for every 80 steps you take during a wave % Speed modifications are increased by 10% -5 % Speed -50% materials dropped",
+        "Unlocked By": "Walk a total of 20000 steps",
+        "Unlocks": "Scarf",
+        "Item Tags": "Speed"
+      },
+      {
+        "Name": "King",
+        "Stats": "+50 Luck +25 % Damage for every Tier IV weapon you have +25% Attack Speed for every Tier IV weapon you have +5 Max HP for every different Tier IV item you have -15% Damage for every Tier I weapon you have -15% Attack Speed for every Tier I weapon you have -2 Max HP for every different Tier I item you have UNLISTED BONUS: Starting weapon is Tier II",
+        "Unlocked By": "Get 3 tier IV weapons at once",
+        "Unlocks": "Excalibur",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Masochist",
+        "Stats": "+5% Damage when you take damage until the end of the wave +10 Max HP +20 HP Regeneration +8 Armor -100% Damage",
+        "Unlocked By": "Win a run in Danger 3",
+        "Unlocks": "Spiky Shield",
+        "Item Tags": "Max HP, Armor, HP Regeneration, Life Steal"
+      },
+      {
+        "Name": "Ogre(DLC)",
+        "Stats": "Enemies taking double their max health as damage explode for 10 (+50%-50%) damage +10 Melee Damage You can't equip ranged weapons -50 % Attack Speed -10 % Speed",
+        "Unlocked By": "Deal 1000 damage to an enemy in a single hit",
+        "Unlocks": "Mace",
+        "Item Tags": "Max HP, Melee Damage, Explosive (Item Tag)"
+      },
+      {
+        "Name": "Romantic(DLC)",
+        "Stats": "Hitting an enemy that has less than 25% health has a 5% (50%) chance to charm it for 8 seconds +50 Range with melee weapons -3 % Damage for every 5 Curse you have -1 Armor for every 5 Curse you have +1 Curse at the end of a wave",
+        "Unlocked By": "Finish a run with 0 Curse",
+        "Unlocks": "Flute",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Sick",
+        "Stats": "+12 Max HP +25% Life Steal You take 1 damage per second (does not give invulnerability time) -100 HP Regeneration",
+        "Unlocked By": "Reach -5 % HP Regeneration",
+        "Unlocks": "Whetstone",
+        "Item Tags": "Life Steal"
+      },
+      {
+        "Name": "Well Rounded",
+        "Stats": "+5 Max Hp +5% Speed +8 Harvesting",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Potato",
+        "Item Tags": ""
+      }
+    ]
+  },
+  {
+    "table_index": 5,
+    "section": "Characters > Negative Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 5,
+    "rows": [
+      {
+        "Name": "Apprentice",
+        "Stats": "+2 Melee Damage when you level up +1 Ranged Damage when you level up +1 Elemental Damage when you level up +1 Engineering when you level up -2 Max HP when you level up",
+        "Unlocked By": "Reach level 20",
+        "Unlocks": "Quarterstaff",
+        "Item Tags": "XP Gain"
+      },
+      {
+        "Name": "Hunter",
+        "Stats": "+100 Range +1% Damage for every 10 Range you have Crit Chance modifications are increased by 25% Harvesting modifications are reduced by 100% Max HP modifications are reduced by 33%",
+        "Unlocked By": "Reach +300 Range",
+        "Unlocks": "Sniper Gun",
+        "Item Tags": "Range, Crit Chance"
+      },
+      {
+        "Name": "King",
+        "Stats": "+50 Luck +25 % Damage for every Tier IV weapon you have +25% Attack Speed for every Tier IV weapon you have +5 Max HP for every different Tier IV item you have -15% Damage for every Tier I weapon you have -15% Attack Speed for every Tier I weapon you have -2 Max HP for every different Tier I item you have UNLISTED BONUS: Starting weapon is Tier II",
+        "Unlocked By": "Get 3 tier IV weapons at once",
+        "Unlocks": "Excalibur",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Ranger",
+        "Stats": "+50 Range You start with 1 Pistol Ranged Damage modifications are increased by 50% You can't equip melee weapons Max HP modifications are reduced by 25%",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Night Goggles",
+        "Item Tags": "Ranged Damage, Range"
+      },
+      {
+        "Name": "Vampire",
+        "Stats": "+2 % Damage for every 1% of missing health +1 % Life Steal for every 3% of missing health +1 Armor for every 5% of missing health Max HP modifications are reduced by 25% -60 % Damage -100 HP Regeneration -100 HP recovered from consumables",
+        "Unlocked By": "Reach +40 % Life Steal",
+        "Unlocks": "Decomposing Flesh",
+        "Item Tags": "Life Steal"
+      }
+    ]
+  },
+  {
+    "table_index": 6,
+    "section": "Weapons",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 4,
+    "rows": [
+      {
+        "Name": "Chopper",
+        "Class": "Blade",
+        "Damage": "6(50%15%)  12(50%20%)  18(50%25%)  30(50%30%)",
+        "Attack Speed": "0.99s  0.99s  0.96s  0.89s",
+        "DPS": "6.1(51%15%)/s  12.2(51%20%)/s  18.8(52%26%)/s  33.7(56%34%)/s",
+        "Crit Damage/Chance": "x2 (10%)  x2 (15%)  x2 (20%)  x2 (25%)",
+        "Range": "135  150  165  180",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "+1/+1/+1/+2 health healed from consumables",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Win a run with Multitasker"
+      },
+      {
+        "Name": "Potato Thrower",
+        "Class": "Support",
+        "Damage": "-  1(25%20%)  1(25%20%)  1(25%20%)",
+        "Attack Speed": "-  0.45s  0.37s  0.25s",
+        "DPS": "-  2.2(55%44%)/s  2.7(67%54%)/s  4.0(100%80%)/s",
+        "Crit Damage/Chance": "-  x1.5 (3%)  x1.5 (3%)  x1.5 (3%)",
+        "Range": "-  500  500  500",
+        "Knockback": "-  20  25  30",
+        "Lifesteal": "-  0  0  0",
+        "Special Effects": "",
+        "Base price": "-  36  69  139",
+        "Unlocked by": "Win a run with Chunky"
+      },
+      {
+        "Name": "Spoon(DLC)",
+        "Class": "Blunt",
+        "Damage": "10(+50%+15%)  15(+50%+20%)  20(+50%+25%)  25(+50%+25%)",
+        "Attack Speed": "1.06s  0.99s  0.93s  0.86s",
+        "DPS": "9.4(47.1%14.1%)/s  15.1(50.3%20.1%)/s  21.6(54%27%)/s  28.9(57.9%28.9%)/s",
+        "Crit Damage/Chance": "x2 (0% chance)  x2.25 (0% chance)  x2.5 (0% chance)  x3 (0% chance)",
+        "Range": "150  165  180  200",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Always crits when hitting burning targets",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Win a run with Chef"
+      },
+      {
+        "Name": "Excalibur",
+        "Class": "Legendary, Blade",
+        "Damage": "-  -  -  200(200%200%)",
+        "Attack Speed": "-  -  -  0.66s",
+        "DPS": "-  -  -  266.6(266.6%266.6%)/s",
+        "Crit Damage/Chance": "-  -  -  x2.5 (10%)",
+        "Range": "-  -  -  200",
+        "Knockback": "-  -  -  5",
+        "Lifesteal": "-  -  -  0",
+        "Special Effects": "Alternates between thrusting and sweeping attacks. -3 Armor for every weapon you have",
+        "Base price": "-  -  -  230",
+        "Unlocked by": "Win a run with King"
+      }
+    ]
+  },
+  {
+    "table_index": 7,
+    "section": "Weapons",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 2,
+    "rows": [
+      {
+        "Name": "Rock",
+        "Class": "Primitive, Blunt",
+        "Damage": "20(100%)  35(100%)  50(100%)  70(100%)",
+        "Attack Speed": "1.68s  1.61s  1.53s  1.46s",
+        "DPS": "11.9(59%)/s  21.7(62%)/s  32.7(65%)/s  47.9(68%)/s",
+        "Crit Damage/Chance": "x1.5 (10%)  x1.5 (15%)  x1.5 (20%)  x1.5 (25%)",
+        "Range": "150  150  150  150",
+        "Knockback": "5  5  5  5",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "-/+1 Armor/+1 Armor, +2 Max HP/+2 Armor, +2 Max HP",
+        "Base price": "10  22  45  91",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Ghost Scepter",
+        "Class": "Ethereal",
+        "Damage": "10(100%)  15(100%)  20(100%)  30(100%)",
+        "Attack Speed": "0.98s  0.93s  0.88s  0.83s",
+        "DPS": "10.2(102%)/s  16.1(107%)/s  22.7(113%)/s  36.1(120%)/s",
+        "Crit Damage/Chance": "x2 (3%)  x2 (3%)  x2 (3%)  x2 (3%)",
+        "Range": "300  350  400  450",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "+1 Max HP for every 20/18/16/12 kills in a wave with this weapon",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Default"
+      }
+    ]
+  },
+  {
+    "table_index": 8,
+    "section": "Weapon Classes",
+    "columns": [
+      "Class",
+      "Bonuses",
+      "Weapons"
+    ],
+    "row_count": 2,
+    "rows": [
+      {
+        "Class": "Blunt",
+        "Bonuses": "(2)+1 Armor -2% Speed (3)+1 Armor +3 Max HP -4% Speed (4)+2 Armor +3 Max HP -6% Speed (5)+2 Armor +6 Max HP -8% Speed (6)+3 Armor +6 Max HP -10% Speed",
+        "Weapons": "Brick  Rock  Spiky Shield  Spoon  Hammer  War Hammer"
+      },
+      {
+        "Class": "Primitive",
+        "Bonuses": "(2)+3 Max HP (3)+6 Max HP (4)+9 Max HP (5)+12 Max HP (6)+15 Max HP",
+        "Weapons": "Cacti Club  Hatchet  Javelin  Quarterstaff  Rock  Sharp Tooth  Slingshot  Spear  Stick  Torch"
+      }
+    ]
+  },
+  {
+    "table_index": 9,
+    "section": "",
+    "columns": [
+      "Stats",
+      "Stats.1",
+      "Stats.2",
+      "Stats.3"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Stats": "Max HP",
+        "Stats.1": "Melee Damage",
+        "Stats.2": "Crit Chance",
+        "Stats.3": "Dodge"
+      },
+      {
+        "Stats": "HP Regeneration",
+        "Stats.1": "Ranged Damage",
+        "Stats.2": "Engineering",
+        "Stats.3": "Speed"
+      },
+      {
+        "Stats": "Life Steal",
+        "Stats.1": "Elemental Damage",
+        "Stats.2": "Range",
+        "Stats.3": "Luck"
+      },
+      {
+        "Stats": "Damage",
+        "Stats.1": "Attack Speed",
+        "Stats.2": "Armor",
+        "Stats.3": "Harvesting"
+      },
+      {
+        "Stats": "DLC Stats",
+        "Stats.1": "DLC Stats",
+        "Stats.2": "DLC Stats",
+        "Stats.3": "DLC Stats"
+      },
+      {
+        "Stats": "Curse",
+        "Stats.1": "Curse",
+        "Stats.2": "Curse",
+        "Stats.3": "Curse"
+      }
+    ]
+  }
+]

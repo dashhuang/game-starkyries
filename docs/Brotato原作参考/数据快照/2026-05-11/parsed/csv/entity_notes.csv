@@ -1,0 +1,797 @@
+kind,id,name,ok,url,page_title,notes
+character,well rounded,Well Rounded,True,https://brotato.wiki.spellsandguns.com/Well_Rounded,Well Rounded - Brotato Wiki,
+character,brawler,Brawler,True,https://brotato.wiki.spellsandguns.com/Brawler,Brawler - Brotato Wiki,
+character,crazy,Crazy,True,https://brotato.wiki.spellsandguns.com/Crazy,Crazy - Brotato Wiki,
+character,ranger,Ranger,True,https://brotato.wiki.spellsandguns.com/Ranger,Ranger - Brotato Wiki,"You can mix different guns together to counter of the weaknesses of the other guns, or just stick with one gun and have 6 of them.
+Weapon
+
+Notes
+
+ Pistol
+
+High powered slow guns that deal heavy damage, but can struggle dealing with bigger crowds of enemies.
+
+ Laser Gun
+
+ Revolver
+
+ SMG
+
+Very fast attack speed and can achieve great damage per second when scaled with ranged damage.
+
+ Shredder
+
+Can explode hordes of enemies in seconds, but struggles with dealing single target damage.
+
+ Crossbow
+
+High damage weapon like Pistol, but scales better with Range and Critical damage, rather than Ranged Damage.
+Characters
+ 
+ ALL
+ Well Rounded
+ Brawler
+ Crazy
+ Ranger
+ Mage
+ Chunky
+ Old
+ Lucky
+ Mutant
+ Generalist
+ Loud
+ Multitasker
+ Wildling
+ Pacifist
+ Gladiator
+ Saver
+ Sick
+ Farmer
+ Ghost
+ Speedy
+ 
+ 
+ Entrepreneur
+ Engineer
+ Explorer
+ Doctor
+ Hunter
+ Artificer
+ Arms Dealer
+ Streamer
+ Cyborg
+ Glutton
+ Jack
+ Lich 
+ Apprentice
+ Cryptid
+ Fisherman
+ Golem
+ King
+ Renegade 
+ One Armed
+ Bull
+ Soldier
+ 
+ 
+ Masochist
+ Knight
+ Demon
+ Baby
+ Vagabond
+ Technomage
+ Vampire
+ Sailor
+ Curious
+ Builder
+ Captain
+ Creature
+ Chef
+ Druid
+ Dwarf
+ Gangster
+ Diver
+ Hiker
+ Buccaneer
+ Ogre
+ Romantic"
+character,mage,Mage,True,https://brotato.wiki.spellsandguns.com/Mage,Mage - Brotato Wiki,
+character,chunky,Chunky,True,https://brotato.wiki.spellsandguns.com/Chunky,Chunky - Brotato Wiki,"Chunky has synergies with several of their starting weapons.
+Weapon
+
+Notes
+
+ Hand
+
+Unarmed class - Gives Dodge, which helps you avoid damage (but note that Chunky has -50% Dodge modifications)
+
+ Fist
+
+ Rock
+
+Primitive class - Increases your Max HP.
+Blunt class - Chunky ignores its speed reduction penalty.
+
+ Cacti Club
+
+Primitive class - Increases your Max HP.
+
+ Stick
+
+ Torch
+
+ Plank
+
+No remarkable synergy/effect
+
+ Chopper
+
+Increases healing with consumables, and scales in damage with your Max HP.
+
+ Double Barrel Shotgun
+
+Ranged weapon - Helps you avoid taking damage by attacking from a distance.
+
+ Shredder
+
+ Ghost Scepter
+
+Ranged weapon - Helps you avoid taking damage by attacking from a distance.
+Gives Max HP when killing enemies.
+
+ Spiky Shield
+
+Blunt class - Chunky ignores its speed reduction penalty. Spiky Shield also scales with armor, a thing that Chunky often stacks."
+character,old,Old,True,https://brotato.wiki.spellsandguns.com/Old,Old - Brotato Wiki,
+character,lucky,Lucky,True,https://brotato.wiki.spellsandguns.com/Lucky,Lucky - Brotato Wiki,
+character,mutant,Mutant,True,https://brotato.wiki.spellsandguns.com/Mutant,Mutant - Brotato Wiki,
+character,generalist,Generalist,True,https://brotato.wiki.spellsandguns.com/Generalist,Generalist - Brotato Wiki,
+character,loud,Loud,True,https://brotato.wiki.spellsandguns.com/Loud,Loud - Brotato Wiki,
+character,multitasker,Multitasker,True,https://brotato.wiki.spellsandguns.com/Multitasker,Multitasker - Brotato Wiki,
+character,wildling,Wildling,True,https://brotato.wiki.spellsandguns.com/Wildling,Wildling - Brotato Wiki,
+character,pacifist,Pacifist,True,https://brotato.wiki.spellsandguns.com/Pacifist,Pacifist - Brotato Wiki,
+character,gladiator,Gladiator,True,https://brotato.wiki.spellsandguns.com/Gladiator,Gladiator - Brotato Wiki,
+character,saver,Saver,True,https://brotato.wiki.spellsandguns.com/Saver,Saver - Brotato Wiki,
+character,sick,Sick,True,https://brotato.wiki.spellsandguns.com/Sick,Sick - Brotato Wiki,
+character,farmer,Farmer,True,https://brotato.wiki.spellsandguns.com/Farmer,Farmer - Brotato Wiki,
+character,ghost,Ghost,True,https://brotato.wiki.spellsandguns.com/Ghost,Ghost - Brotato Wiki,
+character,speedy,Speedy,True,https://brotato.wiki.spellsandguns.com/Speedy,Speedy - Brotato Wiki,
+character,entrepreneur,Entrepreneur,True,https://brotato.wiki.spellsandguns.com/Entrepreneur,Entrepreneur - Brotato Wiki,
+character,engineer,Engineer,True,https://brotato.wiki.spellsandguns.com/Engineer,Engineer - Brotato Wiki,
+character,explorer,Explorer,True,https://brotato.wiki.spellsandguns.com/Explorer,Explorer - Brotato Wiki,
+character,doctor,Doctor,True,https://brotato.wiki.spellsandguns.com/Doctor,Doctor - Brotato Wiki,
+character,hunter,Hunter,True,https://brotato.wiki.spellsandguns.com/Hunter,Hunter - Brotato Wiki,
+character,artificer,Artificer,True,https://brotato.wiki.spellsandguns.com/Artificer,Artificer - Brotato Wiki,
+character,arms dealer,Arms Dealer,True,https://brotato.wiki.spellsandguns.com/Arms_Dealer,Arms Dealer - Brotato Wiki,
+character,streamer,Streamer,True,https://brotato.wiki.spellsandguns.com/Streamer,Streamer - Brotato Wiki,
+character,cyborg,Cyborg,True,https://brotato.wiki.spellsandguns.com/Cyborg,Cyborg - Brotato Wiki,
+character,glutton,Glutton,True,https://brotato.wiki.spellsandguns.com/Glutton,Glutton - Brotato Wiki,
+character,jack,Jack,True,https://brotato.wiki.spellsandguns.com/Jack,Jack - Brotato Wiki,
+character,lich,Lich,True,https://brotato.wiki.spellsandguns.com/Lich,Lich - Brotato Wiki,
+character,apprentice,Apprentice,True,https://brotato.wiki.spellsandguns.com/Apprentice,Apprentice - Brotato Wiki,
+character,cryptid,Cryptid,True,https://brotato.wiki.spellsandguns.com/Cryptid,Cryptid - Brotato Wiki,
+character,fisherman,Fisherman,True,https://brotato.wiki.spellsandguns.com/Fisherman,Fisherman - Brotato Wiki,
+character,golem,Golem,True,https://brotato.wiki.spellsandguns.com/Golem,Golem - Brotato Wiki,
+character,king,King,True,https://brotato.wiki.spellsandguns.com/King,King - Brotato Wiki,
+character,renegade,Renegade,True,https://brotato.wiki.spellsandguns.com/Renegade,Renegade - Brotato Wiki,"Their damage reduction modification applies to all sources of % Damage and Explosion Damage, but does not apply to other sources like Melee and Ranged Damage.
+When playing Renegade, Tier 1 items in the Shop and in Loot crates that you don't currently have a copy off will show up with Renegade's face next to it, indicating that you'll gain the +10% Damage (+2% after reduction).
+Renegade's +2 projectiles is additive with other forms of multiple projectiles. So a Tier 1 Double Barrel Shotgun will shoot 6 projectiles instead of 4, which is only a +50% increase in DPS, while other weapons go from 1 to 3 projectiles, increasing their DPS by +200%."
+character,one armed,One Armed,True,https://brotato.wiki.spellsandguns.com/One_Armed,One Armed - Brotato Wiki,
+character,bull,Bull,True,https://brotato.wiki.spellsandguns.com/Bull,Bull - Brotato Wiki,
+character,soldier,Soldier,True,https://brotato.wiki.spellsandguns.com/Soldier,Soldier - Brotato Wiki,
+character,masochist,Masochist,True,https://brotato.wiki.spellsandguns.com/Masochist,Masochist - Brotato Wiki,
+character,knight,Knight,True,https://brotato.wiki.spellsandguns.com/Knight,Knight - Brotato Wiki,
+character,demon,Demon,True,https://brotato.wiki.spellsandguns.com/Demon,Demon - Brotato Wiki,
+character,baby,Baby,True,https://brotato.wiki.spellsandguns.com/Baby,Baby - Brotato Wiki,
+character,vagabond,Vagabond,True,https://brotato.wiki.spellsandguns.com/Vagabond,Vagabond - Brotato Wiki,
+character,technomage,Technomage,True,https://brotato.wiki.spellsandguns.com/Technomage,Technomage - Brotato Wiki,
+character,vampire,Vampire,True,https://brotato.wiki.spellsandguns.com/Vampire,Vampire - Brotato Wiki,
+character,sailor,Sailor,True,https://brotato.wiki.spellsandguns.com/Sailor,Sailor - Brotato Wiki,
+character,curious,Curious,True,https://brotato.wiki.spellsandguns.com/Curious,Curious - Brotato Wiki,
+character,builder,Builder,True,https://brotato.wiki.spellsandguns.com/Builder,Builder - Brotato Wiki,
+character,captain,Captain,True,https://brotato.wiki.spellsandguns.com/Captain,Captain - Brotato Wiki,
+character,creature,Creature,True,https://brotato.wiki.spellsandguns.com/Creature,Creature - Brotato Wiki,
+character,chef,Chef,True,https://brotato.wiki.spellsandguns.com/Chef,Chef - Brotato Wiki,
+character,druid,Druid,True,https://brotato.wiki.spellsandguns.com/Druid,Druid - Brotato Wiki,"Druid's 'higher fruit chance' means: when an enemy doesn't drop a consumable normally, you have a 3% chance that a fruit still drops."
+character,dwarf,Dwarf,True,https://brotato.wiki.spellsandguns.com/Dwarf,Dwarf - Brotato Wiki,"Dwarf's ability to gain stats on kills requires at least 6 enemies be killed with one swing or thrust of a melee weapon. Explosions and Structures cannot gain stats. So watch out for weapons like Plank or Plasma Sledge. They can prevent you from gaining stats, since kills from the explosion isn't counted towards the 6 enemies needed."
+character,gangster,Gangster,True,https://brotato.wiki.spellsandguns.com/Gangster,Gangster - Brotato Wiki,"Gangster always faces Elite Waves and won't see any Horde Waves when playing on higher Danger Levels
+Gangster cannot find items with the Lock tag. This is currently just Fish Hook."
+character,diver,Diver,True,https://brotato.wiki.spellsandguns.com/Diver,Diver - Brotato Wiki,
+character,hiker,Hiker,True,https://brotato.wiki.spellsandguns.com/Hiker,Hiker - Brotato Wiki,
+character,buccaneer,Buccaneer,True,https://brotato.wiki.spellsandguns.com/Buccaneer,Buccaneer - Brotato Wiki,
+character,ogre,Ogre,True,https://brotato.wiki.spellsandguns.com/Ogre,Ogre - Brotato Wiki,
+character,romantic,Romantic,True,https://brotato.wiki.spellsandguns.com/Romantic,Romantic - Brotato Wiki,"Romantic's Charm will not be applied via Burning Damage (including Incendiary Turret's Burn) nor via random-target effects like Cyberball.
+Structures (such as Turret or Landmines), however, can apply charm when they hit a target (which does include the non-burn part of an Incendiary Turret's hit). Spawned Projectiles (e.g. Alien Eyes) will also apply the effect."
+weapon,cacti club,Cacti Club,True,https://brotato.wiki.spellsandguns.com/Cacti_Club,Cacti Club - Brotato Wiki,
+weapon,chopper,Chopper,True,https://brotato.wiki.spellsandguns.com/Chopper,Chopper - Brotato Wiki,
+weapon,circular saw,Circular Saw,True,https://brotato.wiki.spellsandguns.com/Circular_Saw,Circular Saw - Brotato Wiki,
+weapon,claw,Claw,True,https://brotato.wiki.spellsandguns.com/Claw,Claw - Brotato Wiki,"Claw is one of only two Weapons that scales with Attack Speed, the other being Hatchet."
+weapon,drill,Drill,True,https://brotato.wiki.spellsandguns.com/Drill,Drill - Brotato Wiki,"The Drill is a Legendary Weapon that comes with a powerful 2.5x Crit and a 100% chance to gain materials on a Critical Hit kill. This makes it basically a much stronger version of the Thief Dagger.
+In addition, it gains you 10% Attack Speed for every 5 Seconds in a wave.
+You can see in the table below what the bonus is at different times during the wave:
+Time Past
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+Attack Speed
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+110%
+
+120%
+
+130%
+
+140%
+
+150%
+
+160%
+
+170%
+This means that you get up to a 110% bonus during a regular 60 second wave, and up to 170% during the wave 20 Boss Fight, which can last up to 90 seconds.
+Drill is one of very few weapons that scales with Engineering."
+weapon,excalibur,Excalibur,True,https://brotato.wiki.spellsandguns.com/Excalibur,Excalibur - Brotato Wiki,"Excalibur is quite an extraordinary weapon. It boasts an impressive 200 Base damage, 200% Melee Damage and Max HP Scaling. It has a low cooldown and a 2.5 Critical Hit multiplier.
+Together, these stats make Excalibur the highest Damage per Second Melee weapon by far. However, it comes at a cost. Excalibur gives you -3 Armor for each weapon you have. So for most builds, this means -18 armor for 6 weapons. However, some characters are able to evade this downside.
+One Armed only has one weapon, meaning you're just taking a single -3 to your armor.
+ Ghost starts with -100 Armor, and due to how negative armor works, there is barely any difference between -100 and -118 Armor.
+In addition, the Sword is very expensive with a base price of 260, it also has the Legendary Weapon Class, meaning you'll lose Max HP from having more than one Legendary Weapon.
+Despite the weapon class of Legendary and unique Name of the Sword you can actually have multiple Excaliburs."
+weapon,quarterstaff,Quarterstaff,True,https://brotato.wiki.spellsandguns.com/Quarterstaff,Quarterstaff - Brotato Wiki,Quarterstaff is the only weapon that scales with your current Level.
+weapon,fist,Fist,True,https://brotato.wiki.spellsandguns.com/Fist,Fist - Brotato Wiki,
+weapon,flaming brass knuckles,Flaming Brass Knuckles,True,https://brotato.wiki.spellsandguns.com/Flaming_Brass_Knuckles,Flaming Brass Knuckles - Brotato Wiki,
+weapon,ghost axe,Ghost Axe,True,https://brotato.wiki.spellsandguns.com/Ghost_Axe,Ghost Axe - Brotato Wiki,
+weapon,ghost flint,Ghost Flint,True,https://brotato.wiki.spellsandguns.com/Ghost_Flint,Ghost Flint - Brotato Wiki,
+weapon,hammer,Hammer,True,https://brotato.wiki.spellsandguns.com/Hammer,Hammer - Brotato Wiki,
+weapon,hand,Hand,True,https://brotato.wiki.spellsandguns.com/Hand,Hand - Brotato Wiki,
+weapon,hatchet,Hatchet,True,https://brotato.wiki.spellsandguns.com/Hatchet,Hatchet - Brotato Wiki,"Hatchet is one of only two Weapons that scales with Attack Speed, the other being Claw."
+weapon,jousting lance,Jousting Lance,True,https://brotato.wiki.spellsandguns.com/Jousting_Lance,Jousting Lance - Brotato Wiki,
+weapon,knife,Knife,True,https://brotato.wiki.spellsandguns.com/Knife,Knife - Brotato Wiki,
+weapon,lightning shiv,Lightning Shiv,True,https://brotato.wiki.spellsandguns.com/Lightning_Shiv,Lightning Shiv - Brotato Wiki,
+weapon,plank,Plank,True,https://brotato.wiki.spellsandguns.com/Plank,Plank - Brotato Wiki,
+weapon,plasma sledge,Plasma Sledge,True,https://brotato.wiki.spellsandguns.com/Plasma_Sledge,Plasma Sledge - Brotato Wiki,
+weapon,power fist,Power Fist,True,https://brotato.wiki.spellsandguns.com/Power_Fist,Power Fist - Brotato Wiki,
+weapon,pruner,Pruner,True,https://brotato.wiki.spellsandguns.com/Pruner,Pruner - Brotato Wiki,
+weapon,rock,Rock,True,https://brotato.wiki.spellsandguns.com/Rock,Rock - Brotato Wiki,
+weapon,scissors,Scissors,True,https://brotato.wiki.spellsandguns.com/Scissors,Scissors - Brotato Wiki,
+weapon,screwdriver,Screwdriver,True,https://brotato.wiki.spellsandguns.com/Screwdriver,Screwdriver - Brotato Wiki,
+weapon,scythe,Scythe,True,https://brotato.wiki.spellsandguns.com/Scythe,Scythe - Brotato Wiki,"Scythe is the only weapon that actively hurts you, much like Blood Donation and Bloody Hand.
+Unlike other Ethereal Weapons, the Scythe doesn't give you permanent stats from killing enemies, but instead gives temporary Damage whenever you take damage. The stats from the Scythe only lasts until the end of the wave."
+weapon,spear,Spear,True,https://brotato.wiki.spellsandguns.com/Spear,Spear - Brotato Wiki,
+weapon,spiky shield,Spiky Shield,True,https://brotato.wiki.spellsandguns.com/Spiky_Shield,Spiky Shield - Brotato Wiki,
+weapon,stick,Stick,True,https://brotato.wiki.spellsandguns.com/Stick,Stick - Brotato Wiki,
+weapon,sword,Sword,True,https://brotato.wiki.spellsandguns.com/Sword,Sword - Brotato Wiki,
+weapon,thief dagger,Thief Dagger,True,https://brotato.wiki.spellsandguns.com/Thief_Dagger,Thief Dagger - Brotato Wiki,
+weapon,thunder sword,Thunder Sword,True,https://brotato.wiki.spellsandguns.com/Thunder_Sword,Thunder Sword - Brotato Wiki,
+weapon,torch,Torch,True,https://brotato.wiki.spellsandguns.com/Torch,Torch - Brotato Wiki,
+weapon,wrench,Wrench,True,https://brotato.wiki.spellsandguns.com/Wrench,Wrench - Brotato Wiki,
+weapon,chain gun,Chain Gun,True,https://brotato.wiki.spellsandguns.com/Chain_Gun,Chain Gun - Brotato Wiki,"Chain Gun is one of only 2 weapons that have an regularly interrupted cooldown, which acts like a reload after 100 shots. The other is Revolver, which reloads after 6 shots."
+weapon,crossbow,Crossbow,True,https://brotato.wiki.spellsandguns.com/Crossbow,Crossbow - Brotato Wiki,
+weapon,double barrel shotgun,Double Barrel Shotgun,True,https://brotato.wiki.spellsandguns.com/Double_Barrel_Shotgun,Double Barrel Shotgun - Brotato Wiki,
+weapon,flamethrower,Flamethrower,True,https://brotato.wiki.spellsandguns.com/Flamethrower,Flamethrower - Brotato Wiki,
+weapon,gatling laser,Gatling Laser,True,https://brotato.wiki.spellsandguns.com/Gatling_Laser,Gatling Laser - Brotato Wiki,"Gatling Laser has the fastest possible base attack speed of any weapon, with a base cooldown stat of 2, and a recoil duration of 0.02, giving it a base cooldown of 0.073. This matches Chain Gun and Tier IV Minigun. These three guns have the same attack speed. Combined with its good ranged damage scaling and 3x crit multiplier, Gatling Laser is capable of dealing massive damage."
+weapon,ghost scepter,Ghost Scepter,True,https://brotato.wiki.spellsandguns.com/Ghost_Scepter,Ghost Scepter - Brotato Wiki,
+weapon,laser gun,Laser Gun,True,https://brotato.wiki.spellsandguns.com/Laser_Gun,Laser Gun - Brotato Wiki,
+weapon,medical gun,Medical Gun,True,https://brotato.wiki.spellsandguns.com/Medical_Gun,Medical Gun - Brotato Wiki,
+weapon,minigun,Minigun,True,https://brotato.wiki.spellsandguns.com/Minigun,Minigun - Brotato Wiki,
+weapon,nuclear launcher,Nuclear Launcher,True,https://brotato.wiki.spellsandguns.com/Nuclear_Launcher,Nuclear Launcher - Brotato Wiki,
+weapon,obliterator,Obliterator,True,https://brotato.wiki.spellsandguns.com/Obliterator,Obliterator - Brotato Wiki,
+weapon,pistol,Pistol,True,https://brotato.wiki.spellsandguns.com/Pistol,Pistol - Brotato Wiki,
+weapon,potato thrower,Potato Thrower,True,https://brotato.wiki.spellsandguns.com/Potato_Thrower,Potato Thrower - Brotato Wiki,
+weapon,revolver,Revolver,True,https://brotato.wiki.spellsandguns.com/Revolver,Revolver - Brotato Wiki,
+weapon,rocket launcher,Rocket Launcher,True,https://brotato.wiki.spellsandguns.com/Rocket_Launcher,Rocket Launcher - Brotato Wiki,
+weapon,shredder,Shredder,True,https://brotato.wiki.spellsandguns.com/Shredder,Shredder - Brotato Wiki,
+weapon,shuriken,Shuriken,True,https://brotato.wiki.spellsandguns.com/Shuriken,Shuriken - Brotato Wiki,
+weapon,slingshot,Slingshot,True,https://brotato.wiki.spellsandguns.com/Slingshot,Slingshot - Brotato Wiki,
+weapon,smg,Smg,True,https://brotato.wiki.spellsandguns.com/SMG,SMG - Brotato Wiki,
+weapon,sniper gun,Sniper Gun,True,https://brotato.wiki.spellsandguns.com/Sniper_Gun,Sniper Gun - Brotato Wiki,
+weapon,taser,Taser,True,https://brotato.wiki.spellsandguns.com/Taser,Taser - Brotato Wiki,
+weapon,wand,Wand,True,https://brotato.wiki.spellsandguns.com/Wand,Wand - Brotato Wiki,
+weapon,anchor,Anchor,True,https://brotato.wiki.spellsandguns.com/Anchor,Anchor - Brotato Wiki,
+weapon,blunderbuss,Blunderbuss,True,https://brotato.wiki.spellsandguns.com/Blunderbuss,Blunderbuss - Brotato Wiki,
+weapon,brick,Brick,True,https://brotato.wiki.spellsandguns.com/Brick,Brick - Brotato Wiki,"Brick is the weapon with the lowest base cost in the game. It has quite impressive damage, especially for its cost. But these impressive stacks comes at the cost of the Brick having a 1% chance to break when hitting an enemy.
+When the brick breaks, it drops 10/30/60/120 Materials.
+The Tier 2 Brick drops more Materials than two Tier 1 Bricks. So you can combine Bricks to Tier 2 to make more profit.
+The breaking is per 1% target hit. If you swing towards a large group of enemies, it might break upon hitting the first target, letting the rest live.
+When the Brick breaks, it drops Materials, Which give both Money and Experience
+Brick is affected by the Materials drop stat. So characters like Streamer or Farmer only get 50% materials from Bricks. Characters with -50% materials from enemies, like Explorer still get the full amount.
+On the other hand Jack gets 3x the materials from bricks and Buccaneer gets 2x the materials, making Brick an interesting option for them."
+weapon,captain’s sword,Captain’s Sword,True,https://brotato.wiki.spellsandguns.com/Captain%E2%80%99s_Sword,Captain's Sword - Brotato Wiki,
+weapon,chainsaw,Chainsaw,True,https://brotato.wiki.spellsandguns.com/Chainsaw,Chainsaw - Brotato Wiki,"Chainsaw is quite a unique weapon. It has triple scaling, it has to reload, and it deals Health Percent Damage.
+It is also the only Tool weapon that doesn't spawn structures. It can be a way from engineering builds to deal damage. A character like Dwarf that ends up with a ton of Engineering and Melee Damage can deal great damage with Chainsaw. The life steal scaling also makes it an interesting choice for lifesteal based characters like Sick or Vampire."
+weapon,dex-troyer,Dex-troyer,True,https://brotato.wiki.spellsandguns.com/DEX-troyer,DEX-troyer - Brotato Wiki,
+weapon,fireball,Fireball,True,https://brotato.wiki.spellsandguns.com/Fireball,Fireball - Brotato Wiki,
+weapon,flute,Flute,True,https://brotato.wiki.spellsandguns.com/Flute,Flute - Brotato Wiki,Flute's Charm will not be applied via Burning caused by Scared Sausage.
+weapon,grenade launcher,Grenade Launcher,True,https://brotato.wiki.spellsandguns.com/Grenade_Launcher,Grenade Launcher - Brotato Wiki,
+weapon,harpoon gun,Harpoon Gun,True,https://brotato.wiki.spellsandguns.com/Harpoon_Gun,Harpoon Gun - Brotato Wiki,"The Harpoon Gun is a quite unique gun. It scales with both Melee Damage and Ranged Damage, and pulls enemies that are hit by it. It also slows enemies hit by it.
+Increasing your Knockback Stat has the reverse effect on harpoon gun, making it have a higher negative value. So if you have +10 Knockback, Harpoon Gun will have -30-10 = -40 knockback.
+Harpoon Gun ignores 90% of an enemy's Knockback resistance, meaning it can pull enemies that are otherwise really hard to knock back. However, it cannot pull enemies that are knockback immune, such as elites and bosses.
+Another hidden ability of the harpoon gun: Enemies pulled at least 200 distance by the negative knockback have their damage reduced by 90% for 1 second.
+The Character Diver starts with a Harpoon Gun and it costs 1 gold in the Shop and when recycling for Diver.
+ Generalist might find the Harpoon extra useful, since they benefit greatly from the dual scaling.
+Class
+ Bonuses
+ Weapons
+ 
+ 
+ 
+ Naval
+ (2)+1 Curse(3)+2 Curse(4)+3 Curse(5)+4 Curse(6)+5 Curse
+
+ Anchor Blunderbuss Harpoon Gun Trident Captain's Sword
+ 
+
+ 
+ 
+ Gun
+ (2)+10 Range(3)+20 Range(4)+30 Range(5)+40 Range(6)+50 Range
+
+ Double Barrel Shotgun Laser Gun Medical Gun Pistol Revolver Shredder SMG Blunderbuss Harpoon Gun Minigun Sniper Gun Obliterator Chain Gun"
+weapon,hiking pole,Hiking Pole,True,https://brotato.wiki.spellsandguns.com/Hiking_Pole,Hiking Pole - Brotato Wiki,
+weapon,icicle,Icicle,True,https://brotato.wiki.spellsandguns.com/Icicle,Icicle - Brotato Wiki,
+weapon,javelin,Javelin,True,https://brotato.wiki.spellsandguns.com/Javelin,Javelin - Brotato Wiki,
+weapon,lute,Lute,True,https://brotato.wiki.spellsandguns.com/Lute,Lute - Brotato Wiki,
+weapon,mace,Mace,True,https://brotato.wiki.spellsandguns.com/Mace,Mace - Brotato Wiki,
+weapon,particle accelerator,Particle Accelerator,True,https://brotato.wiki.spellsandguns.com/Particle_Accelerator,Particle Accelerator - Brotato Wiki,"The Particle Accelerator due to its beam style projectile cannot bounce. The tooltip might say bounce if you have Ricochet, but it won't affect the weapon."
+weapon,sharp tooth,Sharp Tooth,True,https://brotato.wiki.spellsandguns.com/Sharp_Tooth,Sharp Tooth - Brotato Wiki,
+weapon,sickle,Sickle,True,https://brotato.wiki.spellsandguns.com/Sickle,Sickle - Brotato Wiki,
+weapon,spoon,Spoon,True,https://brotato.wiki.spellsandguns.com/Spoon,Spoon - Brotato Wiki,
+weapon,trident,Trident,True,https://brotato.wiki.spellsandguns.com/Trident,Trident - Brotato Wiki,
+weapon,vorpal sword,Vorpal Sword,True,https://brotato.wiki.spellsandguns.com/Vorpal_Sword,Vorpal Sword - Brotato Wiki,The chance to one shot the target works on elites and bosses. Curse can improve this chance even further.
+weapon,war hammer,War Hammer,True,https://brotato.wiki.spellsandguns.com/War_Hammer,War Hammer - Brotato Wiki,
+item,acid,Acid,True,https://brotato.wiki.spellsandguns.com/Acid,Acid - Brotato Wiki,
+item,adrenaline,Adrenaline,True,https://brotato.wiki.spellsandguns.com/Adrenaline,Adrenaline - Brotato Wiki,
+item,alien baby,Alien Baby,True,https://brotato.wiki.spellsandguns.com/Alien_Baby,Alien Baby - Brotato Wiki,
+item,alien eyes,Alien Eyes,True,https://brotato.wiki.spellsandguns.com/Alien_Eyes,Alien Eyes - Brotato Wiki,
+item,alien magic,Alien Magic,True,https://brotato.wiki.spellsandguns.com/Alien_Magic,Alien Magic - Brotato Wiki,
+item,alien tongue,Alien Tongue,True,https://brotato.wiki.spellsandguns.com/Alien_Tongue,Alien Tongue - Brotato Wiki,
+item,alien worm,Alien Worm,True,https://brotato.wiki.spellsandguns.com/Alien_Worm,Alien Worm - Brotato Wiki,
+item,alloy,Alloy,True,https://brotato.wiki.spellsandguns.com/Alloy,Alloy - Brotato Wiki,
+item,anvil,Anvil,True,https://brotato.wiki.spellsandguns.com/Anvil,Anvil - Brotato Wiki,"Anvil will upgrade a random weapon of yours each time you enter a shop. Once there are no weapons to upgrade, it will give you 2 Armor instead.
+When acquired on Wildling, your weapons cannot be upgraded above Tier 2 by the Anvil, so Anvil will give you armor instead.
+Arms Dealer will lose their weapons first when entering the shop, so will always get the 2 Armor."
+item,ashes,Ashes,True,https://brotato.wiki.spellsandguns.com/Ashes,Ashes - Brotato Wiki,
+item,axolotl,Axolotl,True,https://brotato.wiki.spellsandguns.com/Axolotl,Axolotl - Brotato Wiki,"Axolotl is an extremely polarizing item. It can easily break the game and make the run an easy win, or a terrible loss.
+It switches your highest stat, and your lowest positive stat. This can lead to you being close to invincible if you switch a large amount of for example Harvesting into Armor, or lead to you instantly killing everything if switched into for example Ranged Damage
+Axolotl is especially coded to only show up 50% less compared to other legendary items.
+Axolotl is also the only item in the game that cannot be locked in the shop. This was done to prevent the player from being able to buy items and upgrades to the point where they could choose the stats the Axolotl would change.
+When Cursed, the Axolotl gives +5 to both stats that it is switched. The +5 is then boosted by the item's curse."
+item,baby elephant,Baby Elephant,True,https://brotato.wiki.spellsandguns.com/Baby_Elephant,Baby Elephant - Brotato Wiki,
+item,baby gecko,Baby Gecko,True,https://brotato.wiki.spellsandguns.com/Baby_Gecko,Baby Gecko - Brotato Wiki,
+item,baby squid,Baby Squid,True,https://brotato.wiki.spellsandguns.com/Baby_Squid,Baby Squid - Brotato Wiki,"Baby Squid is a quite powerful HP Regeneration option. It gives +1 HP Regeneration whenever you level up. As such the item gives more stats the ealier in the run you get it, and it works quite well with XP Gain or Mutant because you'll gain more levels.
+Baby Squid is quite similar to Decomposing Flesh."
+item,baby with a beard,Baby With A Beard,True,https://brotato.wiki.spellsandguns.com/Baby_with_a_Beard,Baby with a Beard - Brotato Wiki,
+item,bag,Bag,True,https://brotato.wiki.spellsandguns.com/Bag,Bag - Brotato Wiki,
+item,bait,Bait,True,https://brotato.wiki.spellsandguns.com/Bait,Bait - Brotato Wiki,
+item,ball and chain,Ball And Chain,True,https://brotato.wiki.spellsandguns.com/Ball_and_Chain,Ball and Chain - Brotato Wiki,"The Ball and Chain comes with quite a unique downside. It gives your weapons a minimum cooldown of 0.75 seconds. This doesn't seem to account for the animation time of melee weapons. So for melee weapons, their minimum cooldown with Ball and Call will be more than 0.75 seconds depending on how long the range of the weapon is.
+The Stats are great for its price, so it is worthwhile to consider on characters with Attack speed penalties such as Buccaneer, Dwarf, or Ogre. And in general if you're using slower weapons like Laser Gun or Hammer
+Despite the Tooltip saying weapons, the Ball and Chain does limit the attack speed of Structures. This includes both regular Turret and the Builder's Turret.
+A Cursed Ball and Chain will have a minimum cooldown that is lower than 0.75 seconds. This opens the Cursed Ball and Chain up to being useful on more builds."
+item,bandana,Bandana,True,https://brotato.wiki.spellsandguns.com/Bandana,Bandana - Brotato Wiki,
+item,ban system,Ban System,True,https://brotato.wiki.spellsandguns.com/Ban_System,Ban System - Brotato Wiki,"This isn't a real item but a ""system"" that, after being unlocked, allows you to banish an item seen in the shop, which will mean you won't see it again for the rest of the run."
+item,banner,Banner,True,https://brotato.wiki.spellsandguns.com/Banner,Banner - Brotato Wiki,
+item,barnacle,Barnacle,True,https://brotato.wiki.spellsandguns.com/Barnacle,Barnacle - Brotato Wiki,"Barnacle increases the stats given by Upgrades, similarly to Captain. The increased amount will show up directly on the upgrade. So a Tier 3 Armor upgrade will show up as +4 instead of +3. Still the Purple color.
+It also gives +1 Curse When leveling up. This can either be considered a positive bonus, or a big downside depending on your build and opinion on the Curse stat.
+Since Barnacle gives value upon leveling up, it is better the earlier you get it. You can get even more levels by buying XP Gain items.
+Upgrade Values are rounded down. So picking a 2 Armor upgrade doesn't give you 2.7 Armor. It just gives 2 armor.
+Barnacle stacks Additively with the +100% from Captain for at total of +135% upgrade stats."
+item,barricade,Barricade,True,https://brotato.wiki.spellsandguns.com/Barricade,Barricade - Brotato Wiki,
+item,bat,Bat,True,https://brotato.wiki.spellsandguns.com/Bat,Bat - Brotato Wiki,
+item,bean teacher,Bean Teacher,True,https://brotato.wiki.spellsandguns.com/Bean_Teacher,Bean Teacher - Brotato Wiki,
+item,beanie,Beanie,True,https://brotato.wiki.spellsandguns.com/Beanie,Beanie - Brotato Wiki,
+item,big arms,Big Arms,True,https://brotato.wiki.spellsandguns.com/Big_Arms,Big Arms - Brotato Wiki,
+item,black belt,Black Belt,True,https://brotato.wiki.spellsandguns.com/Black_Belt,Black Belt - Brotato Wiki,
+item,black flag,Black Flag,True,https://brotato.wiki.spellsandguns.com/Black_Flag,Black Flag - Brotato Wiki,"Black flag is quite the item. It increases the amount of enemies, makes them deal more damage and have more health, and then the +5 Curse means more cursed enemies making it even harder.
+However +10% more enemies also means more Materials Dropped. And the +1 money per kill for cursed enemies means a lot of gold on runs with a lot of Curse.
+The Cursed version of Black flag gives +2 or even sometimes +3 gold per kill and can change the entire run. It is a very powerful item for Endless Mode, where 100% of the enemies will end up being cursed once you get to the later waves.
+Black Flag is better the earlier you get it, as you have more waves to earn a profit. Characters that are built around Curse, such as Sailor or Creature should highly consider picking it up."
+item,blindfold,Blindfold,True,https://brotato.wiki.spellsandguns.com/Blindfold,Blindfold - Brotato Wiki,
+item,blood donation,Blood Donation,True,https://brotato.wiki.spellsandguns.com/Blood_Donation,Blood Donation - Brotato Wiki,
+item,blood leech,Blood Leech,True,https://brotato.wiki.spellsandguns.com/Blood_Leech,Blood Leech - Brotato Wiki,
+item,bloody hand,Bloody Hand,True,https://brotato.wiki.spellsandguns.com/Bloody_Hand,Bloody Hand - Brotato Wiki,
+item,boiling water,Boiling Water,True,https://brotato.wiki.spellsandguns.com/Boiling_Water,Boiling Water - Brotato Wiki,
+item,bone dice,Bone Dice,True,https://brotato.wiki.spellsandguns.com/Bone_Dice,Bone Dice - Brotato Wiki,"Multiple Bone Dice trigger independently, so if you have 2 Bone Dice, they will both roll and have a chance to gain % Damage or lose Max HP. Meaning you can gain +2% Damage if you're lucky!"
+item,book,Book,True,https://brotato.wiki.spellsandguns.com/Book,Book - Brotato Wiki,
+item,bowler hat,Bowler Hat,True,https://brotato.wiki.spellsandguns.com/Bowler_Hat,Bowler Hat - Brotato Wiki,
+item,boxing glove,Boxing Glove,True,https://brotato.wiki.spellsandguns.com/Boxing_Glove,Boxing Glove - Brotato Wiki,
+item,broken hourglass,Broken Hourglass,True,https://brotato.wiki.spellsandguns.com/Broken_Hourglass,Broken Hourglass - Brotato Wiki,Broken Hourglass is a special item that you get after using a Hourglass.
+item,broken mirror,Broken Mirror,True,https://brotato.wiki.spellsandguns.com/Broken_Mirror,Broken Mirror - Brotato Wiki,Broken Mirror is a special item that you get after using a Mirror.
+item,broken mouth,Broken Mouth,True,https://brotato.wiki.spellsandguns.com/Broken_Mouth,Broken Mouth - Brotato Wiki,
+item,builder's turret,Builder's Turret,True,https://brotato.wiki.spellsandguns.com/Builder%27s_Turret,Builder's Turret - Brotato Wiki,
+item,builder's turret ii,Builder's Turret Ii,False,https://brotato.wiki.spellsandguns.com/Builder%27s_Turret_Ii,,
+item,builder's turret iii,Builder's Turret Iii,False,https://brotato.wiki.spellsandguns.com/Builder%27s_Turret_Iii,,
+item,builder's turret iv,Builder's Turret Iv,False,https://brotato.wiki.spellsandguns.com/Builder%27s_Turret_Iv,,
+item,butterfly,Butterfly,True,https://brotato.wiki.spellsandguns.com/Butterfly,Butterfly - Brotato Wiki,
+item,cake,Cake,True,https://brotato.wiki.spellsandguns.com/Cake,Cake - Brotato Wiki,
+item,campfire,Campfire,True,https://brotato.wiki.spellsandguns.com/Campfire,Campfire - Brotato Wiki,
+item,candle,Candle,True,https://brotato.wiki.spellsandguns.com/Candle,Candle - Brotato Wiki,
+item,candy bag,Candy Bag,True,https://brotato.wiki.spellsandguns.com/Candy_Bag,Candy Bag - Brotato Wiki,
+item,cape,Cape,True,https://brotato.wiki.spellsandguns.com/Cape,Cape - Brotato Wiki,
+item,cauldron,Cauldron,True,https://brotato.wiki.spellsandguns.com/Cauldron,Cauldron - Brotato Wiki,"The Damage gained from Cauldron is just regular % DMG.
+Picking up multiple Consumables within the 2 second span just refreshes the duration, it doesn't stack 20% Damage multiple times."
+item,celery tea,Celery Tea,True,https://brotato.wiki.spellsandguns.com/Celery_Tea,Celery Tea - Brotato Wiki,
+item,chameleon,Chameleon,True,https://brotato.wiki.spellsandguns.com/Chameleon,Chameleon - Brotato Wiki,
+item,charcoal,Charcoal,True,https://brotato.wiki.spellsandguns.com/Charcoal,Charcoal - Brotato Wiki,
+item,claw tree,Claw Tree,True,https://brotato.wiki.spellsandguns.com/Claw_Tree,Claw Tree - Brotato Wiki,
+item,clockwork wasp,Clockwork Wasp,True,https://brotato.wiki.spellsandguns.com/Clockwork_Wasp,Clockwork Wasp - Brotato Wiki,"Structure attack speed affects most Structures. it makes all Turrets attack faster, Garden spawn Fruit with a shorter cooldown, and reduces the spawn cooldown for Landmines.
+Clockwork Wasp is generally a powerful item for Engineering builds."
+item,clover,Clover,True,https://brotato.wiki.spellsandguns.com/Clover,Clover - Brotato Wiki,
+item,coffee,Coffee,True,https://brotato.wiki.spellsandguns.com/Coffee,Coffee - Brotato Wiki,
+item,cog,Cog,True,https://brotato.wiki.spellsandguns.com/Cog,Cog - Brotato Wiki,
+item,coil,Coil,True,https://brotato.wiki.spellsandguns.com/Coil,Coil - Brotato Wiki,
+item,community support,Community Support,True,https://brotato.wiki.spellsandguns.com/Community_Support,Community Support - Brotato Wiki,
+item,compass,Compass,True,https://brotato.wiki.spellsandguns.com/Compass,Compass - Brotato Wiki,
+item,coral,Coral,True,https://brotato.wiki.spellsandguns.com/Coral,Coral - Brotato Wiki,
+item,corrupted shard,Corrupted Shard,True,https://brotato.wiki.spellsandguns.com/Corrupted_Shard,Corrupted Shard - Brotato Wiki,
+item,coupon,Coupon,True,https://brotato.wiki.spellsandguns.com/Coupon,Coupon - Brotato Wiki,
+item,crown,Crown,True,https://brotato.wiki.spellsandguns.com/Crown,Crown - Brotato Wiki,
+item,crystal,Crystal,True,https://brotato.wiki.spellsandguns.com/Crystal,Crystal - Brotato Wiki,"In addition to the permanent +5% Attack Speed, Crystal also gives you +1% attack speed every second that you're able to not take damage. If you take damage, the bonus is lost and it starts counting again. The bonus is also lost at the end of each wave.
+Self inflicted damage from Blood Donation or Sick will reset the bonus."
+item,cute monkey,Cute Monkey,True,https://brotato.wiki.spellsandguns.com/Cute_Monkey,Cute Monkey - Brotato Wiki,
+item,cyberball,Cyberball,True,https://brotato.wiki.spellsandguns.com/Cyberball,Cyberball - Brotato Wiki,
+item,cyclops worm,Cyclops Worm,True,https://brotato.wiki.spellsandguns.com/Cyclops_Worm,Cyclops Worm - Brotato Wiki,
+item,dangerous bunny,Dangerous Bunny,True,https://brotato.wiki.spellsandguns.com/Dangerous_Bunny,Dangerous Bunny - Brotato Wiki,"When a Dangerous Bunny is purchased, instead of granting a free reroll, it simply reduces the cost of the current reroll to 0, meaning that the price of rerolls that follow increase unlike normal.
+The Tooltip for how much the Bunny has saved you is inaccurate. It counts the first reroll price, so if your reroll price was 10, 13, 16 for rerolls (Wave 7 costs), and it reduced it to 0, 10, 13, then it will say that you saved 10 materials. But you actually saved 16 gold in total if you wanted to reroll 3 times.
+And if you have more Dangerous Bunnies, it will still only say 10 gold per bunny, even that those 3 rerolls would be at least worth 39 gold (10+13+16) and potentially more, since the 4th and onwards rerolls are cheaper."
+item,decomposing flesh,Decomposing Flesh,True,https://brotato.wiki.spellsandguns.com/Decomposing_Flesh,Decomposing Flesh - Brotato Wiki,
+item,defective steroids,Defective Steroids,True,https://brotato.wiki.spellsandguns.com/Defective_Steroids,Defective Steroids - Brotato Wiki,
+item,diploma,Diploma,True,https://brotato.wiki.spellsandguns.com/Diploma,Diploma - Brotato Wiki,
+item,duct tape,Duct Tape,True,https://brotato.wiki.spellsandguns.com/Duct_Tape,Duct Tape - Brotato Wiki,
+item,dynamite,Dynamite,True,https://brotato.wiki.spellsandguns.com/Dynamite,Dynamite - Brotato Wiki,
+item,energy bracelet,Energy Bracelet,True,https://brotato.wiki.spellsandguns.com/Energy_Bracelet,Energy Bracelet - Brotato Wiki,
+item,esty’s couch,Esty’s Couch,True,https://brotato.wiki.spellsandguns.com/Esty%E2%80%99s_Couch,Esty's Couch - Brotato Wiki,
+item,exoskeleton,Exoskeleton,True,https://brotato.wiki.spellsandguns.com/Exoskeleton,Exoskeleton - Brotato Wiki,
+item,explosive shells,Explosive Shells,True,https://brotato.wiki.spellsandguns.com/Explosive_Shells,Explosive Shells - Brotato Wiki,
+item,explosive turret,Explosive Turret,True,https://brotato.wiki.spellsandguns.com/Explosive_Turret,Explosive Turret - Brotato Wiki,
+item,extra stomach,Extra Stomach,True,https://brotato.wiki.spellsandguns.com/Extra_Stomach,Extra Stomach - Brotato Wiki,
+item,eyepatch,Eyepatch,True,https://brotato.wiki.spellsandguns.com/Eyepatch,Eyepatch - Brotato Wiki,The effect currently doesn't affect Structures
+item,eyes surgery,Eyes Surgery,True,https://brotato.wiki.spellsandguns.com/Eyes_Surgery,Eyes Surgery - Brotato Wiki,
+item,fairy,Fairy,True,https://brotato.wiki.spellsandguns.com/Fairy,Fairy - Brotato Wiki,
+item,feather,Feather,True,https://brotato.wiki.spellsandguns.com/Feather,Feather - Brotato Wiki,Feather is currently the only item in the game that reduces your XP Gain
+item,fertilizer,Fertilizer,True,https://brotato.wiki.spellsandguns.com/Fertilizer,Fertilizer - Brotato Wiki,
+item,fin,Fin,True,https://brotato.wiki.spellsandguns.com/Fin,Fin - Brotato Wiki,
+item,fish hook,Fish Hook,True,https://brotato.wiki.spellsandguns.com/Fish_Hook,Fish Hook - Brotato Wiki,"Fish Hook causes Locked items and weapons in the Shop to have +20% chance to be cursed when entering the shop. Multiple Fish hooks stack additively, so 2 regular Fish Hooks means 40% chance of Cursing each wave.
+Cursed Fish Hook can have up to 42% chance to curse locked items in the shop. So it is possible to reach 100% chance to curse after locking in the Shop. This is quite useful for Endless Mode."
+item,focus,Focus,True,https://brotato.wiki.spellsandguns.com/Focus,Focus - Brotato Wiki,
+item,fresh meat,Fresh Meat,True,https://brotato.wiki.spellsandguns.com/Fresh_Meat,Fresh Meat - Brotato Wiki,
+item,fried rice,Fried Rice,True,https://brotato.wiki.spellsandguns.com/Fried_Rice,Fried Rice - Brotato Wiki,
+item,frozen heart,Frozen Heart,True,https://brotato.wiki.spellsandguns.com/Frozen_Heart,Frozen Heart - Brotato Wiki,"Frozen Heart is a powerful option for elemental builds. It offers a ton of Elemental Damage and some Crit Chance at the cost of slowing down the tick-rate of your Burn effects.
+Burning activates 100% slower means that burn will do damage every 2 seconds instead of every second. If you have 20% faster burn rate from an Eyes Surgery, it simply stacks addively, so burn will activate every 1.8 second.
+Frozen Heart technically makes your weapons into elemental scaling weapons, which means they will trigger Ice Cube.
+Be careful with taking Frozen Heart when playing Chef, as it will make all your weapons count as elemental weapons due to the scaling. Meaning they can't gain the +200% bonus damage from burning enemies."
+item,fruit basket,Fruit Basket,True,https://brotato.wiki.spellsandguns.com/Fruit_Basket,Fruit Basket - Brotato Wiki,
+item,fuel tank,Fuel Tank,True,https://brotato.wiki.spellsandguns.com/Fuel_Tank,Fuel Tank - Brotato Wiki,
+item,gambling token,Gambling Token,True,https://brotato.wiki.spellsandguns.com/Gambling_Token,Gambling Token - Brotato Wiki,
+item,garden,Garden,True,https://brotato.wiki.spellsandguns.com/Garden,Garden - Brotato Wiki,
+item,gentle alien,Gentle Alien,True,https://brotato.wiki.spellsandguns.com/Gentle_Alien,Gentle Alien - Brotato Wiki,
+item,ghost outfit,Ghost Outfit,True,https://brotato.wiki.spellsandguns.com/Ghost_Outfit,Ghost Outfit - Brotato Wiki,
+item,giant belt,Giant Belt,True,https://brotato.wiki.spellsandguns.com/Giant_Belt,Giant Belt - Brotato Wiki,
+item,glass cannon,Glass Cannon,True,https://brotato.wiki.spellsandguns.com/Glass_Cannon,Glass Cannon - Brotato Wiki,
+item,glasses,Glasses,True,https://brotato.wiki.spellsandguns.com/Glasses,Glasses - Brotato Wiki,
+item,gnome,Gnome,True,https://brotato.wiki.spellsandguns.com/Gnome,Gnome - Brotato Wiki,
+item,goat skull,Goat Skull,True,https://brotato.wiki.spellsandguns.com/Goat_Skull,Goat Skull - Brotato Wiki,
+item,gobbler's hat,Gobbler's Hat,True,https://brotato.wiki.spellsandguns.com/Gobbler%27s_Hat,Gobbler's Hat - Brotato Wiki,"Internally this is called ""Evil Hat"" and sorted accordingly in the Codex."
+item,goblet,Goblet,True,https://brotato.wiki.spellsandguns.com/Goblet,Goblet - Brotato Wiki,
+item,goldfish,Goldfish,True,https://brotato.wiki.spellsandguns.com/Goldfish,Goldfish - Brotato Wiki,"The Goldfish is a single use item that is used during Shopping, similarly to Mirror.
+When you reroll the shop while having a goldfish active, the items and weapons on the new reroll will be +1 tier higher than they would've otherwise have been. So if the shop had selected to give you a tier 2 weapon, that becomes tier 3, and it then chooses the specific weapon to give from among tier 3 weapons.
+After being used, the Goldfish turns into a Resting Goldfish, which does nothing.
+The tooltip can be a bit hard to understand. But the goldfish doesn't affect Locked items. And if you reroll while having locked items, you'll see less than 4 items/weapons that have their tier boosted by the goldfish, wasting some of the potential.
+Goldfish can make Tier 4 items and weapons show up in the shop before it would otherwise be possible. Normally Tier 4 can't show up before wave 8+.
+Cursed Goldfish upgrades the next reroll by 2-3 tiers. At +3, this guarantees a full shop of Tier 4 items.
+If you have multiple Goldfish active, for example after using a Mirror to buy two goldfishes, then only one Goldfish is used per reroll. It still only gives +1 to tiers.
+When playing Curious be warned that since the Goldfish turns into another item after being used, it will show the Green icon even if it isn't the first Goldfish you buy. But you'll end up with 2 Used Goldfishes, which will give you -10% Damage."
+item,greek fire,Greek Fire,True,https://brotato.wiki.spellsandguns.com/Greek_Fire,Greek Fire - Brotato Wiki,Greek Fire makes your Burn deal bonus Health Percent Damage to enemies each second.
+item,grind's magical leaf,Grind's Magical Leaf,True,https://brotato.wiki.spellsandguns.com/Grind%27s_Magical_Leaf,Grind's Magical Leaf - Brotato Wiki,
+item,gummy berserker,Gummy Berserker,True,https://brotato.wiki.spellsandguns.com/Gummy_Berserker,Gummy Berserker - Brotato Wiki,
+item,handcuffs,Handcuffs,True,https://brotato.wiki.spellsandguns.com/Handcuffs,Handcuffs - Brotato Wiki,
+item,head injury,Head Injury,True,https://brotato.wiki.spellsandguns.com/Head_Injury,Head Injury - Brotato Wiki,
+item,heavy bullets,Heavy Bullets,True,https://brotato.wiki.spellsandguns.com/Heavy_Bullets,Heavy Bullets - Brotato Wiki,
+item,hedgehog,Hedgehog,True,https://brotato.wiki.spellsandguns.com/Hedgehog,Hedgehog - Brotato Wiki,
+item,helmet,Helmet,True,https://brotato.wiki.spellsandguns.com/Helmet,Helmet - Brotato Wiki,
+item,honey,Honey,True,https://brotato.wiki.spellsandguns.com/Honey,Honey - Brotato Wiki,
+item,hourglass,Hourglass,True,https://brotato.wiki.spellsandguns.com/Hourglass,Hourglass - Brotato Wiki,"After being used, the Hourglass turns into a Broken Hourglass, which does nothing."
+item,hunting trophy,Hunting Trophy,True,https://brotato.wiki.spellsandguns.com/Hunting_Trophy,Hunting Trophy - Brotato Wiki,
+item,ice cube,Ice Cube,True,https://brotato.wiki.spellsandguns.com/Ice_Cube,Ice Cube - Brotato Wiki,
+item,improved tools,Improved Tools,True,https://brotato.wiki.spellsandguns.com/Improved_Tools,Improved Tools - Brotato Wiki,The tooltip of items like Garden shows the drop rate rounded to the nearest second. The internal value used in the game includes decimals however. This is the case for all structures.
+item,incendiary turret,Incendiary Turret,True,https://brotato.wiki.spellsandguns.com/Incendiary_Turret,Incendiary Turret - Brotato Wiki,
+item,injection,Injection,True,https://brotato.wiki.spellsandguns.com/Injection,Injection - Brotato Wiki,
+item,insanity,Insanity,True,https://brotato.wiki.spellsandguns.com/Insanity,Insanity - Brotato Wiki,
+item,jelly,Jelly,True,https://brotato.wiki.spellsandguns.com/Jelly,Jelly - Brotato Wiki,"Jelly gives you Max HP. Considering that it has the same price as Chopper, once you have 3+ different weapons, Jelly becomes a better item than the Cake. Generally speaking Jelly becomes good with 3+ weapons.
+Jelly is a great item for Characters such as Curious, Gladiator, or Vagabond that are pushed towards having different weapons.
+Jelly can insane amounts of Max HP on characters that can have more than 6 weapons: Baby and Multitasker
+The Max HP granted by Jelly is consider permanent and can be spent in the Shop by Demon and Chunky gains bonus % Damage from it. It also scales weapons such as Chopper that scale with Max HP."
+item,jerky,Jerky,True,https://brotato.wiki.spellsandguns.com/Jerky,Jerky - Brotato Wiki,
+item,jet pack,Jet Pack,True,https://brotato.wiki.spellsandguns.com/Jet_Pack,Jet Pack - Brotato Wiki,
+item,knot,Knot,True,https://brotato.wiki.spellsandguns.com/Knot,Knot - Brotato Wiki,"Knot prevents you from selling and combining weapons. It doesn't prevent you from buying weapons. So if you see it in the Shop, you can combine your weapons before buying it, leaving you with empty weapon slots which you can fill in later shops.
+Arms Dealer can make good use of Knot, since they lose all their weapons when entering the shop. So they rely less on conbining weapons, and don't need the ability to sell weapons.
+Knot gives a ton of stats for its price, due to the heavy downside. It is similar to Handcuffs, Shackles, and Ball and Chain in that it offers a ton of stats, but locks on of your stats. These items are generally great to find just before the run ends, since the lock downside isn't going to affect you.
+If you have Anvil and Knot, the Anvil will give you Armor since it can't upgrade your Weapons"
+item,kraken's eye,Kraken's Eye,True,https://brotato.wiki.spellsandguns.com/Kraken%27s_Eye,Kraken's Eye - Brotato Wiki,"Kraken's Eye works similarly to Bull's Explosion.
+Kraken Eye triggers when you take damage, so self inflicted damage from Sick or the item Blood Donation is great with Kraken's Eye, as it gives a chance to trigger an explosion each second."
+item,landmines,Landmines,True,https://brotato.wiki.spellsandguns.com/Landmines,Landmines - Brotato Wiki,
+item,lantern,Lantern,True,https://brotato.wiki.spellsandguns.com/Lantern,Lantern - Brotato Wiki,"Every 3 Seconds, a yellow glowing area pulses around you, inflicting knockback on every enemy within about 150 range of you. The knockback distance depends on your knockback stat.
+When Cursed the cooldown of the Knockback pulse is also reduced, such that it happens every 2/1 second depending on the strength of the curse."
+item,laser turret,Laser Turret,True,https://brotato.wiki.spellsandguns.com/Laser_Turret,Laser Turret - Brotato Wiki,
+item,leather vest,Leather Vest,True,https://brotato.wiki.spellsandguns.com/Leather_Vest,Leather Vest - Brotato Wiki,
+item,lemonade,Lemonade,True,https://brotato.wiki.spellsandguns.com/Lemonade,Lemonade - Brotato Wiki,
+item,lens,Lens,True,https://brotato.wiki.spellsandguns.com/Lens,Lens - Brotato Wiki,
+item,lighthouse,Lighthouse,True,https://brotato.wiki.spellsandguns.com/Lighthouse,Lighthouse - Brotato Wiki,"Items and Weapons such as Screwdriver, Landmines, or Pocket Factory only count as 1 Structure for Lighthouse per Item/Weapon you have, even if there's 100 Landmines on the map. It counts the Weapons/Items, not the actual spawned stuctures."
+item,little frog,Little Frog,True,https://brotato.wiki.spellsandguns.com/Little_Frog,Little Frog - Brotato Wiki,
+item,little muscley dude,Little Muscley Dude,True,https://brotato.wiki.spellsandguns.com/Little_Muscley_Dude,Little Muscley Dude - Brotato Wiki,
+item,lost duck,Lost Duck,True,https://brotato.wiki.spellsandguns.com/Lost_Duck,Lost Duck - Brotato Wiki,
+item,lucky charm,Lucky Charm,True,https://brotato.wiki.spellsandguns.com/Lucky_Charm,Lucky Charm - Brotato Wiki,
+item,lucky coin,Lucky Coin,True,https://brotato.wiki.spellsandguns.com/Lucky_Coin,Lucky Coin - Brotato Wiki,
+item,lumberjack shirt,Lumberjack Shirt,True,https://brotato.wiki.spellsandguns.com/Lumberjack_Shirt,Lumberjack Shirt - Brotato Wiki,
+item,lure,Lure,True,https://brotato.wiki.spellsandguns.com/Lure,Lure - Brotato Wiki,
+item,mammoth,Mammoth,True,https://brotato.wiki.spellsandguns.com/Mammoth,Mammoth - Brotato Wiki,
+item,mastery,Mastery,True,https://brotato.wiki.spellsandguns.com/Mastery,Mastery - Brotato Wiki,
+item,medal,Medal,True,https://brotato.wiki.spellsandguns.com/Medal,Medal - Brotato Wiki,
+item,medical turret,Medical Turret,True,https://brotato.wiki.spellsandguns.com/Medical_Turret,Medical Turret - Brotato Wiki,
+item,medikit,Medikit,True,https://brotato.wiki.spellsandguns.com/Medikit,Medikit - Brotato Wiki,"The Medkit gives a base +10 HP Regeneration and an additional +2 HP regeneration per 5 seconds of time that has passed during a wave. This additional HP Regeneration lasts until the end of the wave.
+You can see in the table below what this bonus is at different times during the wave:
+Time Passed
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+Additional HP Regeneration
+
++0
+
++2
+
++4
+
++6
+
++8
+
++10
+
++12
+
++14
+
++16
+
++18
+
++20
+
++22
+
++24
+
++26
+
++28
+
++30
+
++32
+
++34
+This makes the Medkit very potent at healing during the 90 second Boss Fight on Wave 20."
+item,metal detector,Metal Detector,True,https://brotato.wiki.spellsandguns.com/Metal_Detector,Metal Detector - Brotato Wiki,"Metal detector gives an additive 5% per item chance for any Materials you pick up to have double the value. You gain both double the Money and double Experience.
+Buccaneer's double materials ability gives 4x materials when Metal Detector triggers.
+Double value materials from bagged materials dropped at the beginning of a wave gives 4x the value when metal detector triggers. This means you gain same amount of materials on average if you let your materials get bagged or not. See the Materials page for details on bagged materials.
+It also doubles any other materials that for any reason have their value increased. For example if more than 50 materials are on the ground. Again, see the materials page for details.
+It is a very powerful item for Endless Mode, where the ability to gain additional materials is highly valued."
+item,metal plate,Metal Plate,True,https://brotato.wiki.spellsandguns.com/Metal_Plate,Metal Plate - Brotato Wiki,
+item,mirror,Mirror,True,https://brotato.wiki.spellsandguns.com/Mirror,Mirror - Brotato Wiki,"After being used, the Mirror turns into a Broken Mirror, which does nothing."
+item,missile,Missile,True,https://brotato.wiki.spellsandguns.com/Missile,Missile - Brotato Wiki,
+item,mouse,Mouse,True,https://brotato.wiki.spellsandguns.com/Mouse,Mouse - Brotato Wiki,
+item,mushroom,Mushroom,True,https://brotato.wiki.spellsandguns.com/Mushroom,Mushroom - Brotato Wiki,
+item,mutation,Mutation,True,https://brotato.wiki.spellsandguns.com/Mutation,Mutation - Brotato Wiki,
+item,nail,Nail,True,https://brotato.wiki.spellsandguns.com/Nail,Nail - Brotato Wiki,
+item,night goggles,Night Goggles,True,https://brotato.wiki.spellsandguns.com/Night_Goggles,Night Goggles - Brotato Wiki,
+item,octopus,Octopus,True,https://brotato.wiki.spellsandguns.com/Octopus,Octopus - Brotato Wiki,
+item,padding,Padding,True,https://brotato.wiki.spellsandguns.com/Padding,Padding - Brotato Wiki,
+item,panda,Panda,True,https://brotato.wiki.spellsandguns.com/Panda,Panda - Brotato Wiki,
+item,peaceful bee,Peaceful Bee,True,https://brotato.wiki.spellsandguns.com/Peaceful_Bee,Peaceful Bee - Brotato Wiki,
+item,peacock,Peacock,True,https://brotato.wiki.spellsandguns.com/Peacock,Peacock - Brotato Wiki,
+item,pearl,Pearl,True,https://brotato.wiki.spellsandguns.com/Pearl,Pearl - Brotato Wiki,"Pearls found in Loot Crates with the pearl's ability only recycle for 1 Material instead of the regular amount. Pearls found by regular means still have their normal recycling price.
+Pearls only count permanent Luck for their Damage increase. So Lucky Coin unfortunately doesn't work with Pearl."
+item,pencil,Pencil,True,https://brotato.wiki.spellsandguns.com/Pencil,Pencil - Brotato Wiki,
+item,penguin,Penguin,True,https://brotato.wiki.spellsandguns.com/Penguin,Penguin - Brotato Wiki,
+item,piggy bank,Piggy Bank,True,https://brotato.wiki.spellsandguns.com/Piggy_Bank,Piggy Bank - Brotato Wiki,
+item,pile of books,Pile Of Books,True,https://brotato.wiki.spellsandguns.com/Pile_of_Books,Pile of Books - Brotato Wiki,"Pile of Books makes your Crit Chance stat apply to Structures including Landmines. Structures have a base 0% Crit Chance compared to the standard 3% that most Weapons have.
+Pile of Books can be hard to make work in regular mode, since some engineering items reduce Crit Chance: Compass and Pencil . But is amazing for Endless Mode, where it lets you trigger Hunting Trophy."
+item,plant,Plant,True,https://brotato.wiki.spellsandguns.com/Plant,Plant - Brotato Wiki,
+item,plastic explosive,Plastic Explosive,True,https://brotato.wiki.spellsandguns.com/Plastic_Explosive,Plastic Explosive - Brotato Wiki,
+item,pocket factory,Pocket Factory,True,https://brotato.wiki.spellsandguns.com/Pocket_Factory,Pocket Factory - Brotato Wiki,
+item,poisonous tonic,Poisonous Tonic,True,https://brotato.wiki.spellsandguns.com/Poisonous_Tonic,Poisonous Tonic - Brotato Wiki,
+item,potato,Potato,True,https://brotato.wiki.spellsandguns.com/Potato,Potato - Brotato Wiki,
+item,power generator,Power Generator,True,https://brotato.wiki.spellsandguns.com/Power_Generator,Power Generator - Brotato Wiki,
+item,propeller hat,Propeller Hat,True,https://brotato.wiki.spellsandguns.com/Propeller_Hat,Propeller Hat - Brotato Wiki,
+item,pumpkin,Pumpkin,True,https://brotato.wiki.spellsandguns.com/Pumpkin,Pumpkin - Brotato Wiki,
+item,recycling machine,Recycling Machine,True,https://brotato.wiki.spellsandguns.com/Recycling_Machine,Recycling Machine - Brotato Wiki,
+item,regeneration potion,Regeneration Potion,True,https://brotato.wiki.spellsandguns.com/Regeneration_Potion,Regeneration Potion - Brotato Wiki,"The Regeneration Potion gives you a special ability to double your HP Regeneration when you are below half of your Max HP.
+The Regeneration Potion makes your HP Regeneration heal +2 HP per tick of healing, rather than doubling the rate of ticks.
+The Regeneration Potion is a very powerful item on builds that relies on HP Regeneration for healing, commonly seen on characters such as Bull, Doctor, Lich, or Masochist"
+item,reinforced steel,Reinforced Steel,True,https://brotato.wiki.spellsandguns.com/Reinforced_Steel,Reinforced Steel - Brotato Wiki,
+item,resting goldfish,Resting Goldfish,True,https://brotato.wiki.spellsandguns.com/Resting_Goldfish,Resting Goldfish - Brotato Wiki,Resting Goldfish is a special item that you get after using a Goldfish. The Resting Goldfish does nothing except looking cute.
+item,retromation’s hoodie,Retromation’s Hoodie,True,https://brotato.wiki.spellsandguns.com/Retromation%E2%80%99s_Hoodie,Retromation's Hoodie - Brotato Wiki,
+item,ricochet,Ricochet,True,https://brotato.wiki.spellsandguns.com/Ricochet,Ricochet - Brotato Wiki,
+item,rip and tear,Rip And Tear,True,https://brotato.wiki.spellsandguns.com/Rip_and_Tear,Rip and Tear - Brotato Wiki,
+item,riposte,Riposte,True,https://brotato.wiki.spellsandguns.com/Riposte,Riposte - Brotato Wiki,
+item,ritual,Ritual,True,https://brotato.wiki.spellsandguns.com/Ritual,Ritual - Brotato Wiki,
+item,robot arm,Robot Arm,True,https://brotato.wiki.spellsandguns.com/Robot_Arm,Robot Arm - Brotato Wiki,
+item,sad tomato,Sad Tomato,True,https://brotato.wiki.spellsandguns.com/Sad_Tomato,Sad Tomato - Brotato Wiki,
+item,saltwater,Saltwater,True,https://brotato.wiki.spellsandguns.com/Saltwater,Saltwater - Brotato Wiki,"Saltwater is particularly effective when combined with self damage from items such as Blood Donation or Bloody Hand, or when playing Sick. It gives you +10% Speed for the entire wave."
+item,scar,Scar,True,https://brotato.wiki.spellsandguns.com/Scar,Scar - Brotato Wiki,
+item,scared sausage,Scared Sausage,True,https://brotato.wiki.spellsandguns.com/Scared_Sausage,Scared Sausage - Brotato Wiki,
+item,scarf,Scarf,True,https://brotato.wiki.spellsandguns.com/Scarf,Scarf - Brotato Wiki,
+item,scope,Scope,True,https://brotato.wiki.spellsandguns.com/Scope,Scope - Brotato Wiki,
+item,seashell,Seashell,True,https://brotato.wiki.spellsandguns.com/Seashell,Seashell - Brotato Wiki,"Seashell only affects weapons that shoot projectiles. Ranged Weapons.
+It does not work with Structures, such as Turret. It doesn't work with projectiles spawned by items such as Alien Eyes or Baby with a Beard. It does not work with Lightning Shiv or Cacti Club.
+Builder's Builder's Turret is able to benefit from Seashell.
+The additional projectiles are additive with your weapon's projectiles. That means a Tier 1-3 Double Barrel Shotgun will fire 7 projectiles when Seashell triggers."
+item,shackles,Shackles,True,https://brotato.wiki.spellsandguns.com/Shackles,Shackles - Brotato Wiki,
+item,shady potion,Shady Potion,True,https://brotato.wiki.spellsandguns.com/Shady_Potion,Shady Potion - Brotato Wiki,
+item,sharp bullet,Sharp Bullet,True,https://brotato.wiki.spellsandguns.com/Sharp_Bullet,Sharp Bullet - Brotato Wiki,
+item,shmoop,Shmoop,True,https://brotato.wiki.spellsandguns.com/Shmoop,Shmoop - Brotato Wiki,
+item,sifd’s relic,Sifd’s Relic,True,https://brotato.wiki.spellsandguns.com/Sifd%E2%80%99s_Relic,Sifd's Relic - Brotato Wiki,"Sifd's Relic automatically collects any Materials on the map. This is quite useful for abilities that trigger upon material pickup such as Baby Elephant or Cute Monkey
+When Cursed, Sifd's gains +10% Dodge, which is then affected by the curse modifier, giving you more than 10% Dodge."
+item,silver bullet,Silver Bullet,True,https://brotato.wiki.spellsandguns.com/Silver_Bullet,Silver Bullet - Brotato Wiki,
+item,small fish,Small Fish,True,https://brotato.wiki.spellsandguns.com/Small_Fish,Small Fish - Brotato Wiki,"Multiplicative with your normal damage and additive with other Small Fish/Ice Cubes/Lutes/etc.
+Works with structures.
+Not affected by Damage Modification increases/decreases."
+item,small magazine,Small Magazine,True,https://brotato.wiki.spellsandguns.com/Small_Magazine,Small Magazine - Brotato Wiki,
+item,snail,Snail,True,https://brotato.wiki.spellsandguns.com/Snail,Snail - Brotato Wiki,
+item,snake,Snake,True,https://brotato.wiki.spellsandguns.com/Snake,Snake - Brotato Wiki,
+item,snowball,Snowball,True,https://brotato.wiki.spellsandguns.com/Snowball,Snowball - Brotato Wiki,"Snowball gives you additional Elemental Damage whenever you aquire an item that gives elemental damage. It is not retroactive, so you don't get any bonus elemental damage for items you already have.
+The bonus is only for items. You do not gain any bonuses for taking Upgrades with elemental damage or Weapons with the Elemental tag.
+Finally, the elemental damage gained by Technomage buying structures does not count."
+item,spicy sauce,Spicy Sauce,True,https://brotato.wiki.spellsandguns.com/Spicy_Sauce,Spicy Sauce - Brotato Wiki,
+item,spider,Spider,True,https://brotato.wiki.spellsandguns.com/Spider,Spider - Brotato Wiki,
+item,spyglass,Spyglass,True,https://brotato.wiki.spellsandguns.com/Spyglass,Spyglass - Brotato Wiki,"Spyglass reduces the reroll prices of both rerolling Upgrades and rerolling the Shop.
+There's a maximum of 90% reduced reroll price costs. This can be reached by having 2 Cursed Spyglasses."
+item,starfish,Starfish,True,https://brotato.wiki.spellsandguns.com/Starfish,Starfish - Brotato Wiki,"Starfish increases the amount of Materials dropped, so it has synergy with Material pickup based effects like Baby Elephant or Cute Monkey. It is also great with Buccaneer, since the value of materials is doubled, meaning you're basically gaining +40% materials.
+Since it only affects materials from enemies, it doesn't affect Trees, which are neutral, and Brick."
+item,statue,Statue,True,https://brotato.wiki.spellsandguns.com/Statue,Statue - Brotato Wiki,
+item,stone skin,Stone Skin,True,https://brotato.wiki.spellsandguns.com/Stone_Skin,Stone Skin - Brotato Wiki,"Stone Skin only works with permanent armor. So Armor gained by Streamer's ability does not count. Similarly, armor gained by {{{1}}} does not exist as an icon doesn't affect your Max HP either.
+Reversely, Romantic's negative armor gained by Curse isn't counted either, so Romantic can actually make quite decent use of Stone Skin."
+item,strange book,Strange Book,True,https://brotato.wiki.spellsandguns.com/Strange_Book,Strange Book - Brotato Wiki,
+item,sunglasses,Sunglasses,True,https://brotato.wiki.spellsandguns.com/Sunglasses,Sunglasses - Brotato Wiki,
+item,sunken bell,Sunken Bell,True,https://brotato.wiki.spellsandguns.com/Sunken_Bell,Sunken Bell - Brotato Wiki,"Sunken Bell causes a huge explosion the first time you fall below 40% on each wave. The explosion is large and
+Certain characters gain a ton of flat damage stats and can deal a ton of damage with Sunken Bell: Apprentice, Knight, or Dwarf
+Explosion based Characters can also improve Sunken Bell a lot, but might not need the additional explosion: Artificer, Bull, Glutton, or Ogre
+Sunken Bell's Explosion benefits greatly from explosion enhancing items like: Dynamite, Plastic Explosive, or Explosive Shells."
+item,tardigrade,Tardigrade,True,https://brotato.wiki.spellsandguns.com/Tardigrade,Tardigrade - Brotato Wiki,
+item,tentacle,Tentacle,True,https://brotato.wiki.spellsandguns.com/Tentacle,Tentacle - Brotato Wiki,
+item,terrified onion,Terrified Onion,True,https://brotato.wiki.spellsandguns.com/Terrified_Onion,Terrified Onion - Brotato Wiki,
+item,toolbox,Toolbox,True,https://brotato.wiki.spellsandguns.com/Toolbox,Toolbox - Brotato Wiki,
+item,torture,Torture,True,https://brotato.wiki.spellsandguns.com/Torture,Torture - Brotato Wiki,
+item,toxic sludge,Toxic Sludge,True,https://brotato.wiki.spellsandguns.com/Toxic_Sludge,Toxic Sludge - Brotato Wiki,
+item,tractor,Tractor,True,https://brotato.wiki.spellsandguns.com/Tractor,Tractor - Brotato Wiki,
+item,treasure map,Treasure Map,True,https://brotato.wiki.spellsandguns.com/Treasure_Map,Treasure Map - Brotato Wiki,"Multiple Treasure maps stack additively. So you'll have 20%/40%/60%/80%/100% chance to find an additional item in a Loot Crate.
+The chance to find additional items is per Loot Crate. So if you find 3 Crates, you can find up to 3 additional items for a total of 6.
+Going above 100% Chance by Cursing Treasure maps has no benefit.
+You're finding additional Items, not crates, so you don't get additional gold from Bag, if you have those."
+item,tree,Tree,True,https://brotato.wiki.spellsandguns.com/Tree,Tree - Brotato Wiki,
+item,triangle of power,Triangle Of Power,True,https://brotato.wiki.spellsandguns.com/Triangle_of_Power,Triangle of Power - Brotato Wiki,
+item,turret,Turret,True,https://brotato.wiki.spellsandguns.com/Turret,Turret - Brotato Wiki,
+item,tyler,Tyler,True,https://brotato.wiki.spellsandguns.com/Tyler,Tyler - Brotato Wiki,
+item,ugly tooth,Ugly Tooth,True,https://brotato.wiki.spellsandguns.com/Ugly_Tooth,Ugly Tooth - Brotato Wiki,
+item,vigilante ring,Vigilante Ring,True,https://brotato.wiki.spellsandguns.com/Vigilante_Ring,Vigilante Ring - Brotato Wiki,
+item,wandering bot,Wandering Bot,True,https://brotato.wiki.spellsandguns.com/Wandering_Bot,Wandering Bot - Brotato Wiki,"Wandering Bot spawns a small robot that orbits around your character. It slows down any enemies that come close to it, similarly to Taser. Wandering Bot can slow any enemy including Bosses and Elites.
+Wandering Bot counts as a Structure and gives +2 Armor/Elemental Damage with Streamer or Technomage.
+When Cursed, Wandering bot gains +5% Speed, which is then affected by the curse modifier, giving you more than 5% speed."
+item,warrior helmet,Warrior Helmet,True,https://brotato.wiki.spellsandguns.com/Warrior_Helmet,Warrior Helmet - Brotato Wiki,
+item,weird food,Weird Food,True,https://brotato.wiki.spellsandguns.com/Weird_Food,Weird Food - Brotato Wiki,
+item,weird ghost,Weird Ghost,True,https://brotato.wiki.spellsandguns.com/Weird_Ghost,Weird Ghost - Brotato Wiki,
+item,wheat,Wheat,True,https://brotato.wiki.spellsandguns.com/Wheat,Wheat - Brotato Wiki,
+item,wheelbarrow,Wheelbarrow,True,https://brotato.wiki.spellsandguns.com/Wheelbarrow,Wheelbarrow - Brotato Wiki,
+item,whetstone,Whetstone,True,https://brotato.wiki.spellsandguns.com/Whetstone,Whetstone - Brotato Wiki,
+item,whistle,Whistle,True,https://brotato.wiki.spellsandguns.com/Whistle,Whistle - Brotato Wiki,
+item,white flag,White Flag,True,https://brotato.wiki.spellsandguns.com/White_Flag,White Flag - Brotato Wiki,
+item,will-o'-wisp,Will-o'-wisp,True,https://brotato.wiki.spellsandguns.com/Will-o%27-Wisp,Will-o'-Wisp - Brotato Wiki,
+item,wings,Wings,True,https://brotato.wiki.spellsandguns.com/Wings,Wings - Brotato Wiki,
+item,wisdom,Wisdom,True,https://brotato.wiki.spellsandguns.com/Wisdom,Wisdom - Brotato Wiki,"The max possible damage per wave is the wave duration, minus 15 (to account for the -15% damage reduction).
+Wave
+ 1234567891011121314151617181920
+ 
+ 
+ Duration (sec)
+ 2025303540455055606060606060606060606090
+ Final Damage +%51015202530354045<<<<<<<<<<75"
+item,wolf helmet,Wolf Helmet,True,https://brotato.wiki.spellsandguns.com/Wolf_Helmet,Wolf Helmet - Brotato Wiki,
+elite,rhino,Rhino,True,https://brotato.wiki.spellsandguns.com/Rhino,Rhino - Brotato Wiki,
+elite,butcher,Butcher,True,https://brotato.wiki.spellsandguns.com/Butcher,Butcher - Brotato Wiki,
+elite,monk,Monk,True,https://brotato.wiki.spellsandguns.com/Monk,Monk - Brotato Wiki,
+elite,croc,Croc,True,https://brotato.wiki.spellsandguns.com/Croc,Croc - Brotato Wiki,
+elite,colossus,Colossus,True,https://brotato.wiki.spellsandguns.com/Colossus,Colossus - Brotato Wiki,
+elite,mantis,Mantis,True,https://brotato.wiki.spellsandguns.com/Mantis,Mantis - Brotato Wiki,
+elite,mother,Mother,True,https://brotato.wiki.spellsandguns.com/Mother,Mother - Brotato Wiki,
+elite,gargoyle,Gargoyle,True,https://brotato.wiki.spellsandguns.com/Gargoyle,Gargoyle - Brotato Wiki,
+boss,predator,Predator,True,https://brotato.wiki.spellsandguns.com/Predator,Predator - Brotato Wiki,
+boss,invoker,Invoker,True,https://brotato.wiki.spellsandguns.com/Invoker,Invoker - Brotato Wiki,

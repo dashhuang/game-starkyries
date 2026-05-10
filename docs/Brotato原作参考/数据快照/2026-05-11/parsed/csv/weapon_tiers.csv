@@ -1,0 +1,309 @@
+id,name,tier,damage,attack_speed,dps,crit,range,knockback,life_steal,price
+cacti club,Cacti Club,tier1,10(80% MeleeDamage),1.66s,6.0(48% MeleeDamage)/s,x2 (3%),200,8,0,20
+cacti club,Cacti Club,tier2,20(85% MeleeDamage),1.58s,12.7(54% MeleeDamage)/s,x2 (3%),200,8,0,39
+cacti club,Cacti Club,tier3,30(90% MeleeDamage),1.51s,19.9(60% MeleeDamage)/s,x2 (3%),200,8,0,74
+cacti club,Cacti Club,tier4,50(100% MeleeDamage),1.36s,36.8(74% MeleeDamage)/s,x2 (3%),200,8,0,149
+chopper,Chopper,tier1,6(50% MeleeDamage15% Max HP),0.99s,6.1(51% MeleeDamage15% Max HP)/s,x2 (10%),135,2,0,15
+chopper,Chopper,tier2,12(50% MeleeDamage20% Max HP),0.99s,12.2(51% MeleeDamage20% Max HP)/s,x2 (15%),150,2,0,31
+chopper,Chopper,tier3,18(50% MeleeDamage25% Max HP),0.96s,18.8(52% MeleeDamage26% Max HP)/s,x2 (20%),165,2,0,61
+chopper,Chopper,tier4,30(50% MeleeDamage30% Max HP),0.89s,33.7(56% MeleeDamage34% Max HP)/s,x2 (25%),180,2,0,122
+circular saw,Circular Saw,tier1,-,-,-,-,-,-,-,-
+circular saw,Circular Saw,tier2,10(100% MeleeDamage),0.72s,13.9(138% MeleeDamage)/s,x2 (5%),175,0,45%,46
+circular saw,Circular Saw,tier3,15(100% MeleeDamage),0.67s,22.4(149% MeleeDamage)/s,x2 (10%),175,0,50%,86
+circular saw,Circular Saw,tier4,25(100% MeleeDamage),0.62s,40.3(161% MeleeDamage)/s,x2 (20%),175,0,60%,173
+claw,Claw,tier1,5(15% AttackSpeed50% MeleeDamage),0.78s,6.4(19.2% AttackSpeed64.1% MeleeDamage)/s,x2 (10%),150,2,0,15
+claw,Claw,tier2,10(20% AttackSpeed50% MeleeDamage),0.74s,13.5(27% AttackSpeed67.6% MeleeDamage)/s,x2.15 (15%),150,2,0,28
+claw,Claw,tier3,15(25% AttackSpeed50% MeleeDamage),0.69s,21.7(36.2% AttackSpeed72.5% MeleeDamage)/s,x2.3 (20%),150,2,0,55
+claw,Claw,tier4,25(30% AttackSpeed50% MeleeDamage),0.61s,41.0(49.2% AttackSpeed82% MeleeDamage)/s,x2.5 (25%),150,2,0,110
+drill,Drill,tier1,-,-,-,-,-,-,-,-
+drill,Drill,tier2,-,-,-,-,-,-,-,-
+drill,Drill,tier3,-,-,-,-,-,-,-,-
+drill,Drill,tier4,10(100% MeleeDamage100% Engineering),0.45s,22.2(222.2% MeleeDamage222.2% Engineering)/s,x2.5 (50%),100,5,0,250
+excalibur,Excalibur,tier1,-,-,-,-,-,-,-,-
+excalibur,Excalibur,tier2,-,-,-,-,-,-,-,-
+excalibur,Excalibur,tier3,-,-,-,-,-,-,-,-
+excalibur,Excalibur,tier4,200(200% MeleeDamage200% Max HP),0.66s,266.6(266.6% MeleeDamage266.6% Max HP)/s,x2.5 (10%),200,5,0,230
+quarterstaff,Quarterstaff,tier1,10(75% Level50% MeleeDamage),1.42s,7.0(52.8% Level35.2% MeleeDamage)/s,x1.5 (3%),175,0,0,17
+quarterstaff,Quarterstaff,tier2,15(85% Level65% MeleeDamage),1.25s,12.0(68.0% Level52.0% MeleeDamage)/s,x1.5 (3%),175,0,0,34
+quarterstaff,Quarterstaff,tier3,20(100% Level85% MeleeDamage),1.09s,18.3(91.7% Level78.0% MeleeDamage)/s,x1.5 (3%),175,0,0,66
+quarterstaff,Quarterstaff,tier4,30(125% Level100% MeleeDamage),0.92s,32.6(135.9% Level108.7% MeleeDamage)/s,x1.5 (3%),175,0,0,130
+fist,Fist,tier1,8(100% MeleeDamage),0.78s,10.3(128% MeleeDamage)/s,x1.5 (1%),150,15,0,10
+fist,Fist,tier2,16(100% MeleeDamage),0.73s,21.9(136% MeleeDamage)/s,x1.5 (1%),150,15,0,22
+fist,Fist,tier3,32(100% MeleeDamage),0.69s,46.4(144% MeleeDamage)/s,x1.5 (1%),150,15,0,45
+fist,Fist,tier4,64(100% MeleeDamage),0.59s,108.5(169% MeleeDamage)/s,x1.5 (1%),150,15,0,91
+flaming brass knuckles,Flaming Brass Knuckles,tier1,-,-,-,-,-,-,-,-
+flaming brass knuckles,Flaming Brass Knuckles,tier2,16(100% MeleeDamage),0.73s,21.9(136% MeleeDamage)/s,x1.5 (1%),150,15,0,46
+flaming brass knuckles,Flaming Brass Knuckles,tier3,32(100% MeleeDamage),0.69s,46.4(144% MeleeDamage)/s,x1.5 (1%),150,15,0,86
+flaming brass knuckles,Flaming Brass Knuckles,tier4,64(100% MeleeDamage),0.59s,108.5(169% MeleeDamage)/s,x1.5 (1%),150,15,0,173
+ghost axe,Ghost Axe,tier1,12(100% MeleeDamage),1.73s,6.9(57% MeleeDamage)/s,x2 (3%),200,2,0,20
+ghost axe,Ghost Axe,tier2,18(100% MeleeDamage),1.66s,10.8(60% MeleeDamage)/s,x2 (3%),200,2,0,39
+ghost axe,Ghost Axe,tier3,24(100% MeleeDamage),1.58s,15.2(63% MeleeDamage)/s,x2 (3%),200,2,0,74
+ghost axe,Ghost Axe,tier4,40(100% MeleeDamage),1.51s,26.5(66% MeleeDamage)/s,x2 (3%),200,2,0,149
+ghost flint,Ghost Flint,tier1,6(100% MeleeDamage),1.23s,4.9(81% MeleeDamage)/s,x2 (3%),150,2,0,12
+ghost flint,Ghost Flint,tier2,9(100% MeleeDamage),1.17s,7.7(85% MeleeDamage)/s,x2 (3%),160,2,0,26
+ghost flint,Ghost Flint,tier3,12(100% MeleeDamage),1.1s,10.9(90% MeleeDamage)/s,x2 (3%),170,2,0,52
+ghost flint,Ghost Flint,tier4,18(100% MeleeDamage),1.04s,17.3(96% MeleeDamage)/s,x2 (3%),180,2,0,105
+hammer,Hammer,tier1,-,-,-,-,-,-,-,-
+hammer,Hammer,tier2,35(150% MeleeDamage),1.67s,21.0(89% MeleeDamage)/s,x1.75 (3%),175,30,0,51
+hammer,Hammer,tier3,70(175% MeleeDamage),1.59s,44.0(110% MeleeDamage)/s,x1.75 (3%),175,40,0,95
+hammer,Hammer,tier4,110(200% MeleeDamage),1.5s,73.3(133% MeleeDamage)/s,x1.75 (3%),175,50,0,190
+hand,Hand,tier1,1(50% MeleeDamage),1.01s,1.0(49% MeleeDamage)/s,x1.5 (1%),150,30,0,10
+hand,Hand,tier2,1(50% MeleeDamage),0.93s,1.1(53% MeleeDamage)/s,x1.5 (1%),150,30,0,22
+hand,Hand,tier3,1(50% MeleeDamage),0.86s,1.2(58% MeleeDamage)/s,x1.5 (1%),150,30,0,45
+hand,Hand,tier4,1(50% MeleeDamage),0.71s,1.4(70% MeleeDamage)/s,x1.5 (1%),150,30,0,91
+hatchet,Hatchet,tier1,5(100% MeleeDamage15% AttackSpeed),0.68s,7.4(147% MeleeDamage 22.1% AttackSpeed)/s,x2 (3%),125,2,0,15
+hatchet,Hatchet,tier2,10(100% MeleeDamage15% AttackSpeed),0.65s,14.7(147% MeleeDamage 22.1% AttackSpeed)/s,x2 (3%),125,2,0,31
+hatchet,Hatchet,tier3,20(100% MeleeDamage15% AttackSpeed),0.62s,29.4(147% MeleeDamage 22.1% AttackSpeed)/s,x2 (3%),125,2,0,61
+hatchet,Hatchet,tier4,40(100% MeleeDamage15% AttackSpeed),0.58s,64.5(161% MeleeDamage 24.2% AttackSpeed)/s,x2 (3%),125,2,0,122
+jousting lance,Jousting Lance,tier1,20(50% MeleeDamage30% Speed),1.58s,12.7(31% MeleeDamage18% Speed)/s,x2 (3%),250,0,0,20
+jousting lance,Jousting Lance,tier2,25(50% MeleeDamage35% Speed),1.5s,16.7(33% MeleeDamage23% Speed)/s,x2 (3%),250,0,0,36
+jousting lance,Jousting Lance,tier3,30(50% MeleeDamage40% Speed),1.42s,21.1(35% MeleeDamage28% Speed)/s,x2 (3%),250,0,0,72
+jousting lance,Jousting Lance,tier4,50(50% MeleeDamage50% Speed),1.33s,37.6(37% MeleeDamage37% Speed)/s,x2 (3%),250,0,0,132
+knife,Knife,tier1,6(80% MeleeDamage),1.01s,5.9(79% MeleeDamage)/s,x2.5 (20%),150,2,0,15
+knife,Knife,tier2,9(80% MeleeDamage),0.93s,9.7(86% MeleeDamage)/s,x3 (30%),150,2,0,31
+knife,Knife,tier3,12(80% MeleeDamage),0.86s,14.0(93% MeleeDamage)/s,x3.5 (40%),150,2,0,61
+knife,Knife,tier4,20(80% MeleeDamage),0.78s,25.6(102% MeleeDamage)/s,x4 (50%),150,2,0,122
+lightning shiv,Lightning Shiv,tier1,3(80% MeleeDamage),1.01s,3.0(79% MeleeDamage)/s,x2 (4%),150,0,0,18
+lightning shiv,Lightning Shiv,tier2,6(80% MeleeDamage),0.93s,6.5(86% MeleeDamage)/s,x2 (6%),150,0,0,36
+lightning shiv,Lightning Shiv,tier3,9(80% MeleeDamage),0.86s,10.5(93% MeleeDamage)/s,x2 (8%),150,0,0,66
+lightning shiv,Lightning Shiv,tier4,15(80% MeleeDamage),0.78s,19.2(102% MeleeDamage)/s,x2 (10%),150,0,0,142
+plank,Plank,tier1,10(50% MeleeDamage50% ElementalDamage50% Engineering),1.23s,8.1(41% MeleeDamage41% ElementalDamage41% Engineering)/s,x2 (3%),150,5,0,15
+plank,Plank,tier2,15(60% MeleeDamage60% ElementalDamage60% Engineering),1.14s,13.2(53% MeleeDamage53% ElementalDamage53% Engineering)/s,x2 (3%),150,5,0,31
+plank,Plank,tier3,20(70% MeleeDamage70% ElementalDamage70% Engineering),1.06s,18.9(66% MeleeDamage66% ElementalDamage66% Engineering)/s,x2 (3%),150,5,0,61
+plank,Plank,tier4,25(80% MeleeDamage80% ElementalDamage80% Engineering),0.98s,25.5(82% MeleeDamage82% ElementalDamage82% Engineering)/s,x2 (3%),150,5,0,122
+plasma sledge,Plasma Sledge,tier1,-,-,-,-,-,-,-,-
+plasma sledge,Plasma Sledge,tier2,-,-,-,-,-,-,-,-
+plasma sledge,Plasma Sledge,tier3,80(150% MeleeDamage150% ElementalDamage),1.55s,51.6(96% MeleeDamage96% ElementalDamage)/s,x1.75 (3%),175,30,0,136
+plasma sledge,Plasma Sledge,tier4,120(200% MeleeDamage200% ElementalDamage),1.49s,80.5(134% MeleeDamage134% ElementalDamage)/s,x1.75 (3%),175,30,0,272
+power fist,Power Fist,tier1,-,-,-,-,-,-,-,-
+power fist,Power Fist,tier2,-,-,-,-,-,-,-,-
+power fist,Power Fist,tier3,40(100% MeleeDamage),0.69s,58.0(144% MeleeDamage)/s,x1.5 (1%),150,15,0,110
+power fist,Power Fist,tier4,60(100% MeleeDamage),0.59s,101.7(169% MeleeDamage)/s,x1.5 (1%),150,15,0,221
+pruner,Pruner,tier1,10(50% MeleeDamage),1.14s,8.8(43% MeleeDamage)/s,x1.25 (3%),150,2,0,15
+pruner,Pruner,tier2,15(65% MeleeDamage),1.06s,14.2(61% MeleeDamage)/s,x1.5 (6%),150,2,0,28
+pruner,Pruner,tier3,20(80% MeleeDamage),0.98s,20.4(81% MeleeDamage)/s,x1.75 (9%),150,2,0,52
+pruner,Pruner,tier4,25(100% MeleeDamage),0.89s,28.1(112% MeleeDamage)/s,x2 (12%),150,2,0,95
+rock,Rock,tier1,20(100% MeleeDamage),1.68s,11.9(59% MeleeDamage)/s,x1.5 (10%),150,5,0,10
+rock,Rock,tier2,35(100% MeleeDamage),1.61s,21.7(62% MeleeDamage)/s,x1.5 (15%),150,5,0,22
+rock,Rock,tier3,50(100% MeleeDamage),1.53s,32.7(65% MeleeDamage)/s,x1.5 (20%),150,5,0,45
+rock,Rock,tier4,70(100% MeleeDamage),1.46s,47.9(68% MeleeDamage)/s,x1.5 (25%),150,5,0,91
+scissors,Scissors,tier1,5(80% MeleeDamage),1.01s,5.0(79% MeleeDamage)/s,x2 (10%),150,2,40%,15
+scissors,Scissors,tier2,10(80% MeleeDamage),0.98s,10.2(81% MeleeDamage)/s,x2.15 (12%),150,2,45%,31
+scissors,Scissors,tier3,15(80% MeleeDamage),0.94s,16.0(85% MeleeDamage)/s,x2.3 (15%),150,2,50%,61
+scissors,Scissors,tier4,20(80% MeleeDamage),0.86s,23.3(93% MeleeDamage)/s,x2.5 (20%),150,2,60%,122
+screwdriver,Screwdriver,tier1,8(50% MeleeDamage50% Engineering),1.05s,7.6(47% MeleeDamage47% Engineering)/s,x2 (10%),125,3,0,10
+screwdriver,Screwdriver,tier2,12(50% MeleeDamage50% Engineering),1.0s,12.0(50% MeleeDamage50% Engineering)/s,x2 (15%),125,3,0,22
+screwdriver,Screwdriver,tier3,16(50% MeleeDamage50% Engineering),0.97s,16.5(51% MeleeDamage51% Engineering)/s,x2 (20%),125,3,0,45
+screwdriver,Screwdriver,tier4,20(50% MeleeDamage50% Engineering),0.87s,23.0(57% MeleeDamage57% Engineering)/s,x2 (30%),125,3,0,91
+scythe,Scythe,tier1,-,-,-,-,-,-,-,-
+scythe,Scythe,tier2,-,-,-,-,-,-,-,-
+scythe,Scythe,tier3,-,-,-,-,-,-,-,-
+scythe,Scythe,tier4,150(150% MeleeDamage100% LifeSteal),0.72s,208.3(208.3% MeleeDamage138.9% LifeSteal)/s,x2 (3%),250,5,100%,285
+spear,Spear,tier1,15(100% MeleeDamage),1.52s,9.9(65% MeleeDamage)/s,x2 (3%),350,0,0,20
+spear,Spear,tier2,25(100% MeleeDamage),1.4s,17.9(71% MeleeDamage)/s,x2 (3%),375,0,0,39
+spear,Spear,tier3,40(100% MeleeDamage),1.28s,31.2(78% MeleeDamage)/s,x2 (3%),400,0,0,74
+spear,Spear,tier4,60(100% MeleeDamage),1.24s,48.4(80% MeleeDamage)/s,x2 (3%),500,0,0,149
+spiky shield,Spiky Shield,tier1,10(100% Armor),1.16s,8.6(86% Armor)/s,x2 (3%),150,20,0,15
+spiky shield,Spiky Shield,tier2,15(125% Armor),1.16s,12.9(107% Armor)/s,x2 (3%),150,20,0,31
+spiky shield,Spiky Shield,tier3,20(150% Armor),1.16s,17.2(129% Armor)/s,x2 (3%),150,20,0,61
+spiky shield,Spiky Shield,tier4,30(200% Armor),1.01s,29.7(198% Armor)/s,x2 (3%),150,20,0,122
+stick,Stick,tier1,8(100% MeleeDamage),1.29s,6.2(78% MeleeDamage)/s,x1.5 (3%),175,0,0,10
+stick,Stick,tier2,9(100% MeleeDamage),1.22s,7.4(82% MeleeDamage)/s,x1.5 (3%),175,0,0,22
+stick,Stick,tier3,10(100% MeleeDamage),1.15s,8.7(87% MeleeDamage)/s,x1.5 (3%),175,0,0,45
+stick,Stick,tier4,12(100% MeleeDamage),1.09s,11(92% MeleeDamage)/s,x1.5 (3%),175,0,0,91
+sword,Sword,tier1,-,-,-,-,-,-,-,-
+sword,Sword,tier2,25(100% MeleeDamage),1.28s,19.5(78% MeleeDamage)/s,x2 (3%),200,5,0,51
+sword,Sword,tier3,40(100% MeleeDamage),1.13s,35.4(88% MeleeDamage)/s,x2 (3%),200,5,0,95
+sword,Sword,tier4,60(100% MeleeDamage),0.98s,61.2(102% MeleeDamage)/s,x2 (3%),200,5,0,190
+thief dagger,Thief Dagger,tier1,6(50% MeleeDamage),1.01s,5.9(49% MeleeDamage)/s,x2 (20%),150,2,0,12
+thief dagger,Thief Dagger,tier2,12(50% MeleeDamage),0.93s,12.9(53% MeleeDamage)/s,x2 (25%),150,2,0,26
+thief dagger,Thief Dagger,tier3,18(50% MeleeDamage),0.86s,20.9(58% MeleeDamage)/s,x2 (30%),150,2,0,52
+thief dagger,Thief Dagger,tier4,30(50% MeleeDamage),0.73s,41.1(68% MeleeDamage)/s,x2 (40%),150,2,0,105
+thunder sword,Thunder Sword,tier1,-,-,-,-,-,-,-,-
+thunder sword,Thunder Sword,tier2,-,-,-,-,-,-,-,-
+thunder sword,Thunder Sword,tier3,30(125% MeleeDamage125% ElementalDamage),1.21s,24.8(103% MeleeDamage103% ElementalDamage)/s,x2 (3%),200,5,0,119
+thunder sword,Thunder Sword,tier4,60(150% MeleeDamage150% ElementalDamage),1.06s,56.6(141% MeleeDamage141% ElementalDamage)/s,x2 (3%),200,5,0,238
+torch,Torch,tier1,1(50% MeleeDamage50% ElementalDamage),1.1s,0.9(45% MeleeDamage45% ElementalDamage)/s,x1.5 (0%),175,20,0,10
+torch,Torch,tier2,1(65% MeleeDamage65% ElementalDamage),1.04s,1.0(63% MeleeDamage63% ElementalDamage)/s,x1.5 (0%),175,20,0,22
+torch,Torch,tier3,1(80% MeleeDamage80% ElementalDamage),0.95s,1.1(84% MeleeDamage84% ElementalDamage)/s,x1.5 (0%),175,20,0,45
+torch,Torch,tier4,1(100% MeleeDamage100% ElementalDamage),0.8s,1.2(125% MeleeDamage125% ElementalDamage)/s,x1.5 (0%),175,20,0,91
+wrench,Wrench,tier1,12(100% MeleeDamage),1.7s,7.1(58% MeleeDamage)/s,x2 (3%),175,20,0,20
+wrench,Wrench,tier2,16(100% MeleeDamage),1.64s,9.8(60% MeleeDamage)/s,x2 (3%),175,20,0,39
+wrench,Wrench,tier3,20(100% MeleeDamage),1.55s,12.9(64% MeleeDamage)/s,x2 (3%),175,20,0,74
+wrench,Wrench,tier4,24(100% MeleeDamage),1.49s,16.1(67% MeleeDamage)/s,x2 (3%),175,20,0,149
+chain gun,Chain Gun,tier1,-,-,-,-,-,-,-,-
+chain gun,Chain Gun,tier2,-,-,-,-,-,-,-,-
+chain gun,Chain Gun,tier3,-,-,-,-,-,-,-,-
+chain gun,Chain Gun,tier4,2x3(100% RangedDamage100% Engineering),0.073s,82.2(4110% RangedDamage4110% Engineering)/s,x1.5 (3%),500,5,0,300
+crossbow,Crossbow,tier1,10(50% RangedDamage10% Range),1.13s,8.8(44% RangedDamage8% Range)/s,x1.5 (30%),350,8,0,16
+crossbow,Crossbow,tier2,12(50% RangedDamage10% Range),1.13s,10.6(44% RangedDamage8% Range)/s,x1.75 (35%),350,8,0,34
+crossbow,Crossbow,tier3,15(50% RangedDamage10% Range),1.13s,13.3(44% RangedDamage8% Range)/s,x2 (40%),350,8,0,62
+crossbow,Crossbow,tier4,18(50% RangedDamage10% Range),1.13s,15.9(44% RangedDamage8% Range)/s,x2.25 (45%),350,8,0,132
+double barrel shotgun,Double Barrel Shotgun,tier1,3x4(80% RangedDamage),1.37s,8.8(233% RangedDamage)/s,x2 (3%),350,8,0,20
+double barrel shotgun,Double Barrel Shotgun,tier2,6x4(85% RangedDamage),1.28s,18.8(265% RangedDamage)/s,x2 (3%),350,8,0,39
+double barrel shotgun,Double Barrel Shotgun,tier3,9x4(90% RangedDamage),1.2s,30.0(300% RangedDamage)/s,x2 (3%),350,8,0,74
+double barrel shotgun,Double Barrel Shotgun,tier4,9x6(100% RangedDamage),1.2s,45(500% RangedDamage)/s,x2 (3%),350,8,0,149
+flamethrower,Flamethrower,tier1,-,-,-,-,-,-,-,-
+flamethrower,Flamethrower,tier2,1(1% ElementalDamage),0.12s,8.3(8% ElementalDamage)/s,x2 (0%),250,0,0,56
+flamethrower,Flamethrower,tier3,1(1% ElementalDamage),0.12s,8.3(8% ElementalDamage)/s,x2 (0%),300,0,0,103
+flamethrower,Flamethrower,tier4,1(1% ElementalDamage),0.09s,11.1(11% ElementalDamage)/s,x2 (0%),400,0,0,207
+gatling laser,Gatling Laser,tier1,-,-,-,-,-,-,-,-
+gatling laser,Gatling Laser,tier2,-,-,-,-,-,-,-,-
+gatling laser,Gatling Laser,tier3,-,-,-,-,-,-,-,-
+gatling laser,Gatling Laser,tier4,10(100% RangedDamage),0.073s,137.0(1370% RangedDamage)/s,x3 (10%),500,5,0,290
+ghost scepter,Ghost Scepter,tier1,10(100% RangedDamage),0.98s,10.2(102% RangedDamage)/s,x2 (3%),300,2,0,15
+ghost scepter,Ghost Scepter,tier2,15(100% RangedDamage),0.93s,16.1(107% RangedDamage)/s,x2 (3%),350,2,0,31
+ghost scepter,Ghost Scepter,tier3,20(100% RangedDamage),0.88s,22.7(113% RangedDamage)/s,x2 (3%),400,2,0,61
+ghost scepter,Ghost Scepter,tier4,30(100% RangedDamage),0.83s,36.1(120% RangedDamage)/s,x2 (3%),450,2,0,122
+laser gun,Laser Gun,tier1,40(400% RangedDamage),1.98s,20.2(202% RangedDamage)/s,x2 (3%),500,0,0,15
+laser gun,Laser Gun,tier2,55(450% RangedDamage),1.90s,28.9(237% RangedDamage)/s,x2 (3%),500,0,0,31
+laser gun,Laser Gun,tier3,70(500% RangedDamage),1.82s,38.5(275% RangedDamage)/s,x2 (3%),500,0,0,61
+laser gun,Laser Gun,tier4,100(600% RangedDamage),1.65s,60.6(364% RangedDamage)/s,x2 (3%),500,0,0,122
+medical gun,Medical Gun,tier1,10(100% RangedDamage),0.87s,11.5(115% RangedDamage)/s,x2 (3%),400,0,40%,15
+medical gun,Medical Gun,tier2,15(100% RangedDamage),0.77s,19.5(130% RangedDamage)/s,x2 (3%),400,0,45%,31
+medical gun,Medical Gun,tier3,20(100% RangedDamage),0.65s,30.8(154% RangedDamage)/s,x2 (3%),400,0,50%,61
+medical gun,Medical Gun,tier4,30(100% RangedDamage),0.53s,56.6(189% RangedDamage)/s,x2 (3%),400,0,60%,122
+minigun,Minigun,tier1,-,-,-,-,-,-,-,-
+minigun,Minigun,tier2,-,-,-,-,-,-,-,-
+minigun,Minigun,tier3,1(50% RangedDamage),0.09s,11.1(555% RangedDamage)/s,x1.75 (1%),400,3,0,127
+minigun,Minigun,tier4,3(75% RangedDamage),0.073s,41.1(1027% RangedDamage)/s,x2 (3%),450,3,0,255
+nuclear launcher,Nuclear Launcher,tier1,-,-,-,-,-,-,-,-
+nuclear launcher,Nuclear Launcher,tier2,-,-,-,-,-,-,-,-
+nuclear launcher,Nuclear Launcher,tier3,60(100% RangedDamage100% ElementalDamage),2.12s,28.3(47% RangedDamage47% ElementalDamage)/s,x2 (3%),800,15,0,144
+nuclear launcher,Nuclear Launcher,tier4,120(100% RangedDamage100% ElementalDamage),2.12s,56.6(47% RangedDamage47% ElementalDamage)/s,x2 (3%),800,15,0,289
+obliterator,Obliterator,tier1,-,-,-,-,-,-,-,-
+obliterator,Obliterator,tier2,-,-,-,-,-,-,-,-
+obliterator,Obliterator,tier3,250(1000% RangedDamage),3.23s,77.4(309% RangedDamage)/s,x2 (3%),800,0,0,127
+obliterator,Obliterator,tier4,350(1500% RangedDamage),3.23s,108.4(464% RangedDamage)/s,x2 (3%),1000,0,0,255
+pistol,Pistol,tier1,12(100% RangedDamage),1.2s,10.0(83% RangedDamage)/s,x2 (5%),400,15,0,10
+pistol,Pistol,tier2,20(100% RangedDamage),1.12s,17.9(89% RangedDamage)/s,x2 (10%),400,15,0,22
+pistol,Pistol,tier3,30(100% RangedDamage),1.03s,29.1(97% RangedDamage)/s,x2 (15%),400,15,0,45
+pistol,Pistol,tier4,50(100% RangedDamage),0.87s,57.5(114% RangedDamage)/s,x2 (20%),400,15,0,91
+potato thrower,Potato Thrower,tier1,-,-,-,-,-,-,-,-
+potato thrower,Potato Thrower,tier2,1(25% RangedDamage20% Max HP),0.45s,2.2(55% RangedDamage44% Max HP)/s,x1.5 (3%),500,20,0,36
+potato thrower,Potato Thrower,tier3,1(25% RangedDamage20% Max HP),0.37s,2.7(67% RangedDamage54% Max HP)/s,x1.5 (3%),500,25,0,69
+potato thrower,Potato Thrower,tier4,1(25% RangedDamage20% Max HP),0.25s,4.0(100% RangedDamage80% Max HP)/s,x1.5 (3%),500,30,0,139
+revolver,Revolver,tier1,15(100% RangedDamage),0.43s,21.3(142% RangedDamage)/s,x2 (3%),450,15,0,20
+revolver,Revolver,tier2,20(130% RangedDamage),0.42s,29.8(194% RangedDamage)/s,x2 (3%),450,15,0,34
+revolver,Revolver,tier3,25(165% RangedDamage),0.4s,39.5(261% RangedDamage)/s,x2 (3%),450,15,0,70
+revolver,Revolver,tier4,40(200% RangedDamage),0.38s,67.2(336% RangedDamage)/s,x2 (3%),450,15,0,130
+rocket launcher,Rocket Launcher,tier1,-,-,-,-,-,-,-,-
+rocket launcher,Rocket Launcher,tier2,30(100% RangedDamage),1.78s,16.9(56% RangedDamage)/s,x2 (3%),500,15,0,56
+rocket launcher,Rocket Launcher,tier3,50(100% RangedDamage),1.37s,36.5(72% RangedDamage)/s,x2 (3%),550,15,0,103
+rocket launcher,Rocket Launcher,tier4,80(100% RangedDamage),1.03s,77.7(97% RangedDamage)/s,x2 (3%),600,15,0,207
+shredder,Shredder,tier1,5(50% RangedDamage),1.3s,3.8(38% RangedDamage)/s,x2 (3%),450,0,0,15
+shredder,Shredder,tier2,10(50% RangedDamage),1.22s,8.2(40% RangedDamage)/s,x2 (3%),450,0,0,31
+shredder,Shredder,tier3,15(50% RangedDamage),1.13s,13.3(44% RangedDamage)/s,x2 (3%),450,0,0,61
+shredder,Shredder,tier4,25(50% RangedDamage),1.05s,23.8(47% RangedDamage)/s,x2 (3%),450,0,0,122
+shuriken,Shuriken,tier1,6(25% MeleeDamage),0.87s,6.9(28% MeleeDamage)/s,x1.5 (35%),350,0,0,12
+shuriken,Shuriken,tier2,8(34% MeleeDamage),0.83s,9.6(40% MeleeDamage)/s,x1.5 (38%),350,0,0,26
+shuriken,Shuriken,tier3,10(42% MeleeDamage),0.8s,12.5(52% MeleeDamage)/s,x1.5 (41%),350,0,0,52
+shuriken,Shuriken,tier4,15(50% MeleeDamage),0.7s,21.4(71% MeleeDamage)/s,x1.5 (45%),350,0,0,105
+slingshot,Slingshot,tier1,10(80% RangedDamage),1.22s,8.2(65% RangedDamage)/s,x2 (3%),300,5,0,15
+slingshot,Slingshot,tier2,13(80% RangedDamage),1.17s,11.1(68.4% RangedDamage)/s,x2 (3%),300,5,0,31
+slingshot,Slingshot,tier3,16(80% RangedDamage),1.13s,14.2(70.8% RangedDamage)/s,x2 (3%),300,5,0,61
+slingshot,Slingshot,tier4,20(80% RangedDamage),1.1s,18.2(72.7% RangedDamage)/s,x2 (3%),300,5,0,122
+smg,Smg,tier1,3(50% RangedDamage),0.17s,17.6(294% RangedDamage)/s,x1.5 (1%),400,0,0,20
+smg,Smg,tier2,4(60% RangedDamage),0.17s,23.5(352% RangedDamage)/s,x1.5 (1%),400,0,0,39
+smg,Smg,tier3,5(70% RangedDamage),0.17s,29.4(411% RangedDamage)/s,x1.5 (1%),400,0,0,74
+smg,Smg,tier4,8(80% RangedDamage),0.15s,53.3(533% RangedDamage)/s,x1.5 (1%),400,0,0,149
+sniper gun,Sniper Gun,tier1,-,-,-,-,-,-,-,-
+sniper gun,Sniper Gun,tier2,-,-,-,-,-,-,-,-
+sniper gun,Sniper Gun,tier3,50(100% RangedDamage20% Range),2.4s,20.8(41% RangedDamage8% Range)/s,x3 (20%),800,30,0,115
+sniper gun,Sniper Gun,tier4,80(100% RangedDamage30% Range),2.4s,33.3(41% RangedDamage12% Range)/s,x4 (20%),1000,30,0,245
+taser,Taser,tier1,6x1(80% ElementalDamage),0.95s,6.3(84% ElementalDamage)/s,x2 (3%),200,0,0,15
+taser,Taser,tier2,6x2(70% ElementalDamage),0.95s,12.6(147% ElementalDamage)/s,x2 (3%),200,0,0,31
+taser,Taser,tier3,6x3(60% ElementalDamage),0.95s,18.9(189% ElementalDamage)/s,x2 (3%),200,0,0,61
+taser,Taser,tier4,12x4(50% ElementalDamage),0.95s,50.5(210% ElementalDamage)/s,x2 (3%),200,0,0,122
+wand,Wand,tier1,1(50% ElementalDamage),0.87s,1.1(57% ElementalDamage)/s,x2 (0%),350,10,0,12
+wand,Wand,tier2,1(65% ElementalDamage),0.78s,1.3(83.3% ElementalDamage)/s,x2 (0%),375,10,0,26
+wand,Wand,tier3,1(80% ElementalDamage),0.7s,1.4(114.3% ElementalDamage)/s,x2 (0%),400,10,0,52
+wand,Wand,tier4,1(100% ElementalDamage),0.53s,1.9(188.7% ElementalDamage)/s,x2 (0%),425,10,0,105
+anchor,Anchor,tier1,-,-,--,-,-,-,-,-
+anchor,Anchor,tier2,45(+100% Melee Damage+65% Curse),1.92s,23.4(52.1% Melee Damage33.9% Curse)/s,x1.5 (3% chance),175,10,0,51
+anchor,Anchor,tier3,70(+125% Melee Damage+90% Curse),1.86s,37.6(67.2% Melee Damage48.4% Curse)/s,x1.5 (3% chance),200,10,0,95
+anchor,Anchor,tier4,110(+150% Melee Damage+125% Curse),1.81s,60.8(82.9% Melee Damage69.1% Curse)/s,x1.5 (3% chance),225,10,0,190
+blunderbuss,Blunderbuss,tier1,-,-,--,-,-,-,-,-
+blunderbuss,Blunderbuss,tier2,25(+100% Ranged Damage),5.2s,4.8(19.2% Ranged Damage)/s,x2 (3% chance),325,10,0,45
+blunderbuss,Blunderbuss,tier3,50(+125% Ranged Damage),5.2s,9.6(24% Ranged Damage)/s,x2.25 (3% chance),350,20,0,95
+blunderbuss,Blunderbuss,tier4,80(+150% Ranged Damage),5.2s,15.4(28.8% Ranged Damage)/s,x2.5 (3% chance),375,30,0,192
+brick,Brick,tier1,30(+50% Melee Damage+50% Engineering),1.39s,21.5(35.9% Melee Damage35.9% Engineering)/s,x1.5 (3% chance),150,5,0,6
+brick,Brick,tier2,60(+65% Melee Damage+65% Engineering),1.39s,43(46.6% Melee Damage46.6% Engineering)/s,x1.5 (3% chance),150,5,0,14
+brick,Brick,tier3,90(+80% Melee Damage+80% Engineering),1.39s,64.6(57.4% Melee Damage57.4% Engineering)/s,x1.5 (3% chance),150,5,0,22
+brick,Brick,tier4,120(+100% Melee Damage+100% Engineering),1.39s,86.1(71.7% Melee Damage71.7% Engineering)/s,x1.5 (3% chance),150,5,0,40
+captain’s sword,Captain’s Sword,tier1,-,-,--,-,-,-,-,-
+captain’s sword,Captain’s Sword,tier2,-,-,--,-,-,-,-,-
+captain’s sword,Captain’s Sword,tier3,50(+100% Melee Damage+100% Curse),1.03s,48.5(97% Melee Damage97% Curse)/s,x2 (3% chance),200,5,0,110
+captain’s sword,Captain’s Sword,tier4,80(+125% Melee Damage+125% Curse),0.95s,84.4(131.9% Melee Damage131.9% Curse)/s,x2 (3% chance),200,5,0,210
+chainsaw,Chainsaw,tier1,-,-,--,-,-,-,-,-
+chainsaw,Chainsaw,tier2,-,-,--,-,-,-,-,-
+chainsaw,Chainsaw,tier3,10(+75% Melee Damage+75% Engineering+75% Lifesteal),0.53s,18.8(141.3% Melee Damage141.3% Engineering141.3% Lifesteal)/s,x1.5 (3% chance),175,0,15%,112
+chainsaw,Chainsaw,tier4,20(+100% Melee Damage+100% Engineering+100% Lifesteal),0.56s,35.9(179.3% Melee Damage179.3% Engineering179.3% Lifesteal)/s,x1.5 (3% chance),200,0,30%,242
+dex-troyer,Dex-troyer,tier1,-,-,--,-,-,-,-,-
+dex-troyer,Dex-troyer,tier2,-,-,--,-,-,-,-,-
+dex-troyer,Dex-troyer,tier3,-,-,--,-,-,-,-,-
+dex-troyer,Dex-troyer,tier4,100(+100% Melee Damage+100% Engineering),1.33s,75.3(75.3% Melee Damage75.3% Engineering)/s,x2 (3% chance),400,10,0,315
+fireball,Fireball,tier1,-,-,--,-,-,-,-,-
+fireball,Fireball,tier2,5(+25% Elemental Damage),1.12s,4.5(22.4% Elemental Damage)/s,x1.5 (3% chance),400,0,0,36
+fireball,Fireball,tier3,10(+50% Elemental Damage),1.03s,9.7(48.4% Elemental Damage)/s,x1.5 (3% chance),450,0,0,66
+fireball,Fireball,tier4,20(+75% Elemental Damage),0.87s,23.1(86.5% Elemental Damage)/s,x1.5 (3% chance),500,0,0,140
+flute,Flute,tier1,5(+50% Ranged Damage+10% Luck),1.2s,4.2(41.7% Ranged Damage8.3% Luck)/s,x1.5 (3% chance),300,0,0,20
+flute,Flute,tier2,8(+50% Ranged Damage+15% Luck),1.12s,7.2(44.8% Ranged Damage13.4% Luck)/s,x1.5 (3% chance),325,0,0,45
+flute,Flute,tier3,11(+50% Ranged Damage+20% Luck),1.03s,10.6(48.4% Ranged Damage19.4% Luck)/s,x1.5 (3% chance),350,0,0,80
+flute,Flute,tier4,15(+50% Ranged Damage+25% Luck),0.95s,15.8(52.6% Ranged Damage26.3% Luck)/s,x1.5 (3% chance),375,0,0,165
+grenade launcher,Grenade Launcher,tier1,-,-,--,-,-,-,-,-
+grenade launcher,Grenade Launcher,tier2,12(+100% Ranged Damage),0.37s,5.9(49% Ranged Damage)/s,x2.5 (5% chance),350,0,0,58
+grenade launcher,Grenade Launcher,tier3,18(+100% Ranged Damage),0.37s,13.7(76.1% Ranged Damage)/s,x3 (10% chance),400,0,0,108
+grenade launcher,Grenade Launcher,tier4,30(+100% Ranged Damage),0.37s,31.5(105% Ranged Damage)/s,x3.5 (20% chance),450,0,0,212
+harpoon gun,Harpoon Gun,tier1,-,-,--,-,-,-,-,-
+harpoon gun,Harpoon Gun,tier2,5(+100% Ranged Damage+100% Melee Damage),0.82s,6.1(122.4% Ranged Damage122.4% Melee Damage)/s,x1.5 (3% chance),800,-30,0,50
+harpoon gun,Harpoon Gun,tier3,10(+100% Ranged Damage+100% Melee Damage),0.73s,13.6(136.4% Ranged Damage136.4% Melee Damage)/s,x1.5 (3% chance),850,-30,0,105
+harpoon gun,Harpoon Gun,tier4,20(+100% Ranged Damage+100% Melee Damage),0.65s,30.8(153.8% Ranged Damage153.8% Melee Damage)/s,x1.5 (3% chance),900,-30,0,220
+hiking pole,Hiking Pole,tier1,12(+50% Melee Damage+10% Range),1.42s,8.4(35.2% Melee Damage7% Range)/s,x1.5 (3% chance),175,0,0,17
+hiking pole,Hiking Pole,tier2,18(+50% Melee Damage+12% Range),1.34s,13.5(37.4% Melee Damage9% Range)/s,x1.5 (3% chance),175,0,0,34
+hiking pole,Hiking Pole,tier3,24(+50% Melee Damage+15% Range),1.25s,19.1(39.9% Melee Damage12% Range)/s,x1.5 (3% chance),175,0,0,66
+hiking pole,Hiking Pole,tier4,30(+50% Melee Damage+20% Range),1.17s,25.6(42.7% Melee Damage17.1% Range)/s,x1.5 (3% chance),175,0,0,130
+icicle,Icicle,tier1,10(+100% Elemental Damage),1.03s,9.7(96.8% Elemental Damage)/s,x2 (5% chance),400,5,0,18
+icicle,Icicle,tier2,20(+100% Elemental Damage),0.95s,21.1(105.3% Elemental Damage)/s,x2 (10% chance),400,5,0,36
+icicle,Icicle,tier3,30(+100% Elemental Damage),0.87s,34.6(115.4% Elemental Damage)/s,x2.5 (15% chance),400,5,0,66
+icicle,Icicle,tier4,40(+100% Elemental Damage),0.7s,57.1(142.9% Elemental Damage)/s,x3 (20% chance),400,5,0,140
+javelin,Javelin,tier1,8(+100% Melee Damage),1.2s,6.7(83.3% Melee Damage)/s,x2.5 (0% chance),350,0,0,18
+javelin,Javelin,tier2,12(+100% Melee Damage),1.12s,10.7(89.6% Melee Damage)/s,x2.75 (0% chance),375,0,0,36
+javelin,Javelin,tier3,16(+100% Melee Damage),1.03s,15.5(97.1% Melee Damage)/s,x3 (0% chance),400,0,0,66
+javelin,Javelin,tier4,20(+100% Melee Damage),0.95s,21.1(105.3% Melee Damage)/s,x3.25 (0% chance),425,0,0,140
+lute,Lute,tier1,4(+50% Melee Damage+10% Luck),1.31s,3.1(38.1% Melee Damage7.6% Luck)/s,x1.5 (3% chance),150,2,0,15
+lute,Lute,tier2,8(+50% Melee Damage+15% Luck),1.25s,6.4(39.9% Melee Damage12% Luck)/s,x1.5 (3% chance),175,2,0,31
+lute,Lute,tier3,12(+50% Melee Damage+20% Luck),1.2s,10(41.7% Melee Damage16.7% Luck)/s,x1.5 (3% chance),200,2,0,61
+lute,Lute,tier4,16(+50% Melee Damage+25% Luck),1.14s,14(43.8% Melee Damage21.9% Luck)/s,x1.5 (3% chance),225,2,0,122
+mace,Mace,tier1,-,-,--,-,-,-,-,-
+mace,Mace,tier2,40(+100% Melee Damage-50% Attack Speed),1.39s,28.7(71.7% Melee Damage-35.9% Attack Speed)/s,x1.5 (3% chance),150,5,0,46
+mace,Mace,tier3,60(+100% Melee Damage-75% Attack Speed),1.31s,45.8(76.3% Melee Damage-57.2% Attack Speed)/s,x1.5 (3% chance),150,5,0,92
+mace,Mace,tier4,100(+100% Melee Damage-100% Attack Speed),1.23s,81.5(81.5% Melee Damage-81.5% Attack Speed)/s,x1.5 (3% chance),150,5,0,185
+particle accelerator,Particle Accelerator,tier1,-,-,--,-,-,-,-,-
+particle accelerator,Particle Accelerator,tier2,-,-,--,-,-,-,-,-
+particle accelerator,Particle Accelerator,tier3,60(+100% Elemental Damage+100% Engineering),1.95s,30.8(51.3% Elemental Damage51.3% Engineering)/s,x2 (3% chance),800,0,0,144
+particle accelerator,Particle Accelerator,tier4,120(+100% Elemental Damage+100% Engineering),1.62s,74.2(61.8% Elemental Damage61.8% Engineering)/s,x2 (3% chance),800,0,0,289
+sharp tooth,Sharp Tooth,tier1,5(+50% Melee Damage+50% Lifesteal),1.14s,4.4(43.7% Melee Damage43.7% Lifesteal)/s,x2 (3% chance),150,2,0,12
+sharp tooth,Sharp Tooth,tier2,8(+50% Melee Damage+65% Lifesteal),1.07s,7.5(46.7% Melee Damage60.7% Lifesteal)/s,x2.15 (6% chance),160,2,0,26
+sharp tooth,Sharp Tooth,tier3,11(+50% Melee Damage+80% Lifesteal),1s,11(50.1% Melee Damage80.1% Lifesteal)/s,x2.3 (9% chance),170,2,0,52
+sharp tooth,Sharp Tooth,tier4,15(+50% Melee Damage+100% Lifesteal),0.93s,16.2(54% Melee Damage108% Lifesteal)/s,x2.5 (12% chance),180,2,0,105
+sickle,Sickle,tier1,5(+80% Melee Damage+10% Harvesting),0.87s,5.8(92.2% Melee Damage11.5% Harvesting)/s,x2 (3% chance),125,2,0,15
+sickle,Sickle,tier2,8(+80% Melee Damage+15% Harvesting),0.82s,9.8(97.9% Melee Damage18.4% Harvesting)/s,x2 (3% chance),125,2,0,31
+sickle,Sickle,tier3,12(+80% Melee Damage+20% Harvesting),0.77s,15.6(104.3% Melee Damage26.1% Harvesting)/s,x2 (3% chance),125,2,0,61
+sickle,Sickle,tier4,15(+80% Melee Damage+25% Harvesting),0.7s,21.4(114.2% Melee Damage35.7% Harvesting)/s,x2 (3% chance),125,2,0,122
+spoon,Spoon,tier1,10(+50% Melee Damage+15% Max HP),1.06s,9.4(47.1% Melee Damage14.1% Max HP)/s,x2 (0% chance),150,2,0,15
+spoon,Spoon,tier2,15(+50% Melee Damage+20% Max HP),0.99s,15.1(50.3% Melee Damage20.1% Max HP)/s,x2.25 (0% chance),165,2,0,31
+spoon,Spoon,tier3,20(+50% Melee Damage+25% Max HP),0.93s,21.6(54% Melee Damage27% Max HP)/s,x2.5 (0% chance),180,2,0,61
+spoon,Spoon,tier4,25(+50% Melee Damage+25% Max HP),0.86s,28.9(57.9% Melee Damage28.9% Max HP)/s,x3 (0% chance),200,2,0,122
+trident,Trident,tier1,-,-,--,-,-,-,-,-
+trident,Trident,tier2,30(+100% Melee Damage+15% Curse),1.58s,19(63.2% Melee Damage9.5% Curse)/s,x2 (3% chance),325,0,0,52
+trident,Trident,tier3,50(+100% Melee Damage+30% Curse),1.5s,33.4(66.7% Melee Damage20% Curse)/s,x2 (3% chance),325,0,0,96
+trident,Trident,tier4,80(+100% Melee Damage+50% Curse),1.41s,56.5(70.7% Melee Damage35.3% Curse)/s,x2 (3% chance),325,0,0,200
+vorpal sword,Vorpal Sword,tier1,-,-,-,-,-,-,-,-
+vorpal sword,Vorpal Sword,tier2,20(100% MeleeDamage),1.11s,18.0(90% MeleeDamage)/s,x2 (3%),200,5,0,55
+vorpal sword,Vorpal Sword,tier3,35(100% MeleeDamage),1.03s,34.0(97% MeleeDamage)/s,x2 (3%),200,5,0,100
+vorpal sword,Vorpal Sword,tier4,55(100% MeleeDamage),0.95s,57.9(105% MeleeDamage)/s,x2 (3%),200,5,0,200
+war hammer,War Hammer,tier1,-,-,--,-,-,-,-,-
+war hammer,War Hammer,tier2,-,-,--,-,-,-,-,-
+war hammer,War Hammer,tier3,100(+150% Melee Damage+100% Engineering),2.11s,47.3(70.9% Melee Damage47.3% Engineering)/s,x1.5 (3% chance),200,20,0,130
+war hammer,War Hammer,tier4,180(+200% Melee Damage+150% Engineering),1.95s,92.4(102.7% Melee Damage77% Engineering)/s,x1.5 (3% chance),200,25,0,255

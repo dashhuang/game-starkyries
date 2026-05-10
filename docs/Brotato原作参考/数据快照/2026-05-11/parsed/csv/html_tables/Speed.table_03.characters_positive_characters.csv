@@ -1,0 +1,7 @@
+Name,Stats,Unlocked By,Unlocks,Item Tags
+Explorer,More trees spawn You start with 1 Lumberjack Shirt +10% Speed +50% pickup range +33% Map Size +25% Enemies -50% materials dropped from enemies +10% Enemy Speed -40% Damage,Kill 50 trees,Compass,"Speed, Exploration, Consumable"
+Golem,+20 Max HP Max HP modifications are increased by 33% Armor modifications are increased by 33% +40 % Attack Speed when you have less than 50% health +20 % Speed when you have less than 50% health You can't heal in any way,Finish a wave with 1 HP,Stone Skin,"Max HP, Armor"
+Hiker(DLC),Earn 5 materials for every 10 steps you take during a wave +1 Max HP for every 80 steps you take during a wave % Speed modifications are increased by 10% -5 % Speed -50% materials dropped,Walk a total of 20000 steps,Scarf,Speed
+Soldier,+50% Damage while standing still +50% Attack Speed while standing still +10% Speed +200% pickup range +15 Knockback You cant attack while moving,Win a run in Danger 2,Nuclear Launcher,Stand Still
+Speedy,+30% Speed +1 Melee Damage for every 2% Speed you have -100 Armor while standing still -3 Armor,Reach +50% Speed,Fin,Speed
+Well Rounded,+5 Max Hp +5% Speed +8 Harvesting,Unlocked by default,Potato,

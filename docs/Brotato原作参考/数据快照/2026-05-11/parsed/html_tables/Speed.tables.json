@@ -1,0 +1,551 @@
+[
+  {
+    "table_index": 0,
+    "section": "Items > Positive",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 12,
+    "rows": [
+      {
+        "Name": "Beanie",
+        "Rarity": "Tier 1",
+        "Effects": "+4 % Speed -6 Range",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Speed"
+      },
+      {
+        "Name": "Clockwork Wasp",
+        "Rarity": "Tier 2",
+        "Effects": "+10 % Structure attack speed +5 % Speed",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Structure, Speed"
+      },
+      {
+        "Name": "Compass",
+        "Rarity": "Tier 2",
+        "Effects": "+5 % Speed +3 Engineering -3 % Crit Chance",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "Win a run with Explorer",
+        "Tags": "Speed, Engineering"
+      },
+      {
+        "Name": "Exoskeleton",
+        "Rarity": "Tier 4",
+        "Effects": "+3 Armor +5 % Crit Chance +5 Engineering +5 % Speed -2 HP Regeneration -2 % Life Steal",
+        "Base Price": "90",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Armor, Crit Chance, Engineering, Speed"
+      },
+      {
+        "Name": "Fin",
+        "Rarity": "Tier 3",
+        "Effects": "+10 % Speed +3 % Life Steal -8 Luck",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "Win a run with Speedy",
+        "Tags": "Speed, Life Steal"
+      },
+      {
+        "Name": "Jet Pack",
+        "Rarity": "Tier 4",
+        "Effects": "+15 % Speed +10 % Dodge -5 Max HP -1 Armor",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Speed, Dodge"
+      },
+      {
+        "Name": "Medal",
+        "Rarity": "Tier 2",
+        "Effects": "+3 Max HP +3 % Damage +1 Armor +3 % Speed -4 % Crit Chance",
+        "Base Price": "55",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, Damage, Armor, Speed"
+      },
+      {
+        "Name": "Potato",
+        "Rarity": "Tier 4",
+        "Effects": "+3 Max HP +2 HP Regeneration +1 % Life Steal +5 % Damage +5 % Attack Speed +3 % Speed +3 % Dodge +1 Armor +5 Luck",
+        "Base Price": "95",
+        "Limit": "",
+        "Unlocked By": "Win a run with Well Rounded",
+        "Tags": "Max HP, HP Regeneration, Damage, Speed, Luck"
+      },
+      {
+        "Name": "Saltwater(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Melee Damage +3 % Attack Speed +10 % Speed for 3 seconds when you take damage -1 Elemental Damage",
+        "Base Price": "50",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Attack Speed, Speed"
+      },
+      {
+        "Name": "Scarf(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "+4 HP Regeneration +4 Melee Damage +4 % Speed +25 % Enemy Speed during the next wave",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "Win a run with Hiker",
+        "Tags": "HP Regeneration, Melee Damage, Speed"
+      },
+      {
+        "Name": "Terrified Onion",
+        "Rarity": "Tier 1",
+        "Effects": "+4 % Speed -5 Luck",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Speed"
+      },
+      {
+        "Name": "Wings",
+        "Rarity": "Tier 3",
+        "Effects": "+10 % Speed +30 Range -2 Elemental Damage",
+        "Base Price": "85",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Speed, Range"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Items > Negative",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 16,
+    "rows": [
+      {
+        "Name": "Bag",
+        "Rarity": "Tier 1",
+        "Effects": "+15 materials when you pick up a crate -1 % Speed",
+        "Base Price": "15",
+        "Limit": "3.0",
+        "Unlocked By": "",
+        "Tags": "Luck, Exploration, Economy"
+      },
+      {
+        "Name": "Ball and Chain",
+        "Rarity": "Tier 3",
+        "Effects": "+15 % Damage +3 Armor +5 Knockback -3 % Speed Weapons have a minimum cooldown of 0.75 seconds between attacks",
+        "Base Price": "75",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Damage, Armor, Knockback"
+      },
+      {
+        "Name": "Barricade",
+        "Rarity": "Tier 3",
+        "Effects": "+3 Knockback +8 Armor while standing still -5 % Speed",
+        "Base Price": "75",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Armor, Stand Still, Knockback"
+      },
+      {
+        "Name": "Big Arms",
+        "Rarity": "Tier 4",
+        "Effects": "+12 Melee Damage +6 Ranged Damage +3 Knockback -3 % Attack Speed -3 % Speed",
+        "Base Price": "105",
+        "Limit": "",
+        "Unlocked By": "Win a run with Generalist",
+        "Tags": "Melee Damage, Ranged Damage, Knockback"
+      },
+      {
+        "Name": "Campfire",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Elemental Damage +2 HP Regeneration -2 % Speed",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Elemental Damage, HP Regeneration"
+      },
+      {
+        "Name": "Esty's Couch",
+        "Rarity": "Tier 4",
+        "Effects": "+5 Max HP +2 HP Regeneration for every permanent -1 % Speed you have -20 % Speed",
+        "Base Price": "100",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "HP Regeneration, Max HP"
+      },
+      {
+        "Name": "Ghost Outfit",
+        "Rarity": "Tier 3",
+        "Effects": "Dodge is capped at 70% +10% Dodge -5% Speed -3 Armor",
+        "Base Price": "80",
+        "Limit": "1.0",
+        "Unlocked By": "Reach 70% Dodge",
+        "Tags": "Dodge"
+      },
+      {
+        "Name": "Gobbler's Hat",
+        "Rarity": "Tier 4",
+        "Effects": "+70% materials dropped -15% Speed -10% Dodge",
+        "Base Price": "130",
+        "Limit": "1.0",
+        "Unlocked By": "Kill the Gobbler 5 times",
+        "Tags": ""
+      },
+      {
+        "Name": "Helmet",
+        "Rarity": "Tier 1",
+        "Effects": "+1 Armor -2 % Speed",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Armor"
+      },
+      {
+        "Name": "Honey",
+        "Rarity": "Tier 3",
+        "Effects": "+3 Ranged Damage +10 % Explosion Damage +5 % Explosion Size -3 % Speed -3 % Dodge",
+        "Base Price": "70",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage, Explosive"
+      },
+      {
+        "Name": "Mammoth",
+        "Rarity": "Tier 4",
+        "Effects": "+20 Melee Damage +5 HP Regeneration +5 Knockback -8 % Damage -3 % Speed",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, HP Regeneration, Knockback"
+      },
+      {
+        "Name": "Reinforced Steel",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Ranged Damage +3 Engineering -3 % Speed",
+        "Base Price": "50",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage, Engineering"
+      },
+      {
+        "Name": "Snail",
+        "Rarity": "Tier 2",
+        "Effects": "-8 % Enemy Speed -3 % Speed",
+        "Base Price": "40",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Old",
+        "Tags": "Less Enemy Speed"
+      },
+      {
+        "Name": "Statue",
+        "Rarity": "Tier 3",
+        "Effects": "+40 % Attack Speed while standing still -10 % Speed",
+        "Base Price": "60",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed, Stand Still"
+      },
+      {
+        "Name": "Ugly Tooth",
+        "Rarity": "Tier 1",
+        "Effects": "Hitting an enemy removes 5% of their speed. Max 20% -3 % Speed",
+        "Base Price": "25",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Less Enemy Speed"
+      },
+      {
+        "Name": "Warrior Helmet",
+        "Rarity": "Tier 3",
+        "Effects": "+3 Armor +5 Max HP -5 % Speed",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Armor, Max HP"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Items > Interactions",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 4,
+    "rows": [
+      {
+        "Name": "Esty's Couch",
+        "Rarity": "Tier 4",
+        "Effects": "+5 Max HP +2 HP Regeneration for every permanent -1 % Speed you have -20 % Speed",
+        "Base Price": "100",
+        "Limit": "1",
+        "Unlocked By": "",
+        "Tags": "HP Regeneration, Max HP"
+      },
+      {
+        "Name": "Power Generator",
+        "Rarity": "Tier 3",
+        "Effects": "+1 % Damage for every permanent 1 % Speed you have -5 % Damage",
+        "Base Price": "65",
+        "Limit": "1",
+        "Unlocked By": "",
+        "Tags": "Speed, Damage"
+      },
+      {
+        "Name": "Saltwater(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Melee Damage +3 % Attack Speed +10 % Speed for 3 seconds when you take damage -1 Elemental Damage",
+        "Base Price": "50",
+        "Limit": "1",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Attack Speed, Speed"
+      },
+      {
+        "Name": "Shackles",
+        "Rarity": "Tier 3",
+        "Effects": "+8 HP Regeneration +8 Engineering +80 Range Your Speed is capped at its current value",
+        "Base Price": "80",
+        "Limit": "1",
+        "Unlocked By": "",
+        "Tags": "Range, HP Regeneration, Engineering"
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Characters > Positive Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Name": "Explorer",
+        "Stats": "More trees spawn You start with 1 Lumberjack Shirt +10% Speed +50% pickup range +33% Map Size +25% Enemies -50% materials dropped from enemies +10% Enemy Speed -40% Damage",
+        "Unlocked By": "Kill 50 trees",
+        "Unlocks": "Compass",
+        "Item Tags": "Speed, Exploration, Consumable"
+      },
+      {
+        "Name": "Golem",
+        "Stats": "+20 Max HP Max HP modifications are increased by 33% Armor modifications are increased by 33% +40 % Attack Speed when you have less than 50% health +20 % Speed when you have less than 50% health You can't heal in any way",
+        "Unlocked By": "Finish a wave with 1 HP",
+        "Unlocks": "Stone Skin",
+        "Item Tags": "Max HP, Armor"
+      },
+      {
+        "Name": "Hiker(DLC)",
+        "Stats": "Earn 5 materials for every 10 steps you take during a wave +1 Max HP for every 80 steps you take during a wave % Speed modifications are increased by 10% -5 % Speed -50% materials dropped",
+        "Unlocked By": "Walk a total of 20000 steps",
+        "Unlocks": "Scarf",
+        "Item Tags": "Speed"
+      },
+      {
+        "Name": "Soldier",
+        "Stats": "+50% Damage while standing still +50% Attack Speed while standing still +10% Speed +200% pickup range +15 Knockback You cant attack while moving",
+        "Unlocked By": "Win a run in Danger 2",
+        "Unlocks": "Nuclear Launcher",
+        "Item Tags": "Stand Still"
+      },
+      {
+        "Name": "Speedy",
+        "Stats": "+30% Speed +1 Melee Damage for every 2% Speed you have -100 Armor while standing still -3 Armor",
+        "Unlocked By": "Reach +50% Speed",
+        "Unlocks": "Fin",
+        "Item Tags": "Speed"
+      },
+      {
+        "Name": "Well Rounded",
+        "Stats": "+5 Max Hp +5% Speed +8 Harvesting",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Potato",
+        "Item Tags": ""
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "Characters > Negative Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 4,
+    "rows": [
+      {
+        "Name": "Chunky",
+        "Stats": "Max HP modifications are increased by 25%  +1% Damage for every 3 Max HP you have +3 HP recovered from consumables -100% Life Steal HP Regeneration modifications are reduced by 50%  Dodge modifications are reduced by 50% Speed modifications are reduced by 100%",
+        "Unlocked By": "Die for the first time",
+        "Unlocks": "Potato Thrower",
+        "Item Tags": "Max HP, Luck, Consumable"
+      },
+      {
+        "Name": "Hiker(DLC)",
+        "Stats": "Earn 5 materials for every 10 steps you take during a wave +1 Max HP for every 80 steps you take during a wave % Speed modifications are increased by 10% -5 % Speed -50% materials dropped",
+        "Unlocked By": "Walk a total of 20000 steps",
+        "Unlocks": "Scarf",
+        "Item Tags": "Speed"
+      },
+      {
+        "Name": "Ogre(DLC)",
+        "Stats": "Enemies taking double their max health as damage explode for 10 (+50%-50%) damage +10 Melee Damage You can't equip ranged weapons -50 % Attack Speed -10 % Speed",
+        "Unlocked By": "Deal 1000 damage to an enemy in a single hit",
+        "Unlocks": "Mace",
+        "Item Tags": "Max HP, Melee Damage, Explosive (Item Tag)"
+      },
+      {
+        "Name": "Old",
+        "Stats": "-25% Enemy speed +10 Harvesting -33%Map Size -10% Enemies -10% Speed",
+        "Unlocked By": "Kill 300 enemies",
+        "Unlocks": "Snail",
+        "Item Tags": "Less Enemies, Less Enemy Speed"
+      }
+    ]
+  },
+  {
+    "table_index": 5,
+    "section": "Weapons",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 2,
+    "rows": [
+      {
+        "Name": "Jousting Lance",
+        "Class": "Medieval",
+        "Damage": "20(50%30%)  25(50%35%)  30(50%40%)  50(50%50%)",
+        "Attack Speed": "1.58s  1.5s  1.42s  1.33s",
+        "DPS": "12.7(31%18%)/s  16.7(33%23%)/s  21.1(35%28%)/s  37.6(37%37%)/s",
+        "Crit Damage/Chance": "x2 (3%)  x2 (3%)  x2 (3%)  x2 (3%)",
+        "Range": "250  250  250  250",
+        "Knockback": "0  0  0  0",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "+2/+3/+4/+5 % Speed -10/-15/-20/-25 % Damage while standing still",
+        "Base price": "20  36  72  132",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Hiking Pole(DLC)",
+        "Class": "Support",
+        "Damage": "12(+50%+10%)  18(+50%+12%)  24(+50%+15%)  30(+50%+20%)",
+        "Attack Speed": "1.42s  1.34s  1.25s  1.17s",
+        "DPS": "8.4(35.2%7%)/s  13.5(37.4%9%)/s  19.1(39.9%12%)/s  25.6(42.7%17.1%)/s",
+        "Crit Damage/Chance": "x1.5 (3% chance)  x1.5 (3% chance)  x1.5 (3% chance)  x1.5 (3% chance)",
+        "Range": "175  175  175  175",
+        "Knockback": "0  0  0  0",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "+1 Range for every 70/60/50/40 steps you take during a wave",
+        "Base price": "17  34  66  130",
+        "Unlocked by": "Default"
+      }
+    ]
+  },
+  {
+    "table_index": 6,
+    "section": "Weapon Set - Blunt",
+    "columns": [
+      "Class",
+      "Bonuses",
+      "Weapons"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Class": "Blunt",
+        "Bonuses": "(2)+1 Armor -2% Speed (3)+1 Armor +3 Max HP -4% Speed (4)+2 Armor +3 Max HP -6% Speed (5)+2 Armor +6 Max HP -8% Speed (6)+3 Armor +6 Max HP -10% Speed",
+        "Weapons": "Brick  Rock  Spiky Shield  Spoon  Hammer  War Hammer"
+      }
+    ]
+  },
+  {
+    "table_index": 7,
+    "section": "",
+    "columns": [
+      "Stats",
+      "Stats.1",
+      "Stats.2",
+      "Stats.3"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Stats": "Max HP",
+        "Stats.1": "Melee Damage",
+        "Stats.2": "Crit Chance",
+        "Stats.3": "Dodge"
+      },
+      {
+        "Stats": "HP Regeneration",
+        "Stats.1": "Ranged Damage",
+        "Stats.2": "Engineering",
+        "Stats.3": "Speed"
+      },
+      {
+        "Stats": "Life Steal",
+        "Stats.1": "Elemental Damage",
+        "Stats.2": "Range",
+        "Stats.3": "Luck"
+      },
+      {
+        "Stats": "Damage",
+        "Stats.1": "Attack Speed",
+        "Stats.2": "Armor",
+        "Stats.3": "Harvesting"
+      },
+      {
+        "Stats": "DLC Stats",
+        "Stats.1": "DLC Stats",
+        "Stats.2": "DLC Stats",
+        "Stats.3": "DLC Stats"
+      },
+      {
+        "Stats": "Curse",
+        "Stats.1": "Curse",
+        "Stats.2": "Curse",
+        "Stats.3": "Curse"
+      }
+    ]
+  }
+]

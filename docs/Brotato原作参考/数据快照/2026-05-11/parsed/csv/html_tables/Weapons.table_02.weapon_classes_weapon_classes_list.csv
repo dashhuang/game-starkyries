@@ -1,0 +1,18 @@
+Class,Bonuses,Weapons
+Blade,(2)+1 Melee Damage 1% Life Steal (3)+2 Melee Damage 2% Life Steal (4)+3 Melee Damage 3% Life Steal (5)+4 Melee Damage 4% Life Steal (6)+5 Melee Damage 5% Life Steal,Chopper  Circular Saw  Sword  Vorpal Sword  Captain's Sword  Chainsaw  Thunder Sword  Excalibur
+Blunt,(2)+1 Armor -2% Speed (3)+1 Armor +3 Max HP -4% Speed (4)+2 Armor +3 Max HP -6% Speed (5)+2 Armor +6 Max HP -8% Speed (6)+3 Armor +6 Max HP -10% Speed,Brick  Rock  Spiky Shield  Spoon  Hammer  War Hammer
+Elemental,(2)+1 Elemental Damage (3)+2 Elemental Damage (4)+3 Elemental Damage (5)+4 Elemental Damage (6)+5 Elemental Damage,Icicle  Lightning Shiv  Plank  Taser  Torch  Wand  Fireball  Flamethrower  Flaming Brass Knuckles  Particle Accelerator  Plasma Sledge  Thunder Sword
+Ethereal,(2)+6% Dodge Chance -1 Armor (3)+12% Dodge Chance -2 Armor (4)+18% Dodge Chance -3 Armor (5)+24% Dodge Chance -4 Armor (6)+30% Dodge Chance -5 Armor,Ghost Axe  Ghost Flint  Ghost Scepter  Scythe
+Explosive,(2)+5% Explosive Size (3)+10% Explosive Size (4)+15% Explosive Size (5)+20% Explosive Size (6)+25% Explosive Size,Plank  Shredder  Fireball  Grenade Launcher  Rocket Launcher  Nuclear Launcher  Plasma Sledge  Power Fist  DEX-troyer
+Gun,(2)+10 Range (3)+20 Range (4)+30 Range (5)+40 Range (6)+50 Range,Double Barrel Shotgun  Laser Gun  Medical Gun  Pistol  Revolver  Shredder  SMG  Blunderbuss  Harpoon Gun  Minigun  Sniper Gun  Obliterator  Chain Gun
+Heavy,(2)+5% Damage (3)+10% Damage (4)+15% Damage (5)+20% Damage (6)+25% Damage,Cacti Club  Anchor  Flamethrower  Grenade Launcher  Hammer  Mace  Rocket Launcher  Minigun  Nuclear Launcher  Obliterator  Particle Accelerator  War Hammer  Gatling Laser
+Legendary,(2)-20 Max HP (3)-40 Max HP (4)-60 Max HP (5)-80 Max HP (6)-100 Max HP,Chain Gun  DEX-troyer  Drill  Excalibur  Gatling Laser  Scythe
+Medical,(2)+1 HP Regeneration (3)+2 HP Regeneration (4)+3 HP Regeneration (5)+4 HP Regeneration (6)+5 HP Regeneration,Medical Gun  Scissors  Circular Saw
+Medieval,"(2)+1 Armor (3)+1 Armor, +3% Dodge (4)+2 Armor, +3% Dodge (5)+2 Armor, +6% Dodge (6)+3 Armor, +6% Dodge",Crossbow  Jousting Lance  Quarterstaff  Spiky Shield  Mace  Sword  Trident  Vorpal Sword
+Musical,(2)+5 Luck (3)+10 Luck (4)+15 Luck (5)+20 Luck (6)+25 Luck,Flute  Lute
+Naval,(2)+1 Curse (3)+2 Curse (4)+3 Curse (5)+4 Curse (6)+5 Curse,Anchor  Blunderbuss  Harpoon Gun  Trident  Captain's Sword
+Precise,(2)+3% Crit Chance (3)+6% Crit Chance (4)+9% Crit Chance (5)+12% Crit Chance (6)+15% Crit Chance,Claw  Crossbow  Icicle  Knife  Lightning Shiv  Scissors  Sharp Tooth  Shuriken  Thief Dagger  Sniper Gun  Drill
+Primitive,(2)+3 Max HP (3)+6 Max HP (4)+9 Max HP (5)+12 Max HP (6)+15 Max HP,Cacti Club  Hatchet  Javelin  Quarterstaff  Rock  Sharp Tooth  Slingshot  Spear  Stick  Torch
+Support,(2)+5 Harvesting (3)+10 Harvesting (4)+15 Harvesting (5)+20 Harvesting (6)+25 Harvesting,Hand  Hiking Pole  Lute  Pruner  Sickle  Taser  Potato Thrower
+Tool,(2)+1 Engineering (3)+2 Engineering (4)+3 Engineering (5)+4 Engineering (6)+5 Engineering,Screwdriver  Wrench  Chainsaw
+Unarmed,(2)+3% Dodge Chance (3)+6% Dodge Chance (4)+9% Dodge Chance (5)+12% Dodge Chance (6)+15% Dodge Chance,Claw  Fist  Hand  Flaming Brass Knuckles  Power Fist

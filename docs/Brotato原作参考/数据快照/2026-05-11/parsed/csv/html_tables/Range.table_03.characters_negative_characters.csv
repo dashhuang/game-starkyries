@@ -1,0 +1,4 @@
+Name,Stats,Unlocked By,Unlocks,Item Tags
+Brawler,+50% Attack Speed with Unarmed weapons You start with 1 Fist +15% Dodge -50 Range -50 Ranged Damage,Unlocked by default,Power Fist,Melee Damage
+Creature(DLC),Weapon damage additionally scales with 35% Curse You start with 1 cursed Fish Hook +1 Curse when you level up -10 Range at the end of a wave -5 % XP Gain at the end of a wave,Unlocked by default,Barnacle,"Curse, XP Gain"
+Cryptid,More trees spawn (+6) Gain 12 material and XP for every living tree at the end of a wave +3 HP Regeneration for every current living tree Dodge is capped at 70% +3 Attack Speed until the end of the wave when you dodge an attack -100 % Life Steal -100 Range -50% materials dropped from enemies,Finish a wave with 10 or more living trees,Claw,"Exploration, Dodge"

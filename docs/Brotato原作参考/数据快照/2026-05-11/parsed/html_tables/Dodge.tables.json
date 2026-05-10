@@ -1,0 +1,433 @@
+[
+  {
+    "table_index": 0,
+    "section": "Items > Positive",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 11,
+    "rows": [
+      {
+        "Name": "Adrenaline",
+        "Rarity": "Tier 3",
+        "Effects": "+5 % Dodge 50% chance to heal 5 HP when dodging an attack",
+        "Base Price": "60",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Dodge"
+      },
+      {
+        "Name": "Blindfold",
+        "Rarity": "Tier 2",
+        "Effects": "+5 % Crit Chance +5 % Dodge -15 Range",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Crit Chance, Dodge"
+      },
+      {
+        "Name": "Cape",
+        "Rarity": "Tier 4",
+        "Effects": "+5 % Life Steal +20 % Dodge -2 Melee Damage -2 Ranged Damage -2 Elemental Damage",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Life Steal, Dodge"
+      },
+      {
+        "Name": "Chameleon",
+        "Rarity": "Tier 3",
+        "Effects": "+3 % Dodge +20 % Dodge while standing still -4 % Damage",
+        "Base Price": "70",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Dodge, Stand Still"
+      },
+      {
+        "Name": "Clover",
+        "Rarity": "Tier 3",
+        "Effects": "+20 Luck +6 % Dodge -2 % Life Steal",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Luck, Dodge"
+      },
+      {
+        "Name": "Feather(DLC)",
+        "Rarity": "Tier 1",
+        "Effects": "+1 Ranged Damage +3 % Dodge -3 % XP Gain",
+        "Base Price": "18",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage, Dodge"
+      },
+      {
+        "Name": "Gambling Token",
+        "Rarity": "Tier 2",
+        "Effects": "+8 % Dodge -1 Armor",
+        "Base Price": "50",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Dodge"
+      },
+      {
+        "Name": "Ghost Outfit",
+        "Rarity": "Tier 3",
+        "Effects": "Dodge is capped at 70% +10% Dodge -5% Speed -3 Armor",
+        "Base Price": "80",
+        "Limit": "1.0",
+        "Unlocked By": "Reach 70% Dodge",
+        "Tags": "Dodge"
+      },
+      {
+        "Name": "Jet Pack",
+        "Rarity": "Tier 4",
+        "Effects": "+15 % Speed +10 % Dodge -5 Max HP -1 Armor",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Speed, Dodge"
+      },
+      {
+        "Name": "Leather Vest",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Armor +6 % Dodge -3 Max HP",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Armor, Dodge"
+      },
+      {
+        "Name": "Peaceful Bee",
+        "Rarity": "Tier 1",
+        "Effects": "+4 % Dodge +4 Harvesting -1 Melee Damage -1 Ranged Damage",
+        "Base Price": "18",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Dodge, Harvesting"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Items > Positive - Interactions",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Adrenaline",
+        "Rarity": "Tier 3",
+        "Effects": "+5 % Dodge 50% chance to heal 5 HP when dodging an attack",
+        "Base Price": "60",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Dodge"
+      },
+      {
+        "Name": "Retromation's Hoodie",
+        "Rarity": "Tier 4",
+        "Effects": "+2 % Attack Speed for every 1 % Dodge you have -80 Range",
+        "Base Price": "110",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Dodge"
+      },
+      {
+        "Name": "Riposte",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Melee Damage 100% chance to deal 1 (300%) damage to an enemy when dodging their attack",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Dodge, Melee Damage"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Items > Special",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Name": "Ghost Outfit",
+        "Rarity": "Tier 3",
+        "Effects": "Dodge is capped at 70% +10% Dodge -5% Speed -3 Armor",
+        "Base Price": "80",
+        "Limit": "1",
+        "Unlocked By": "Reach 70% Dodge",
+        "Tags": "Dodge"
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Items > Negative",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 8,
+    "rows": [
+      {
+        "Name": "Acid",
+        "Rarity": "Tier 2",
+        "Effects": "+8 Max HP -2 % Dodge -2 Knockback",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP"
+      },
+      {
+        "Name": "Alloy",
+        "Rarity": "Tier 3",
+        "Effects": "+3 Melee Damage +3 Ranged Damage +3 Elemental Damage +3 Engineering +5 % Crit Chance -6 % Dodge",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Ranged Damage, Engineering, Crit Chance, Elemental Damage"
+      },
+      {
+        "Name": "Gobbler's Hat",
+        "Rarity": "Tier 4",
+        "Effects": "+70% materials dropped -15% Speed -10% Dodge",
+        "Base Price": "130",
+        "Limit": "1.0",
+        "Unlocked By": "Kill the Gobbler 5 times",
+        "Tags": ""
+      },
+      {
+        "Name": "Little Frog",
+        "Rarity": "Tier 2",
+        "Effects": "+20% pickup range +10 Harvesting -3 % Dodge",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Harvesting, Pickup"
+      },
+      {
+        "Name": "Honey",
+        "Rarity": "Tier 3",
+        "Effects": "+3 Ranged Damage +10 % Explosion Damage +5 % Explosion Size -3 % Speed -3 % Dodge",
+        "Base Price": "70",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage, Explosive"
+      },
+      {
+        "Name": "Spider",
+        "Rarity": "Tier 4",
+        "Effects": "+12 % Damage +6 % Attack Speed for every different weapon you have -3 % Dodge -5 Harvesting",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "Win a run with Gladiator",
+        "Tags": "Damage, Attack Speed"
+      },
+      {
+        "Name": "Toxic Sludge",
+        "Rarity": "Tier 1",
+        "Effects": "+2 Elemental Damage -2 % Dodge",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Elemental Damage"
+      },
+      {
+        "Name": "Weird Food",
+        "Rarity": "Tier 1",
+        "Effects": "+2 HP recovered from consumables -2 % Dodge",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Consumable"
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "Characters > Positive Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Brawler",
+        "Stats": "+50% Attack Speed with Unarmed weapons You start with 1 Fist +15% Dodge -50 Range -50 Ranged Damage",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Power Fist",
+        "Item Tags": "Melee Damage"
+      },
+      {
+        "Name": "Cryptid",
+        "Stats": "More trees spawn (+6) Gain 12 material and XP for every living tree at the end of a wave +3 HP Regeneration for every current living tree Dodge is capped at 70% +3 Attack Speed until the end of the wave when you dodge an attack -100 % Life Steal -100 Range -50% materials dropped from enemies",
+        "Unlocked By": "Finish a wave with 10 or more living trees",
+        "Unlocks": "Claw",
+        "Item Tags": "Exploration, Dodge"
+      },
+      {
+        "Name": "Ghost",
+        "Stats": "+10 Damage with Ethereal weapons +30% Dodge Dodge is capped at 90% -100 Armor",
+        "Unlocked By": "Reach +60% Dodge",
+        "Unlocks": "Ritual",
+        "Item Tags": "Dodge"
+      }
+    ]
+  },
+  {
+    "table_index": 5,
+    "section": "Characters > Negative Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 5,
+    "rows": [
+      {
+        "Name": "Crazy",
+        "Stats": "+100 Range with Precise weapons +25% Attack Speed You start with 1 Knife -30% Dodge -10 Engineering -10 Ranged Damage",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Hunting Trophy",
+        "Item Tags": "Crit Chance, Melee Damage"
+      },
+      {
+        "Name": "Chunky",
+        "Stats": "Max HP modifications are increased by 25%  +1% Damage for every 3 Max HP you have +3 HP recovered from consumables -100% Life Steal HP Regeneration modifications are reduced by 50%  Dodge modifications are reduced by 50% Speed modifications are reduced by 100%",
+        "Unlocked By": "Die for the first time",
+        "Unlocks": "Potato Thrower",
+        "Item Tags": "Max HP, Luck, Consumable"
+      },
+      {
+        "Name": "Dwarf(DLC)",
+        "Stats": "+1 Engineering when killing at least 6 enemies with a direct weapon hit +1 Melee Damage for every permanent 2 Engineering you have You can't equip ranged weapons -20 % Dodge -100 % Attack Speed % Attack Speed modifications are reduced by 50%",
+        "Unlocked By": "Hit at least 25 enemies with a single melee attack",
+        "Unlocks": "War Hammer",
+        "Item Tags": "Engineering, Structure"
+      },
+      {
+        "Name": "Sailor(DLC)",
+        "Stats": "+200% damage with Naval weapons against cursed enemies +25 Curse -25 % Damage You can only equip tier II weapons or above Dodge is capped at 20% Harvesting modifications are reduced by 100%",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Treasure Map",
+        "Item Tags": "Curse"
+      },
+      {
+        "Name": "Vagabond",
+        "Stats": "Equipped weapons always contribute to the class bonuses of other equipped weapons You can't equip two of the same weapon at the same time -5 Armor -5 % Dodge Luck modifications are reduced by 50% Harvesting modifications are reduced by 50%",
+        "Unlocked By": "Have 6 different weapons at once",
+        "Unlocks": "Jelly",
+        "Item Tags": ""
+      }
+    ]
+  },
+  {
+    "table_index": 6,
+    "section": "Weapon Sets",
+    "columns": [
+      "Class",
+      "Bonuses",
+      "Weapons"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Class": "Medieval",
+        "Bonuses": "(2)+1 Armor (3)+1 Armor, +3% Dodge (4)+2 Armor, +3% Dodge (5)+2 Armor, +6% Dodge (6)+3 Armor, +6% Dodge",
+        "Weapons": "Crossbow  Jousting Lance  Quarterstaff  Spiky Shield  Mace  Sword  Trident  Vorpal Sword"
+      },
+      {
+        "Class": "Unarmed",
+        "Bonuses": "(2)+3% Dodge Chance (3)+6% Dodge Chance (4)+9% Dodge Chance (5)+12% Dodge Chance (6)+15% Dodge Chance",
+        "Weapons": "Claw  Fist  Hand  Flaming Brass Knuckles  Power Fist"
+      },
+      {
+        "Class": "Ethereal",
+        "Bonuses": "(2)+6% Dodge Chance -1 Armor (3)+12% Dodge Chance -2 Armor (4)+18% Dodge Chance -3 Armor (5)+24% Dodge Chance -4 Armor (6)+30% Dodge Chance -5 Armor",
+        "Weapons": "Ghost Axe  Ghost Flint  Ghost Scepter  Scythe"
+      }
+    ]
+  },
+  {
+    "table_index": 7,
+    "section": "",
+    "columns": [
+      "Stats",
+      "Stats.1",
+      "Stats.2",
+      "Stats.3"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Stats": "Max HP",
+        "Stats.1": "Melee Damage",
+        "Stats.2": "Crit Chance",
+        "Stats.3": "Dodge"
+      },
+      {
+        "Stats": "HP Regeneration",
+        "Stats.1": "Ranged Damage",
+        "Stats.2": "Engineering",
+        "Stats.3": "Speed"
+      },
+      {
+        "Stats": "Life Steal",
+        "Stats.1": "Elemental Damage",
+        "Stats.2": "Range",
+        "Stats.3": "Luck"
+      },
+      {
+        "Stats": "Damage",
+        "Stats.1": "Attack Speed",
+        "Stats.2": "Armor",
+        "Stats.3": "Harvesting"
+      },
+      {
+        "Stats": "DLC Stats",
+        "Stats.1": "DLC Stats",
+        "Stats.2": "DLC Stats",
+        "Stats.3": "DLC Stats"
+      },
+      {
+        "Stats": "Curse",
+        "Stats.1": "Curse",
+        "Stats.2": "Curse",
+        "Stats.3": "Curse"
+      }
+    ]
+  }
+]

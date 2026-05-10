@@ -1,0 +1,11 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Broken Mouth,Tier 1,+5 Max HP -1 HP Regeneration,25,,,Max HP
+Cauldron(DLC),Tier 2,+50% pickup range +20 % Damage for 2 seconds after picking up a consumable -2 HP Regeneration,35,1.0,Win a run with Druid,Pickup
+Exoskeleton,Tier 4,+3 Armor +5 % Crit Chance +5 Engineering +5 % Speed -2 HP Regeneration -2 % Life Steal,90,,,"Armor, Crit Chance, Engineering, Speed"
+Fairy,Tier 3,+1 HP Regeneration for every different Tier I item you have -3 HP Regeneration for every different Tier IV item you have,85,1.0,Win a run with Renegade,HP Regeneration
+Fresh Meat,Tier 1,+2 % Life Steal -1 HP Regeneration,25,,,Life Steal
+Fruit Basket,Tier 2,Enemies have a higher chance of dropping fruits -3 HP Regeneration,45,4.0,Collect 100 fruits while at maximum health,Consumable
+Goblet(DLC),Tier 3,+15% chance to heal 1 HP when killing an enemy -3 HP Regeneration,70,3.0,,
+Hedgehog,Tier 1,+2 Melee Damage +1 Ranged Damage -1 HP Regeneration,30,,,"Melee Damage, Ranged Damage"
+Poisonous Tonic,Tier 3,+10 % Attack Speed +5 % Crit Chance +15 Range -2 HP Regeneration,80,,,"Attack Speed, Crit Chance, Range"
+Shady Potion,Tier 2,+20 Luck -2 HP Regeneration,48,,,Luck

@@ -1,0 +1,17 @@
+Stat,I,II,III,IV
+Max HP,3,6,9,12
+HP Regeneration,2,3,4,5
+Life Steal,1,2,3,4
+Damage,5,8,12,16
+Melee Damage,2,4,6,8
+Ranged Damage,1,2,3,4
+Elemental Damage,1,2,3,4
+Attack Speed,5,10,15,20
+Crit Chance,3,5,7,9
+Engineering,2,3,4,5
+Range,15,30,45,60
+Armor,1,2,3,4
+Dodge,3,6,9,12
+Speed,3,6,9,12
+Luck,5,10,15,20
+Harvesting,5,8,10,12

@@ -1,0 +1,7 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Coral(DLC),Tier 2,+10 HP Regeneration while standing still -10 Range,40,,,"HP Regeneration, Stand Still"
+Esty's Couch,Tier 4,+5 Max HP +2 HP Regeneration for every permanent -1 % Speed you have -20 % Speed,100,1.0,,"HP Regeneration, Max HP"
+Fairy,Tier 3,+1 HP Regeneration for every different Tier I item you have -3 HP Regeneration for every different Tier IV item you have,85,1.0,Win a run with Renegade,HP Regeneration
+Fried Rice,Tier 3,+1 HP Regeneration for every currently burning enemy,60,1.0,,HP Regeneration
+Penguin(DLC),Tier 1,+1 HP Regeneration +1 HP Regeneration until the end of the wave when picking up a consumable while at maximum health,25,3.0,,HP Regeneration
+Torture,Tier 4,+15 Max HP Restore 5 HP per second. Cannot heal any other way.,100,1.0,,Max HP

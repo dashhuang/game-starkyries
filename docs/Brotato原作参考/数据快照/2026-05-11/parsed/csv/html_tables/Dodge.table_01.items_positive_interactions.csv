@@ -1,0 +1,4 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Adrenaline,Tier 3,+5 % Dodge 50% chance to heal 5 HP when dodging an attack,60,1.0,,Dodge
+Retromation's Hoodie,Tier 4,+2 % Attack Speed for every 1 % Dodge you have -80 Range,110,1.0,,Dodge
+Riposte,Tier 2,+2 Melee Damage 100% chance to deal 1 (300%) damage to an enemy when dodging their attack,40,,,"Dodge, Melee Damage"

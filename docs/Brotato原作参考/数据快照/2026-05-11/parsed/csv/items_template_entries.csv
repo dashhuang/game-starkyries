@@ -1,0 +1,579 @@
+id,name,rarity,stats,price,unique,unlocked_by,limit,tags,is_dlc
+acid,Acid,2,"+8 Max HP
+-2 % Dodge
+-2 Knockback",65,,,,Max HP,-
+adrenaline,Adrenaline,3,"+5 % Dodge
+50% chance to heal 5 HP when dodging an attack",60,true,,1,Dodge,-
+alien baby,Alien Baby,3,"+15 Max HP
++10 % Enemy health",80,,,,Max HP,-
+alien eyes,Alien Eyes,2,Shoots 6 alien eyes around you every 3 seconds dealing 6 ({{Color|green|+50% Max HP}}) damage each,50,,,,Max HP,-
+alien magic,Alien Magic,3,"+8 Max HP
++3 HP Regeneration
+-8 Luck",85,,,,"Max HP, HP Regeneration",-
+alien tongue,Alien Tongue,1,"+30% pickup range
++1 Knockback",25,,,,"Pickup, Knockback",-
+alien worm,Alien Worm,1,"+3 Max HP
++2 HP Regeneration
+-1 HP recovered from consumables",15,,,,"Max HP, HP Regeneration",-
+alloy,Alloy,3,"+3 Melee Damage
++3 Ranged Damage
++3 Elemental Damage
++3 Engineering
++5 % Crit Chance
+-6 % Dodge",80,,,,"Melee Damage, Ranged Damage, Engineering, Crit Chance, Elemental Damage",-
+anvil,Anvil,4,"A random weapon is upgraded when entering a shop. If you have no weapon to upgrade, you gain +2 Armor instead.",120,true,Win a run with Arms Dealer,1,,-
+ashes,Ashes,4,"+20 % Damage
++20 % Attack Speed
++100 Range
+-1 Armor at the end of a wave",100,,,,"Attack Speed, Damage, Range",1
+axolotl,Axolotl,4,Your highest (Max HP) and lowest (Max HP) positive primary stats are swapped when you get this item,130,true,,1,,1
+baby elephant,Baby Elephant,1,25% chance to deal 1 ({{Color|green|25% Luck}}) damage to a random enemy when you pick up a material,22,,,,"Luck, Pickup",-
+baby gecko,Baby Gecko,1,"+10 Range
++25% chance to instantly attract a material when it’s dropped",18,,,4,"Pickup, Range",-
+baby squid,Baby Squid,2,"+1 HP Regeneration when you level up
+-3 % Attack Speed",55,,,,HP Regeneration,1
+baby with a beard,Baby With A Beard,3,"One bullet dealing 1 ({{Color|green|+100% Ranged Damage}}) damage is fired from an enemy corpse when they die
+-50 Range",100,,,,Ranged Damage,-
+bag,Bag,1,"+15 materials when you pick up a crate
+-1 % Speed",15,,,3,"Luck, Exploration, Economy",-
+bait,Bait,2,"+8 % Damage
+Special enemies appear at the beginning of the next wave",25,,,,"Damage, Number of Enemies",-
+ball and chain,Ball And Chain,3,"+15 % Damage
++3 Armor
++5 Knockback
+-3 % Speed
+Weapons have a minimum cooldown of 0.75 seconds between attacks",75,true,,1,"Damage, Armor, Knockback",-
+bandana,Bandana,3,"Projectiles pierce through 1 additional target
+-10 % Damage",75,,,,Ranged Damage,-
+ban system,Ban System,1,,,,Win a run in Danger 3 or more,,,
+banner,Banner,2,"+20 Range
++10 % Attack Speed
+-5 Knockback",55,,,,"Range, Attack Speed",-
+barnacle,Barnacle,3,"+35% stats gained from level upgrades
++1 Curse when you level up",80,true,Win a run with Creature,1,"Curse, XP Gain",1
+barricade,Barricade,3,"+3 Knockback
++8 Armor while standing still
+-5 % Speed",75,,,,"Armor, Stand Still, Knockback",-
+bat,Bat,1,"+2 % Life Steal
+-2 Harvesting",20,,,,Life Steal,-
+bean teacher,Bean Teacher,3,"+50 % XP Gain
+-2 % Life Steal",70,,,,XP Gain,-
+beanie,Beanie,1,"+4 % Speed
+-6 Range",20,,,,Speed,-
+big arms,Big Arms,4,"+12 Melee Damage
++6 Ranged Damage
++3 Knockback
+-3 % Attack Speed
+-3 % Speed",105,,Win a run with Generalist,,"Melee Damage, Ranged Damage, Knockback",-
+black belt,Black Belt,2,"+25 % XP Gain
++3 Melee Damage
++3 Knockback
+-8 Luck",50,,,,"Melee Damage, XP Gain, Knockback",-
+black flag,Black Flag,3,"+1 material when you kill a cursed enemy
++10% Enemies
++10 % Enemy health
++10 % Enemy damage
++5 Curse",60,true,,1,"Curse, More Enemies",1
+blindfold,Blindfold,2,"+5 % Crit Chance
++5 % Dodge
+-15 Range",45,,,,"Crit Chance, Dodge",-
+blood donation,Blood Donation,3,"+40 Harvesting
+You take 1 damage per second (does not give invulnerability time)",50,,,,Harvesting,-
+blood leech,Blood Leech,2,"+2 % Life Steal
++2 HP Regeneration
+-3 Harvesting",45,,,,"Life Steal, HP Regeneration",-
+bloody hand,Bloody Hand,4,"+10 % Life Steal
++2 % Damage for every 1 % Life Steal you have
+You take 1 damage per second (does not give invulnerability time)",110,true,,1,Life Steal,-
+boiling water,Boiling Water,1,"+2 Elemental Damage
+-1 Max HP",30,,,,Elemental Damage,-
+bone dice,Bone Dice,2,"+50% chance to get +1 % Damage when rerolling in the shop
++10% chance to get -1 Max HP when rerolling in the shop",30,,,2,Damage,1
+book,Book,1,+1 Engineering,8,,,,Engineering,-
+bowler hat,Bowler Hat,3,"+15 Luck
++18 Harvesting
+-5 % Attack Speed
+-3 % Crit Chance",75,,Win a run with Entrepreneur,,"Luck, Harvesting",-
+boxing glove,Boxing Glove,1,"+1 Melee Damage
++3 Knockback",18,,,,"Melee Damage, Knockback",-
+broken hourglass,Broken Hourglass,4,"This hourglass broke after resetting the wave counter, also losing all its effects.
+Start the next wave with 1 HP",1,,,0,,-
+broken mirror,Broken Mirror,3,This mirror duplicated an item,1,,,0,,-
+broken mouth,Broken Mouth,1,"+5 Max HP
+-1 HP Regeneration",25,,,,Max HP,-
+builder's turret,Builder's Turret,1,"This turret's stats are derived from your best ranged weapon's base stats and scale with Engineering (-)
++1 projectile when you reach 30 Structure Range",1,true,,1,,1
+builder's turret ii,Builder's Turret Ii,2,"This turret's stats are derived from your best ranged weapon's base stats and scale with Engineering (-)
++1 projectile
++1 projectile when you reach 150 Structure Range",1,true,,1,,1
+builder's turret iii,Builder's Turret Iii,3,"This turret's stats are derived from your best ranged weapon's base stats and scale with Engineering (-)
++2 projectiles
++1 projectile when you reach 300 Structure Range",1,true,,1,,1
+builder's turret iv,Builder's Turret Iv,4,"This turret's stats are derived from your best ranged weapon's base stats and scale with Engineering (-)
++3 projectiles",1,true,,1,,1
+butterfly,Butterfly,1,"+2 % Life Steal
+-1 Elemental Damage",30,,,,Life Steal,-
+cake,Cake,1,"+3 Max HP
+-1 % Damage",15,,,,Max HP,-
+campfire,Campfire,2,"+2 Elemental Damage
++2 HP Regeneration
+-2 % Speed",40,,,,"Elemental Damage, HP Regeneration",-
+candle,Candle,3,"+4 Elemental Damage
++1 HP Regeneration
+-10% Enemies
+-5 % Damage",65,true,,1,"Elemental Damage, HP Regeneration, Less Enemies",-
+candy bag,Candy Bag,3,"Each wave grants 8 points randomly split between your primary stats
+Each wave, 10% chance to spawn an additional elite",70,true,Win a run without locking any items in the shop,1,,-
+cape,Cape,4,"+5 % Life Steal
++20 % Dodge
+-2 Melee Damage
+-2 Ranged Damage
+-2 Elemental Damage",110,,,,"Life Steal, Dodge",-
+cauldron,Cauldron,2,"+50% pickup range
++20 % Damage for 2 seconds after picking up a consumable
+-2 HP Regeneration",35,true,Win a run with Druid,1,Pickup,1
+celery tea,Celery Tea,2,"+5 % XP Gain at the end of a wave
++50 % XP Gain during the next wave
++100 % Enemy health during the next wave",35,,Win a run with Baby,,XP Gain,-
+chameleon,Chameleon,3,"+3 % Dodge
++20 % Dodge while standing still
+-4 % Damage",70,,,,"Dodge, Stand Still",-
+charcoal,Charcoal,1,"+1 Elemental Damage
++2 Melee Damage
+-2 Harvesting",20,,,,"Elemental Damage, Melee Damage",-
+claw tree,Claw Tree,1,"+1 Melee Damage
++3 % Crit Chance
+-1 Max HP",20,,,,"Melee Damage, Crit Chance",-
+clockwork wasp,Clockwork Wasp,2,"+10 % Structure attack speed
++5 % Speed",45,,,,"Structure, Speed",-
+clover,Clover,3,"+20 Luck
++6 % Dodge
+-2 % Life Steal",65,,,,"Luck, Dodge",-
+coffee,Coffee,1,"+10 % Attack Speed
+-2 % Damage",20,,,,Attack Speed,-
+cog,Cog,2,"+4 Engineering
++1 Knockback
+-4 % Damage",35,,,,"Engineering, Knockback",-
+coil,Coil,3,"+5 Knockback
++1 % Damage for every 1 Knockback you have",70,,,3,"Damage, Knockback",-
+community support,Community Support,3,"+1 % Attack Speed for every current living enemy
+-2 Armor",75,true,Win a run with Streamer,1,Attack Speed,-
+compass,Compass,2,"+5 % Speed
++3 Engineering
+-3 % Crit Chance",40,,Win a run with Explorer,,"Speed, Engineering",-
+coral,Coral,2,"+10 HP Regeneration while standing still
+-10 Range",40,,,,"HP Regeneration, Stand Still",1
+corrupted shard,Corrupted Shard,1,"+3 % Damage
++1 Curse",12,,,,"Damage, Curse",1
+coupon,Coupon,1,-5 % Items Price,15,,,5,Economy,-
+crown,Crown,3,Harvesting increases by an additional 8% at the end of a wave,70,true,,1,Harvesting,-
+crystal,Crystal,3,"+5 % Attack Speed
++1 % Attack Speed every 1 second until the end of the wave
+Bonus is lost when taking damage
+-2 Engineering",65,,,,Attack Speed,1
+cute monkey,Cute Monkey,1,"+8% chance to heal 1 HP when picking up a material
+-1 Ranged Damage",25,,,13,Pickup,-
+cyberball,Cyberball,2,25% chance to deal 1 ({{Color|green|25% Luck}}) damage to a random enemy when an enemy dies,30,,,,Luck,-
+cyclops worm,Cyclops Worm,2,"+12 % Damage
+-12 Range",45,,,,Damage,-
+dangerous bunny,Dangerous Bunny,2,+1 free reroll in the shop,30,,,3,Economy,-
+decomposing flesh,Decomposing Flesh,2,"+1 % Life Steal when you level up
+-1 Max HP when you level up",30,,Win a run with Vampire,,Life Steal,-
+defective steroids,Defective Steroids,1,"+2 Max HP
++2 Melee Damage
+-3 % Attack Speed",20,,,,"Max HP, Melee Damage",-
+diploma,Diploma,4,"+10 Engineering
++50 % XP Gain
+-3 Max HP",90,,,,"Engineering, XP Gain",-
+duct tape,Duct Tape,1,"+1 Armor
++1 Engineering
+-2 Max HP",20,,,,"Armor, Engineering",-
+dynamite,Dynamite,1,+15 % Explosion Damage,20,,,,Explosive,-
+energy bracelet,Energy Bracelet,2,"+4 % Crit Chance
++2 Elemental Damage
+-2 Ranged Damage",55,,,,"Crit Chance, Elemental Damage",-
+esty’s couch,Esty’s Couch,4,"+5 Max HP
++2 HP Regeneration for every permanent -1 % Speed you have
+-20 % Speed",100,true,,1,"HP Regeneration, Max HP",-
+exoskeleton,Exoskeleton,4,"+3 Armor
++5 % Crit Chance
++5 Engineering
++5 % Speed
+-2 HP Regeneration
+-2 % Life Steal",90,,,,"Armor, Crit Chance, Engineering, Speed",-
+explosive shells,Explosive Shells,4,"+60 % Explosion Damage
++15 % Explosion Size
+-15 % Damage",100,,Win a run with Artificer,,Explosive,-
+explosive turret,Explosive Turret,4,Spawns a turret that shoots explosive bullets dealing 25 ({{Color|green|+150% Engineering}}) damage in an area,80,,,,"Engineering, Structure",-
+extra stomach,Extra Stomach,4,+1 Max HP when picking up a consumable while at maximum health (max +8 per wave),100,true,,1,"Max HP, Luck",-
+eyepatch,Eyepatch,2,"Projectiles get +1 piercing on critical hit
++3 % Crit Chance
+-10% Accuracy",55,,Win a run with Buccaneer,,"Crit Chance, Ranged Damage",1
+eyes surgery,Eyes Surgery,2,"Burning activates 20% faster
++1 Elemental Damage
+-10 Range",60,,,2,Elemental Damage,-
+fairy,Fairy,3,"+1 HP Regeneration for every different Tier I item you have
+-3 HP Regeneration for every different Tier IV item you have",85,true,Win a run with Renegade,1,HP Regeneration,-
+feather,Feather,1,"+1 Ranged Damage
++3 % Dodge
+-3 % XP Gain",18,,,,"Ranged Damage, Dodge",1
+fertilizer,Fertilizer,1,"+8 Harvesting
+-1 Melee Damage",15,,,,Harvesting,-
+fin,Fin,3,"+10 % Speed
++3 % Life Steal
+-8 Luck",65,,Win a run with Speedy,,"Speed, Life Steal",-
+fish hook,Fish Hook,2,"Locked items and weapons have a 20% chance to become cursed when leaving the shop
++1 Curse",35,,,3,"Curse, Lock (Item Tag)",1
+focus,Focus,4,"+30 % Damage
+-3 % Attack Speed for every different weapon you have",110,,Win a run with One Armed,,Damage,-
+fresh meat,Fresh Meat,1,"+2 % Life Steal
+-1 HP Regeneration",25,,,,Life Steal,-
+fried rice,Fried Rice,3,+1 HP Regeneration for every currently burning enemy,60,true,,1,HP Regeneration,-
+frozen heart,Frozen Heart,3,"+8 Elemental Damage
++5 % Crit Chance
+Weapon damage additionally scales with 10% Elemental Damage
+Burning activates 100% slower",90,true,,1,"Elemental Damage, Crit Chance",-
+fruit basket,Fruit Basket,2,"Enemies have a higher chance of dropping fruits
+-3 HP Regeneration",45,,Collect 100 fruits while at maximum health,4,Consumable,-
+fuel tank,Fuel Tank,2,"+4 Elemental Damage
+-1 Melee Damage
+-1 Ranged Damage",45,,,,Elemental Damage,-
+gambling token,Gambling Token,2,"+8 % Dodge
+-1 Armor",50,,,,Dodge,-
+garden,Garden,2,Spawns a garden that creates a fruit every 15 seconds,50,,,,"Consumable, Structure",-
+gentle alien,Gentle Alien,1,"+2 Max HP
++5 % Damage
++5% Enemies",30,,,10,"Max HP, Damage, More Enemies",-
+ghost outfit,Ghost Outfit,3,"Dodge is capped at 70%
++10% Dodge
+-5% Speed
+-3 Armor",80,true,Reach 70% Dodge,1,Dodge,-
+giant belt,Giant Belt,4,Critical hits deal 10% of an enemy’s current health as bonus damage (1% for bosses and elites),110,true,Win a run with Jack,1,Crit Chance,-
+glass cannon,Glass Cannon,3,"+25 % Damage
+-3 Armor",75,,,,Damage,-
+glasses,Glasses,1,+20 Range,20,,,,Range,-
+gnome,Gnome,4,"+10 Melee Damage
++10 Elemental Damage
+-20 Range
+-20% pickup range",100,,Win a run with Bull,,"Melee Damage, Elemental Damage",-
+goat skull,Goat Skull,1,"+3 Melee Damage
+-2 % Crit Chance",25,,,,Melee Damage,-
+gobbler's hat,Gobbler's Hat,4,"+70% materials dropped
+-15% Speed
+-10% Dodge",130,true,Kill the Gobbler 5 times,1,,-
+goblet,Goblet,3,"+15% chance to heal 1 HP when killing an enemy
+-3 HP Regeneration",70,,,3,,1
+goldfish,Goldfish,3,Items will be 1 tier higher after the next reroll,23,,,,,1
+greek fire,Greek Fire,4,Burning deals an additional 10% of current enemy HP as damage (1% for bosses and elites),100,true,,1,Elemental Damage,-
+grind's magical leaf,Grind's Magical Leaf,4,"+3 Max HP at the end of a wave
++1 HP Regeneration at the end of a wave
++1 % Life Steal at the end of a wave",110,,,,"Max HP, HP Regeneration, Life Steal",-
+gummy berserker,Gummy Berserker,1,"+5 % Attack Speed
++25 Range
+-1 Armor",25,,,,"Attack Speed, Range",-
+handcuffs,Handcuffs,3,"+8 Melee Damage
++8 Ranged Damage
++8 Elemental Damage
+Your Max HP is capped at its current value",80,true,,1,"Melee Damage, Ranged Damage, Elemental Damage",-
+head injury,Head Injury,1,"+6 % Damage
+-8 Range",25,,,,Damage,-
+heavy bullets,Heavy Bullets,4,"+5 Ranged Damage
++10 % Damage
++10 Range
+-5 % Attack Speed
+-5 % Crit Chance",100,,,,"Ranged Damage, Damage, Range",-
+hedgehog,Hedgehog,1,"+2 Melee Damage
++1 Ranged Damage
+-1 HP Regeneration",30,,,,"Melee Damage, Ranged Damage",-
+helmet,Helmet,1,"+1 Armor
+-2 % Speed",15,,,,Armor,-
+honey,Honey,3,"+3 Ranged Damage
++10 % Explosion Damage
++5 % Explosion Size
+-3 % Speed
+-3 % Dodge",70,,,,"Ranged Damage, Explosive",-
+hourglass,Hourglass,4,"Turns back time, decreasing the current wave count by 1
+Start the next wave with 1 HP",100,true,"During the last 5 seconds of a wave after wave 2, press 'Return to Main Menu'. Then press 'Resume' to try the wave again.",1,,-
+hunting trophy,Hunting Trophy,3,33% chance to gain 1 material when killing an enemy with a critical hit,55,,Win a run with Crazy,3,Crit Chance,-
+ice cube,Ice Cube,2,Enemies take 10% more damage for 3 seconds when first hit by Elemental Damage,50,true,,1,Elemental Damage,-
+improved tools,Improved Tools,3,"+10 % Attack Speed
+Increases the attack speed of your structures by 0% ({{Color|green|50% Attack Speed}})",70,true,Win a run with Cyborg,1,"Structure, Attack Speed",-
+incendiary turret,Incendiary Turret,2,Spawns a turret that shoots flames dealing 8x5 ({{Color|green|+33% Engineering}}) burning damage,40,,,,"Engineering, Structure",-
+injection,Injection,1,"+7 % Damage
+-2 Max HP",20,,,,Damage,-
+insanity,Insanity,1,"+6 % Crit Chance
+-3 % Damage",20,,,,Crit Chance,-
+jelly,Jelly,1,+1 Max HP for every different weapon you have,15,,Win a run with Vagabond,,Max HP,-
+jerky,Jerky,2,"+3 HP recovered from consumables
+Consumables heal you over 4 seconds instead of instantly",50,true,,1,Consumable,1
+jet pack,Jet Pack,4,"+15 % Speed
++10 % Dodge
+-5 Max HP
+-1 Armor",100,,,,"Speed, Dodge",-
+knot,Knot,3,"+15 % Damage
++15 Max HP
+Weapons can no longer be upgraded or recycled",80,true,,1,"Damage, Max HP",1
+kraken's eye,Kraken's Eye,4,"You have a 50% chance to explode for 10 ({{Color|green|+500% Curse}}) damage when you get hit
++10 Max HP
++10 Curse",110,true,,1,"Explosive, Max HP, Curse",1
+landmines,Landmines,1,A landmine spawns every 12 seconds dealing 10 ({{Color|green|+100% Engineering}}) damage in an area,15,,,,"Engineering, Explosive, Structure",-
+lantern,Lantern,4,"+10 % Damage
++50 Range
++15 Knockback
+Knocks nearby enemies back every 3 seconds",100,true,,1,"Damage, Range, Knockback",1
+laser turret,Laser Turret,3,Spawns a turret that shoots piercing bullets dealing 20 ({{Color|green|+125% Engineering}}) damage,65,,,,"Engineering, Structure",-
+leather vest,Leather Vest,2,"+2 Armor
++6 % Dodge
+-3 Max HP",45,,,,"Armor, Dodge",-
+lemonade,Lemonade,1,+1 HP recovered from consumables,15,,,,Consumable,-
+lens,Lens,1,"+1 Ranged Damage
+-5 Range",20,,,,Ranged Damage,-
+lighthouse,Lighthouse,3,"+20 Engineering
+-1 Engineering for every 1 Structure you have",80,true,Win a run with Builder,1,Engineering,1
+little frog,Little Frog,2,"+20% pickup range
++10 Harvesting
+-3 % Dodge",45,,,,"Harvesting, Pickup",-
+little muscley dude,Little Muscley Dude,2,"+3 Melee Damage
++5 Max HP
+-15 Range",50,,,,"Melee Damage, Max HP",-
+lost duck,Lost Duck,1,"+8 Luck
+-1 Elemental Damage",25,,,,Luck,-
+lucky charm,Lucky Charm,3,"+30 Luck
+-2 Melee Damage
+-1 Ranged Damage",75,,Win a run with Lucky,,Luck,-
+lucky coin,Lucky Coin,4,"+2 Luck for every 1 % Crit Chance you have
+-2 Armor",105,true,,1,"Crit Chance, Luck",-
+lumberjack shirt,Lumberjack Shirt,1,Trees die in one hit,15,true,,1,Exploration,-
+lure,Lure,2,"+2 HP Regeneration
+2 additional loot aliens appear during the next wave",34,,Win a run with Fisherman,,HP Regeneration,-
+mammoth,Mammoth,4,"+20 Melee Damage
++5 HP Regeneration
++5 Knockback
+-8 % Damage
+-3 % Speed",110,,,,"Melee Damage, HP Regeneration, Knockback",-
+mastery,Mastery,2,"+6 Melee Damage
+-3 Ranged Damage",55,,,,Melee Damage,-
+medal,Medal,2,"+3 Max HP
++3 % Damage
++1 Armor
++3 % Speed
+-4 % Crit Chance",55,,,,"Max HP, Damage, Armor, Speed",-
+medical turret,Medical Turret,2,Spawns a medical turret that shoots bullets healing 3 ({{Color|green|+5% Engineering}}) HP,40,,,,"Engineering, Structure",-
+medikit,Medikit,4,"+10 HP Regeneration
++2 HP Regeneration every 5 seconds until the end of the wave
+-10 Luck",95,,Win a run with Doctor,,HP Regeneration,-
+metal detector,Metal Detector,2,"+5% chance to double the value of picked up materials
++6 Luck
++2 Engineering
+-5 % Damage",40,,,20,"Luck, Engineering, Pickup, Economy",-
+metal plate,Metal Plate,2,"+2 Armor
+-3 % Damage",40,,,,Armor,-
+mirror,Mirror,3,Duplicates the next item you get from the shop (item limits can't be exceeded),60,,,,,1
+missile,Missile,2,"+10 % Damage
+-4 % Attack Speed",45,,,,Damage,-
+mouse,Mouse,3,"+5 % Life Steal
++10% Enemies
+-5 Harvesting",55,,,5,"Life Steal, More Enemies",-
+mushroom,Mushroom,1,"+3 HP Regeneration
+-2 Luck",25,,,,HP Regeneration,-
+mutation,Mutation,1,"+1 Ranged Damage
++1 Elemental Damage
+-3 Knockback",25,,,,"Ranged Damage, Elemental Damage",-
+nail,Nail,3,"+5 Engineering
+Weapon damage additionally scales with 20% Engineering
+-2 Ranged Damage",65,true,,1,Engineering,-
+night goggles,Night Goggles,4,"+15 % Crit Chance
++50 Range
+-3 Max HP
+-1 Armor",95,,Win a run with Ranger,,"Crit Chance, Range",-
+octopus,Octopus,4,"+12 Max HP
++5 HP Regeneration
++3 % Life Steal
+-8 % Crit Chance",105,,Win a run with Mutant,,"Max HP, Life Steal, HP Regeneration",-
+padding,Padding,2,"+3 Max HP
++1 Max HP for every 80 Materials you have",45,true,Win a run with Saver,1,Max HP,-
+panda,Panda,4,"+12 Max HP
++25 Luck
+-5 % Damage",100,,Win a run with Pacifist,,"Max HP, Luck",-
+peaceful bee,Peaceful Bee,1,"+4 % Dodge
++4 Harvesting
+-1 Melee Damage
+-1 Ranged Damage",18,,,,"Dodge, Harvesting",-
+peacock,Peacock,3,"+25 % XP Gain
++100 % XP Gain during the next wave
++50 % Enemy damage during the next wave",50,,,,XP Gain,-
+pearl,Pearl,2,"+1 % Damage for every permanent 10 Luck you have
++3% chance of finding an extra Pearl in a crate",60,,Win a run with Curious,20,Luck,1
+pencil,Pencil,1,"+2 Engineering
+-1 % Attack Speed
+-1 % Crit Chance",15,,,,Engineering,-
+penguin,Penguin,1,"+1 HP Regeneration
++1 HP Regeneration until the end of the wave when picking up a consumable while at maximum health",25,,,3,HP Regeneration,1
+piggy bank,Piggy Bank,2,+20% of your materials at the start of waves (stops working at wave 20),40,true,,1,,-
+pile of books,Pile Of Books,3,"Your structures can crit
++3 % Crit Chance
++3 Engineering",70,true,,1,"Crit Chance, Engineering",-
+plant,Plant,1,"+3 HP Regeneration
+-1 % Life Steal",15,,,,HP Regeneration,-
+plastic explosive,Plastic Explosive,3,+25 % Explosion Size,60,,,,Explosive,-
+pocket factory,Pocket Factory,2,"+2 Engineering
+Killing a tree spawns a turret",75,true,,1,"Engineering, Exploration, Structure",-
+poisonous tonic,Poisonous Tonic,3,"+10 % Attack Speed
++5 % Crit Chance
++15 Range
+-2 HP Regeneration",80,,,,"Attack Speed, Crit Chance, Range",-
+potato,Potato,4,"+3 Max HP
++2 HP Regeneration
++1 % Life Steal
++5 % Damage
++5 % Attack Speed
++3 % Speed
++3 % Dodge
++1 Armor
++5 Luck",95,,Win a run with Well Rounded,,"Max HP, HP Regeneration, Damage, Speed, Luck",-
+power generator,Power Generator,3,"+1 % Damage for every permanent 1 % Speed you have
+-5 % Damage",65,true,,1,"Speed, Damage",-
+propeller hat,Propeller Hat,1,"+10 Luck
+-2 % Damage",28,,,,Luck,-
+pumpkin,Pumpkin,2,"+15% Piercing Damage. Can't go above base damage
+-2 % Damage",40,,,,Ranged Damage,-
+recycling machine,Recycling Machine,2,Gain 35% more materials from recycling items,35,true,,1,Economy,-
+regeneration potion,Regeneration Potion,4,"HP Regeneration is doubled when you have less than 50% health
++3 HP Regeneration",90,true,,1,HP Regeneration,-
+reinforced steel,Reinforced Steel,2,"+2 Ranged Damage
++3 Engineering
+-3 % Speed",50,,,,"Ranged Damage, Engineering",-
+resting goldfish,Resting Goldfish,3,This goldfish is resting after a hard day's work,30,,,0,,-
+retromation’s hoodie,Retromation’s Hoodie,4,"+2 % Attack Speed for every 1 % Dodge you have
+-80 Range",110,true,,1,Dodge,-
+ricochet,Ricochet,4,"Your projectiles gain +1 bounce
+-25 % Damage",110,,,,Ranged Damage,-
+rip and tear,Rip And Tear,3,"Enemies have a 20% chance to explode for 10 ({{Color|green|+50% Melee Damage}}) damage when they die
+-5 % Crit Chance",65,,Win a run with Loud,5,"Melee Damage, Explosive",-
+riposte,Riposte,2,"+2 Melee Damage
+100% chance to deal 1 ({{Color|green|300% Melee Damage}}) damage to an enemy when dodging their attack",40,,,,"Dodge, Melee Damage",-
+ritual,Ritual,2,"+6 % Damage
++2 % Life Steal
+-2 Engineering",60,,Win a run with Ghost,,"Damage, Life Steal",-
+robot arm,Robot Arm,4,"+3 Melee Damage at the end of a wave
++3 Engineering at the end of a wave
+-1 Max HP at the end of a wave",100,,Win a run with Engineer,,"Melee Damage, Engineering",-
+sad tomato,Sad Tomato,3,"+8 HP Regeneration
+Start waves with -50% HP",50,true,,1,HP Regeneration,-
+saltwater,Saltwater,2,"+2 Melee Damage
++3 % Attack Speed
++10 % Speed for 3 seconds when you take damage
+-1 Elemental Damage",50,true,,1,"Melee Damage, Attack Speed, Speed",1
+scar,Scar,1,"+20 % XP Gain
+-8 Range",25,,,,XP Gain,-
+scared sausage,Scared Sausage,1,Attacks have a 25% chance to deal 3x1 ({{Color|green|+100% Elemental Damage}}) burning damage,25,,,4,Elemental Damage,-
+scarf,Scarf,3,"+4 HP Regeneration
++4 Melee Damage
++4 % Speed
++25 % Enemy Speed during the next wave",80,,Win a run with Hiker,,"HP Regeneration, Melee Damage, Speed",1
+scope,Scope,2,"+2 Ranged Damage
++25 Range
+-7 % Attack Speed",48,,,,"Ranged Damage, Range",-
+seashell,Seashell,4,"Every ranged weapon's 5th projectile has +3 projectiles
+-10 % Damage",100,true,,1,Ranged Damage,1
+shackles,Shackles,3,"+8 HP Regeneration
++8 Engineering
++80 Range
+Your Speed is capped at its current value",80,true,,1,"Range, HP Regeneration, Engineering",-
+shady potion,Shady Potion,2,"+20 Luck
+-2 HP Regeneration",48,,,,Luck,-
+sharp bullet,Sharp Bullet,1,"Projectiles pierce through 1 additional target
+-20% Piercing Damage
+-5 % Damage
+-3 Knockback",25,true,,1,Ranged Damage,-
+shmoop,Shmoop,3,"+6 Max HP
++2 HP Regeneration
+-2 Melee Damage
+-1 Ranged Damage",60,,,,"Max HP, HP Regeneration",-
+sifd’s relic,Sifd’s Relic,4,"+3 Armor
++100% chance to instantly attract a material when it’s dropped",100,true,,1,"Pickup, Armor",-
+silver bullet,Silver Bullet,3,+25% damage against bosses and elites,70,,,,Damage,-
+small fish,Small Fish,1,"+10% damage against targets above 75% health
+-3 % Attack Speed",18,,,,Damage,1
+small magazine,Small Magazine,2,"+2 Ranged Damage
++10 % Attack Speed
+-6 % Damage",60,,,,"Ranged Damage, Attack Speed",-
+snail,Snail,2,"-8 % Enemy Speed
+-3 % Speed",40,true,Win a run with Old,1,Less Enemy Speed,-
+snake,Snake,1,"Burning spreads to an additional nearby enemy
+-1 Max HP",25,,,,Elemental Damage,-
+snowball,Snowball,2,+1 Elemental Damage every time you get an item that increases Elemental Damage,50,true,,1,Elemental Damage,-
+spicy sauce,Spicy Sauce,2,"+3 Max HP
+Consumables have a 50% chance to explode for 10 ({{Color|green|+100% Max HP}}) damage when picked up",40,,Win a run with Glutton,2,"Max HP, Luck, Explosive",-
+spider,Spider,4,"+12 % Damage
++6 % Attack Speed for every different weapon you have
+-3 % Dodge
+-5 Harvesting",110,,Win a run with Gladiator,,"Damage, Attack Speed",-
+spyglass,Spyglass,2,"+10 Range
+-25 % Reroll Price",30,,,2,Range,1
+starfish,Starfish,3,"+20% materials dropped from enemies
++10 Harvesting
++15 % Enemy damage",75,,Win a run with Diver,3,Harvesting,1
+statue,Statue,3,"+40 % Attack Speed while standing still
+-10 % Speed",60,,,,"Attack Speed, Stand Still",-
+stone skin,Stone Skin,3,"+1 Max HP for every permanent 1 Armor you have
+-6 % Attack Speed",85,true,Win a run with Golem,1,"Armor, Max HP",-
+strange book,Strange Book,3,"+1 Engineering for every permanent 1 Elemental Damage you have
+-1 Melee Damage
+-1 Ranged Damage",70,true,,1,"Engineering, Elemental Damage",-
+sunglasses,Sunglasses,2,"+10 % Crit Chance
+-1 Armor",50,,,,Crit Chance,-
+sunken bell,Sunken Bell,3,"Once per wave, you explode for 100 ({{Color|green|+500% Melee Damage+500% Ranged Damage+500% Elemental Damage+500% Engineering}}) damage when you fall below 40% health",65,true,,1,Explosive,1
+tardigrade,Tardigrade,3,Nullifies the damage of one hit taken every wave,50,,,,,-
+tentacle,Tentacle,2,"+3 % Crit Chance
++20% chance to heal 1 HP when killing an enemy with a critical hit",35,,Win a run with Lich,5,Crit Chance,-
+terrified onion,Terrified Onion,1,"+4 % Speed
+-5 Luck",15,,,,Speed,-
+toolbox,Toolbox,3,"+6 Engineering
+-8 % Attack Speed",55,,,,Engineering,-
+torture,Torture,4,"+15 Max HP
+Restore 5 HP per second. Cannot heal any other way.",100,true,,1,Max HP,-
+toxic sludge,Toxic Sludge,1,"+2 Elemental Damage
+-2 % Dodge",20,,,,Elemental Damage,-
+tractor,Tractor,3,"+40 Harvesting
+-8 % Damage",70,,,,Harvesting,-
+treasure map,Treasure Map,2,+20% chance of finding an extra item in a crate,35,,Win a run with Sailor,5,Luck,1
+tree,Tree,1,More trees spawn,15,,,,Exploration,-
+triangle of power,Triangle Of Power,3,"+20 % Damage
++1 Armor
+-2 % Damage when you take damage until the end of the wave",65,,,,Damage,-
+turret,Turret,1,Spawns a turret that shoots bullets dealing 10 ({{Color|green|+80% Engineering}}) damage,15,,,,"Engineering, Structure",-
+tyler,Tyler,3,Spawns a little guy that slowly shoots 10 piercing lightning projectiles around him for 10 ({{Color|green|+75% Engineering+75% Elemental Damage}}) damage each,75,,,,"Engineering, Elemental Damage, Structure",-
+ugly tooth,Ugly Tooth,1,"Hitting an enemy removes 5% of their speed. Max 20%
+-3 % Speed",25,true,,1,Less Enemy Speed,-
+vigilante ring,Vigilante Ring,3,+3 % Damage at the end of a wave,92,,,,Damage,-
+wandering bot,Wandering Bot,3,Spawns a little bot that slows down nearby enemies,60,,,,"Less Enemy Speed, Structure",-
+warrior helmet,Warrior Helmet,3,"+3 Armor
++5 Max HP
+-5 % Speed",80,,,,"Armor, Max HP",-
+weird food,Weird Food,1,"+2 HP recovered from consumables
+-2 % Dodge",20,,,,Consumable,-
+weird ghost,Weird Ghost,1,"+3 Max HP
+Start the next wave with 1 HP",12,,,,Max HP,-
+wheat,Wheat,3,"+4 Melee Damage
++2 Ranged Damage
++10 Harvesting
+-2 Elemental Damage",85,,Win a run with Farmer,,"Melee Damage, Ranged Damage, Harvesting",-
+wheelbarrow,Wheelbarrow,2,"+16 Harvesting
+-1 Armor",40,,,,Harvesting,-
+whetstone,Whetstone,2,"+4 % Life Steal
+-3 Knockback",40,,Win a run with Sick,,Life Steal,-
+whistle,Whistle,1,"+50% chance for loot aliens to appear
++20% movement speed for loot aliens",25,true,,1,,1
+white flag,White Flag,2,"+5 Harvesting
+-5% Enemies",40,true,,1,"Harvesting, Less Enemies",-
+will-o'-wisp,Will-o'-wisp,3,"+1 Elemental Damage for every 30 burning enemies you kill during a wave (max +4 per wave)
+-7% Attack Speed",80,,Kill 30 enemies by burning them in a single wave,,Elemental Damage,-
+wings,Wings,3,"+10 % Speed
++30 Range
+-2 Elemental Damage",85,,,,"Speed, Range",-
+wisdom,Wisdom,3,"+5 % Damage every 5 seconds until the end of the wave
+-15 % Damage",85,true,,1,Damage,-
+wolf helmet,Wolf Helmet,4,"+10 Elemental Damage
++20 Luck
+-5 Engineering",90,,,,"Elemental Damage, Luck",-

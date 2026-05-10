@@ -1,0 +1,397 @@
+[
+  {
+    "table_index": 0,
+    "section": "Explosion Sizes",
+    "columns": [
+      "Type",
+      "Name",
+      "Tier",
+      "Size"
+    ],
+    "row_count": 23,
+    "rows": [
+      {
+        "Type": "Character",
+        "Name": "Bull",
+        "Tier": "-",
+        "Size": "100%"
+      },
+      {
+        "Type": "Character",
+        "Name": "Glutton",
+        "Tier": "-",
+        "Size": "200%"
+      },
+      {
+        "Type": "Item",
+        "Name": "Explosive Turret",
+        "Tier": "-",
+        "Size": "100%"
+      },
+      {
+        "Type": "Item",
+        "Name": "Kraken's Eye",
+        "Tier": "-",
+        "Size": "150%"
+      },
+      {
+        "Type": "Item",
+        "Name": "Landmines",
+        "Tier": "-",
+        "Size": "175%"
+      },
+      {
+        "Type": "Item",
+        "Name": "Rip and Tear",
+        "Tier": "-",
+        "Size": "65%"
+      },
+      {
+        "Type": "Item",
+        "Name": "Spicy Sauce",
+        "Tier": "-",
+        "Size": "125%"
+      },
+      {
+        "Type": "Item",
+        "Name": "Sunken Bell",
+        "Tier": "-",
+        "Size": "600%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "DEX-troyer",
+        "Tier": "-",
+        "Size": "125%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Fireball",
+        "Tier": "all",
+        "Size": "100%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Grenade Launcher",
+        "Tier": "all",
+        "Size": "75%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Plank",
+        "Tier": "all",
+        "Size": "75%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Plasma Sledge",
+        "Tier": "Tier 3",
+        "Size": "100%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Plasma Sledge",
+        "Tier": "Tier 4",
+        "Size": "125%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Power Fist",
+        "Tier": "Tier 3",
+        "Size": "75%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Power Fist",
+        "Tier": "Tier 4",
+        "Size": "100%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Nuclear Launcher",
+        "Tier": "Tier 3",
+        "Size": "200%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Nuclear Launcher",
+        "Tier": "Tier 4",
+        "Size": "225%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Rocket Launcher",
+        "Tier": "all",
+        "Size": "120%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Shredder",
+        "Tier": "Tier 1",
+        "Size": "75%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Shredder",
+        "Tier": "Tier 2",
+        "Size": "80%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Shredder",
+        "Tier": "Tier 3",
+        "Size": "85%"
+      },
+      {
+        "Type": "Weapon",
+        "Name": "Shredder",
+        "Tier": "Tier 4",
+        "Size": "90%"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Items tagged with \"Explosive\"",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 9,
+    "rows": [
+      {
+        "Name": "Dynamite",
+        "Rarity": "Tier 1",
+        "Effects": "+15 % Explosion Damage",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Explosive"
+      },
+      {
+        "Name": "Explosive Shells",
+        "Rarity": "Tier 4",
+        "Effects": "+60 % Explosion Damage +15 % Explosion Size -15 % Damage",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "Win a run with Artificer",
+        "Tags": "Explosive"
+      },
+      {
+        "Name": "Honey",
+        "Rarity": "Tier 3",
+        "Effects": "+3 Ranged Damage +10 % Explosion Damage +5 % Explosion Size -3 % Speed -3 % Dodge",
+        "Base Price": "70",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage, Explosive"
+      },
+      {
+        "Name": "Kraken's Eye(DLC)",
+        "Rarity": "Tier 4",
+        "Effects": "You have a 50% chance to explode for 10 (+500%) damage when you get hit +10 Max HP +10 Curse",
+        "Base Price": "110",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Explosive, Max HP, Curse"
+      },
+      {
+        "Name": "Landmines",
+        "Rarity": "Tier 1",
+        "Effects": "A landmine spawns every 12 seconds dealing 10 (+100%) damage in an area",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering, Explosive, Structure"
+      },
+      {
+        "Name": "Plastic Explosive",
+        "Rarity": "Tier 3",
+        "Effects": "+25 % Explosion Size",
+        "Base Price": "60",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Explosive"
+      },
+      {
+        "Name": "Rip and Tear",
+        "Rarity": "Tier 3",
+        "Effects": "Enemies have a 20% chance to explode for 10 (+50%) damage when they die -5 % Crit Chance",
+        "Base Price": "65",
+        "Limit": "5.0",
+        "Unlocked By": "Win a run with Loud",
+        "Tags": "Melee Damage, Explosive"
+      },
+      {
+        "Name": "Spicy Sauce",
+        "Rarity": "Tier 2",
+        "Effects": "+3 Max HP Consumables have a 50% chance to explode for 10 (+100%) damage when picked up",
+        "Base Price": "40",
+        "Limit": "2.0",
+        "Unlocked By": "Win a run with Glutton",
+        "Tags": "Max HP, Luck, Explosive"
+      },
+      {
+        "Name": "Sunken Bell(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "Once per wave, you explode for 100 (+500%+500%+500%+500%) damage when you fall below 40% health",
+        "Base Price": "65",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Explosive"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Weapons with Explosive",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 9,
+    "rows": [
+      {
+        "Name": "Plank",
+        "Class": "Explosive, Elemental",
+        "Damage": "10(50%50%50%)  15(60%60%60%)  20(70%70%70%)  25(80%80%80%)",
+        "Attack Speed": "1.23s  1.14s  1.06s  0.98s",
+        "DPS": "8.1(41%41%41%)/s  13.2(53%53%53%)/s  18.9(66%66%66%)/s  25.5(82%82%82%)/s",
+        "Crit Damage/Chance": "x2 (3%)  x2 (3%)  x2 (3%)  x2 (3%)",
+        "Range": "150  150  150  150",
+        "Knockback": "5  5  5  5",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Hits have 25%/30%/35%/40% chance to explode.",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Shredder",
+        "Class": "Gun, Explosive",
+        "Damage": "5(50%)  10(50%)  15(50%)  25(50%)",
+        "Attack Speed": "1.3s  1.22s  1.13s  1.05s",
+        "DPS": "3.8(38%)/s  8.2(40%)/s  13.3(44%)/s  23.8(47%)/s",
+        "Crit Damage/Chance": "x2 (3%)  x2 (3%)  x2 (3%)  x2 (3%)",
+        "Range": "450  450  450  450",
+        "Knockback": "0  0  0  0",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "50%/65%/80%/100% chance for projectiles to explode on hit. Pierces 3 enemies dealing 100% damage",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Fireball",
+        "Class": "Explosive, Elemental",
+        "Damage": "-  5(+25%)  10(+50%)  20(+75%)",
+        "Attack Speed": "-  1.12s  1.03s  0.87s",
+        "DPS": "--  4.5(22.4%)/s  9.7(48.4%)/s  23.1(86.5%)/s",
+        "Crit Damage/Chance": "-  x1.5 (3% chance)  x1.5 (3% chance)  x1.5 (3% chance)",
+        "Range": "-  400  450  500",
+        "Knockback": "-  0  0  0",
+        "Lifesteal": "-  0  0  0",
+        "Special Effects": "Projectiles explode on hit. Deals -/5x3/6x4/8x5 (+100%) burning damage",
+        "Base price": "-  36  66  140",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Grenade Launcher(DLC)",
+        "Class": "Heavy, Explosive",
+        "Damage": "-  12(+100%)  18(+100%)  30(+100%)",
+        "Attack Speed": "-  0.37s  0.37s  0.37s",
+        "DPS": "--  5.9(49%)/s  13.7(76.1%)/s  31.5(105%)/s",
+        "Crit Damage/Chance": "-  x2.5 (5% chance)  x3 (10% chance)  x3.5 (20% chance)",
+        "Range": "-  350  400  450",
+        "Knockback": "-  0  0  0",
+        "Lifesteal": "-  0  0  0",
+        "Special Effects": "Every 2nd/3rd/4th shot has a longer cooldown: 3.7s/3.2s/2.7s. Projectiles explode on hit. Bounces 1 time.",
+        "Base price": "-  58  108  212",
+        "Unlocked by": "Win a run with Gangster"
+      },
+      {
+        "Name": "Rocket Launcher",
+        "Class": "Heavy, Explosive",
+        "Damage": "-  30(100%)  50(100%)  80(100%)",
+        "Attack Speed": "-  1.78s  1.37s  1.03s",
+        "DPS": "-  16.9(56%)/s  36.5(72%)/s  77.7(97%)/s",
+        "Crit Damage/Chance": "-  x2 (3%)  x2 (3%)  x2 (3%)",
+        "Range": "-  500  550  600",
+        "Knockback": "-  15  15  15",
+        "Lifesteal": "-  0  0  0",
+        "Special Effects": "Projectiles explode on hit",
+        "Base price": "-  56  103  207",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Nuclear Launcher",
+        "Class": "Heavy, Explosive",
+        "Damage": "-  -  60(100%100%)  120(100%100%)",
+        "Attack Speed": "-  -  2.12s  2.12s",
+        "DPS": "-  -  28.3(47%47%)/s  56.6(47%47%)/s",
+        "Crit Damage/Chance": "-  -  x2 (3%)  x2 (3%)",
+        "Range": "-  -  800  800",
+        "Knockback": "-  -  15  15",
+        "Lifesteal": "-  -  0  0",
+        "Special Effects": "Projectiles explode on hit",
+        "Base price": "-  -  144  289",
+        "Unlocked by": "Win a run with Soldier"
+      },
+      {
+        "Name": "Plasma Sledge",
+        "Class": "Elemental, Explosive",
+        "Damage": "-  -  80(150%150%)  120(200%200%)",
+        "Attack Speed": "-  -  1.55s  1.49s",
+        "DPS": "-  -  51.6(96%96%)/s  80.5(134%134%)/s",
+        "Crit Damage/Chance": "-  -  x1.75 (3%)  x1.75 (3%)",
+        "Range": "-  -  175  175",
+        "Knockback": "-  -  30  30",
+        "Lifesteal": "-  -  0  0",
+        "Special Effects": "Hits have 25%/50% chance to explode.",
+        "Base price": "-  -  136  272",
+        "Unlocked by": "Win a run with Knight"
+      },
+      {
+        "Name": "Power Fist",
+        "Class": "Unarmed, Explosive",
+        "Damage": "-  -  40(100%)  60(100%)",
+        "Attack Speed": "-  -  0.69s  0.59s",
+        "DPS": "-  -  58.0(144%)/s  101.7(169%)/s",
+        "Crit Damage/Chance": "-  -  x1.5 (1%)  x1.5 (1%)",
+        "Range": "-  -  150  150",
+        "Knockback": "-  -  15  15",
+        "Lifesteal": "-  -  0  0",
+        "Special Effects": "Hits have 25%/50% chance to explode.",
+        "Base price": "-  -  110  221",
+        "Unlocked by": "Win a run with Brawler"
+      },
+      {
+        "Name": "DEX-troyer",
+        "Class": "Legendary, Explosive",
+        "Damage": "-  -  -  100(+100%+100%)",
+        "Attack Speed": "-  -  -  1.33s",
+        "DPS": "--  --  --  75.3(75.3%75.3%)/s",
+        "Crit Damage/Chance": "-  -  -  x2 (3% chance)",
+        "Range": "-  -  -  400",
+        "Knockback": "-  -  -  10",
+        "Lifesteal": "-  -  -  0",
+        "Special Effects": "50% chance to explode on hit Hitting an enemy spawns a lightning projectile that bounces 5 times and deals 30 (+100%) damage",
+        "Base price": "-  -  -  315",
+        "Unlocked by": "Default"
+      }
+    ]
+  }
+]

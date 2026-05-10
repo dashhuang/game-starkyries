@@ -1,0 +1,14 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Alloy,Tier 3,+3 Melee Damage +3 Ranged Damage +3 Elemental Damage +3 Engineering +5 % Crit Chance -6 % Dodge,80,,,"Melee Damage, Ranged Damage, Engineering, Crit Chance, Elemental Damage"
+Big Arms,Tier 4,+12 Melee Damage +6 Ranged Damage +3 Knockback -3 % Attack Speed -3 % Speed,105,,Win a run with Generalist,"Melee Damage, Ranged Damage, Knockback"
+Feather(DLC),Tier 1,+1 Ranged Damage +3 % Dodge -3 % XP Gain,18,,,"Ranged Damage, Dodge"
+Handcuffs,Tier 3,+8 Melee Damage +8 Ranged Damage +8 Elemental Damage Your Max HP is capped at its current value,80,1.0,,"Melee Damage, Ranged Damage, Elemental Damage"
+Heavy Bullets,Tier 4,+5 Ranged Damage +10 % Damage +10 Range -5 % Attack Speed -5 % Crit Chance,100,,,"Ranged Damage, Damage, Range"
+Hedgehog,Tier 1,+2 Melee Damage +1 Ranged Damage -1 HP Regeneration,30,,,"Melee Damage, Ranged Damage"
+Honey,Tier 3,+3 Ranged Damage +10 % Explosion Damage +5 % Explosion Size -3 % Speed -3 % Dodge,70,,,"Ranged Damage, Explosive"
+Lens,Tier 1,+1 Ranged Damage -5 Range,20,,,Ranged Damage
+Mutation,Tier 1,+1 Ranged Damage +1 Elemental Damage -3 Knockback,25,,,"Ranged Damage, Elemental Damage"
+Reinforced Steel,Tier 2,+2 Ranged Damage +3 Engineering -3 % Speed,50,,,"Ranged Damage, Engineering"
+Scope,Tier 2,+2 Ranged Damage +25 Range -7 % Attack Speed,48,,,"Ranged Damage, Range"
+Small Magazine,Tier 2,+2 Ranged Damage +10 % Attack Speed -6 % Damage,60,,,"Ranged Damage, Attack Speed"
+Wheat,Tier 3,+4 Melee Damage +2 Ranged Damage +10 Harvesting -2 Elemental Damage,85,,Win a run with Farmer,"Melee Damage, Ranged Damage, Harvesting"

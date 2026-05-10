@@ -1,0 +1,451 @@
+[
+  {
+    "table_index": 0,
+    "section": "Items > Positive",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 11,
+    "rows": [
+      {
+        "Name": "Blood Donation",
+        "Rarity": "Tier 3",
+        "Effects": "+40 Harvesting You take 1 damage per second (does not give invulnerability time)",
+        "Base Price": "50",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Harvesting"
+      },
+      {
+        "Name": "Bowler Hat",
+        "Rarity": "Tier 3",
+        "Effects": "+15 Luck +18 Harvesting -5 % Attack Speed -3 % Crit Chance",
+        "Base Price": "75",
+        "Limit": "",
+        "Unlocked By": "Win a run with Entrepreneur",
+        "Tags": "Luck, Harvesting"
+      },
+      {
+        "Name": "Crown",
+        "Rarity": "Tier 3",
+        "Effects": "Harvesting increases by an additional 8% at the end of a wave",
+        "Base Price": "70",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Harvesting"
+      },
+      {
+        "Name": "Fertilizer",
+        "Rarity": "Tier 1",
+        "Effects": "+8 Harvesting -1 Melee Damage",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Harvesting"
+      },
+      {
+        "Name": "Little Frog",
+        "Rarity": "Tier 2",
+        "Effects": "+20% pickup range +10 Harvesting -3 % Dodge",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Harvesting, Pickup"
+      },
+      {
+        "Name": "Peaceful Bee",
+        "Rarity": "Tier 1",
+        "Effects": "+4 % Dodge +4 Harvesting -1 Melee Damage -1 Ranged Damage",
+        "Base Price": "18",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Dodge, Harvesting"
+      },
+      {
+        "Name": "Starfish(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "+20% materials dropped from enemies +10 Harvesting +15 % Enemy damage",
+        "Base Price": "75",
+        "Limit": "3.0",
+        "Unlocked By": "Win a run with Diver",
+        "Tags": "Harvesting"
+      },
+      {
+        "Name": "Tractor",
+        "Rarity": "Tier 3",
+        "Effects": "+40 Harvesting -8 % Damage",
+        "Base Price": "70",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Harvesting"
+      },
+      {
+        "Name": "Wheat",
+        "Rarity": "Tier 3",
+        "Effects": "+4 Melee Damage +2 Ranged Damage +10 Harvesting -2 Elemental Damage",
+        "Base Price": "85",
+        "Limit": "",
+        "Unlocked By": "Win a run with Farmer",
+        "Tags": "Melee Damage, Ranged Damage, Harvesting"
+      },
+      {
+        "Name": "Wheelbarrow",
+        "Rarity": "Tier 2",
+        "Effects": "+16 Harvesting -1 Armor",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Harvesting"
+      },
+      {
+        "Name": "White Flag",
+        "Rarity": "Tier 2",
+        "Effects": "+5 Harvesting -5% Enemies",
+        "Base Price": "40",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Harvesting, Less Enemies"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Items > Negative",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 5,
+    "rows": [
+      {
+        "Name": "Bat",
+        "Rarity": "Tier 1",
+        "Effects": "+2 % Life Steal -2 Harvesting",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Life Steal"
+      },
+      {
+        "Name": "Blood Leech",
+        "Rarity": "Tier 2",
+        "Effects": "+2 % Life Steal +2 HP Regeneration -3 Harvesting",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Life Steal, HP Regeneration"
+      },
+      {
+        "Name": "Charcoal",
+        "Rarity": "Tier 1",
+        "Effects": "+1 Elemental Damage +2 Melee Damage -2 Harvesting",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Elemental Damage, Melee Damage"
+      },
+      {
+        "Name": "Mouse",
+        "Rarity": "Tier 3",
+        "Effects": "+5 % Life Steal +10% Enemies -5 Harvesting",
+        "Base Price": "55",
+        "Limit": "5.0",
+        "Unlocked By": "",
+        "Tags": "Life Steal, More Enemies"
+      },
+      {
+        "Name": "Spider",
+        "Rarity": "Tier 4",
+        "Effects": "+12 % Damage +6 % Attack Speed for every different weapon you have -3 % Dodge -5 Harvesting",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "Win a run with Gladiator",
+        "Tags": "Damage, Attack Speed"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Items > Interaction - Crown",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Name": "Crown",
+        "Rarity": "Tier 3",
+        "Effects": "Harvesting increases by an additional 8% at the end of a wave",
+        "Base Price": "70",
+        "Limit": "1",
+        "Unlocked By": "",
+        "Tags": "Harvesting"
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Characters > Positive Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 10,
+    "rows": [
+      {
+        "Name": "Arms Dealer",
+        "Stats": "-95% Weapons Price +30 Harvesting Damage modifications are increased by +33% You start with 1 Dangerous Bunny Shops always sell at least 1 weapon All of your weapons are destroyed when entering a shop",
+        "Unlocked By": "Recycle 12 weapons during a run",
+        "Unlocks": "Anvil",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Baby",
+        "Stats": "+12 Harvesting -20 % Items Price You gain a weapon slot when you level up instead of a stat upgrade (max: 24) You start with one weapon slot Shops always sell at least one weapon +130% XP required to level up",
+        "Unlocked By": "Reach level 10 before wave 6",
+        "Unlocks": "Celery Tea",
+        "Item Tags": "XP Gain"
+      },
+      {
+        "Name": "Builder(DLC)",
+        "Stats": "You start with 1 Builder's Turret Every 5 uncollected materials are converted into 1 % Structure attack speed and 1 Structure Range at the end of a wave Engineering modifications are increased by 50% +20 Harvesting You can't have structures -30% pickup range Damage modifications are reduced by 75%",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Lighthouse",
+        "Item Tags": "Engineering"
+      },
+      {
+        "Name": "Doctor",
+        "Stats": "+200% Attack Speed with Medical weapons +5 HP Regeneration HP Regeneration modifications are increased by 100% +5 Harvesting -100% Attack Speed Armor modifications are reduced by 50%",
+        "Unlocked By": "Heal 200 HP in one wave",
+        "Unlocks": "Medikit",
+        "Item Tags": "HP Regeneration"
+      },
+      {
+        "Name": "Entrepreneur",
+        "Stats": "-25% Items Price Harvesting modifications are increased by 50% Gain 25% more materials from recycling items -100% of your materials at the start of waves Damage modifications are reduced by 50%",
+        "Unlocked By": "Hold 3000 Materials",
+        "Unlocks": "Bowler Hat",
+        "Item Tags": "Harvesting, Economy"
+      },
+      {
+        "Name": "Farmer",
+        "Stats": "+20 Harvesting Harvesting increases by an additional 3% at the end of a wave +1 Harvesting when eating a consumable while at full health  -50% materials dropped",
+        "Unlocked By": "Reach +200 Harvesting",
+        "Unlocks": "Wheat",
+        "Item Tags": "Harvesting, Consumable"
+      },
+      {
+        "Name": "Fisherman",
+        "Stats": "+5 Max HP +20 Harvesting Shops always sell a Bait -100% Bait price +2 Harvesting for every 1 Bait you have Baits make some special enemies spawn throughout all future waves -50% materials dropped from enemies",
+        "Unlocked By": "Get 2 Bait during a run",
+        "Unlocks": "Lure",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Old",
+        "Stats": "-25% Enemy speed +10 Harvesting -33%Map Size -10% Enemies -10% Speed",
+        "Unlocked By": "Kill 300 enemies",
+        "Unlocks": "Snail",
+        "Item Tags": "Less Enemies, Less Enemy Speed"
+      },
+      {
+        "Name": "Saver",
+        "Stats": "+15 Harvesting +1% Damage for every 25 Materials you have You start with 1 Piggy Bank +50% Item & Weapon Price",
+        "Unlocked By": "Collect 20000 materials",
+        "Unlocks": "Padding",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Well Rounded",
+        "Stats": "+5 Max Hp +5% Speed +8 Harvesting",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Potato",
+        "Item Tags": ""
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "Characters > Negative Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 5,
+    "rows": [
+      {
+        "Name": "Hunter",
+        "Stats": "+100 Range +1% Damage for every 10 Range you have Crit Chance modifications are increased by 25% Harvesting modifications are reduced by 100% Max HP modifications are reduced by 33%",
+        "Unlocked By": "Reach +300 Range",
+        "Unlocks": "Sniper Gun",
+        "Item Tags": "Range, Crit Chance"
+      },
+      {
+        "Name": "Knight",
+        "Stats": "+2 Melee Damage for every 1 Armor you have +3 Armor You can't equip ranged weapons You can only equip tier 2 weapons or above % Attack Speed modifications are reduced by 50% Harvesting modifications are reduced by 80%",
+        "Unlocked By": "Win a run in Danger 4",
+        "Unlocks": "Plasma Sledge",
+        "Item Tags": "Armor"
+      },
+      {
+        "Name": "Loud",
+        "Stats": "+30% Damage +50% Enemies -3 Harvesting at the end of a wave",
+        "Unlocked By": "Kill 5000 enemies",
+        "Unlocks": "Rip and Tear",
+        "Item Tags": "More Enemies"
+      },
+      {
+        "Name": "Sailor(DLC)",
+        "Stats": "+200% damage with Naval weapons against cursed enemies +25 Curse -25 % Damage You can only equip tier II weapons or above Dodge is capped at 20% Harvesting modifications are reduced by 100%",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Treasure Map",
+        "Item Tags": "Curse"
+      },
+      {
+        "Name": "Vagabond",
+        "Stats": "Equipped weapons always contribute to the class bonuses of other equipped weapons You can't equip two of the same weapon at the same time -5 Armor -5 % Dodge Luck modifications are reduced by 50% Harvesting modifications are reduced by 50%",
+        "Unlocked By": "Have 6 different weapons at once",
+        "Unlocks": "Jelly",
+        "Item Tags": ""
+      }
+    ]
+  },
+  {
+    "table_index": 5,
+    "section": "Weapons",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 2,
+    "rows": [
+      {
+        "Name": "Hand",
+        "Class": "Unarmed, Support",
+        "Damage": "1(50%)  1(50%)  1(50%)  1(50%)",
+        "Attack Speed": "1.01s  0.93s  0.86s  0.71s",
+        "DPS": "1.0(49%)/s  1.1(53%)/s  1.2(58%)/s  1.4(70%)/s",
+        "Crit Damage/Chance": "x1.5 (1%)  x1.5 (1%)  x1.5 (1%)  x1.5 (1%)",
+        "Range": "150  150  150  150",
+        "Knockback": "30  30  30  30",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "+3/+6/+9/+18 Harvesting",
+        "Base price": "10  22  45  91",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Sickle(DLC)",
+        "Class": "Support",
+        "Damage": "5(+80%+10%)  8(+80%+15%)  12(+80%+20%)  15(+80%+25%)",
+        "Attack Speed": "0.87s  0.82s  0.77s  0.7s",
+        "DPS": "5.8(92.2%11.5%)/s  9.8(97.9%18.4%)/s  15.6(104.3%26.1%)/s  21.4(114.2%35.7%)/s",
+        "Crit Damage/Chance": "x2 (3% chance)  x2 (3% chance)  x2 (3% chance)  x2 (3% chance)",
+        "Range": "125  125  125  125",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "+20%/+30%/+40%/+50% damage against targets below 30% health",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Default"
+      }
+    ]
+  },
+  {
+    "table_index": 6,
+    "section": "Weapon Classes",
+    "columns": [
+      "Class",
+      "Bonuses",
+      "Weapons"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Class": "Support",
+        "Bonuses": "(2)+5 Harvesting (3)+10 Harvesting (4)+15 Harvesting (5)+20 Harvesting (6)+25 Harvesting",
+        "Weapons": "Hand  Hiking Pole  Lute  Pruner  Sickle  Taser  Potato Thrower"
+      }
+    ]
+  },
+  {
+    "table_index": 7,
+    "section": "",
+    "columns": [
+      "Stats",
+      "Stats.1",
+      "Stats.2",
+      "Stats.3"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Stats": "Max HP",
+        "Stats.1": "Melee Damage",
+        "Stats.2": "Crit Chance",
+        "Stats.3": "Dodge"
+      },
+      {
+        "Stats": "HP Regeneration",
+        "Stats.1": "Ranged Damage",
+        "Stats.2": "Engineering",
+        "Stats.3": "Speed"
+      },
+      {
+        "Stats": "Life Steal",
+        "Stats.1": "Elemental Damage",
+        "Stats.2": "Range",
+        "Stats.3": "Luck"
+      },
+      {
+        "Stats": "Damage",
+        "Stats.1": "Attack Speed",
+        "Stats.2": "Armor",
+        "Stats.3": "Harvesting"
+      },
+      {
+        "Stats": "DLC Stats",
+        "Stats.1": "DLC Stats",
+        "Stats.2": "DLC Stats",
+        "Stats.3": "DLC Stats"
+      },
+      {
+        "Stats": "Curse",
+        "Stats.1": "Curse",
+        "Stats.2": "Curse",
+        "Stats.3": "Curse"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+Name,Class,Damage,Attack Speed,DPS,Crit Damage/Chance,Range,Knockback,Lifesteal,Special Effects,Base price,Unlocked by
+Hand,"Unarmed, Support",1(50%)  1(50%)  1(50%)  1(50%),1.01s  0.93s  0.86s  0.71s,1.0(49%)/s  1.1(53%)/s  1.2(58%)/s  1.4(70%)/s,x1.5 (1%)  x1.5 (1%)  x1.5 (1%)  x1.5 (1%),150  150  150  150,30  30  30  30,0  0  0  0,+3/+6/+9/+18 Harvesting,10  22  45  91,Default
+Sickle(DLC),Support,5(+80%+10%)  8(+80%+15%)  12(+80%+20%)  15(+80%+25%),0.87s  0.82s  0.77s  0.7s,5.8(92.2%11.5%)/s  9.8(97.9%18.4%)/s  15.6(104.3%26.1%)/s  21.4(114.2%35.7%)/s,x2 (3% chance)  x2 (3% chance)  x2 (3% chance)  x2 (3% chance),125  125  125  125,2  2  2  2,0  0  0  0,+20%/+30%/+40%/+50% damage against targets below 30% health,15  31  61  122,Default

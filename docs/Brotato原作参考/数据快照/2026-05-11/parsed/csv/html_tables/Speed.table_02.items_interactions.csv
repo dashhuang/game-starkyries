@@ -1,0 +1,5 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Esty's Couch,Tier 4,+5 Max HP +2 HP Regeneration for every permanent -1 % Speed you have -20 % Speed,100,1,,"HP Regeneration, Max HP"
+Power Generator,Tier 3,+1 % Damage for every permanent 1 % Speed you have -5 % Damage,65,1,,"Speed, Damage"
+Saltwater(DLC),Tier 2,+2 Melee Damage +3 % Attack Speed +10 % Speed for 3 seconds when you take damage -1 Elemental Damage,50,1,,"Melee Damage, Attack Speed, Speed"
+Shackles,Tier 3,+8 HP Regeneration +8 Engineering +80 Range Your Speed is capped at its current value,80,1,,"Range, HP Regeneration, Engineering"

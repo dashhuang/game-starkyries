@@ -1,0 +1,45 @@
+[
+  {
+    "table_index": 0,
+    "section": "Items tagged with \"Less Enemy Speed\"",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Snail",
+        "Rarity": "Tier 2",
+        "Effects": "-8 % Enemy Speed -3 % Speed",
+        "Base Price": "40",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Old",
+        "Tags": "Less Enemy Speed"
+      },
+      {
+        "Name": "Ugly Tooth",
+        "Rarity": "Tier 1",
+        "Effects": "Hitting an enemy removes 5% of their speed. Max 20% -3 % Speed",
+        "Base Price": "25",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Less Enemy Speed"
+      },
+      {
+        "Name": "Wandering Bot",
+        "Rarity": "Tier 3",
+        "Effects": "Spawns a little bot that slows down nearby enemies",
+        "Base Price": "60",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Less Enemy Speed, Structure"
+      }
+    ]
+  }
+]

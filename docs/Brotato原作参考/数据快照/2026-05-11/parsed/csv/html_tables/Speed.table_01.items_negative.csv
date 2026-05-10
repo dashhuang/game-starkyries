@@ -1,0 +1,17 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Bag,Tier 1,+15 materials when you pick up a crate -1 % Speed,15,3.0,,"Luck, Exploration, Economy"
+Ball and Chain,Tier 3,+15 % Damage +3 Armor +5 Knockback -3 % Speed Weapons have a minimum cooldown of 0.75 seconds between attacks,75,1.0,,"Damage, Armor, Knockback"
+Barricade,Tier 3,+3 Knockback +8 Armor while standing still -5 % Speed,75,,,"Armor, Stand Still, Knockback"
+Big Arms,Tier 4,+12 Melee Damage +6 Ranged Damage +3 Knockback -3 % Attack Speed -3 % Speed,105,,Win a run with Generalist,"Melee Damage, Ranged Damage, Knockback"
+Campfire,Tier 2,+2 Elemental Damage +2 HP Regeneration -2 % Speed,40,,,"Elemental Damage, HP Regeneration"
+Esty's Couch,Tier 4,+5 Max HP +2 HP Regeneration for every permanent -1 % Speed you have -20 % Speed,100,1.0,,"HP Regeneration, Max HP"
+Ghost Outfit,Tier 3,Dodge is capped at 70% +10% Dodge -5% Speed -3 Armor,80,1.0,Reach 70% Dodge,Dodge
+Gobbler's Hat,Tier 4,+70% materials dropped -15% Speed -10% Dodge,130,1.0,Kill the Gobbler 5 times,
+Helmet,Tier 1,+1 Armor -2 % Speed,15,,,Armor
+Honey,Tier 3,+3 Ranged Damage +10 % Explosion Damage +5 % Explosion Size -3 % Speed -3 % Dodge,70,,,"Ranged Damage, Explosive"
+Mammoth,Tier 4,+20 Melee Damage +5 HP Regeneration +5 Knockback -8 % Damage -3 % Speed,110,,,"Melee Damage, HP Regeneration, Knockback"
+Reinforced Steel,Tier 2,+2 Ranged Damage +3 Engineering -3 % Speed,50,,,"Ranged Damage, Engineering"
+Snail,Tier 2,-8 % Enemy Speed -3 % Speed,40,1.0,Win a run with Old,Less Enemy Speed
+Statue,Tier 3,+40 % Attack Speed while standing still -10 % Speed,60,,,"Attack Speed, Stand Still"
+Ugly Tooth,Tier 1,Hitting an enemy removes 5% of their speed. Max 20% -3 % Speed,25,1.0,,Less Enemy Speed
+Warrior Helmet,Tier 3,+3 Armor +5 Max HP -5 % Speed,80,,,"Armor, Max HP"

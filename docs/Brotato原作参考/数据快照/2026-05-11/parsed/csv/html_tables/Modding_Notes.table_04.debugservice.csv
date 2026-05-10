@@ -1,0 +1,26 @@
+Option,Type,Default,Effect
+Starting Wave,int,1,Sets initial wave. Supports 1 - 999
+Starting Gold,int,30,Sets initial materials.
+Invulnerable,bool,false,Disables your hurtbox. Prevents things like Bull's effect from triggering.
+Invisible,bool,false,Player is invisible.
+One Shot Enemies,bool,false,All enemies die in 1 hit.
+Instant Waves,bool,false,Waves only last 1 second. Great for testing shops
+No Fullscreen on Launch,bool,false,Prevents the game from launching into fullscreen.
+Debug Weapons,array,[],Weapons to add at the start of each wave. Can add multiple of the same weapon
+Debug Items,array,[],"Items to add once, at the start of the next wave. Can add multiple of the same item"
+Remove Starting Weapons,bool,false,Removes your starting weapons.
+Add All Weapons,bool,false,Adds every weapon. Can go over your character's weapon limit
+Add All Items,bool,false,Adds every item to your character. Can be combined with debug_items to stack them
+Unlock All Chars,bool,false,Unlocks all characters. Temporary
+Unlock All Challenges,bool,false,"Permanent. Unlocks all challenges: Completes every challenge Unlocks their Steam achievements Saves this data to your save file Make sure you enable the ""Disable Saving"" option before using this, otherwise it will affect your save file."
+Unlock All Difficulties,bool,false,Unlocks all danger levels. Temporary
+Generate Full Unlocked Save File,bool,false,
+Reinitialize Save,bool,false,
+Reinitialize Steam Data,bool,false,
+Disabling Saving,bool,false,"Highly recommended. Prevents the game from ever saving, which protects your save file. Always use if you also enable ""Unlock All Challenges""."
+Randomize Equipment,bool,false,Start with 6 of a random weapon. Start with 10 - 500 materials. Start at level 10 - 26.
+Hide Wave Timer,bool,false,
+Nullify Enemy Speed,bool,false,
+No Enemies,bool,false,
+Debug Enemies,bool,false,
+Spawn Specific Elite,bool,false,Forces a specific Elite to spawn during an Elite wave. Does nothing on regular waves. Details below.

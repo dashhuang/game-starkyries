@@ -1,0 +1,44 @@
+Group,Icon,Name,Challenge,Unlocks,Notes & Tips
+Danger Level,,Danger 0,Win a run in Danger 0,One Armed,Also unlocks Danger 1
+Danger Level,,Danger 1,Win a run in Danger 1,Bull,Also unlocks Danger 2
+Danger Level,,Danger 2,Win a run in Danger 2,Soldier,Also unlocks Danger 3
+Danger Level,,Danger 3,Win a run in Danger 3,Masochist,Also unlocks Danger 4
+Danger Level,,Danger 4,Win a run in Danger 4,Knight,Also unlocks Danger 5
+Danger Level,,Danger 5,Win a run in Danger 5,Demon,
+Survivor,,Survivor 1,Kill 300 enemies,Old,
+Survivor,,Survivor 2,Kill 2000 enemies,Mutant,
+Survivor,,Survivor 3,Kill 5000 enemies,Loud,
+Survivor,,Survivor 4,Kill 10000 enemies,Wildling,
+Survivor,,Survivor 5,Kill 20000 enemies,Gladiator,
+Gatherer,,Gatherer 1,Collect 300 materials,Lucky,
+Gatherer,,Gatherer 2,Collect 2000 materials,Generalist,
+Gatherer,,Gatherer 3,Collect 5000 materials,Multitasker,
+Gatherer,,Gatherer 4,Collect 10000 materials,Pacifist,
+Gatherer,,Gatherer 5,Collect 20000 materials,Saver,
+Misc,,Rookie,Die for the first time,Chunky,
+Misc,,Dying,Reach -5 HP Regeneration,Sick,See the Wiki Page for a list of items that give negative HP Regeneration.
+Misc,,Agriculture,Reach +200 Harvesting,Farmer,"Can happen on all characters, but Pacifist or Entrepreneur are good candidates. If you see an early Crown or Tractor, that run has a good shot of reaching 200+ Harvesting."
+Misc,,Hallucination,Reach +60% Dodge,Ghost,
+Misc,,Fast,Reach +50% Speed,Speedy,
+Misc,,Hoarder,Hold 3000 Materials,Entrepreneur,"Easiest with Saver, who likes to hold on to Materials."
+Misc,,Builder,Get 5 turrets on the map simultaneously,Engineer,
+Misc,,Lumberjack,Kill 50 trees,Explorer,
+Misc,,Medicine,Heal 200 HP in one wave,Doctor,
+Misc,,Perfect Vision,Reach +300 Range,Hunter,Ranger has an advantage here. They have +50 Range and are tagged for Range Items.
+Misc,,Fireworks,Kill 15 enemies with a single explosion,Artificer,"Easiest with Bull, who regularly emits a single explosion"
+Misc,,Recycling,Recycle 12 weapons during a run,Arms Dealer,"This one rarely happens naturally. You can either make a dummy run where you just buy 12 weapons, sell them, and then lose the run. Or you can buy cheap tier 1 weapons over the duration of a regular run. Entrepreneur can be quite good at this, since you have to spend all your money, and you get more money back from recycling."
+Misc,,Slow,Reach -20% Speed,Streamer,Playing Old gives you the first -10%. Then you can use the Blunt Weapon set to get more. Otherwise just buy items with negative Speed. The Page got a list of items with negative speed.
+Misc,,Hungry,Pick up 20 consumables during a run,Glutton,
+Misc,,Advanced Technology,Reach 10 Ranged Damage and get 3 structures  at the same time,Cyborg,
+Misc,,Giant Slayer,Kill a boss or an elite in less than 15 seconds,Jack,This one can be a bit tricky. Look for characters that can deal amazing damage with ranged builds. Loud or Soldier can deal a ton of damage to elites. Try a ranged build that deals a lot of single target damage like for example a build using SMG or Revolver.
+Misc,,Robust,Reach +100 Max HP,Lich,
+Misc,,Baited,Get 2 Bait during a run,Fisherman,
+Misc,,Forest,Finish a wave with 10 or more living trees,Cryptid,This one doesn't happen naturally. The only easy way to get it is by playing Explorer for some waves until the wave duration is long enough. Then play through a wave destroying as few trees as possible.
+Misc,,Bourgeoisie,Get 3 tier IV weapons at once,King,
+Misc,,Student,Reach level 20,Apprentice,
+Misc,,Reckless,Finish a wave with 1 HP,Golem,
+Misc,,Scavenger,Get 10 different tier I items during a run,Renegade,"The 10 different items must be Items and not Weapons. Sometimes ""items"" refers to both, but not here."
+Misc,,Fast Learner,Reach level 10 before wave 6,Baby,Play a few waves as Mutant
+Misc,,Experimentation,Have 6 different weapons at once,Vagabond,"You can play a game with Gladiator, or it can be done in the first shop with Arms Dealer"
+Misc,,Magic and Machinery,Reach 10 Elemental Damage and get 3 structures at the same time,Technomage,Can be done with any elemental build by just buying some Structures. An engineering build on Apprentice gets it automatically as you level up.
+Misc,,Blood Drinker,Reach +40% Life Steal,Vampire,Easiest way is to play as Sick and buy all Lifesteal you see in the shop.

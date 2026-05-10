@@ -1,0 +1,11 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Beanie,Tier 1,+4 % Speed -6 Range,20,,,Speed
+Blindfold,Tier 2,+5 % Crit Chance +5 % Dodge -15 Range,45,,,"Crit Chance, Dodge"
+Coral(DLC),Tier 2,+10 HP Regeneration while standing still -10 Range,40,,,"HP Regeneration, Stand Still"
+Cyclops Worm,Tier 2,+12 % Damage -12 Range,45,,,Damage
+Eyes Surgery,Tier 2,Burning activates 20% faster +1 Elemental Damage -10 Range,60,2.0,,Elemental Damage
+Gnome,Tier 4,+10 Melee Damage +10 Elemental Damage -20 Range -20% pickup range,100,,Win a run with Bull,"Melee Damage, Elemental Damage"
+Head Injury,Tier 1,+6 % Damage -8 Range,25,,,Damage
+Little Muscley Dude,Tier 2,+3 Melee Damage +5 Max HP -15 Range,50,,,"Melee Damage, Max HP"
+Retromation's Hoodie,Tier 4,+2 % Attack Speed for every 1 % Dodge you have -80 Range,110,1.0,,Dodge
+Scar,Tier 1,+20 % XP Gain -8 Range,25,,,XP Gain

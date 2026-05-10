@@ -1,0 +1,126 @@
+[
+  {
+    "table_index": 0,
+    "section": "Loot Crates",
+    "columns": [
+      "Image",
+      "Name",
+      "Info"
+    ],
+    "row_count": 2,
+    "rows": [
+      {
+        "Image": "",
+        "Name": "Crate",
+        "Info": "Has a chance to drop from slain enemies, and has a 20% to drop after a Tree is destroyed. Heals 3 HP when picked up."
+      },
+      {
+        "Image": "",
+        "Name": "Legendary Crate",
+        "Info": "Drops exclusively from Elites that spawn in Danger 2 and above & Bosses that spawn on wave 20. Doesn't drop from Elites and Bosses killed on later waves in Endless Mode. Always contains a Tier 4 Item. Heals 100HP."
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Related Items > Trees",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 2,
+    "rows": [
+      {
+        "Name": "Lumberjack Shirt",
+        "Rarity": "Tier 1",
+        "Effects": "Trees die in one hit",
+        "Base Price": "15",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Exploration"
+      },
+      {
+        "Name": "Tree",
+        "Rarity": "Tier 1",
+        "Effects": "More trees spawn",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Exploration"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Related Items > Healing",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Alien Worm",
+        "Rarity": "Tier 1",
+        "Effects": "+3 Max HP +2 HP Regeneration -1 HP recovered from consumables",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, HP Regeneration"
+      },
+      {
+        "Name": "Lemonade",
+        "Rarity": "Tier 1",
+        "Effects": "+1 HP recovered from consumables",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Consumable"
+      },
+      {
+        "Name": "Weird Food",
+        "Rarity": "Tier 1",
+        "Effects": "+2 HP recovered from consumables -2 % Dodge",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Consumable"
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Related Items > Misc",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Name": "Bag",
+        "Rarity": "Tier 1",
+        "Effects": "+15 materials when you pick up a crate -1 % Speed",
+        "Base Price": "15",
+        "Limit": "3",
+        "Unlocked By": "",
+        "Tags": "Luck, Exploration, Economy"
+      }
+    ]
+  }
+]

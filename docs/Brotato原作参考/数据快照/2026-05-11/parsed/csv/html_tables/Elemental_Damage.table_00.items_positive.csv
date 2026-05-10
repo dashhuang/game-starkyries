@@ -1,0 +1,16 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Alloy,Tier 3,+3 Melee Damage +3 Ranged Damage +3 Elemental Damage +3 Engineering +5 % Crit Chance -6 % Dodge,80,,,"Melee Damage, Ranged Damage, Engineering, Crit Chance, Elemental Damage"
+Boiling Water,Tier 1,+2 Elemental Damage -1 Max HP,30,,,Elemental Damage
+Campfire,Tier 2,+2 Elemental Damage +2 HP Regeneration -2 % Speed,40,,,"Elemental Damage, HP Regeneration"
+Candle,Tier 3,+4 Elemental Damage +1 HP Regeneration -10% Enemies -5 % Damage,65,1.0,,"Elemental Damage, HP Regeneration, Less Enemies"
+Charcoal,Tier 1,+1 Elemental Damage +2 Melee Damage -2 Harvesting,20,,,"Elemental Damage, Melee Damage"
+Energy Bracelet,Tier 2,+4 % Crit Chance +2 Elemental Damage -2 Ranged Damage,55,,,"Crit Chance, Elemental Damage"
+Eyes Surgery,Tier 2,Burning activates 20% faster +1 Elemental Damage -10 Range,60,2.0,,Elemental Damage
+Frozen Heart,Tier 3,+8 Elemental Damage +5 % Crit Chance Weapon damage additionally scales with 10% Elemental Damage Burning activates 100% slower,90,1.0,,"Elemental Damage, Crit Chance"
+Fuel Tank,Tier 2,+4 Elemental Damage -1 Melee Damage -1 Ranged Damage,45,,,Elemental Damage
+Gnome,Tier 4,+10 Melee Damage +10 Elemental Damage -20 Range -20% pickup range,100,,Win a run with Bull,"Melee Damage, Elemental Damage"
+Handcuffs,Tier 3,+8 Melee Damage +8 Ranged Damage +8 Elemental Damage Your Max HP is capped at its current value,80,1.0,,"Melee Damage, Ranged Damage, Elemental Damage"
+Ice Cube,Tier 2,Enemies take 10% more damage for 3 seconds when first hit by Elemental Damage,50,1.0,,Elemental Damage
+Mutation,Tier 1,+1 Ranged Damage +1 Elemental Damage -3 Knockback,25,,,"Ranged Damage, Elemental Damage"
+Toxic Sludge,Tier 1,+2 Elemental Damage -2 % Dodge,20,,,Elemental Damage
+Wolf Helmet,Tier 4,+10 Elemental Damage +20 Luck -5 Engineering,90,,,"Elemental Damage, Luck"

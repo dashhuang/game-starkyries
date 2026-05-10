@@ -1,0 +1,5 @@
+Name,Stats,Unlocked By,Unlocks,Item Tags
+Apprentice,+2 Melee Damage when you level up +1 Ranged Damage when you level up +1 Elemental Damage when you level up +1 Engineering when you level up -2 Max HP when you level up,Reach level 20,Quarterstaff,XP Gain
+Cyborg,You start with 1 Minigun Ranged Damage modifications are increased by 200% 100% of your Ranged Damage are temporarily converted into Engineering halfway through a wave (1 Ranged Damage = 2 Engineering) Engineering modifications are reduced by 75% Melee modifications are reduced by 100% Elemental modifications are reduced by 100%,Reach 10 Ranged Damage and get 3 structures at the same time,Improved Tools,"Structure, Ranged Damage"
+Generalist,+2 Melee Damage for every 1 Ranged Damage you have +1 Ranged Damage for every 2 Melee Damage you have You can only equip 3 melee weapons and 3 ranged weapons at a time,Collect 2000 materials,Big Arms,"Melee Damage, Ranged Damage"
+Ranger,+50 Range You start with 1 Pistol Ranged Damage modifications are increased by 50% You can't equip melee weapons Max HP modifications are reduced by 25%,Unlocked by default,Night Goggles,"Ranged Damage, Range"

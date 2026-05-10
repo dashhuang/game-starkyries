@@ -1,0 +1,682 @@
+[
+  {
+    "table_index": 0,
+    "section": "Balancing > Characters with Positive Stats",
+    "columns": [
+      "Character",
+      "Stat",
+      "Value"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Character": "Ranger",
+        "Stat": "Range",
+        "Value": "50"
+      },
+      {
+        "Character": "Sick",
+        "Stat": "Life Steal",
+        "Value": "25"
+      },
+      {
+        "Character": "Speedy",
+        "Stat": "Speed",
+        "Value": "30"
+      },
+      {
+        "Character": "Ghost",
+        "Stat": "Dodge",
+        "Value": "30"
+      },
+      {
+        "Character": "Hunter",
+        "Stat": "Range",
+        "Value": "100"
+      },
+      {
+        "Character": "One Armed",
+        "Stat": "Attack Speed",
+        "Value": "200"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Balancing > Characters with Negative Stats",
+    "columns": [
+      "Character",
+      "Stats",
+      "Value",
+      "Notes"
+    ],
+    "row_count": 19,
+    "rows": [
+      {
+        "Character": "Brawler",
+        "Stats": "Range",
+        "Value": "-50",
+        "Notes": ""
+      },
+      {
+        "Character": "Brawler",
+        "Stats": "Ranged Damage",
+        "Value": "-50",
+        "Notes": ""
+      },
+      {
+        "Character": "Crazy",
+        "Stats": "Dodge",
+        "Value": "-30%",
+        "Notes": ""
+      },
+      {
+        "Character": "Mage",
+        "Stats": "Ranged Damage",
+        "Value": "-100",
+        "Notes": "No longer the case since v0.8.0.0"
+      },
+      {
+        "Character": "Mage",
+        "Stats": "Melee Damage",
+        "Value": "-100",
+        "Notes": "No longer the case since v0.8.0.0"
+      },
+      {
+        "Character": "Mage",
+        "Stats": "Engineering",
+        "Value": "-50",
+        "Notes": "No longer the case since v0.8.0.0"
+      },
+      {
+        "Character": "Chunky",
+        "Stats": "Life Steal",
+        "Value": "-100",
+        "Notes": ""
+      },
+      {
+        "Character": "Lucky",
+        "Stats": "Attack Speed",
+        "Value": "-60%",
+        "Notes": ""
+      },
+      {
+        "Character": "Mutant",
+        "Stats": "Items Price",
+        "Value": "-50%",
+        "Notes": ""
+      },
+      {
+        "Character": "Loud",
+        "Stats": "Harvesting",
+        "Value": "-95% (-3 per wave)",
+        "Notes": ""
+      },
+      {
+        "Character": "Pacifist",
+        "Stats": "Damage",
+        "Value": "-100%",
+        "Notes": ""
+      },
+      {
+        "Character": "Pacifist",
+        "Stats": "Engineering",
+        "Value": "-100",
+        "Notes": ""
+      },
+      {
+        "Character": "Saver",
+        "Stats": "Items Price",
+        "Value": "-50%",
+        "Notes": ""
+      },
+      {
+        "Character": "Sick",
+        "Stats": "HP Regeneration",
+        "Value": "-100",
+        "Notes": ""
+      },
+      {
+        "Character": "Ghost",
+        "Stats": "Armor",
+        "Value": "-100",
+        "Notes": ""
+      },
+      {
+        "Character": "Speedy",
+        "Stats": "Armor while standing still",
+        "Value": "-100",
+        "Notes": ""
+      },
+      {
+        "Character": "Doctor",
+        "Stats": "Attack Speed",
+        "Value": "-100%",
+        "Notes": ""
+      },
+      {
+        "Character": "Artificer",
+        "Stats": "Damage",
+        "Value": "-100%",
+        "Notes": ""
+      },
+      {
+        "Character": "Masochist",
+        "Stats": "Damage",
+        "Value": "-100%",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Balancing > Item Costs",
+    "columns": [
+      "Tier",
+      "Min",
+      "Max"
+    ],
+    "row_count": 4,
+    "rows": [
+      {
+        "Tier": "Tier 1",
+        "Min": "8",
+        "Max": "30"
+      },
+      {
+        "Tier": "Tier 2",
+        "Min": "35",
+        "Max": "65"
+      },
+      {
+        "Tier": "Tier 3",
+        "Min": "50",
+        "Max": "100"
+      },
+      {
+        "Tier": "Tier 4",
+        "Min": "80",
+        "Max": "130"
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Balancing > Weapon Costs",
+    "columns": [
+      "Tier",
+      "Min",
+      "Max",
+      "Max T2",
+      "Max T3"
+    ],
+    "row_count": 4,
+    "rows": [
+      {
+        "Tier": "Tier 1",
+        "Min": "10",
+        "Max": "20",
+        "Max T2": "",
+        "Max T3": "-"
+      },
+      {
+        "Tier": "Tier 2",
+        "Min": "22",
+        "Max": "39",
+        "Max T2": "56.0",
+        "Max T3": "-"
+      },
+      {
+        "Tier": "Tier 3",
+        "Min": "45",
+        "Max": "74",
+        "Max T2": "103.0",
+        "Max T3": "144"
+      },
+      {
+        "Tier": "Tier 4",
+        "Min": "91",
+        "Max": "149",
+        "Max T2": "207.0",
+        "Max T3": "289"
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "DebugService",
+    "columns": [
+      "Option",
+      "Type",
+      "Default",
+      "Effect"
+    ],
+    "row_count": 25,
+    "rows": [
+      {
+        "Option": "Starting Wave",
+        "Type": "int",
+        "Default": "1",
+        "Effect": "Sets initial wave. Supports 1 - 999"
+      },
+      {
+        "Option": "Starting Gold",
+        "Type": "int",
+        "Default": "30",
+        "Effect": "Sets initial materials."
+      },
+      {
+        "Option": "Invulnerable",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "Disables your hurtbox. Prevents things like Bull's effect from triggering."
+      },
+      {
+        "Option": "Invisible",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "Player is invisible."
+      },
+      {
+        "Option": "One Shot Enemies",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "All enemies die in 1 hit."
+      },
+      {
+        "Option": "Instant Waves",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "Waves only last 1 second. Great for testing shops"
+      },
+      {
+        "Option": "No Fullscreen on Launch",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "Prevents the game from launching into fullscreen."
+      },
+      {
+        "Option": "Debug Weapons",
+        "Type": "array",
+        "Default": "[]",
+        "Effect": "Weapons to add at the start of each wave. Can add multiple of the same weapon"
+      },
+      {
+        "Option": "Debug Items",
+        "Type": "array",
+        "Default": "[]",
+        "Effect": "Items to add once, at the start of the next wave. Can add multiple of the same item"
+      },
+      {
+        "Option": "Remove Starting Weapons",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "Removes your starting weapons."
+      },
+      {
+        "Option": "Add All Weapons",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "Adds every weapon. Can go over your character's weapon limit"
+      },
+      {
+        "Option": "Add All Items",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "Adds every item to your character. Can be combined with debug_items to stack them"
+      },
+      {
+        "Option": "Unlock All Chars",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "Unlocks all characters. Temporary"
+      },
+      {
+        "Option": "Unlock All Challenges",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "Permanent. Unlocks all challenges: Completes every challenge Unlocks their Steam achievements Saves this data to your save file Make sure you enable the \"Disable Saving\" option before using this, otherwise it will affect your save file."
+      },
+      {
+        "Option": "Unlock All Difficulties",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "Unlocks all danger levels. Temporary"
+      },
+      {
+        "Option": "Generate Full Unlocked Save File",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": ""
+      },
+      {
+        "Option": "Reinitialize Save",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": ""
+      },
+      {
+        "Option": "Reinitialize Steam Data",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": ""
+      },
+      {
+        "Option": "Disabling Saving",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "Highly recommended. Prevents the game from ever saving, which protects your save file. Always use if you also enable \"Unlock All Challenges\"."
+      },
+      {
+        "Option": "Randomize Equipment",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "Start with 6 of a random weapon. Start with 10 - 500 materials. Start at level 10 - 26."
+      },
+      {
+        "Option": "Hide Wave Timer",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": ""
+      },
+      {
+        "Option": "Nullify Enemy Speed",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": ""
+      },
+      {
+        "Option": "No Enemies",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": ""
+      },
+      {
+        "Option": "Debug Enemies",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": ""
+      },
+      {
+        "Option": "Spawn Specific Elite",
+        "Type": "bool",
+        "Default": "false",
+        "Effect": "Forces a specific Elite to spawn during an Elite wave. Does nothing on regular waves. Details below."
+      }
+    ]
+  },
+  {
+    "table_index": 5,
+    "section": "Text - BBCode > Color Options",
+    "columns": [
+      "Code",
+      "Color",
+      "Example",
+      "Notes",
+      "Via"
+    ],
+    "row_count": 10,
+    "rows": [
+      {
+        "Code": "[color=#00ff00]TEXT[/color]",
+        "Color": "Green",
+        "Example": "TEXT",
+        "Notes": "",
+        "Via": "Utils.POS_COLOR_STR"
+      },
+      {
+        "Code": "[color=red]TEXT[/color]",
+        "Color": "Red",
+        "Example": "TEXT",
+        "Notes": "",
+        "Via": "Utils.NEG_COLOR_STR"
+      },
+      {
+        "Code": "[color=white]TEXT[/color]",
+        "Color": "White",
+        "Example": "TEXT",
+        "Notes": "",
+        "Via": "Color.white"
+      },
+      {
+        "Code": "[color=#555555]TEXT[/color]",
+        "Color": "Grey",
+        "Example": "TEXT",
+        "Notes": "",
+        "Via": "Utils.GRAY_COLOR_STR"
+      },
+      {
+        "Code": "[color=#76FF76]TEXT[/color]",
+        "Color": "Materials",
+        "Example": "TEXT",
+        "Notes": "Actually rgb(118,255,118)",
+        "Via": "Utils.GOLD_COLOR"
+      },
+      {
+        "Code": "[color=#EAE2B0]TEXT[/color]",
+        "Color": "Secondary",
+        "Example": "TEXT",
+        "Notes": "Actually rgb(234,226,176)",
+        "Via": "Utils.SECONDARY_FONT_COLOR"
+      },
+      {
+        "Code": "[color=#C8C8C8]TEXT[/color]",
+        "Color": "Tier 1",
+        "Example": "TEXT",
+        "Notes": "",
+        "Via": "NA [c 1]"
+      },
+      {
+        "Code": "[color=#4A9BD1]TEXT[/color]",
+        "Color": "Tier 2",
+        "Example": "TEXT",
+        "Notes": "Actually rgb(74,155,209)",
+        "Via": "ItemService.TIER_UNCOMMON_COLOR"
+      },
+      {
+        "Code": "[color=#AD5AFF]TEXT[/color]",
+        "Color": "Tier 3",
+        "Example": "TEXT",
+        "Notes": "Actually rgb(173,90,255)",
+        "Via": "ItemService.TIER_RARE_COLOR"
+      },
+      {
+        "Code": "[color=#FF3B3B]TEXT[/color]",
+        "Color": "Tier 4",
+        "Example": "TEXT",
+        "Notes": "Actually rgb(255,59,59)",
+        "Via": "ItemService.TIER_LEGENDARY_COLOR"
+      }
+    ]
+  },
+  {
+    "table_index": 6,
+    "section": "Text - BBCode > Image Icons",
+    "columns": [
+      "BBCode",
+      "Icon",
+      "Stat Name"
+    ],
+    "row_count": 16,
+    "rows": [
+      {
+        "BBCode": "[img=20x20]res://items/stats/max_hp.png[/img]",
+        "Icon": "",
+        "Stat Name": "Max HP"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/hp_regeneration.png[/img]",
+        "Icon": "",
+        "Stat Name": "HP Regeneration"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/lifesteal.png[/img]",
+        "Icon": "",
+        "Stat Name": "Life Steal"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/percent_damage.png[/img]",
+        "Icon": "",
+        "Stat Name": "Damage"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/melee_damage.png[/img]",
+        "Icon": "",
+        "Stat Name": "Melee Damage"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/ranged_damage.png[/img]",
+        "Icon": "",
+        "Stat Name": "Ranged Damage"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/elemental_damage.png[/img]",
+        "Icon": "",
+        "Stat Name": "Elemental Damage"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/attack_speed.png[/img]",
+        "Icon": "",
+        "Stat Name": "Attack Speed"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/crit_chance.png[/img]",
+        "Icon": "",
+        "Stat Name": "Crit Chance"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/engineering.png[/img]",
+        "Icon": "",
+        "Stat Name": "Engineering"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/range.png[/img]",
+        "Icon": "",
+        "Stat Name": "Range"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/armor.png[/img]",
+        "Icon": "",
+        "Stat Name": "Armor"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/dodge.png[/img]",
+        "Icon": "",
+        "Stat Name": "Dodge"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/speed.png[/img]",
+        "Icon": "",
+        "Stat Name": "Speed"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/luck.png[/img]",
+        "Icon": "",
+        "Stat Name": "Luck"
+      },
+      {
+        "BBCode": "[img=20x20]res://items/stats/harvesting.png[/img]",
+        "Icon": "",
+        "Stat Name": "Harvesting"
+      }
+    ]
+  },
+  {
+    "table_index": 7,
+    "section": "Item Tags",
+    "columns": [
+      "Stats",
+      "Misc"
+    ],
+    "row_count": 16,
+    "rows": [
+      {
+        "Stats": "stat_armor",
+        "Misc": "economy"
+      },
+      {
+        "Stats": "stat_attack_speed",
+        "Misc": "exploration"
+      },
+      {
+        "Stats": "stat_crit_chance",
+        "Misc": "explosive"
+      },
+      {
+        "Stats": "stat_dodge",
+        "Misc": "less_enemies"
+      },
+      {
+        "Stats": "stat_elemental_damage",
+        "Misc": "less_enemy_speed"
+      },
+      {
+        "Stats": "stat_engineering",
+        "Misc": "more_enemies"
+      },
+      {
+        "Stats": "stat_harvesting",
+        "Misc": "pickup"
+      },
+      {
+        "Stats": "stat_hp_regeneration",
+        "Misc": "saving"
+      },
+      {
+        "Stats": "stat_lifesteal",
+        "Misc": "stand_still"
+      },
+      {
+        "Stats": "stat_luck",
+        "Misc": "xp_gain"
+      },
+      {
+        "Stats": "stat_max_hp",
+        "Misc": ""
+      },
+      {
+        "Stats": "stat_melee_damage",
+        "Misc": ""
+      },
+      {
+        "Stats": "stat_percent_damage",
+        "Misc": ""
+      },
+      {
+        "Stats": "stat_range",
+        "Misc": ""
+      },
+      {
+        "Stats": "stat_ranged_damage",
+        "Misc": ""
+      },
+      {
+        "Stats": "stat_speed",
+        "Misc": ""
+      }
+    ]
+  },
+  {
+    "table_index": 8,
+    "section": "GitHub",
+    "columns": [
+      "Modding [T]",
+      "Modding [T].1"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Modding [T]": "Wiki",
+        "Modding [T].1": "Modding • Notes • Effects • Vanilla Items"
+      },
+      {
+        "Modding [T]": "Godot",
+        "Modding [T].1": "Download • Docs • GDRETools • GodotSteam • Jonus' Tutorial"
+      },
+      {
+        "Modding [T]": "Misc",
+        "Modding [T].1": "BrotatoMods • Cooldown Calculator"
+      }
+    ]
+  }
+]

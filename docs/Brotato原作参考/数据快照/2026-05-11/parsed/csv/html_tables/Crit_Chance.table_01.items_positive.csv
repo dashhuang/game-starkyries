@@ -1,0 +1,14 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Alloy,Tier 3,+3 Melee Damage +3 Ranged Damage +3 Elemental Damage +3 Engineering +5 % Crit Chance -6 % Dodge,80,,,"Melee Damage, Ranged Damage, Engineering, Crit Chance, Elemental Damage"
+Blindfold,Tier 2,+5 % Crit Chance +5 % Dodge -15 Range,45,,,"Crit Chance, Dodge"
+Claw Tree,Tier 1,+1 Melee Damage +3 % Crit Chance -1 Max HP,20,,,"Melee Damage, Crit Chance"
+Energy Bracelet,Tier 2,+4 % Crit Chance +2 Elemental Damage -2 Ranged Damage,55,,,"Crit Chance, Elemental Damage"
+Exoskeleton,Tier 4,+3 Armor +5 % Crit Chance +5 Engineering +5 % Speed -2 HP Regeneration -2 % Life Steal,90,,,"Armor, Crit Chance, Engineering, Speed"
+Eyepatch(DLC),Tier 2,Projectiles get +1 piercing on critical hit +3 % Crit Chance -10% Accuracy,55,,Win a run with Buccaneer,"Crit Chance, Ranged Damage"
+Frozen Heart,Tier 3,+8 Elemental Damage +5 % Crit Chance Weapon damage additionally scales with 10% Elemental Damage Burning activates 100% slower,90,1.0,,"Elemental Damage, Crit Chance"
+Insanity,Tier 1,+6 % Crit Chance -3 % Damage,20,,,Crit Chance
+Night Goggles,Tier 4,+15 % Crit Chance +50 Range -3 Max HP -1 Armor,95,,Win a run with Ranger,"Crit Chance, Range"
+Pile of Books,Tier 3,Your structures can crit +3 % Crit Chance +3 Engineering,70,1.0,,"Crit Chance, Engineering"
+Poisonous Tonic,Tier 3,+10 % Attack Speed +5 % Crit Chance +15 Range -2 HP Regeneration,80,,,"Attack Speed, Crit Chance, Range"
+Sunglasses,Tier 2,+10 % Crit Chance -1 Armor,50,,,Crit Chance
+Tentacle,Tier 2,+3 % Crit Chance +20% chance to heal 1 HP when killing an enemy with a critical hit,35,5.0,Win a run with Lich,Crit Chance

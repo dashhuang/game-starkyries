@@ -1,0 +1,12 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Blood Donation,Tier 3,+40 Harvesting You take 1 damage per second (does not give invulnerability time),50,,,Harvesting
+Bowler Hat,Tier 3,+15 Luck +18 Harvesting -5 % Attack Speed -3 % Crit Chance,75,,Win a run with Entrepreneur,"Luck, Harvesting"
+Crown,Tier 3,Harvesting increases by an additional 8% at the end of a wave,70,1.0,,Harvesting
+Fertilizer,Tier 1,+8 Harvesting -1 Melee Damage,15,,,Harvesting
+Little Frog,Tier 2,+20% pickup range +10 Harvesting -3 % Dodge,45,,,"Harvesting, Pickup"
+Peaceful Bee,Tier 1,+4 % Dodge +4 Harvesting -1 Melee Damage -1 Ranged Damage,18,,,"Dodge, Harvesting"
+Starfish(DLC),Tier 3,+20% materials dropped from enemies +10 Harvesting +15 % Enemy damage,75,3.0,Win a run with Diver,Harvesting
+Tractor,Tier 3,+40 Harvesting -8 % Damage,70,,,Harvesting
+Wheat,Tier 3,+4 Melee Damage +2 Ranged Damage +10 Harvesting -2 Elemental Damage,85,,Win a run with Farmer,"Melee Damage, Ranged Damage, Harvesting"
+Wheelbarrow,Tier 2,+16 Harvesting -1 Armor,40,,,Harvesting
+White Flag,Tier 2,+5 Harvesting -5% Enemies,40,1.0,,"Harvesting, Less Enemies"

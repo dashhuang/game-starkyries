@@ -1,0 +1,22 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Bandana,Tier 3,Projectiles pierce through 1 additional target -10 % Damage,75,,,Ranged Damage
+Cake,Tier 1,+3 Max HP -1 % Damage,15,,,Max HP
+Candle,Tier 3,+4 Elemental Damage +1 HP Regeneration -10% Enemies -5 % Damage,65,1.0,,"Elemental Damage, HP Regeneration, Less Enemies"
+Chameleon,Tier 3,+3 % Dodge +20 % Dodge while standing still -4 % Damage,70,,,"Dodge, Stand Still"
+Coffee,Tier 1,+10 % Attack Speed -2 % Damage,20,,,Attack Speed
+Cog,Tier 2,+4 Engineering +1 Knockback -4 % Damage,35,,,"Engineering, Knockback"
+Insanity,Tier 1,+6 % Crit Chance -3 % Damage,20,,,Crit Chance
+Mammoth,Tier 4,+20 Melee Damage +5 HP Regeneration +5 Knockback -8 % Damage -3 % Speed,110,,,"Melee Damage, HP Regeneration, Knockback"
+Metal Detector,Tier 2,+5% chance to double the value of picked up materials +6 Luck +2 Engineering -5 % Damage,40,20.0,,"Luck, Engineering, Pickup, Economy"
+Metal Plate,Tier 2,+2 Armor -3 % Damage,40,,,Armor
+Panda,Tier 4,+12 Max HP +25 Luck -5 % Damage,100,,Win a run with Pacifist,"Max HP, Luck"
+Power Generator,Tier 3,+1 % Damage for every permanent 1 % Speed you have -5 % Damage,65,1.0,,"Speed, Damage"
+Propeller Hat,Tier 1,+10 Luck -2 % Damage,28,,,Luck
+Pumpkin,Tier 2,+15% Piercing Damage. Can't go above base damage -2 % Damage,40,,,Ranged Damage
+Ricochet,Tier 4,Your projectiles gain +1 bounce -25 % Damage,110,,,Ranged Damage
+Seashell(DLC),Tier 4,Every ranged weapon's 5th projectile has +3 projectiles -10 % Damage,100,1.0,,Ranged Damage
+Small Magazine,Tier 2,+2 Ranged Damage +10 % Attack Speed -6 % Damage,60,,,"Ranged Damage, Attack Speed"
+Sharp Bullet,Tier 1,Projectiles pierce through 1 additional target -20% Piercing Damage -5 % Damage -3 Knockback,25,1.0,,Ranged Damage
+Tractor,Tier 3,+40 Harvesting -8 % Damage,70,,,Harvesting
+Triangle of Power,Tier 3,+20 % Damage +1 Armor -2 % Damage when you take damage until the end of the wave,65,,,Damage
+Wisdom,Tier 3,+5 % Damage every 5 seconds until the end of the wave -15 % Damage,85,1.0,,Damage

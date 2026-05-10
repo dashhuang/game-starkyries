@@ -1,0 +1,5 @@
+Name,Stats,Unlocked By,Unlocks,Item Tags
+Lich,+10 HP Regeneration +10 % Life Steal 100% chance to deal 10 () damage to a random enemy when you heal Damage modifications are reduced by 50%,Reach +100 Max HP,Tentacle,"Max HP, HP Regeneration, Life Steal"
+Sick,+12 Max HP +25% Life Steal You take 1 damage per second (does not give invulnerability time) -100 HP Regeneration,Reach -5 % HP Regeneration,Whetstone,Life Steal
+Vampire,+2 % Damage for every 1% of missing health +1 % Life Steal for every 3% of missing health +1 Armor for every 5% of missing health Max HP modifications are reduced by 25% -60 % Damage -100 HP Regeneration -100 HP recovered from consumables,Reach +40 % Life Steal,Decomposing Flesh,Life Steal
+Wildling,+30% Life Steal with Primitive weapons You start with 1 Stick You can't equip weapons above tier 2,Kill 10000 enemies,Hatchet,

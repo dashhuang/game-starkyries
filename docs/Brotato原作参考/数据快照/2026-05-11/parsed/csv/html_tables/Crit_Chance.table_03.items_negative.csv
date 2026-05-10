@@ -1,0 +1,9 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Bowler Hat,Tier 3,+15 Luck +18 Harvesting -5 % Attack Speed -3 % Crit Chance,75,,Win a run with Entrepreneur,"Luck, Harvesting"
+Compass,Tier 2,+5 % Speed +3 Engineering -3 % Crit Chance,40,,Win a run with Explorer,"Speed, Engineering"
+Goat Skull,Tier 1,+3 Melee Damage -2 % Crit Chance,25,,,Melee Damage
+Heavy Bullets,Tier 4,+5 Ranged Damage +10 % Damage +10 Range -5 % Attack Speed -5 % Crit Chance,100,,,"Ranged Damage, Damage, Range"
+Medal,Tier 2,+3 Max HP +3 % Damage +1 Armor +3 % Speed -4 % Crit Chance,55,,,"Max HP, Damage, Armor, Speed"
+Octopus,Tier 4,+12 Max HP +5 HP Regeneration +3 % Life Steal -8 % Crit Chance,105,,Win a run with Mutant,"Max HP, Life Steal, HP Regeneration"
+Pencil,Tier 1,+2 Engineering -1 % Attack Speed -1 % Crit Chance,15,,,Engineering
+Rip and Tear,Tier 3,Enemies have a 20% chance to explode for 10 (+50%) damage when they die -5 % Crit Chance,65,5.0,Win a run with Loud,"Melee Damage, Explosive"

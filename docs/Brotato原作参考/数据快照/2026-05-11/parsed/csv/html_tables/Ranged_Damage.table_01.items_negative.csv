@@ -1,0 +1,10 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Cape,Tier 4,+5 % Life Steal +20 % Dodge -2 Melee Damage -2 Ranged Damage -2 Elemental Damage,110,,,"Life Steal, Dodge"
+Cute Monkey,Tier 1,+8% chance to heal 1 HP when picking up a material -1 Ranged Damage,25,13.0,,Pickup
+Energy Bracelet,Tier 2,+4 % Crit Chance +2 Elemental Damage -2 Ranged Damage,55,,,"Crit Chance, Elemental Damage"
+Fuel Tank,Tier 2,+4 Elemental Damage -1 Melee Damage -1 Ranged Damage,45,,,Elemental Damage
+Lucky Charm,Tier 3,+30 Luck -2 Melee Damage -1 Ranged Damage,75,,Win a run with Lucky,Luck
+Mastery,Tier 2,+6 Melee Damage -3 Ranged Damage,55,,,Melee Damage
+Nail,Tier 3,+5 Engineering Weapon damage additionally scales with 20% Engineering -2 Ranged Damage,65,1.0,,Engineering
+Peaceful Bee,Tier 1,+4 % Dodge +4 Harvesting -1 Melee Damage -1 Ranged Damage,18,,,"Dodge, Harvesting"
+Shmoop,Tier 3,+6 Max HP +2 HP Regeneration -2 Melee Damage -1 Ranged Damage,60,,,"Max HP, HP Regeneration"

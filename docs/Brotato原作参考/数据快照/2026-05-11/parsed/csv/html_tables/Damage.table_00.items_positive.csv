@@ -1,0 +1,28 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Ashes(DLC),Tier 4,+20 % Damage +20 % Attack Speed +100 Range -1 Armor at the end of a wave,100,,,"Attack Speed, Damage, Range"
+Bait,Tier 2,+8 % Damage Special enemies appear at the beginning of the next wave,25,,,"Damage, Number of Enemies"
+Ball and Chain,Tier 3,+15 % Damage +3 Armor +5 Knockback -3 % Speed Weapons have a minimum cooldown of 0.75 seconds between attacks,75,1.0,,"Damage, Armor, Knockback"
+Bone Dice(DLC),Tier 2,+50% chance to get +1 % Damage when rerolling in the shop +10% chance to get -1 Max HP when rerolling in the shop,30,2.0,,Damage
+Bloody Hand,Tier 4,+10 % Life Steal +2 % Damage for every 1 % Life Steal you have You take 1 damage per second (does not give invulnerability time),110,1.0,,Life Steal
+Cauldron(DLC),Tier 2,+50% pickup range +20 % Damage for 2 seconds after picking up a consumable -2 HP Regeneration,35,1.0,Win a run with Druid,Pickup
+Coil,Tier 3,+5 Knockback +1 % Damage for every 1 Knockback you have,70,3.0,,"Damage, Knockback"
+Corrupted Shard(DLC),Tier 1,+3 % Damage +1 Curse,12,,,"Damage, Curse"
+Cyclops Worm,Tier 2,+12 % Damage -12 Range,45,,,Damage
+Focus,Tier 4,+30 % Damage -3 % Attack Speed for every different weapon you have,110,,Win a run with One Armed,Damage
+Gentle Alien,Tier 1,+2 Max HP +5 % Damage +5% Enemies,30,10.0,,"Max HP, Damage, More Enemies"
+Glass Cannon,Tier 3,+25 % Damage -3 Armor,75,,,Damage
+Head Injury,Tier 1,+6 % Damage -8 Range,25,,,Damage
+Heavy Bullets,Tier 4,+5 Ranged Damage +10 % Damage +10 Range -5 % Attack Speed -5 % Crit Chance,100,,,"Ranged Damage, Damage, Range"
+Injection,Tier 1,+7 % Damage -2 Max HP,20,,,Damage
+Knot(DLC),Tier 3,+15 % Damage +15 Max HP Weapons can no longer be upgraded or recycled,80,1.0,,"Damage, Max HP"
+Lantern(DLC),Tier 4,+10 % Damage +50 Range +15 Knockback Knocks nearby enemies back every 3 seconds,100,1.0,,"Damage, Range, Knockback"
+Medal,Tier 2,+3 Max HP +3 % Damage +1 Armor +3 % Speed -4 % Crit Chance,55,,,"Max HP, Damage, Armor, Speed"
+Pearl(DLC),Tier 2,+1 % Damage for every permanent 10 Luck you have +3% chance of finding an extra Pearl in a crate,60,20.0,Win a run with Curious,Luck
+Power Generator,Tier 3,+1 % Damage for every permanent 1 % Speed you have -5 % Damage,65,1.0,,"Speed, Damage"
+Missile,Tier 2,+10 % Damage -4 % Attack Speed,45,,,Damage
+Potato,Tier 4,+3 Max HP +2 HP Regeneration +1 % Life Steal +5 % Damage +5 % Attack Speed +3 % Speed +3 % Dodge +1 Armor +5 Luck,95,,Win a run with Well Rounded,"Max HP, HP Regeneration, Damage, Speed, Luck"
+Ritual,Tier 2,+6 % Damage +2 % Life Steal -2 Engineering,60,,Win a run with Ghost,"Damage, Life Steal"
+Spider,Tier 4,+12 % Damage +6 % Attack Speed for every different weapon you have -3 % Dodge -5 Harvesting,110,,Win a run with Gladiator,"Damage, Attack Speed"
+Triangle of Power,Tier 3,+20 % Damage +1 Armor -2 % Damage when you take damage until the end of the wave,65,,,Damage
+Vigilante Ring,Tier 3,+3 % Damage at the end of a wave,92,,,Damage
+Wisdom,Tier 3,+5 % Damage every 5 seconds until the end of the wave -15 % Damage,85,1.0,,Damage

@@ -1,0 +1,12 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Adrenaline,Tier 3,+5 % Dodge 50% chance to heal 5 HP when dodging an attack,60,1.0,,Dodge
+Blindfold,Tier 2,+5 % Crit Chance +5 % Dodge -15 Range,45,,,"Crit Chance, Dodge"
+Cape,Tier 4,+5 % Life Steal +20 % Dodge -2 Melee Damage -2 Ranged Damage -2 Elemental Damage,110,,,"Life Steal, Dodge"
+Chameleon,Tier 3,+3 % Dodge +20 % Dodge while standing still -4 % Damage,70,,,"Dodge, Stand Still"
+Clover,Tier 3,+20 Luck +6 % Dodge -2 % Life Steal,65,,,"Luck, Dodge"
+Feather(DLC),Tier 1,+1 Ranged Damage +3 % Dodge -3 % XP Gain,18,,,"Ranged Damage, Dodge"
+Gambling Token,Tier 2,+8 % Dodge -1 Armor,50,,,Dodge
+Ghost Outfit,Tier 3,Dodge is capped at 70% +10% Dodge -5% Speed -3 Armor,80,1.0,Reach 70% Dodge,Dodge
+Jet Pack,Tier 4,+15 % Speed +10 % Dodge -5 Max HP -1 Armor,100,,,"Speed, Dodge"
+Leather Vest,Tier 2,+2 Armor +6 % Dodge -3 Max HP,45,,,"Armor, Dodge"
+Peaceful Bee,Tier 1,+4 % Dodge +4 Harvesting -1 Melee Damage -1 Ranged Damage,18,,,"Dodge, Harvesting"

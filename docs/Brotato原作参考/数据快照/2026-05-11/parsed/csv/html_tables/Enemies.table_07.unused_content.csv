@@ -1,0 +1,2 @@
+Name,Behavior,Health,+hp/wave,Speed,Damage,+dmg/wave,Materials Dropped,Consumable Drop Rate,Loot Crate Drop Rate,First Wave Appearing,ID†
+Corrupted Tree,"No longer spawns in the Game. But exists in Gamefiles. Stands in place, creates circling projectiles that deals damage",15,13.0,0,1,1.1,0,0%,0%,D1 : 15,9

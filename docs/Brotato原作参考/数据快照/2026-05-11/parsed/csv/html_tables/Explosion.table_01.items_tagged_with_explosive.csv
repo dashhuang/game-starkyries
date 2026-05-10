@@ -1,0 +1,10 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Dynamite,Tier 1,+15 % Explosion Damage,20,,,Explosive
+Explosive Shells,Tier 4,+60 % Explosion Damage +15 % Explosion Size -15 % Damage,100,,Win a run with Artificer,Explosive
+Honey,Tier 3,+3 Ranged Damage +10 % Explosion Damage +5 % Explosion Size -3 % Speed -3 % Dodge,70,,,"Ranged Damage, Explosive"
+Kraken's Eye(DLC),Tier 4,You have a 50% chance to explode for 10 (+500%) damage when you get hit +10 Max HP +10 Curse,110,1.0,,"Explosive, Max HP, Curse"
+Landmines,Tier 1,A landmine spawns every 12 seconds dealing 10 (+100%) damage in an area,15,,,"Engineering, Explosive, Structure"
+Plastic Explosive,Tier 3,+25 % Explosion Size,60,,,Explosive
+Rip and Tear,Tier 3,Enemies have a 20% chance to explode for 10 (+50%) damage when they die -5 % Crit Chance,65,5.0,Win a run with Loud,"Melee Damage, Explosive"
+Spicy Sauce,Tier 2,+3 Max HP Consumables have a 50% chance to explode for 10 (+100%) damage when picked up,40,2.0,Win a run with Glutton,"Max HP, Luck, Explosive"
+Sunken Bell(DLC),Tier 3,"Once per wave, you explode for 100 (+500%+500%+500%+500%) damage when you fall below 40% health",65,1.0,,Explosive

@@ -1,0 +1,23 @@
+Name,Behavior,Health,+hp/wave,Speed,Damage,+dmg/wave,Knockback Resistance,Materials Dropped,Consumable Drop Rate,Loot Crate Drop Rate,First Wave Appearing,ID†
+Tree,"Neutral, drops fruit or Crate on death as well as 3 Materials.",10,5.0,0,0,0.0,1.0 (can't knockback),3,100%,20%,1,-
+Baby Alien,"Chases the character, deals damage on touch",3,2.0,200-300,1,0.6,0.0,1,1%,1%,1,1
+Chaser,"Chases the character, deals damage on touch, spawns in groups",1,1.0,380,1,0.6,0.0,1,2%,3%,2,2
+Spitter,"Runs away from the character if too close, fires projectiles that deal damage on hit",8,1.0,200,1,0.6,0.95,1,3%,10%,4,3
+Charger,"Chases the character, can charge with cooldown of 2.5-3.5 seconds, damages on touch",4,2.5,400,1,0.85,0.8,1,1%,1%,3,4
+Pursuer,"Chases the character, damages on touch, keeps getting faster each second",10,24.0,"150, charging up to 600",1,1.2,0.0,3,3%,3%,11,5
+Bruiser,"Chases the character, can charge with cooldown of 2.5-3.5 seconds, damages on touch",20,11.0,300,2,0.85,0.9,3,3%,3%,8,6
+Buffer,"Runs away from the character, Buffs other enemies' health by 150%, damage by 25%, and speed by 50%. Buffed enemies are outlined in red",20,3.0,150,1,0.6,0.95,2,1%,1%,16,7
+Fly,Moves around player. Fires projectiles in random directions when hit by the player's projectiles. Melee Weapons can safely hit the Fly without spawning Projectiles.,15,4.0,325-375,1,0.85,0.0,1,1%,1%,D1 : 4,8
+Healer,"Moves around enemies, healing enemies around it for 100(increasing by 10 each wave)",10,8.0,400,1,0.85,0.0,2,3%,3%,D1 : 7,12
+Looter,"Runs away from the character, drops a Loot Crate and 8 Materials on death Has 10% chance to spawn 25 seconds into a wave, and every 15 seconds thereafter.",5,30.0,300-400,1,0.85,0.0,8,100%,100%,3,13
+Helmet Alien,"Chases the character, deals damage on touch",8,4.0,225-275,1,1.0,0.5,1,1%,1%,13 D1: 10 D4: 4,14
+Fin Alien,"Chases the character, deals damage on touch",12,2.0,400,1,1.0,0.0,1,2%,3%,15 D1 : 9,15
+Spawner,Spawns 3 Junkie Aliens on death,10,1.0,120,1,0.85,0.7,1,1%,1%,14,16
+Junkie,"Moves around player, fires projectiles near player that deals damage",5,5.0,350,1,1.0,0.5,1,1%,1%,14,17
+Horned Bruiser,"Chases the character, can charge with cooldown of 2.5-3.5 seconds, damages on touch",30,22.0,300,1,1.15,0.9,3,3%,3%,13 D1 : 8,18
+Horned Charger,"Chases the character, can charge with cooldown of 2.5-3.5 seconds, damages on touch",12,5.0,425,1,1.1,0.8,1,1%,1%,18 D4: 5,19
+Slasher Egg,"Stays still, dies and spawns a Slasher after 5 seconds unless killed",5,3.0,0,1,0.6,1.0 (can't knockback),1,0%,0%,D1: 7,23
+Slasher,"Follows the character, runs away if too close, slashes vertically dealing damage from medium range",50,25.0,250-300,1,1.15,0.9,3,1%,1%,D1 : 4,24
+Tentacle,"Follows the character, runs away if too close, attacks in ""V"" shape from medium range",100,20.0,175,1,1.0,0.7,3,2%,2%,D3 : 13,25
+Lamprey,"Spawns on the wave Bait is bought. Follows the player, charges to the player every 1.5 seconds, shooting projectiles to its left and right during the charge",30,15.0,350,1,0.75,0.95,1,1%,1%,,26
+Gobbler,"Target materials to eat them, dealing damage on touch. Eating makes it grow. Has 3% chance to spawn 10 seconds into a wave. Mutation 0: Fast but fragile. Killing it makes it drop all the materials it ate. Mutation 1: Loses speed but gains max HP. Killing it makes it drop twice the amount of materials it ate. Mutation 2: Loses more speed but gains even more max HP. Killing it makes it drop three times the amount of materials it ate.",5,30.0,300-400,1,0.85,0.0,8,100%,100%,1,

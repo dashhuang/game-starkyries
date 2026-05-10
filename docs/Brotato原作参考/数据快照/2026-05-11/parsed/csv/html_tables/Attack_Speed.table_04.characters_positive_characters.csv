@@ -1,0 +1,8 @@
+Name,Stats,Unlocked By,Unlocks,Item Tags
+Brawler,+50% Attack Speed with Unarmed weapons You start with 1 Fist +15% Dodge -50 Range -50 Ranged Damage,Unlocked by default,Power Fist,Melee Damage
+Crazy,+100 Range with Precise weapons +25% Attack Speed You start with 1 Knife -30% Dodge -10 Engineering -10 Ranged Damage,Unlocked by default,Hunting Trophy,"Crit Chance, Melee Damage"
+Cryptid,More trees spawn (+6) Gain 12 material and XP for every living tree at the end of a wave +3 HP Regeneration for every current living tree Dodge is capped at 70% +3 Attack Speed until the end of the wave when you dodge an attack -100 % Life Steal -100 Range -50% materials dropped from enemies,Finish a wave with 10 or more living trees,Claw,"Exploration, Dodge"
+Golem,+20 Max HP Max HP modifications are increased by 33% Armor modifications are increased by 33% +40 % Attack Speed when you have less than 50% health +20 % Speed when you have less than 50% health You can't heal in any way,Finish a wave with 1 HP,Stone Skin,"Max HP, Armor"
+King,+50 Luck +25 % Damage for every Tier IV weapon you have +25% Attack Speed for every Tier IV weapon you have +5 Max HP for every different Tier IV item you have -15% Damage for every Tier I weapon you have -15% Attack Speed for every Tier I weapon you have -2 Max HP for every different Tier I item you have UNLISTED BONUS: Starting weapon is Tier II,Get 3 tier IV weapons at once,Excalibur,
+One Armed,+200% Attack Speed Damage modifications are increased by 100% You can only equip one weapon at a time,Win a run in Danger 0,Focus,Damage
+Soldier,+50% Damage while standing still +50% Attack Speed while standing still +10% Speed +200% pickup range +15 Knockback You cant attack while moving,Win a run in Danger 2,Nuclear Launcher,Stand Still

@@ -1,0 +1,771 @@
+[
+  {
+    "table_index": 0,
+    "section": "Items > Positive",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 18,
+    "rows": [
+      {
+        "Name": "Alloy",
+        "Rarity": "Tier 3",
+        "Effects": "+3 Melee Damage +3 Ranged Damage +3 Elemental Damage +3 Engineering +5 % Crit Chance -6 % Dodge",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Ranged Damage, Engineering, Crit Chance, Elemental Damage"
+      },
+      {
+        "Name": "Book",
+        "Rarity": "Tier 1",
+        "Effects": "+1 Engineering",
+        "Base Price": "8",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering"
+      },
+      {
+        "Name": "Cog",
+        "Rarity": "Tier 2",
+        "Effects": "+4 Engineering +1 Knockback -4 % Damage",
+        "Base Price": "35",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering, Knockback"
+      },
+      {
+        "Name": "Compass",
+        "Rarity": "Tier 2",
+        "Effects": "+5 % Speed +3 Engineering -3 % Crit Chance",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "Win a run with Explorer",
+        "Tags": "Speed, Engineering"
+      },
+      {
+        "Name": "Diploma",
+        "Rarity": "Tier 4",
+        "Effects": "+10 Engineering +50 % XP Gain -3 Max HP",
+        "Base Price": "90",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering, XP Gain"
+      },
+      {
+        "Name": "Duct Tape",
+        "Rarity": "Tier 1",
+        "Effects": "+1 Armor +1 Engineering -2 Max HP",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Armor, Engineering"
+      },
+      {
+        "Name": "Exoskeleton",
+        "Rarity": "Tier 4",
+        "Effects": "+3 Armor +5 % Crit Chance +5 Engineering +5 % Speed -2 HP Regeneration -2 % Life Steal",
+        "Base Price": "90",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Armor, Crit Chance, Engineering, Speed"
+      },
+      {
+        "Name": "Lighthouse(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "+20 Engineering -1 Engineering for every 1 Structure you have",
+        "Base Price": "80",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Builder",
+        "Tags": "Engineering"
+      },
+      {
+        "Name": "Metal Detector",
+        "Rarity": "Tier 2",
+        "Effects": "+5% chance to double the value of picked up materials +6 Luck +2 Engineering -5 % Damage",
+        "Base Price": "40",
+        "Limit": "20.0",
+        "Unlocked By": "",
+        "Tags": "Luck, Engineering, Pickup, Economy"
+      },
+      {
+        "Name": "Nail",
+        "Rarity": "Tier 3",
+        "Effects": "+5 Engineering Weapon damage additionally scales with 20% Engineering -2 Ranged Damage",
+        "Base Price": "65",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Engineering"
+      },
+      {
+        "Name": "Pencil",
+        "Rarity": "Tier 1",
+        "Effects": "+2 Engineering -1 % Attack Speed -1 % Crit Chance",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering"
+      },
+      {
+        "Name": "Pile of Books",
+        "Rarity": "Tier 3",
+        "Effects": "Your structures can crit +3 % Crit Chance +3 Engineering",
+        "Base Price": "70",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Crit Chance, Engineering"
+      },
+      {
+        "Name": "Pocket Factory",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Engineering Killing a tree spawns a turret",
+        "Base Price": "75",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Engineering, Exploration, Structure"
+      },
+      {
+        "Name": "Reinforced Steel",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Ranged Damage +3 Engineering -3 % Speed",
+        "Base Price": "50",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage, Engineering"
+      },
+      {
+        "Name": "Robot Arm",
+        "Rarity": "Tier 4",
+        "Effects": "+3 Melee Damage at the end of a wave +3 Engineering at the end of a wave -1 Max HP at the end of a wave",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "Win a run with Engineer",
+        "Tags": "Melee Damage, Engineering"
+      },
+      {
+        "Name": "Shackles",
+        "Rarity": "Tier 3",
+        "Effects": "+8 HP Regeneration +8 Engineering +80 Range Your Speed is capped at its current value",
+        "Base Price": "80",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Range, HP Regeneration, Engineering"
+      },
+      {
+        "Name": "Strange Book",
+        "Rarity": "Tier 3",
+        "Effects": "+1 Engineering for every permanent 1 Elemental Damage you have -1 Melee Damage -1 Ranged Damage",
+        "Base Price": "70",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Engineering, Elemental Damage"
+      },
+      {
+        "Name": "Toolbox",
+        "Rarity": "Tier 3",
+        "Effects": "+6 Engineering -8 % Attack Speed",
+        "Base Price": "55",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Items > Negative",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Lighthouse(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "+20 Engineering -1 Engineering for every 1 Structure you have",
+        "Base Price": "80",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Builder",
+        "Tags": "Engineering"
+      },
+      {
+        "Name": "Ritual",
+        "Rarity": "Tier 2",
+        "Effects": "+6 % Damage +2 % Life Steal -2 Engineering",
+        "Base Price": "60",
+        "Limit": "",
+        "Unlocked By": "Win a run with Ghost",
+        "Tags": "Damage, Life Steal"
+      },
+      {
+        "Name": "Wolf Helmet",
+        "Rarity": "Tier 4",
+        "Effects": "+10 Elemental Damage +20 Luck -5 Engineering",
+        "Base Price": "90",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Elemental Damage, Luck"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Items > Mechanics",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 7,
+    "rows": [
+      {
+        "Name": "Clockwork Wasp",
+        "Rarity": "Tier 2",
+        "Effects": "+10 % Structure attack speed +5 % Speed",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Structure, Speed"
+      },
+      {
+        "Name": "Improved Tools",
+        "Rarity": "Tier 3",
+        "Effects": "+10 % Attack Speed Increases the attack speed of your structures by 0% (50%)",
+        "Base Price": "70",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Cyborg",
+        "Tags": "Structure, Attack Speed"
+      },
+      {
+        "Name": "Lighthouse(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "+20 Engineering -1 Engineering for every 1 Structure you have",
+        "Base Price": "80",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Builder",
+        "Tags": "Engineering"
+      },
+      {
+        "Name": "Pile of Books",
+        "Rarity": "Tier 3",
+        "Effects": "Your structures can crit +3 % Crit Chance +3 Engineering",
+        "Base Price": "70",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Crit Chance, Engineering"
+      },
+      {
+        "Name": "Nail",
+        "Rarity": "Tier 3",
+        "Effects": "+5 Engineering Weapon damage additionally scales with 20% Engineering -2 Ranged Damage",
+        "Base Price": "65",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Engineering"
+      },
+      {
+        "Name": "Strange Book",
+        "Rarity": "Tier 3",
+        "Effects": "+1 Engineering for every permanent 1 Elemental Damage you have -1 Melee Damage -1 Ranged Damage",
+        "Base Price": "70",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Engineering, Elemental Damage"
+      },
+      {
+        "Name": "Sunken Bell(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "Once per wave, you explode for 100 (+500%+500%+500%+500%) damage when you fall below 40% health",
+        "Base Price": "65",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Explosive"
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Items > Turrets & Mines",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 8,
+    "rows": [
+      {
+        "Name": "Landmines",
+        "Rarity": "Tier 1",
+        "Effects": "A landmine spawns every 12 seconds dealing 10 (+100%) damage in an area",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering, Explosive, Structure"
+      },
+      {
+        "Name": "Turret",
+        "Rarity": "Tier 1",
+        "Effects": "Spawns a turret that shoots bullets dealing 10 (+80%) damage",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering, Structure"
+      },
+      {
+        "Name": "Incendiary Turret",
+        "Rarity": "Tier 2",
+        "Effects": "Spawns a turret that shoots flames dealing 8x5 (+33%) burning damage",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering, Structure"
+      },
+      {
+        "Name": "Medical Turret",
+        "Rarity": "Tier 2",
+        "Effects": "Spawns a medical turret that shoots bullets healing 3 (+5%) HP",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering, Structure"
+      },
+      {
+        "Name": "Laser Turret",
+        "Rarity": "Tier 3",
+        "Effects": "Spawns a turret that shoots piercing bullets dealing 20 (+125%) damage",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering, Structure"
+      },
+      {
+        "Name": "Explosive Turret",
+        "Rarity": "Tier 4",
+        "Effects": "Spawns a turret that shoots explosive bullets dealing 25 (+150%) damage in an area",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering, Structure"
+      },
+      {
+        "Name": "Pocket Factory",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Engineering Killing a tree spawns a turret",
+        "Base Price": "75",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Engineering, Exploration, Structure"
+      },
+      {
+        "Name": "Tyler",
+        "Rarity": "Tier 3",
+        "Effects": "Spawns a little guy that slowly shoots 10 piercing lightning projectiles around him for 10 (+75%+75%) damage each",
+        "Base Price": "75",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering, Elemental Damage, Structure"
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "Characters > Positive Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 7,
+    "rows": [
+      {
+        "Name": "Apprentice",
+        "Stats": "+2 Melee Damage when you level up +1 Ranged Damage when you level up +1 Elemental Damage when you level up +1 Engineering when you level up -2 Max HP when you level up",
+        "Unlocked By": "Reach level 20",
+        "Unlocks": "Quarterstaff",
+        "Item Tags": "XP Gain"
+      },
+      {
+        "Name": "Artificer",
+        "Stats": "+175% Explosion Damage +4% Explosion Size for every 1 Elemental Damage you have +100% Damage with Tool weapons -100% Damage Armor modifications are reduced by 50%",
+        "Unlocked By": "Kill 15 Enemies with a single explosion",
+        "Unlocks": "Explosive Shells",
+        "Item Tags": "Explosive (Item Tag)"
+      },
+      {
+        "Name": "Builder(DLC)",
+        "Stats": "You start with 1 Builder's Turret Every 5 uncollected materials are converted into 1 % Structure attack speed and 1 Structure Range at the end of a wave Engineering modifications are increased by 50% +20 Harvesting You can't have structures -30% pickup range Damage modifications are reduced by 75%",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Lighthouse",
+        "Item Tags": "Engineering"
+      },
+      {
+        "Name": "Cyborg",
+        "Stats": "You start with 1 Minigun Ranged Damage modifications are increased by 200% 100% of your Ranged Damage are temporarily converted into Engineering halfway through a wave (1 Ranged Damage = 2 Engineering) Engineering modifications are reduced by 75% Melee modifications are reduced by 100% Elemental modifications are reduced by 100%",
+        "Unlocked By": "Reach 10 Ranged Damage and get 3 structures at the same time",
+        "Unlocks": "Improved Tools",
+        "Item Tags": "Structure, Ranged Damage"
+      },
+      {
+        "Name": "Dwarf(DLC)",
+        "Stats": "+1 Engineering when killing at least 6 enemies with a direct weapon hit +1 Melee Damage for every permanent 2 Engineering you have You can't equip ranged weapons -20 % Dodge -100 % Attack Speed % Attack Speed modifications are reduced by 50%",
+        "Unlocked By": "Hit at least 25 enemies with a single melee attack",
+        "Unlocks": "War Hammer",
+        "Item Tags": "Engineering, Structure"
+      },
+      {
+        "Name": "Engineer",
+        "Stats": "+10 Engineering Engineering modifications are increased by 25% You start with 1 Wrench  Structures spawn close to each other Damage modifications are reduced by 50%",
+        "Unlocked By": "Get 5 turrets on the map simultaneously",
+        "Unlocks": "Robot Arm",
+        "Item Tags": "Engineering, Structure"
+      },
+      {
+        "Name": "Technomage",
+        "Stats": "You start with 2 Turret +5 % Structure attack speed for every permanent 1 Elemental Damage you have +2 Elemental Damage for every 1 Structure you have +75% XP required to level up Melee Damage modifications are reduced by 100% Ranged Damage modifications are reduced by 100%",
+        "Unlocked By": "Reach 10 Elemental Damage and get 3 structures at the same time",
+        "Unlocks": "Particle Accelerator",
+        "Item Tags": "Elemental Damage, Engineering, Structure"
+      }
+    ]
+  },
+  {
+    "table_index": 5,
+    "section": "Characters > Negative Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 4,
+    "rows": [
+      {
+        "Name": "Crazy",
+        "Stats": "+100 Range with Precise weapons +25% Attack Speed You start with 1 Knife -30% Dodge -10 Engineering -10 Ranged Damage",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Hunting Trophy",
+        "Item Tags": "Crit Chance, Melee Damage"
+      },
+      {
+        "Name": "Druid(DLC)",
+        "Stats": "+5 Max HP +15 Luck Enemies have a higher chance of dropping fruits 33% chance to get +1 Luck when you pick up a fruit 33% of fruits are poisoned and hurt you (ignores Dodge and Armor) -100 HP Regeneration -100 % Life Steal Engineering modifications are reduced by 50%",
+        "Unlocked By": "Collect 250 consumables by the end of wave 20",
+        "Unlocks": "Cauldron",
+        "Item Tags": "Consumable, Luck"
+      },
+      {
+        "Name": "Mage",
+        "Stats": "Elemental Damage modifications are increased by 25% You start with 1 Snake You start with 1 Scared Sausage  Melee Damage Modifications are reduced by -100% Ranged Damage Modifications are reduced by -100% Engineering Modifications are reduced by -50%",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Thunder Sword",
+        "Item Tags": "Elemental Damage"
+      },
+      {
+        "Name": "Pacifist",
+        "Stats": "Gain 0.65 material and XP for every living enemy at the end of a wave You start with 1 Lumberjack Shirt -100% Damage -100 Engineering",
+        "Unlocked By": "Collect 10000 materials",
+        "Unlocks": "Panda",
+        "Item Tags": "Max HP, HP Regeneration, Armor"
+      }
+    ]
+  },
+  {
+    "table_index": 6,
+    "section": "Weapons",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 11,
+    "rows": [
+      {
+        "Name": "Brick(DLC)",
+        "Class": "Blunt",
+        "Damage": "30(+50%+50%)  60(+65%+65%)  90(+80%+80%)  120(+100%+100%)",
+        "Attack Speed": "1.39s  1.39s  1.39s  1.39s",
+        "DPS": "21.5(35.9%35.9%)/s  43(46.6%46.6%)/s  64.6(57.4%57.4%)/s  86.1(71.7%71.7%)/s",
+        "Crit Damage/Chance": "x1.5 (3% chance)  x1.5 (3% chance)  x1.5 (3% chance)  x1.5 (3% chance)",
+        "Range": "150  150  150  150",
+        "Knockback": "5  5  5  5",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Has a 1% chance to break and drop 10/30/60/120 materials on hit",
+        "Base price": "6  14  22  40",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Chain Gun",
+        "Class": "Legendary, Gun",
+        "Damage": "-  -  -  2x3(100%100%)",
+        "Attack Speed": "-  -  -  0.073s",
+        "DPS": "-  -  -  82.2(4110%4110%)/s",
+        "Crit Damage/Chance": "-  -  -  x1.5 (3%)",
+        "Range": "-  -  -  500",
+        "Knockback": "-  -  -  5",
+        "Lifesteal": "-  -  -  0",
+        "Special Effects": "Cooldown is 2.04s every 100 shots. Pierces 1 enemy dealing -50% less damage with each pierce.",
+        "Base price": "-  -  -  300",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Chainsaw(DLC)",
+        "Class": "Blade, Tool",
+        "Damage": "-  -  10(+75%+75%+75%)  20(+100%+100%+100%)",
+        "Attack Speed": "-  -  0.53s  0.56s",
+        "DPS": "--  --  18.8(141.3%141.3%141.3%)/s  35.9(179.3%179.3%179.3%)/s",
+        "Crit Damage/Chance": "-  -  x1.5 (3% chance)  x1.5 (3% chance)",
+        "Range": "-  -  175  200",
+        "Knockback": "-  -  0  0",
+        "Lifesteal": "-  -  15%  30%",
+        "Special Effects": "Cooldown is 1.83s/1.52s every 30/40 shots Deals 10%/20% of an enemy’s current health as bonus damage (1%/2% for bosses and elites)",
+        "Base price": "-  -  112  242",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "DEX-troyer",
+        "Class": "Legendary, Explosive",
+        "Damage": "-  -  -  100(+100%+100%)",
+        "Attack Speed": "-  -  -  1.33s",
+        "DPS": "--  --  --  75.3(75.3%75.3%)/s",
+        "Crit Damage/Chance": "-  -  -  x2 (3% chance)",
+        "Range": "-  -  -  400",
+        "Knockback": "-  -  -  10",
+        "Lifesteal": "-  -  -  0",
+        "Special Effects": "50% chance to explode on hit Hitting an enemy spawns a lightning projectile that bounces 5 times and deals 30 (+100%) damage",
+        "Base price": "-  -  -  315",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Drill",
+        "Class": "Legendary, Precise",
+        "Damage": "-  -  -  10(100%100%)",
+        "Attack Speed": "-  -  -  0.45s",
+        "DPS": "-  -  -  22.2(222.2%222.2%)/s",
+        "Crit Damage/Chance": "-  -  -  x2.5 (50%)",
+        "Range": "-  -  -  100",
+        "Knockback": "-  -  -  5",
+        "Lifesteal": "-  -  -  0",
+        "Special Effects": "100% chance to gain 1 material when killing an enemy with a critical hit. +10 % Attack Speed every 5 seconds until the end of the wave",
+        "Base price": "-  -  -  250",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Particle Accelerator",
+        "Class": "Heavy, Elemental",
+        "Damage": "-  -  60(+100%+100%)  120(+100%+100%)",
+        "Attack Speed": "-  -  1.95s  1.62s",
+        "DPS": "--  --  30.8(51.3%51.3%)/s  74.2(61.8%61.8%)/s",
+        "Crit Damage/Chance": "-  -  x2 (3% chance)  x2 (3% chance)",
+        "Range": "-  -  800  800",
+        "Knockback": "-  -  0  0",
+        "Lifesteal": "-  -  0  0",
+        "Special Effects": "Deals 8x8/10x10 (+100%) burning damage Slows enemies by 1%/2% on hit for every 1 Engineering you have [0%]. Pierces through enemies. Can't bounce",
+        "Base price": "-  -  144  289",
+        "Unlocked by": "Win a run with Technomage"
+      },
+      {
+        "Name": "Plank",
+        "Class": "Explosive, Elemental",
+        "Damage": "10(50%50%50%)  15(60%60%60%)  20(70%70%70%)  25(80%80%80%)",
+        "Attack Speed": "1.23s  1.14s  1.06s  0.98s",
+        "DPS": "8.1(41%41%41%)/s  13.2(53%53%53%)/s  18.9(66%66%66%)/s  25.5(82%82%82%)/s",
+        "Crit Damage/Chance": "x2 (3%)  x2 (3%)  x2 (3%)  x2 (3%)",
+        "Range": "150  150  150  150",
+        "Knockback": "5  5  5  5",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Hits have 25%/30%/35%/40% chance to explode.",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Pruner",
+        "Class": "Support",
+        "Damage": "10(50%)  15(65%)  20(80%)  25(100%)",
+        "Attack Speed": "1.14s  1.06s  0.98s  0.89s",
+        "DPS": "8.8(43%)/s  14.2(61%)/s  20.4(81%)/s  28.1(112%)/s",
+        "Crit Damage/Chance": "x1.25 (3%)  x1.5 (6%)  x1.75 (9%)  x2 (12%)",
+        "Range": "150  150  150  150",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Spawns a garden that creates a fruit every 15/14/12/10 seconds",
+        "Base price": "15  28  52  95",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Screwdriver",
+        "Class": "Tool",
+        "Damage": "8(50%50%)  12(50%50%)  16(50%50%)  20(50%50%)",
+        "Attack Speed": "1.05s  1.0s  0.97s  0.87s",
+        "DPS": "7.6(47%47%)/s  12.0(50%50%)/s  16.5(51%51%)/s  23.0(57%57%)/s",
+        "Crit Damage/Chance": "x2 (10%)  x2 (15%)  x2 (20%)  x2 (30%)",
+        "Range": "125  125  125  125",
+        "Knockback": "3  3  3  3",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "A landmine spawns every 12s/9s/6s/3s dealing 10(100%) damage in an area",
+        "Base price": "10  22  45  91",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "War Hammer(DLC)",
+        "Class": "Blunt, Heavy",
+        "Damage": "-  -  100(+150%+100%)  180(+200%+150%)",
+        "Attack Speed": "-  -  2.11s  1.95s",
+        "DPS": "--  --  47.3(70.9%47.3%)/s  92.4(102.7%77%)/s",
+        "Crit Damage/Chance": "-  -  x1.5 (3% chance)  x1.5 (3% chance)",
+        "Range": "-  -  200  200",
+        "Knockback": "-  -  20  25",
+        "Lifesteal": "-  -  0  0",
+        "Special Effects": "Resets the cooldown of all offensive turrets when attacking",
+        "Base price": "-  -  130  255",
+        "Unlocked by": "Win a run with Dwarf"
+      },
+      {
+        "Name": "Wrench",
+        "Class": "Tool",
+        "Damage": "12(100%)  16(100%)  20(100%)  24(100%)",
+        "Attack Speed": "1.7s  1.64s  1.55s  1.49s",
+        "DPS": "7.1(58%)/s  9.8(60%)/s  12.9(64%)/s  16.1(67%)/s",
+        "Crit Damage/Chance": "x2 (3%)  x2 (3%)  x2 (3%)  x2 (3%)",
+        "Range": "175  175  175  175",
+        "Knockback": "20  20  20  20",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Spawns a Turret/Incendiary Turret/Laser Turret/Explosive Turret",
+        "Base price": "20  39  74  149",
+        "Unlocked by": "Default"
+      }
+    ]
+  },
+  {
+    "table_index": 7,
+    "section": "Weapon Classes",
+    "columns": [
+      "Class",
+      "Bonuses",
+      "Weapons"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Class": "Tool",
+        "Bonuses": "(2)+1 Engineering (3)+2 Engineering (4)+3 Engineering (5)+4 Engineering (6)+5 Engineering",
+        "Weapons": "Screwdriver  Wrench  Chainsaw"
+      }
+    ]
+  },
+  {
+    "table_index": 8,
+    "section": "Turrets Fire Rate",
+    "columns": [
+      "Turret",
+      "Atk. Speed"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Turret": "Turret",
+        "Atk. Speed": "0.73s"
+      },
+      {
+        "Turret": "Incendiary Turret",
+        "Atk. Speed": "0.28s"
+      },
+      {
+        "Turret": "Medical Turret",
+        "Atk. Speed": "2.2s"
+      },
+      {
+        "Turret": "Laser Turret",
+        "Atk. Speed": "0.87s"
+      },
+      {
+        "Turret": "Explosive Turret",
+        "Atk. Speed": "0.87s"
+      },
+      {
+        "Turret": "Tyler",
+        "Atk. Speed": "2.2s"
+      }
+    ]
+  },
+  {
+    "table_index": 9,
+    "section": "",
+    "columns": [
+      "Stats",
+      "Stats.1",
+      "Stats.2",
+      "Stats.3"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Stats": "Max HP",
+        "Stats.1": "Melee Damage",
+        "Stats.2": "Crit Chance",
+        "Stats.3": "Dodge"
+      },
+      {
+        "Stats": "HP Regeneration",
+        "Stats.1": "Ranged Damage",
+        "Stats.2": "Engineering",
+        "Stats.3": "Speed"
+      },
+      {
+        "Stats": "Life Steal",
+        "Stats.1": "Elemental Damage",
+        "Stats.2": "Range",
+        "Stats.3": "Luck"
+      },
+      {
+        "Stats": "Damage",
+        "Stats.1": "Attack Speed",
+        "Stats.2": "Armor",
+        "Stats.3": "Harvesting"
+      },
+      {
+        "Stats": "DLC Stats",
+        "Stats.1": "DLC Stats",
+        "Stats.2": "DLC Stats",
+        "Stats.3": "DLC Stats"
+      },
+      {
+        "Stats": "Curse",
+        "Stats.1": "Curse",
+        "Stats.2": "Curse",
+        "Stats.3": "Curse"
+      }
+    ]
+  }
+]

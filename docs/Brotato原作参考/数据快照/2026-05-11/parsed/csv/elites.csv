@@ -1,0 +1,64 @@
+id,name,stats,minimumdanger,reward
+rhino,Rhino,"1 HP
++750 +HP per wave
++250 Speed
+1 Damage
+1.5 +Damage per wave
+Starting waves Elite Waves (round 11-18)",2,"Legendary Item
+10 Coins Dropped"
+butcher,Butcher,"1 HP
++750 +HP per wave
++200 Speed
+1 Damage
+1.5 +Damage per wave
+10Coins Dropped
+Starting waves Elite Waves (round 11-18)",Dangers 2,"Legendary Item
+10 Coins Dropped"
+monk,Monk,"1 HP
++700 +HP per wave
++350 Speed
+1 Damage
+1.5 +Damage per wave
+10 Coins Dropped
+Starting waves Elite Waves (round 11-18)",Dangers 2,"Legendary Item
+10 Coins Dropped"
+croc,Croc,"1 HP
++750 +HP per wave
++350 Speed
+1 Damage
+1.5 +Damage per wave
+10 Coins Dropped
+Starting waves Elite Waves (round 11-18)",Dangers 2,"Legendary Item
+10 Coins Dropped"
+colossus,Colossus,"1 HP
++750 +HP per wave
++300 Speed
+1 Damage
+1.5 +Damage per wave
+10 Coins Dropped
+Starting waves Elite Waves (round 11-18)",Dangers 2,"Legendary Item
+10 Coins Dropped"
+mantis,Mantis,"1 HP
++750 +HP per wave
++250 Speed
+1 Damage
+1.5 +Damage per wave
+10 Coins Dropped
+Starting waves Elite Waves (round 11-18)",Dangers 2,"Legendary Item
+10 Coins Dropped"
+mother,Mother,"1 HP
++750 +HP per wave
++250 Speed
+1 Damage
+1.5 +Damage per wave
+10 Coins Dropped
+Starting waves Elite Waves (round 11-18)",Dangers 2,"Legendary Item
+10 Coins Dropped"
+gargoyle,Gargoyle,"1 HP
++750 +HP per wave
++350 Speed
+1 Damage
+1.5 +Damage per wave
+10 Coins Dropped
+Starting waves Elite Waves (round 11-18)",Dangers 2,"Legendary Item
+10 Coins Dropped"

@@ -1,0 +1,12 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Bowler Hat,Tier 3,+15 Luck +18 Harvesting -5 % Attack Speed -3 % Crit Chance,75,,Win a run with Entrepreneur,"Luck, Harvesting"
+Clover,Tier 3,+20 Luck +6 % Dodge -2 % Life Steal,65,,,"Luck, Dodge"
+Lost Duck,Tier 1,+8 Luck -1 Elemental Damage,25,,,Luck
+Lucky Charm,Tier 3,+30 Luck -2 Melee Damage -1 Ranged Damage,75,,Win a run with Lucky,Luck
+Lucky Coin,Tier 4,+2 Luck for every 1 % Crit Chance you have -2 Armor,105,1.0,,"Crit Chance, Luck"
+Metal Detector,Tier 2,+5% chance to double the value of picked up materials +6 Luck +2 Engineering -5 % Damage,40,20.0,,"Luck, Engineering, Pickup, Economy"
+Panda,Tier 4,+12 Max HP +25 Luck -5 % Damage,100,,Win a run with Pacifist,"Max HP, Luck"
+Potato,Tier 4,+3 Max HP +2 HP Regeneration +1 % Life Steal +5 % Damage +5 % Attack Speed +3 % Speed +3 % Dodge +1 Armor +5 Luck,95,,Win a run with Well Rounded,"Max HP, HP Regeneration, Damage, Speed, Luck"
+Propeller Hat,Tier 1,+10 Luck -2 % Damage,28,,,Luck
+Shady Potion,Tier 2,+20 Luck -2 HP Regeneration,48,,,Luck
+Wolf Helmet,Tier 4,+10 Elemental Damage +20 Luck -5 Engineering,90,,,"Elemental Damage, Luck"

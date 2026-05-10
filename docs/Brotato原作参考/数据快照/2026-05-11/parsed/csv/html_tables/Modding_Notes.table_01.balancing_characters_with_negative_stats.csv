@@ -1,0 +1,20 @@
+Character,Stats,Value,Notes
+Brawler,Range,-50,
+Brawler,Ranged Damage,-50,
+Crazy,Dodge,-30%,
+Mage,Ranged Damage,-100,No longer the case since v0.8.0.0
+Mage,Melee Damage,-100,No longer the case since v0.8.0.0
+Mage,Engineering,-50,No longer the case since v0.8.0.0
+Chunky,Life Steal,-100,
+Lucky,Attack Speed,-60%,
+Mutant,Items Price,-50%,
+Loud,Harvesting,-95% (-3 per wave),
+Pacifist,Damage,-100%,
+Pacifist,Engineering,-100,
+Saver,Items Price,-50%,
+Sick,HP Regeneration,-100,
+Ghost,Armor,-100,
+Speedy,Armor while standing still,-100,
+Doctor,Attack Speed,-100%,
+Artificer,Damage,-100%,
+Masochist,Damage,-100%,

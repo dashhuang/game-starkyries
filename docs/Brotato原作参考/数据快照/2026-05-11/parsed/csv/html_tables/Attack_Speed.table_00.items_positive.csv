@@ -1,0 +1,15 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Ashes(DLC),Tier 4,+20 % Damage +20 % Attack Speed +100 Range -1 Armor at the end of a wave,100,,,"Attack Speed, Damage, Range"
+Banner,Tier 2,+20 Range +10 % Attack Speed -5 Knockback,55,,,"Range, Attack Speed"
+Coffee,Tier 1,+10 % Attack Speed -2 % Damage,20,,,Attack Speed
+Community Support,Tier 3,+1 % Attack Speed for every current living enemy -2 Armor,75,1.0,Win a run with Streamer,Attack Speed
+Crystal(DLC),Tier 3,+5 % Attack Speed +1 % Attack Speed every 1 second until the end of the wave Bonus is lost when taking damage -2 Engineering,65,,,Attack Speed
+Gummy Berserker,Tier 1,+5 % Attack Speed +25 Range -1 Armor,25,,,"Attack Speed, Range"
+Improved Tools,Tier 3,+10 % Attack Speed Increases the attack speed of your structures by 0% (50%),70,1.0,Win a run with Cyborg,"Structure, Attack Speed"
+Poisonous Tonic,Tier 3,+10 % Attack Speed +5 % Crit Chance +15 Range -2 HP Regeneration,80,,,"Attack Speed, Crit Chance, Range"
+Potato,Tier 4,+3 Max HP +2 HP Regeneration +1 % Life Steal +5 % Damage +5 % Attack Speed +3 % Speed +3 % Dodge +1 Armor +5 Luck,95,,Win a run with Well Rounded,"Max HP, HP Regeneration, Damage, Speed, Luck"
+Retromation's Hoodie,Tier 4,+2 % Attack Speed for every 1 % Dodge you have -80 Range,110,1.0,,Dodge
+Saltwater(DLC),Tier 2,+2 Melee Damage +3 % Attack Speed +10 % Speed for 3 seconds when you take damage -1 Elemental Damage,50,1.0,,"Melee Damage, Attack Speed, Speed"
+Small Magazine,Tier 2,+2 Ranged Damage +10 % Attack Speed -6 % Damage,60,,,"Ranged Damage, Attack Speed"
+Spider,Tier 4,+12 % Damage +6 % Attack Speed for every different weapon you have -3 % Dodge -5 Harvesting,110,,Win a run with Gladiator,"Damage, Attack Speed"
+Statue,Tier 3,+40 % Attack Speed while standing still -10 % Speed,60,,,"Attack Speed, Stand Still"

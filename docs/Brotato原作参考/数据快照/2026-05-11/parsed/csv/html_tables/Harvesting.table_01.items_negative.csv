@@ -1,0 +1,6 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Bat,Tier 1,+2 % Life Steal -2 Harvesting,20,,,Life Steal
+Blood Leech,Tier 2,+2 % Life Steal +2 HP Regeneration -3 Harvesting,45,,,"Life Steal, HP Regeneration"
+Charcoal,Tier 1,+1 Elemental Damage +2 Melee Damage -2 Harvesting,20,,,"Elemental Damage, Melee Damage"
+Mouse,Tier 3,+5 % Life Steal +10% Enemies -5 Harvesting,55,5.0,,"Life Steal, More Enemies"
+Spider,Tier 4,+12 % Damage +6 % Attack Speed for every different weapon you have -3 % Dodge -5 Harvesting,110,,Win a run with Gladiator,"Damage, Attack Speed"

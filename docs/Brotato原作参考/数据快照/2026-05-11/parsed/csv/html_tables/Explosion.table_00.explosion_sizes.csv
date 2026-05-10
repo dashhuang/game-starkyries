@@ -1,0 +1,24 @@
+Type,Name,Tier,Size
+Character,Bull,-,100%
+Character,Glutton,-,200%
+Item,Explosive Turret,-,100%
+Item,Kraken's Eye,-,150%
+Item,Landmines,-,175%
+Item,Rip and Tear,-,65%
+Item,Spicy Sauce,-,125%
+Item,Sunken Bell,-,600%
+Weapon,DEX-troyer,-,125%
+Weapon,Fireball,all,100%
+Weapon,Grenade Launcher,all,75%
+Weapon,Plank,all,75%
+Weapon,Plasma Sledge,Tier 3,100%
+Weapon,Plasma Sledge,Tier 4,125%
+Weapon,Power Fist,Tier 3,75%
+Weapon,Power Fist,Tier 4,100%
+Weapon,Nuclear Launcher,Tier 3,200%
+Weapon,Nuclear Launcher,Tier 4,225%
+Weapon,Rocket Launcher,all,120%
+Weapon,Shredder,Tier 1,75%
+Weapon,Shredder,Tier 2,80%
+Weapon,Shredder,Tier 3,85%
+Weapon,Shredder,Tier 4,90%

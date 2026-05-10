@@ -1,0 +1,9 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Landmines,Tier 1,A landmine spawns every 12 seconds dealing 10 (+100%) damage in an area,15,,,"Engineering, Explosive, Structure"
+Turret,Tier 1,Spawns a turret that shoots bullets dealing 10 (+80%) damage,15,,,"Engineering, Structure"
+Incendiary Turret,Tier 2,Spawns a turret that shoots flames dealing 8x5 (+33%) burning damage,40,,,"Engineering, Structure"
+Medical Turret,Tier 2,Spawns a medical turret that shoots bullets healing 3 (+5%) HP,40,,,"Engineering, Structure"
+Laser Turret,Tier 3,Spawns a turret that shoots piercing bullets dealing 20 (+125%) damage,65,,,"Engineering, Structure"
+Explosive Turret,Tier 4,Spawns a turret that shoots explosive bullets dealing 25 (+150%) damage in an area,80,,,"Engineering, Structure"
+Pocket Factory,Tier 2,+2 Engineering Killing a tree spawns a turret,75,1.0,,"Engineering, Exploration, Structure"
+Tyler,Tier 3,Spawns a little guy that slowly shoots 10 piercing lightning projectiles around him for 10 (+75%+75%) damage each,75,,,"Engineering, Elemental Damage, Structure"

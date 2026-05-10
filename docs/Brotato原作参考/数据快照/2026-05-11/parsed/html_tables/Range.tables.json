@@ -1,0 +1,438 @@
+[
+  {
+    "table_index": 0,
+    "section": "Items > Positive",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 12,
+    "rows": [
+      {
+        "Name": "Ashes(DLC)",
+        "Rarity": "Tier 4",
+        "Effects": "+20 % Damage +20 % Attack Speed +100 Range -1 Armor at the end of a wave",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed, Damage, Range"
+      },
+      {
+        "Name": "Baby Gecko",
+        "Rarity": "Tier 1",
+        "Effects": "+10 Range +25% chance to instantly attract a material when it’s dropped",
+        "Base Price": "18",
+        "Limit": "4.0",
+        "Unlocked By": "",
+        "Tags": "Pickup, Range"
+      },
+      {
+        "Name": "Banner",
+        "Rarity": "Tier 2",
+        "Effects": "+20 Range +10 % Attack Speed -5 Knockback",
+        "Base Price": "55",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Range, Attack Speed"
+      },
+      {
+        "Name": "Glasses",
+        "Rarity": "Tier 1",
+        "Effects": "+20 Range",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Range"
+      },
+      {
+        "Name": "Gummy Berserker",
+        "Rarity": "Tier 1",
+        "Effects": "+5 % Attack Speed +25 Range -1 Armor",
+        "Base Price": "25",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed, Range"
+      },
+      {
+        "Name": "Lantern(DLC)",
+        "Rarity": "Tier 4",
+        "Effects": "+10 % Damage +50 Range +15 Knockback Knocks nearby enemies back every 3 seconds",
+        "Base Price": "100",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Damage, Range, Knockback"
+      },
+      {
+        "Name": "Night Goggles",
+        "Rarity": "Tier 4",
+        "Effects": "+15 % Crit Chance +50 Range -3 Max HP -1 Armor",
+        "Base Price": "95",
+        "Limit": "",
+        "Unlocked By": "Win a run with Ranger",
+        "Tags": "Crit Chance, Range"
+      },
+      {
+        "Name": "Poisonous Tonic",
+        "Rarity": "Tier 3",
+        "Effects": "+10 % Attack Speed +5 % Crit Chance +15 Range -2 HP Regeneration",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed, Crit Chance, Range"
+      },
+      {
+        "Name": "Shackles",
+        "Rarity": "Tier 3",
+        "Effects": "+8 HP Regeneration +8 Engineering +80 Range Your Speed is capped at its current value",
+        "Base Price": "80",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Range, HP Regeneration, Engineering"
+      },
+      {
+        "Name": "Spyglass(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+10 Range -25 % Reroll Price",
+        "Base Price": "30",
+        "Limit": "2.0",
+        "Unlocked By": "",
+        "Tags": "Range"
+      },
+      {
+        "Name": "Wings",
+        "Rarity": "Tier 3",
+        "Effects": "+10 % Speed +30 Range -2 Elemental Damage",
+        "Base Price": "85",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Speed, Range"
+      },
+      {
+        "Name": "Scope",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Ranged Damage +25 Range -7 % Attack Speed",
+        "Base Price": "48",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage, Range"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Items > Negative",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 10,
+    "rows": [
+      {
+        "Name": "Beanie",
+        "Rarity": "Tier 1",
+        "Effects": "+4 % Speed -6 Range",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Speed"
+      },
+      {
+        "Name": "Blindfold",
+        "Rarity": "Tier 2",
+        "Effects": "+5 % Crit Chance +5 % Dodge -15 Range",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Crit Chance, Dodge"
+      },
+      {
+        "Name": "Coral(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+10 HP Regeneration while standing still -10 Range",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "HP Regeneration, Stand Still"
+      },
+      {
+        "Name": "Cyclops Worm",
+        "Rarity": "Tier 2",
+        "Effects": "+12 % Damage -12 Range",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Eyes Surgery",
+        "Rarity": "Tier 2",
+        "Effects": "Burning activates 20% faster +1 Elemental Damage -10 Range",
+        "Base Price": "60",
+        "Limit": "2.0",
+        "Unlocked By": "",
+        "Tags": "Elemental Damage"
+      },
+      {
+        "Name": "Gnome",
+        "Rarity": "Tier 4",
+        "Effects": "+10 Melee Damage +10 Elemental Damage -20 Range -20% pickup range",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "Win a run with Bull",
+        "Tags": "Melee Damage, Elemental Damage"
+      },
+      {
+        "Name": "Head Injury",
+        "Rarity": "Tier 1",
+        "Effects": "+6 % Damage -8 Range",
+        "Base Price": "25",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Little Muscley Dude",
+        "Rarity": "Tier 2",
+        "Effects": "+3 Melee Damage +5 Max HP -15 Range",
+        "Base Price": "50",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Max HP"
+      },
+      {
+        "Name": "Retromation's Hoodie",
+        "Rarity": "Tier 4",
+        "Effects": "+2 % Attack Speed for every 1 % Dodge you have -80 Range",
+        "Base Price": "110",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Dodge"
+      },
+      {
+        "Name": "Scar",
+        "Rarity": "Tier 1",
+        "Effects": "+20 % XP Gain -8 Range",
+        "Base Price": "25",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "XP Gain"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Characters > Positive Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 4,
+    "rows": [
+      {
+        "Name": "Crazy",
+        "Stats": "+100 Range with Precise weapons +25% Attack Speed You start with 1 Knife -30% Dodge -10 Engineering -10 Ranged Damage",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Hunting Trophy",
+        "Item Tags": "Crit Chance, Melee Damage"
+      },
+      {
+        "Name": "Hunter",
+        "Stats": "+100 Range +1% Damage for every 10 Range you have Crit Chance modifications are increased by 25% Harvesting modifications are reduced by 100% Max HP modifications are reduced by 33%",
+        "Unlocked By": "Reach +300 Range",
+        "Unlocks": "Sniper Gun",
+        "Item Tags": "Range, Crit Chance"
+      },
+      {
+        "Name": "Ranger",
+        "Stats": "+50 Range You start with 1 Pistol Ranged Damage modifications are increased by 50% You can't equip melee weapons Max HP modifications are reduced by 25%",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Night Goggles",
+        "Item Tags": "Ranged Damage, Range"
+      },
+      {
+        "Name": "Romantic(DLC)",
+        "Stats": "Hitting an enemy that has less than 25% health has a 5% (50%) chance to charm it for 8 seconds +50 Range with melee weapons -3 % Damage for every 5 Curse you have -1 Armor for every 5 Curse you have +1 Curse at the end of a wave",
+        "Unlocked By": "Finish a run with 0 Curse",
+        "Unlocks": "Flute",
+        "Item Tags": ""
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Characters > Negative Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Brawler",
+        "Stats": "+50% Attack Speed with Unarmed weapons You start with 1 Fist +15% Dodge -50 Range -50 Ranged Damage",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Power Fist",
+        "Item Tags": "Melee Damage"
+      },
+      {
+        "Name": "Creature(DLC)",
+        "Stats": "Weapon damage additionally scales with 35% Curse You start with 1 cursed Fish Hook +1 Curse when you level up -10 Range at the end of a wave -5 % XP Gain at the end of a wave",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Barnacle",
+        "Item Tags": "Curse, XP Gain"
+      },
+      {
+        "Name": "Cryptid",
+        "Stats": "More trees spawn (+6) Gain 12 material and XP for every living tree at the end of a wave +3 HP Regeneration for every current living tree Dodge is capped at 70% +3 Attack Speed until the end of the wave when you dodge an attack -100 % Life Steal -100 Range -50% materials dropped from enemies",
+        "Unlocked By": "Finish a wave with 10 or more living trees",
+        "Unlocks": "Claw",
+        "Item Tags": "Exploration, Dodge"
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "Weapons",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Crossbow",
+        "Class": "Precise, Medieval",
+        "Damage": "10(50%10%)  12(50%10%)  15(50%10%)  18(50%10%)",
+        "Attack Speed": "1.13s  1.13s  1.13s  1.13s",
+        "DPS": "8.8(44%8%)/s  10.6(44%8%)/s  13.3(44%8%)/s  15.9(44%8%)/s",
+        "Crit Damage/Chance": "x1.5 (30%)  x1.75 (35%)  x2 (40%)  x2.25 (45%)",
+        "Range": "350  350  350  350",
+        "Knockback": "8  8  8  8",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Pierces up to 1/2/3/4 times on critical hit",
+        "Base price": "16  34  62  132",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Hiking Pole(DLC)",
+        "Class": "Support",
+        "Damage": "12(+50%+10%)  18(+50%+12%)  24(+50%+15%)  30(+50%+20%)",
+        "Attack Speed": "1.42s  1.34s  1.25s  1.17s",
+        "DPS": "8.4(35.2%7%)/s  13.5(37.4%9%)/s  19.1(39.9%12%)/s  25.6(42.7%17.1%)/s",
+        "Crit Damage/Chance": "x1.5 (3% chance)  x1.5 (3% chance)  x1.5 (3% chance)  x1.5 (3% chance)",
+        "Range": "175  175  175  175",
+        "Knockback": "0  0  0  0",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "+1 Range for every 70/60/50/40 steps you take during a wave",
+        "Base price": "17  34  66  130",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Sniper Gun",
+        "Class": "Gun, Precise",
+        "Damage": "-  -  50(100%20%)  80(100%30%)",
+        "Attack Speed": "-  -  2.4s  2.4s",
+        "DPS": "-  -  20.8(41%8%)/s  33.3(41%12%)/s",
+        "Crit Damage/Chance": "-  -  x3 (20%)  x4 (20%)",
+        "Range": "-  -  800  1000",
+        "Knockback": "-  -  30  30",
+        "Lifesteal": "-  -  0  0",
+        "Special Effects": "Hitting an enemy spawns 5/8 projectiles dealing 5 +(10%/15%)",
+        "Base price": "-  -  115  245",
+        "Unlocked by": "Win a run with Hunter"
+      }
+    ]
+  },
+  {
+    "table_index": 5,
+    "section": "Weapon Classes",
+    "columns": [
+      "Class",
+      "Bonuses",
+      "Weapons"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Class": "Gun",
+        "Bonuses": "(2)+10 Range (3)+20 Range (4)+30 Range (5)+40 Range (6)+50 Range",
+        "Weapons": "Double Barrel Shotgun  Laser Gun  Medical Gun  Pistol  Revolver  Shredder  SMG  Blunderbuss  Harpoon Gun  Minigun  Sniper Gun  Obliterator  Chain Gun"
+      }
+    ]
+  },
+  {
+    "table_index": 6,
+    "section": "",
+    "columns": [
+      "Stats",
+      "Stats.1",
+      "Stats.2",
+      "Stats.3"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Stats": "Max HP",
+        "Stats.1": "Melee Damage",
+        "Stats.2": "Crit Chance",
+        "Stats.3": "Dodge"
+      },
+      {
+        "Stats": "HP Regeneration",
+        "Stats.1": "Ranged Damage",
+        "Stats.2": "Engineering",
+        "Stats.3": "Speed"
+      },
+      {
+        "Stats": "Life Steal",
+        "Stats.1": "Elemental Damage",
+        "Stats.2": "Range",
+        "Stats.3": "Luck"
+      },
+      {
+        "Stats": "Damage",
+        "Stats.1": "Attack Speed",
+        "Stats.2": "Armor",
+        "Stats.3": "Harvesting"
+      },
+      {
+        "Stats": "DLC Stats",
+        "Stats.1": "DLC Stats",
+        "Stats.2": "DLC Stats",
+        "Stats.3": "DLC Stats"
+      },
+      {
+        "Stats": "Curse",
+        "Stats.1": "Curse",
+        "Stats.2": "Curse",
+        "Stats.3": "Curse"
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+Danger,Screenshot,Modifiers,Unlocks
+0,Danger 0  Difficulty  No modifiers,No Modifiers,One Armed
+1,Danger 1  Difficulty  New Enemies Appear,New Enemies Appear,Bull
+2,Danger 2  Difficulty  New Enemies Appear  Elites and hordes appear,New Enemies Appear An Elite or horde appears for 1 round (round 11 or 12),Soldier
+3,Danger 3  Difficulty  New Enemies Appear  Elites and hordes appear  Enemies are stronger,New Enemies Appear An Elite or horde appears for 1 round (rounds 11 or 12) Enemies are stronger (Enemies deal 12% more damage and have 12% more HP),Masochist
+4,Danger 4  Difficulty  New Enemies Appear  Elites and hordes appear  Enemies are stronger  More elites and hordes appear,New Enemies Appear An Elite or horde appears for 3 rounds (rounds 11 to 18) Enemies are stronger (Enemies deal 26% more damage and have 26% more HP),Knight
+5,Danger 5  Difficulty  New Enemies Appear  Elites and hordes appear  Enemies are stronger  More elites and hordes appear  Two bosses appear at once,New Enemies Appear An Elite or horde appears for 3 rounds (rounds 11 to 18) Enemies are stronger (Enemies deal 40% more damage and have 40% more HP) Two Bosses spawn instead of one (round 20) (Bosses have -25% less HP),Demon

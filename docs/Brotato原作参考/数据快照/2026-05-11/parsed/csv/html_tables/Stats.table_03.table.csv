@@ -1,0 +1,23 @@
+Stat,Description,Related Item Tags,Notable Items
+Consumable Heal,Increases or decreases the healing done by consumables.,Consumable (Item Tag),"Alien Worm, Jerky, Lemonade, Weird Food"
+% Materials Healing,Chance of being healed by 1 when picking up Materials. Currently only used by Cute Monkey.,Pickup,Cute Monkey
+% XP Gain,Increases or decreases all forms of Experience you earn.,XP Gain,"Bean Teacher, Black Belt, Celery Tea, Diploma, Feather, Peacock, Scar"
+% Pickup Range,Increases or decreases the range at which you pick up materials and consumables.,Pickup,"Alien Tongue, Cauldron, Gnome, Little Frog,"
+% Items Price,Increases or decreases Shop Prices.,Economy,Coupon
+% Explosion Damage,Increases or decreases the damage of Explosions,Explosive (Item Tag),"Dynamite, Explosive Shells, Honey"
+% Explosion Size,Increases or decreases the size of Explosions,Economy,"Explosive Shells, Honey, Plastic Explosive"
+Bounces,Gives projectiles additional Bounces,Ranged Damage,Ricochet
+Piercing,Gives projectiles additional Piercing,Ranged Damage,"Bandana, Sharp Bullet"
+% Piercing Damage,Increases or decreases the piercing damage falloff for projectile weapons.,Ranged Damage,"Pumpkin, Sharp Bullet"
+% Damage against Bosses,Multiplies the damage you do against Bosses and Elites.,Damage,Silver Bullet
+% Structure Attack Speed,"Increases or decreases the rate of turrets attacking, Landmines spawning, and Gardens spawning Consumables.",Structure (Item Tag),"Clockwork Wasp, Improved Tools"
+Structure Range,Increases or decreases the range of Structures.,,Only available on Builder
+% Burning Speed,Increases or decreases the rate of which Burn ticks for damage.,Elemental Damage,"Eyes Surgery, Frozen Heart"
+Burning Spread,Increases the amount of times Burn spreads.,Elemental Damage,Snake
+Knockback,Increases or decreases the distance enemies are knockbacked back when hit.,Knockback,"Ball and Chain, Banner, Coil, Black Belt, Boxing Glove"
+% Double Material Chance,Increases the chance of gaining double materials when picking up Materials,"Economy, Pickup",Metal Detector
+Free Rerolls,Provides an amount of free reroll at the beginning of each Shop,Economy,Dangerous Bunny
+Trees,Increases the amount of Trees that spawn. See the Wiki page for details.,Exploration,Tree
+% Enemies,Increases or decreases the amount of Enemies that spawn during waves.,"More Enemies, Less Enemies","Black Flag, Candle, Gentle Alien, Mouse, White Flag"
+% Enemy Speed,Increases or decreases the speed of Enemies that spawn during waves.,Less Enemy Speed,Snail
+% Reroll Price,Increases or decreases the price of rerolling in the [[Shop}]] and when choosing Upgrades,,Spyglass

@@ -1,0 +1,9 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Acid,Tier 2,+8 Max HP -2 % Dodge -2 Knockback,65,,,Max HP
+Alloy,Tier 3,+3 Melee Damage +3 Ranged Damage +3 Elemental Damage +3 Engineering +5 % Crit Chance -6 % Dodge,80,,,"Melee Damage, Ranged Damage, Engineering, Crit Chance, Elemental Damage"
+Gobbler's Hat,Tier 4,+70% materials dropped -15% Speed -10% Dodge,130,1.0,Kill the Gobbler 5 times,
+Little Frog,Tier 2,+20% pickup range +10 Harvesting -3 % Dodge,45,,,"Harvesting, Pickup"
+Honey,Tier 3,+3 Ranged Damage +10 % Explosion Damage +5 % Explosion Size -3 % Speed -3 % Dodge,70,,,"Ranged Damage, Explosive"
+Spider,Tier 4,+12 % Damage +6 % Attack Speed for every different weapon you have -3 % Dodge -5 Harvesting,110,,Win a run with Gladiator,"Damage, Attack Speed"
+Toxic Sludge,Tier 1,+2 Elemental Damage -2 % Dodge,20,,,Elemental Damage
+Weird Food,Tier 1,+2 HP recovered from consumables -2 % Dodge,20,,,Consumable

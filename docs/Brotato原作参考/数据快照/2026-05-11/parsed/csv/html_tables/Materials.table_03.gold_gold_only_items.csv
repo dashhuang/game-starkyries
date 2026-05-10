@@ -1,0 +1,6 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Bag,Tier 1,+15 materials when you pick up a crate -1 % Speed,15,3,,"Luck, Exploration, Economy"
+Black Flag(DLC),Tier 3,+1 material when you kill a cursed enemy +10% Enemies +10 % Enemy health +10 % Enemy damage +5 Curse,60,1,,"Curse, More Enemies"
+Gobbler's Hat,Tier 4,+70% materials dropped -15% Speed -10% Dodge,130,1,Kill the Gobbler 5 times,
+Hunting Trophy,Tier 3,33% chance to gain 1 material when killing an enemy with a critical hit,55,3,Win a run with Crazy,Crit Chance
+Piggy Bank,Tier 2,+20% of your materials at the start of waves (stops working at wave 20),40,1,,

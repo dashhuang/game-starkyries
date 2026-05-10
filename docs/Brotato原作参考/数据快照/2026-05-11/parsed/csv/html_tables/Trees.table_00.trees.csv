@@ -1,0 +1,6 @@
+Thing,Effects,Notes
+Tree,Increases the amount of trees that spawn.,Grants on average 0.33 trees spawned every 10 seconds.
+Lumberjack Shirt,"Allows you to kill trees in one hit, as if the tree had 1 HP.","Trees by default have a limit, where they will die after taking 8 hits. The Shirt changes this to 1 hit instead."
+Pocket Factory,Spawns a Turret when you kill a tree.,This is a quite powerful effect if you have engineering and some tree stats. Especially Explorer can make great use of it.
+Explorer,Starts with the equivalent of 12 Tree items.,"Also, the first group of trees spawn at the beginning of the wave instead of 10 seconds in. (But the second tree spawn is still after 20 seconds just like with everyone else)"
+Cryptid,Starts with the equivalent of 6 Tree items.,Does not have the early trees feature that Explorer has.

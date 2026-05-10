@@ -1,0 +1,976 @@
+[
+  {
+    "table_index": 0,
+    "section": "Items > Positive",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 27,
+    "rows": [
+      {
+        "Name": "Ashes(DLC)",
+        "Rarity": "Tier 4",
+        "Effects": "+20 % Damage +20 % Attack Speed +100 Range -1 Armor at the end of a wave",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed, Damage, Range"
+      },
+      {
+        "Name": "Bait",
+        "Rarity": "Tier 2",
+        "Effects": "+8 % Damage Special enemies appear at the beginning of the next wave",
+        "Base Price": "25",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage, Number of Enemies"
+      },
+      {
+        "Name": "Ball and Chain",
+        "Rarity": "Tier 3",
+        "Effects": "+15 % Damage +3 Armor +5 Knockback -3 % Speed Weapons have a minimum cooldown of 0.75 seconds between attacks",
+        "Base Price": "75",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Damage, Armor, Knockback"
+      },
+      {
+        "Name": "Bone Dice(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+50% chance to get +1 % Damage when rerolling in the shop +10% chance to get -1 Max HP when rerolling in the shop",
+        "Base Price": "30",
+        "Limit": "2.0",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Bloody Hand",
+        "Rarity": "Tier 4",
+        "Effects": "+10 % Life Steal +2 % Damage for every 1 % Life Steal you have You take 1 damage per second (does not give invulnerability time)",
+        "Base Price": "110",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Life Steal"
+      },
+      {
+        "Name": "Cauldron(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+50% pickup range +20 % Damage for 2 seconds after picking up a consumable -2 HP Regeneration",
+        "Base Price": "35",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Druid",
+        "Tags": "Pickup"
+      },
+      {
+        "Name": "Coil",
+        "Rarity": "Tier 3",
+        "Effects": "+5 Knockback +1 % Damage for every 1 Knockback you have",
+        "Base Price": "70",
+        "Limit": "3.0",
+        "Unlocked By": "",
+        "Tags": "Damage, Knockback"
+      },
+      {
+        "Name": "Corrupted Shard(DLC)",
+        "Rarity": "Tier 1",
+        "Effects": "+3 % Damage +1 Curse",
+        "Base Price": "12",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage, Curse"
+      },
+      {
+        "Name": "Cyclops Worm",
+        "Rarity": "Tier 2",
+        "Effects": "+12 % Damage -12 Range",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Focus",
+        "Rarity": "Tier 4",
+        "Effects": "+30 % Damage -3 % Attack Speed for every different weapon you have",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "Win a run with One Armed",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Gentle Alien",
+        "Rarity": "Tier 1",
+        "Effects": "+2 Max HP +5 % Damage +5% Enemies",
+        "Base Price": "30",
+        "Limit": "10.0",
+        "Unlocked By": "",
+        "Tags": "Max HP, Damage, More Enemies"
+      },
+      {
+        "Name": "Glass Cannon",
+        "Rarity": "Tier 3",
+        "Effects": "+25 % Damage -3 Armor",
+        "Base Price": "75",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Head Injury",
+        "Rarity": "Tier 1",
+        "Effects": "+6 % Damage -8 Range",
+        "Base Price": "25",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Heavy Bullets",
+        "Rarity": "Tier 4",
+        "Effects": "+5 Ranged Damage +10 % Damage +10 Range -5 % Attack Speed -5 % Crit Chance",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage, Damage, Range"
+      },
+      {
+        "Name": "Injection",
+        "Rarity": "Tier 1",
+        "Effects": "+7 % Damage -2 Max HP",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Knot(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "+15 % Damage +15 Max HP Weapons can no longer be upgraded or recycled",
+        "Base Price": "80",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Damage, Max HP"
+      },
+      {
+        "Name": "Lantern(DLC)",
+        "Rarity": "Tier 4",
+        "Effects": "+10 % Damage +50 Range +15 Knockback Knocks nearby enemies back every 3 seconds",
+        "Base Price": "100",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Damage, Range, Knockback"
+      },
+      {
+        "Name": "Medal",
+        "Rarity": "Tier 2",
+        "Effects": "+3 Max HP +3 % Damage +1 Armor +3 % Speed -4 % Crit Chance",
+        "Base Price": "55",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, Damage, Armor, Speed"
+      },
+      {
+        "Name": "Pearl(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+1 % Damage for every permanent 10 Luck you have +3% chance of finding an extra Pearl in a crate",
+        "Base Price": "60",
+        "Limit": "20.0",
+        "Unlocked By": "Win a run with Curious",
+        "Tags": "Luck"
+      },
+      {
+        "Name": "Power Generator",
+        "Rarity": "Tier 3",
+        "Effects": "+1 % Damage for every permanent 1 % Speed you have -5 % Damage",
+        "Base Price": "65",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Speed, Damage"
+      },
+      {
+        "Name": "Missile",
+        "Rarity": "Tier 2",
+        "Effects": "+10 % Damage -4 % Attack Speed",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Potato",
+        "Rarity": "Tier 4",
+        "Effects": "+3 Max HP +2 HP Regeneration +1 % Life Steal +5 % Damage +5 % Attack Speed +3 % Speed +3 % Dodge +1 Armor +5 Luck",
+        "Base Price": "95",
+        "Limit": "",
+        "Unlocked By": "Win a run with Well Rounded",
+        "Tags": "Max HP, HP Regeneration, Damage, Speed, Luck"
+      },
+      {
+        "Name": "Ritual",
+        "Rarity": "Tier 2",
+        "Effects": "+6 % Damage +2 % Life Steal -2 Engineering",
+        "Base Price": "60",
+        "Limit": "",
+        "Unlocked By": "Win a run with Ghost",
+        "Tags": "Damage, Life Steal"
+      },
+      {
+        "Name": "Spider",
+        "Rarity": "Tier 4",
+        "Effects": "+12 % Damage +6 % Attack Speed for every different weapon you have -3 % Dodge -5 Harvesting",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "Win a run with Gladiator",
+        "Tags": "Damage, Attack Speed"
+      },
+      {
+        "Name": "Triangle of Power",
+        "Rarity": "Tier 3",
+        "Effects": "+20 % Damage +1 Armor -2 % Damage when you take damage until the end of the wave",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Vigilante Ring",
+        "Rarity": "Tier 3",
+        "Effects": "+3 % Damage at the end of a wave",
+        "Base Price": "92",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Wisdom",
+        "Rarity": "Tier 3",
+        "Effects": "+5 % Damage every 5 seconds until the end of the wave -15 % Damage",
+        "Base Price": "85",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Items > Negative",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 21,
+    "rows": [
+      {
+        "Name": "Bandana",
+        "Rarity": "Tier 3",
+        "Effects": "Projectiles pierce through 1 additional target -10 % Damage",
+        "Base Price": "75",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage"
+      },
+      {
+        "Name": "Cake",
+        "Rarity": "Tier 1",
+        "Effects": "+3 Max HP -1 % Damage",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP"
+      },
+      {
+        "Name": "Candle",
+        "Rarity": "Tier 3",
+        "Effects": "+4 Elemental Damage +1 HP Regeneration -10% Enemies -5 % Damage",
+        "Base Price": "65",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Elemental Damage, HP Regeneration, Less Enemies"
+      },
+      {
+        "Name": "Chameleon",
+        "Rarity": "Tier 3",
+        "Effects": "+3 % Dodge +20 % Dodge while standing still -4 % Damage",
+        "Base Price": "70",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Dodge, Stand Still"
+      },
+      {
+        "Name": "Coffee",
+        "Rarity": "Tier 1",
+        "Effects": "+10 % Attack Speed -2 % Damage",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed"
+      },
+      {
+        "Name": "Cog",
+        "Rarity": "Tier 2",
+        "Effects": "+4 Engineering +1 Knockback -4 % Damage",
+        "Base Price": "35",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering, Knockback"
+      },
+      {
+        "Name": "Insanity",
+        "Rarity": "Tier 1",
+        "Effects": "+6 % Crit Chance -3 % Damage",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Crit Chance"
+      },
+      {
+        "Name": "Mammoth",
+        "Rarity": "Tier 4",
+        "Effects": "+20 Melee Damage +5 HP Regeneration +5 Knockback -8 % Damage -3 % Speed",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, HP Regeneration, Knockback"
+      },
+      {
+        "Name": "Metal Detector",
+        "Rarity": "Tier 2",
+        "Effects": "+5% chance to double the value of picked up materials +6 Luck +2 Engineering -5 % Damage",
+        "Base Price": "40",
+        "Limit": "20.0",
+        "Unlocked By": "",
+        "Tags": "Luck, Engineering, Pickup, Economy"
+      },
+      {
+        "Name": "Metal Plate",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Armor -3 % Damage",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Armor"
+      },
+      {
+        "Name": "Panda",
+        "Rarity": "Tier 4",
+        "Effects": "+12 Max HP +25 Luck -5 % Damage",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "Win a run with Pacifist",
+        "Tags": "Max HP, Luck"
+      },
+      {
+        "Name": "Power Generator",
+        "Rarity": "Tier 3",
+        "Effects": "+1 % Damage for every permanent 1 % Speed you have -5 % Damage",
+        "Base Price": "65",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Speed, Damage"
+      },
+      {
+        "Name": "Propeller Hat",
+        "Rarity": "Tier 1",
+        "Effects": "+10 Luck -2 % Damage",
+        "Base Price": "28",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Luck"
+      },
+      {
+        "Name": "Pumpkin",
+        "Rarity": "Tier 2",
+        "Effects": "+15% Piercing Damage. Can't go above base damage -2 % Damage",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage"
+      },
+      {
+        "Name": "Ricochet",
+        "Rarity": "Tier 4",
+        "Effects": "Your projectiles gain +1 bounce -25 % Damage",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage"
+      },
+      {
+        "Name": "Seashell(DLC)",
+        "Rarity": "Tier 4",
+        "Effects": "Every ranged weapon's 5th projectile has +3 projectiles -10 % Damage",
+        "Base Price": "100",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage"
+      },
+      {
+        "Name": "Small Magazine",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Ranged Damage +10 % Attack Speed -6 % Damage",
+        "Base Price": "60",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage, Attack Speed"
+      },
+      {
+        "Name": "Sharp Bullet",
+        "Rarity": "Tier 1",
+        "Effects": "Projectiles pierce through 1 additional target -20% Piercing Damage -5 % Damage -3 Knockback",
+        "Base Price": "25",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage"
+      },
+      {
+        "Name": "Tractor",
+        "Rarity": "Tier 3",
+        "Effects": "+40 Harvesting -8 % Damage",
+        "Base Price": "70",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Harvesting"
+      },
+      {
+        "Name": "Triangle of Power",
+        "Rarity": "Tier 3",
+        "Effects": "+20 % Damage +1 Armor -2 % Damage when you take damage until the end of the wave",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Wisdom",
+        "Rarity": "Tier 3",
+        "Effects": "+5 % Damage every 5 seconds until the end of the wave -15 % Damage",
+        "Base Price": "85",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Items > Mechanics",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 8,
+    "rows": [
+      {
+        "Name": "Bloody Hand",
+        "Rarity": "Tier 4",
+        "Effects": "+10 % Life Steal +2 % Damage for every 1 % Life Steal you have You take 1 damage per second (does not give invulnerability time)",
+        "Base Price": "110",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Life Steal"
+      },
+      {
+        "Name": "Bone Dice(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+50% chance to get +1 % Damage when rerolling in the shop +10% chance to get -1 Max HP when rerolling in the shop",
+        "Base Price": "30",
+        "Limit": "2.0",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Coil",
+        "Rarity": "Tier 3",
+        "Effects": "+5 Knockback +1 % Damage for every 1 Knockback you have",
+        "Base Price": "70",
+        "Limit": "3.0",
+        "Unlocked By": "",
+        "Tags": "Damage, Knockback"
+      },
+      {
+        "Name": "Pearl(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+1 % Damage for every permanent 10 Luck you have +3% chance of finding an extra Pearl in a crate",
+        "Base Price": "60",
+        "Limit": "20.0",
+        "Unlocked By": "Win a run with Curious",
+        "Tags": "Luck"
+      },
+      {
+        "Name": "Power Generator",
+        "Rarity": "Tier 3",
+        "Effects": "+1 % Damage for every permanent 1 % Speed you have -5 % Damage",
+        "Base Price": "65",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Speed, Damage"
+      },
+      {
+        "Name": "Triangle of Power",
+        "Rarity": "Tier 3",
+        "Effects": "+20 % Damage +1 Armor -2 % Damage when you take damage until the end of the wave",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Vigilante Ring",
+        "Rarity": "Tier 3",
+        "Effects": "+3 % Damage at the end of a wave",
+        "Base Price": "92",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Wisdom",
+        "Rarity": "Tier 3",
+        "Effects": "+5 % Damage every 5 seconds until the end of the wave -15 % Damage",
+        "Base Price": "85",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Items > Affected Items",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 9,
+    "rows": [
+      {
+        "Name": "Alien Eyes",
+        "Rarity": "Tier 2",
+        "Effects": "Shoots 6 alien eyes around you every 3 seconds dealing 6 (+50%) damage each",
+        "Base Price": "50",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP"
+      },
+      {
+        "Name": "Baby Elephant",
+        "Rarity": "Tier 1",
+        "Effects": "25% chance to deal 1 (25%) damage to a random enemy when you pick up a material",
+        "Base Price": "22",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Luck, Pickup"
+      },
+      {
+        "Name": "Baby with a Beard",
+        "Rarity": "Tier 3",
+        "Effects": "One bullet dealing 1 (+100%) damage is fired from an enemy corpse when they die -50 Range",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage"
+      },
+      {
+        "Name": "Cyberball",
+        "Rarity": "Tier 2",
+        "Effects": "25% chance to deal 1 (25%) damage to a random enemy when an enemy dies",
+        "Base Price": "30",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Luck"
+      },
+      {
+        "Name": "Kraken's Eye(DLC)",
+        "Rarity": "Tier 4",
+        "Effects": "You have a 50% chance to explode for 10 (+500%) damage when you get hit +10 Max HP +10 Curse",
+        "Base Price": "110",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Explosive, Max HP, Curse"
+      },
+      {
+        "Name": "Riposte",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Melee Damage 100% chance to deal 1 (300%) damage to an enemy when dodging their attack",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Dodge, Melee Damage"
+      },
+      {
+        "Name": "Rip and Tear",
+        "Rarity": "Tier 3",
+        "Effects": "Enemies have a 20% chance to explode for 10 (+50%) damage when they die -5 % Crit Chance",
+        "Base Price": "65",
+        "Limit": "5.0",
+        "Unlocked By": "Win a run with Loud",
+        "Tags": "Melee Damage, Explosive"
+      },
+      {
+        "Name": "Scared Sausage",
+        "Rarity": "Tier 1",
+        "Effects": "Attacks have a 25% chance to deal 3x1 (+100%) burning damage",
+        "Base Price": "25",
+        "Limit": "4.0",
+        "Unlocked By": "",
+        "Tags": "Elemental Damage"
+      },
+      {
+        "Name": "Sunken Bell(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "Once per wave, you explode for 100 (+500%+500%+500%+500%) damage when you fall below 40% health",
+        "Base Price": "65",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Explosive"
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "Characters > Positive Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 12,
+    "rows": [
+      {
+        "Name": "Arms Dealer",
+        "Stats": "-95% Weapons Price +30 Harvesting Damage modifications are increased by +33% You start with 1 Dangerous Bunny Shops always sell at least 1 weapon All of your weapons are destroyed when entering a shop",
+        "Unlocked By": "Recycle 12 weapons during a run",
+        "Unlocks": "Anvil",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Chunky",
+        "Stats": "Max HP modifications are increased by 25%  +1% Damage for every 3 Max HP you have +3 HP recovered from consumables -100% Life Steal HP Regeneration modifications are reduced by 50%  Dodge modifications are reduced by 50% Speed modifications are reduced by 100%",
+        "Unlocked By": "Die for the first time",
+        "Unlocks": "Potato Thrower",
+        "Item Tags": "Max HP, Luck, Consumable"
+      },
+      {
+        "Name": "Hunter",
+        "Stats": "+100 Range +1% Damage for every 10 Range you have Crit Chance modifications are increased by 25% Harvesting modifications are reduced by 100% Max HP modifications are reduced by 33%",
+        "Unlocked By": "Reach +300 Range",
+        "Unlocks": "Sniper Gun",
+        "Item Tags": "Range, Crit Chance"
+      },
+      {
+        "Name": "King",
+        "Stats": "+50 Luck +25 % Damage for every Tier IV weapon you have +25% Attack Speed for every Tier IV weapon you have +5 Max HP for every different Tier IV item you have -15% Damage for every Tier I weapon you have -15% Attack Speed for every Tier I weapon you have -2 Max HP for every different Tier I item you have UNLISTED BONUS: Starting weapon is Tier II",
+        "Unlocked By": "Get 3 tier IV weapons at once",
+        "Unlocks": "Excalibur",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Loud",
+        "Stats": "+30% Damage +50% Enemies -3 Harvesting at the end of a wave",
+        "Unlocked By": "Kill 5000 enemies",
+        "Unlocks": "Rip and Tear",
+        "Item Tags": "More Enemies"
+      },
+      {
+        "Name": "Masochist",
+        "Stats": "+5% Damage when you take damage until the end of the wave +10 Max HP +20 HP Regeneration +8 Armor -100% Damage",
+        "Unlocked By": "Win a run in Danger 3",
+        "Unlocks": "Spiky Shield",
+        "Item Tags": "Max HP, Armor, HP Regeneration, Life Steal"
+      },
+      {
+        "Name": "Multitasker",
+        "Stats": "+20% Damage You can equip up to 12 weapons at a time -5% Damage for every weapon you have",
+        "Unlocked By": "Collect 5000 materials",
+        "Unlocks": "Chopper",
+        "Item Tags": ""
+      },
+      {
+        "Name": "One Armed",
+        "Stats": "+200% Attack Speed Damage modifications are increased by 100% You can only equip one weapon at a time",
+        "Unlocked By": "Win a run in Danger 0",
+        "Unlocks": "Focus",
+        "Item Tags": "Damage"
+      },
+      {
+        "Name": "Renegade",
+        "Stats": "+2 projectiles Projectiles pierce through 1 additional target +10 % Damage for every different Tier I item you have You can't equip melee weapons -400% Damage -50% accuracy % Damage modifications are reduced by 80%",
+        "Unlocked By": "Get 10 different tier I items during a run",
+        "Unlocks": "Fairy",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Saver",
+        "Stats": "+15 Harvesting +1% Damage for every 25 Materials you have You start with 1 Piggy Bank +50% Item & Weapon Price",
+        "Unlocked By": "Collect 20000 materials",
+        "Unlocks": "Padding",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Soldier",
+        "Stats": "+50% Damage while standing still +50% Attack Speed while standing still +10% Speed +200% pickup range +15 Knockback You cant attack while moving",
+        "Unlocked By": "Win a run in Danger 2",
+        "Unlocks": "Nuclear Launcher",
+        "Item Tags": "Stand Still"
+      },
+      {
+        "Name": "Vampire",
+        "Stats": "+2 % Damage for every 1% of missing health +1 % Life Steal for every 3% of missing health +1 Armor for every 5% of missing health Max HP modifications are reduced by 25% -60 % Damage -100 HP Regeneration -100 HP recovered from consumables",
+        "Unlocked By": "Reach +40 % Life Steal",
+        "Unlocks": "Decomposing Flesh",
+        "Item Tags": "Life Steal"
+      }
+    ]
+  },
+  {
+    "table_index": 5,
+    "section": "Characters > Negative Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 12,
+    "rows": [
+      {
+        "Name": "Builder(DLC)",
+        "Stats": "You start with 1 Builder's Turret Every 5 uncollected materials are converted into 1 % Structure attack speed and 1 Structure Range at the end of a wave Engineering modifications are increased by 50% +20 Harvesting You can't have structures -30% pickup range Damage modifications are reduced by 75%",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Lighthouse",
+        "Item Tags": "Engineering"
+      },
+      {
+        "Name": "Curious(DLC)",
+        "Stats": "You start with 1 Spyglass 2 additional loot aliens appear every wave All future loot aliens become stronger when you kill a loot alien +2 % XP Gain for every different Item you have -10 % Damage for every duplicate item or weapon you have +25 % Enemy health",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Pearl",
+        "Item Tags": "Luck"
+      },
+      {
+        "Name": "Entrepreneur",
+        "Stats": "-25% Items Price Harvesting modifications are increased by 50% Gain 25% more materials from recycling items -100% of your materials at the start of waves Damage modifications are reduced by 50%",
+        "Unlocked By": "Hold 3000 Materials",
+        "Unlocks": "Bowler Hat",
+        "Item Tags": "Harvesting, Economy"
+      },
+      {
+        "Name": "Engineer",
+        "Stats": "+10 Engineering Engineering modifications are increased by 25% You start with 1 Wrench  Structures spawn close to each other Damage modifications are reduced by 50%",
+        "Unlocked By": "Get 5 turrets on the map simultaneously",
+        "Unlocks": "Robot Arm",
+        "Item Tags": "Engineering, Structure"
+      },
+      {
+        "Name": "Artificer",
+        "Stats": "+175% Explosion Damage +4% Explosion Size for every 1 Elemental Damage you have +100% Damage with Tool weapons -100% Damage Armor modifications are reduced by 50%",
+        "Unlocked By": "Kill 15 Enemies with a single explosion",
+        "Unlocks": "Explosive Shells",
+        "Item Tags": "Explosive (Item Tag)"
+      },
+      {
+        "Name": "Lich",
+        "Stats": "+10 HP Regeneration +10 % Life Steal 100% chance to deal 10 () damage to a random enemy when you heal Damage modifications are reduced by 50%",
+        "Unlocked By": "Reach +100 Max HP",
+        "Unlocks": "Tentacle",
+        "Item Tags": "Max HP, HP Regeneration, Life Steal"
+      },
+      {
+        "Name": "Masochist",
+        "Stats": "+5% Damage when you take damage until the end of the wave +10 Max HP +20 HP Regeneration +8 Armor -100% Damage",
+        "Unlocked By": "Win a run in Danger 3",
+        "Unlocks": "Spiky Shield",
+        "Item Tags": "Max HP, Armor, HP Regeneration, Life Steal"
+      },
+      {
+        "Name": "King",
+        "Stats": "+50 Luck +25 % Damage for every Tier IV weapon you have +25% Attack Speed for every Tier IV weapon you have +5 Max HP for every different Tier IV item you have -15% Damage for every Tier I weapon you have -15% Attack Speed for every Tier I weapon you have -2 Max HP for every different Tier I item you have UNLISTED BONUS: Starting weapon is Tier II",
+        "Unlocked By": "Get 3 tier IV weapons at once",
+        "Unlocks": "Excalibur",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Renegade",
+        "Stats": "+2 projectiles Projectiles pierce through 1 additional target +10 % Damage for every different Tier I item you have You can't equip melee weapons -400% Damage -50% accuracy % Damage modifications are reduced by 80%",
+        "Unlocked By": "Get 10 different tier I items during a run",
+        "Unlocks": "Fairy",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Romantic(DLC)",
+        "Stats": "Hitting an enemy that has less than 25% health has a 5% (50%) chance to charm it for 8 seconds +50 Range with melee weapons -3 % Damage for every 5 Curse you have -1 Armor for every 5 Curse you have +1 Curse at the end of a wave",
+        "Unlocked By": "Finish a run with 0 Curse",
+        "Unlocks": "Flute",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Sailor(DLC)",
+        "Stats": "+200% damage with Naval weapons against cursed enemies +25 Curse -25 % Damage You can only equip tier II weapons or above Dodge is capped at 20% Harvesting modifications are reduced by 100%",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Treasure Map",
+        "Item Tags": "Curse"
+      },
+      {
+        "Name": "Vampire",
+        "Stats": "+2 % Damage for every 1% of missing health +1 % Life Steal for every 3% of missing health +1 Armor for every 5% of missing health Max HP modifications are reduced by 25% -60 % Damage -100 HP Regeneration -100 HP recovered from consumables",
+        "Unlocked By": "Reach +40 % Life Steal",
+        "Unlocks": "Decomposing Flesh",
+        "Item Tags": "Life Steal"
+      }
+    ]
+  },
+  {
+    "table_index": 6,
+    "section": "Weapons",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Ghost Axe",
+        "Class": "Ethereal",
+        "Damage": "12(100%)  18(100%)  24(100%)  40(100%)",
+        "Attack Speed": "1.73s  1.66s  1.58s  1.51s",
+        "DPS": "6.9(57%)/s  10.8(60%)/s  15.2(63%)/s  26.5(66%)/s",
+        "Crit Damage/Chance": "x2 (3%)  x2 (3%)  x2 (3%)  x2 (3%)",
+        "Range": "200  200  200  200",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "+1% Damage for every 20/18/16/12 kills in a wave with this weapon",
+        "Base price": "20  39  74  149",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Jousting Lance",
+        "Class": "Medieval",
+        "Damage": "20(50%30%)  25(50%35%)  30(50%40%)  50(50%50%)",
+        "Attack Speed": "1.58s  1.5s  1.42s  1.33s",
+        "DPS": "12.7(31%18%)/s  16.7(33%23%)/s  21.1(35%28%)/s  37.6(37%37%)/s",
+        "Crit Damage/Chance": "x2 (3%)  x2 (3%)  x2 (3%)  x2 (3%)",
+        "Range": "250  250  250  250",
+        "Knockback": "0  0  0  0",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "+2/+3/+4/+5 % Speed -10/-15/-20/-25 % Damage while standing still",
+        "Base price": "20  36  72  132",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Scythe",
+        "Class": "Legendary, Ethereal",
+        "Damage": "-  -  -  150(150%100%)",
+        "Attack Speed": "-  -  -  0.72s",
+        "DPS": "-  -  -  208.3(208.3%138.9%)/s",
+        "Crit Damage/Chance": "-  -  -  x2 (3%)",
+        "Range": "-  -  -  250",
+        "Knockback": "-  -  -  5",
+        "Lifesteal": "-  -  -  100%",
+        "Special Effects": "You take 3 damage per second (does not give invulnerability time). +3 % Damage when you take damage until the end of the wave",
+        "Base price": "-  -  -  285",
+        "Unlocked by": "Default"
+      }
+    ]
+  },
+  {
+    "table_index": 7,
+    "section": "Weapon Classes",
+    "columns": [
+      "Class",
+      "Bonuses",
+      "Weapons"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Class": "Heavy",
+        "Bonuses": "(2)+5% Damage (3)+10% Damage (4)+15% Damage (5)+20% Damage (6)+25% Damage",
+        "Weapons": "Cacti Club  Anchor  Flamethrower  Grenade Launcher  Hammer  Mace  Rocket Launcher  Minigun  Nuclear Launcher  Obliterator  Particle Accelerator  War Hammer  Gatling Laser"
+      }
+    ]
+  },
+  {
+    "table_index": 8,
+    "section": "",
+    "columns": [
+      "Stats",
+      "Stats.1",
+      "Stats.2",
+      "Stats.3"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Stats": "Max HP",
+        "Stats.1": "Melee Damage",
+        "Stats.2": "Crit Chance",
+        "Stats.3": "Dodge"
+      },
+      {
+        "Stats": "HP Regeneration",
+        "Stats.1": "Ranged Damage",
+        "Stats.2": "Engineering",
+        "Stats.3": "Speed"
+      },
+      {
+        "Stats": "Life Steal",
+        "Stats.1": "Elemental Damage",
+        "Stats.2": "Range",
+        "Stats.3": "Luck"
+      },
+      {
+        "Stats": "Damage",
+        "Stats.1": "Attack Speed",
+        "Stats.2": "Armor",
+        "Stats.3": "Harvesting"
+      },
+      {
+        "Stats": "DLC Stats",
+        "Stats.1": "DLC Stats",
+        "Stats.2": "DLC Stats",
+        "Stats.3": "DLC Stats"
+      },
+      {
+        "Stats": "Curse",
+        "Stats.1": "Curse",
+        "Stats.2": "Curse",
+        "Stats.3": "Curse"
+      }
+    ]
+  }
+]

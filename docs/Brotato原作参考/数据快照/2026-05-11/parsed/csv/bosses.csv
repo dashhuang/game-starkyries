@@ -1,0 +1,11 @@
+id,name,stats,reward
+predator,Predator,"29900 HP (Danger 0-4)
+31395 HP (Danger 5)
+300 Speed
+29.5 Damage","Winning the game (D1-4)
+It's no longer a threat (D5)"
+invoker,Invoker,"29900 HP (Danger 0-4)
+31395 HP (Danger 5)
+200 (M0 and M1) 500 (M2) Speed
+19.5 (M0 and M1) 73 (M2) Damage","Winning the game (D1-4)
+It's no longer a threat (D5)"

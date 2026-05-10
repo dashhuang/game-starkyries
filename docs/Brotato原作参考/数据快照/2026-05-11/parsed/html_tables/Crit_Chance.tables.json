@@ -1,0 +1,736 @@
+[
+  {
+    "table_index": 0,
+    "section": "What can Crit?",
+    "columns": [
+      "Can ✔ Crit",
+      "Can't ❌ Crit"
+    ],
+    "row_count": 4,
+    "rows": [
+      {
+        "Can ✔ Crit": "All hits from Weapons along with any projectiles spawned by those weapons.",
+        "Can't ❌ Crit": "Structures - Unless you have Pile of Books"
+      },
+      {
+        "Can ✔ Crit": "Piercing and Bouncing attacks can crit individually on each Pierce/Bounce.",
+        "Can't ❌ Crit": "Burn"
+      },
+      {
+        "Can ✔ Crit": "All Explosions. This includes explosions from weapons, such as Rocket Launcher and explosions from Characters such as Bull and Glutton. Explosions from items can crit as well, such as Rip and Tear or Spicy Sauce.",
+        "Can't ❌ Crit": "The ability from Lucky and Lich"
+      },
+      {
+        "Can ✔ Crit": "Projectiles from Items such as Alien Eyes and Baby with a Beard can crit with a base 3% chance for 2x damage.",
+        "Can't ❌ Crit": "Randomly targeted damage from items such as Baby Elephant, Cyberball, or Riposte"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Items > Positive",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 13,
+    "rows": [
+      {
+        "Name": "Alloy",
+        "Rarity": "Tier 3",
+        "Effects": "+3 Melee Damage +3 Ranged Damage +3 Elemental Damage +3 Engineering +5 % Crit Chance -6 % Dodge",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Ranged Damage, Engineering, Crit Chance, Elemental Damage"
+      },
+      {
+        "Name": "Blindfold",
+        "Rarity": "Tier 2",
+        "Effects": "+5 % Crit Chance +5 % Dodge -15 Range",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Crit Chance, Dodge"
+      },
+      {
+        "Name": "Claw Tree",
+        "Rarity": "Tier 1",
+        "Effects": "+1 Melee Damage +3 % Crit Chance -1 Max HP",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Crit Chance"
+      },
+      {
+        "Name": "Energy Bracelet",
+        "Rarity": "Tier 2",
+        "Effects": "+4 % Crit Chance +2 Elemental Damage -2 Ranged Damage",
+        "Base Price": "55",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Crit Chance, Elemental Damage"
+      },
+      {
+        "Name": "Exoskeleton",
+        "Rarity": "Tier 4",
+        "Effects": "+3 Armor +5 % Crit Chance +5 Engineering +5 % Speed -2 HP Regeneration -2 % Life Steal",
+        "Base Price": "90",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Armor, Crit Chance, Engineering, Speed"
+      },
+      {
+        "Name": "Eyepatch(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "Projectiles get +1 piercing on critical hit +3 % Crit Chance -10% Accuracy",
+        "Base Price": "55",
+        "Limit": "",
+        "Unlocked By": "Win a run with Buccaneer",
+        "Tags": "Crit Chance, Ranged Damage"
+      },
+      {
+        "Name": "Frozen Heart",
+        "Rarity": "Tier 3",
+        "Effects": "+8 Elemental Damage +5 % Crit Chance Weapon damage additionally scales with 10% Elemental Damage Burning activates 100% slower",
+        "Base Price": "90",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Elemental Damage, Crit Chance"
+      },
+      {
+        "Name": "Insanity",
+        "Rarity": "Tier 1",
+        "Effects": "+6 % Crit Chance -3 % Damage",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Crit Chance"
+      },
+      {
+        "Name": "Night Goggles",
+        "Rarity": "Tier 4",
+        "Effects": "+15 % Crit Chance +50 Range -3 Max HP -1 Armor",
+        "Base Price": "95",
+        "Limit": "",
+        "Unlocked By": "Win a run with Ranger",
+        "Tags": "Crit Chance, Range"
+      },
+      {
+        "Name": "Pile of Books",
+        "Rarity": "Tier 3",
+        "Effects": "Your structures can crit +3 % Crit Chance +3 Engineering",
+        "Base Price": "70",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Crit Chance, Engineering"
+      },
+      {
+        "Name": "Poisonous Tonic",
+        "Rarity": "Tier 3",
+        "Effects": "+10 % Attack Speed +5 % Crit Chance +15 Range -2 HP Regeneration",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed, Crit Chance, Range"
+      },
+      {
+        "Name": "Sunglasses",
+        "Rarity": "Tier 2",
+        "Effects": "+10 % Crit Chance -1 Armor",
+        "Base Price": "50",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Crit Chance"
+      },
+      {
+        "Name": "Tentacle",
+        "Rarity": "Tier 2",
+        "Effects": "+3 % Crit Chance +20% chance to heal 1 HP when killing an enemy with a critical hit",
+        "Base Price": "35",
+        "Limit": "5.0",
+        "Unlocked By": "Win a run with Lich",
+        "Tags": "Crit Chance"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Items > Positive - Mechanics",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Name": "Eyepatch(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "Projectiles get +1 piercing on critical hit +3 % Crit Chance -10% Accuracy",
+        "Base Price": "55",
+        "Limit": "",
+        "Unlocked By": "Win a run with Buccaneer",
+        "Tags": "Crit Chance, Ranged Damage"
+      },
+      {
+        "Name": "Giant Belt",
+        "Rarity": "Tier 4",
+        "Effects": "Critical hits deal 10% of an enemy’s current health as bonus damage (1% for bosses and elites)",
+        "Base Price": "110",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Jack",
+        "Tags": "Crit Chance"
+      },
+      {
+        "Name": "Hunting Trophy",
+        "Rarity": "Tier 3",
+        "Effects": "33% chance to gain 1 material when killing an enemy with a critical hit",
+        "Base Price": "55",
+        "Limit": "3.0",
+        "Unlocked By": "Win a run with Crazy",
+        "Tags": "Crit Chance"
+      },
+      {
+        "Name": "Lucky Coin",
+        "Rarity": "Tier 4",
+        "Effects": "+2 Luck for every 1 % Crit Chance you have -2 Armor",
+        "Base Price": "105",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Crit Chance, Luck"
+      },
+      {
+        "Name": "Pile of Books",
+        "Rarity": "Tier 3",
+        "Effects": "Your structures can crit +3 % Crit Chance +3 Engineering",
+        "Base Price": "70",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Crit Chance, Engineering"
+      },
+      {
+        "Name": "Tentacle",
+        "Rarity": "Tier 2",
+        "Effects": "+3 % Crit Chance +20% chance to heal 1 HP when killing an enemy with a critical hit",
+        "Base Price": "35",
+        "Limit": "5.0",
+        "Unlocked By": "Win a run with Lich",
+        "Tags": "Crit Chance"
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Items > Negative",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 8,
+    "rows": [
+      {
+        "Name": "Bowler Hat",
+        "Rarity": "Tier 3",
+        "Effects": "+15 Luck +18 Harvesting -5 % Attack Speed -3 % Crit Chance",
+        "Base Price": "75",
+        "Limit": "",
+        "Unlocked By": "Win a run with Entrepreneur",
+        "Tags": "Luck, Harvesting"
+      },
+      {
+        "Name": "Compass",
+        "Rarity": "Tier 2",
+        "Effects": "+5 % Speed +3 Engineering -3 % Crit Chance",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "Win a run with Explorer",
+        "Tags": "Speed, Engineering"
+      },
+      {
+        "Name": "Goat Skull",
+        "Rarity": "Tier 1",
+        "Effects": "+3 Melee Damage -2 % Crit Chance",
+        "Base Price": "25",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage"
+      },
+      {
+        "Name": "Heavy Bullets",
+        "Rarity": "Tier 4",
+        "Effects": "+5 Ranged Damage +10 % Damage +10 Range -5 % Attack Speed -5 % Crit Chance",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage, Damage, Range"
+      },
+      {
+        "Name": "Medal",
+        "Rarity": "Tier 2",
+        "Effects": "+3 Max HP +3 % Damage +1 Armor +3 % Speed -4 % Crit Chance",
+        "Base Price": "55",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, Damage, Armor, Speed"
+      },
+      {
+        "Name": "Octopus",
+        "Rarity": "Tier 4",
+        "Effects": "+12 Max HP +5 HP Regeneration +3 % Life Steal -8 % Crit Chance",
+        "Base Price": "105",
+        "Limit": "",
+        "Unlocked By": "Win a run with Mutant",
+        "Tags": "Max HP, Life Steal, HP Regeneration"
+      },
+      {
+        "Name": "Pencil",
+        "Rarity": "Tier 1",
+        "Effects": "+2 Engineering -1 % Attack Speed -1 % Crit Chance",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering"
+      },
+      {
+        "Name": "Rip and Tear",
+        "Rarity": "Tier 3",
+        "Effects": "Enemies have a 20% chance to explode for 10 (+50%) damage when they die -5 % Crit Chance",
+        "Base Price": "65",
+        "Limit": "5.0",
+        "Unlocked By": "Win a run with Loud",
+        "Tags": "Melee Damage, Explosive"
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 2,
+    "rows": [
+      {
+        "Name": "Diver(DLC)",
+        "Stats": "You start with 1 Harpoon Gun -100% Harpoon Gun price +200 % Crit Damage with Precise weapons % Crit Chance modifications are increased by 25% +1 HP Regeneration for every 2 Melee Damage you have Enemies take 300% more damage for 3 seconds when hit by Ranged Damage -100 Ranged Damage +250 % Enemy health",
+        "Unlocked By": "Kill 1000 enemies that are more than 700 range away from you",
+        "Unlocks": "Starfish",
+        "Item Tags": "Crit Chance, Melee Damage"
+      },
+      {
+        "Name": "Hunter",
+        "Stats": "+100 Range +1% Damage for every 10 Range you have Crit Chance modifications are increased by 25% Harvesting modifications are reduced by 100% Max HP modifications are reduced by 33%",
+        "Unlocked By": "Reach +300 Range",
+        "Unlocks": "Sniper Gun",
+        "Item Tags": "Range, Crit Chance"
+      }
+    ]
+  },
+  {
+    "table_index": 5,
+    "section": "Weapons that interacts with Crit",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Name": "Crossbow",
+        "Class": "Precise, Medieval",
+        "Damage": "10(50%10%)  12(50%10%)  15(50%10%)  18(50%10%)",
+        "Attack Speed": "1.13s  1.13s  1.13s  1.13s",
+        "DPS": "8.8(44%8%)/s  10.6(44%8%)/s  13.3(44%8%)/s  15.9(44%8%)/s",
+        "Crit Damage/Chance": "x1.5 (30%)  x1.75 (35%)  x2 (40%)  x2.25 (45%)",
+        "Range": "350  350  350  350",
+        "Knockback": "8  8  8  8",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Pierces up to 1/2/3/4 times on critical hit",
+        "Base price": "16  34  62  132",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Drill",
+        "Class": "Legendary, Precise",
+        "Damage": "-  -  -  10(100%100%)",
+        "Attack Speed": "-  -  -  0.45s",
+        "DPS": "-  -  -  22.2(222.2%222.2%)/s",
+        "Crit Damage/Chance": "-  -  -  x2.5 (50%)",
+        "Range": "-  -  -  100",
+        "Knockback": "-  -  -  5",
+        "Lifesteal": "-  -  -  0",
+        "Special Effects": "100% chance to gain 1 material when killing an enemy with a critical hit. +10 % Attack Speed every 5 seconds until the end of the wave",
+        "Base price": "-  -  -  250",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Javelin(DLC)",
+        "Class": "Primitive",
+        "Damage": "8(+100%)  12(+100%)  16(+100%)  20(+100%)",
+        "Attack Speed": "1.2s  1.12s  1.03s  0.95s",
+        "DPS": "6.7(83.3%)/s  10.7(89.6%)/s  15.5(97.1%)/s  21.1(105.3%)/s",
+        "Crit Damage/Chance": "x2.5 (0% chance)  x2.75 (0% chance)  x3 (0% chance)  x3.25 (0% chance)",
+        "Range": "350  375  400  425",
+        "Knockback": "0  0  0  0",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Every 5th/4th/3rd/2nd projectile has +100 % Crit Chance. Pierces 2/3/4/5 enemies dealing -25% less damage with each pierce.",
+        "Base price": "18  36  66  140",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Shuriken",
+        "Class": "Precise",
+        "Damage": "6(25%)  8(34%)  10(42%)  15(50%)",
+        "Attack Speed": "0.87s  0.83s  0.8s  0.7s",
+        "DPS": "6.9(28%)/s  9.6(40%)/s  12.5(52%)/s  21.4(71%)/s",
+        "Crit Damage/Chance": "x1.5 (35%)  x1.5 (38%)  x1.5 (41%)  x1.5 (45%)",
+        "Range": "350  350  350  350",
+        "Knockback": "0  0  0  0",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Critical hits bounces 1/2/3/4 times",
+        "Base price": "12  26  52  105",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Spoon(DLC)",
+        "Class": "Blunt",
+        "Damage": "10(+50%+15%)  15(+50%+20%)  20(+50%+25%)  25(+50%+25%)",
+        "Attack Speed": "1.06s  0.99s  0.93s  0.86s",
+        "DPS": "9.4(47.1%14.1%)/s  15.1(50.3%20.1%)/s  21.6(54%27%)/s  28.9(57.9%28.9%)/s",
+        "Crit Damage/Chance": "x2 (0% chance)  x2.25 (0% chance)  x2.5 (0% chance)  x3 (0% chance)",
+        "Range": "150  165  180  200",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Always crits when hitting burning targets",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Win a run with Chef"
+      },
+      {
+        "Name": "Thief Dagger",
+        "Class": "Precise",
+        "Damage": "6(50%)  12(50%)  18(50%)  30(50%)",
+        "Attack Speed": "1.01s  0.93s  0.86s  0.73s",
+        "DPS": "5.9(49%)/s  12.9(53%)/s  20.9(58%)/s  41.1(68%)/s",
+        "Crit Damage/Chance": "x2 (20%)  x2 (25%)  x2 (30%)  x2 (40%)",
+        "Range": "150  150  150  150",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "50%/56%/62%/80% to gain 1 material when killing an enemy with a critical hit with this weapon",
+        "Base price": "12  26  52  105",
+        "Unlocked by": "Default"
+      }
+    ]
+  },
+  {
+    "table_index": 6,
+    "section": "Weapons With High Crit Multiplier",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 14,
+    "rows": [
+      {
+        "Name": "Blunderbuss(DLC)",
+        "Class": "Naval, Gun",
+        "Damage": "-  25(+100%)  50(+125%)  80(+150%)",
+        "Attack Speed": "-  5.2s  5.2s  5.2s",
+        "DPS": "--  4.8(19.2%)/s  9.6(24%)/s  15.4(28.8%)/s",
+        "Crit Damage/Chance": "-  x2 (3% chance)  x2.25 (3% chance)  x2.5 (3% chance)",
+        "Range": "-  325  350  375",
+        "Knockback": "-  10  20  30",
+        "Lifesteal": "-  0  0  0",
+        "Special Effects": "Cooldown is reset when you pick up a material. Pierces 2 enemies dealing -25% less damage with each pierce.",
+        "Base price": "-  45  95  192",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Claw",
+        "Class": "Unarmed, Precise",
+        "Damage": "5(15%50%)  10(20%50%)  15(25%50%)  25(30%50%)",
+        "Attack Speed": "0.78s  0.74s  0.69s  0.61s",
+        "DPS": "6.4(19.2%64.1%)/s  13.5(27%67.6%)/s  21.7(36.2%72.5%)/s  41.0(49.2%82%)/s",
+        "Crit Damage/Chance": "x2 (10%)  x2.15 (15%)  x2.3 (20%)  x2.5 (25%)",
+        "Range": "150  150  150  150",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "-",
+        "Base price": "15  28  55  110",
+        "Unlocked by": "Win a run with Cryptid"
+      },
+      {
+        "Name": "Crossbow",
+        "Class": "Precise, Medieval",
+        "Damage": "10(50%10%)  12(50%10%)  15(50%10%)  18(50%10%)",
+        "Attack Speed": "1.13s  1.13s  1.13s  1.13s",
+        "DPS": "8.8(44%8%)/s  10.6(44%8%)/s  13.3(44%8%)/s  15.9(44%8%)/s",
+        "Crit Damage/Chance": "x1.5 (30%)  x1.75 (35%)  x2 (40%)  x2.25 (45%)",
+        "Range": "350  350  350  350",
+        "Knockback": "8  8  8  8",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Pierces up to 1/2/3/4 times on critical hit",
+        "Base price": "16  34  62  132",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Drill",
+        "Class": "Legendary, Precise",
+        "Damage": "-  -  -  10(100%100%)",
+        "Attack Speed": "-  -  -  0.45s",
+        "DPS": "-  -  -  22.2(222.2%222.2%)/s",
+        "Crit Damage/Chance": "-  -  -  x2.5 (50%)",
+        "Range": "-  -  -  100",
+        "Knockback": "-  -  -  5",
+        "Lifesteal": "-  -  -  0",
+        "Special Effects": "100% chance to gain 1 material when killing an enemy with a critical hit. +10 % Attack Speed every 5 seconds until the end of the wave",
+        "Base price": "-  -  -  250",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Excalibur",
+        "Class": "Legendary, Blade",
+        "Damage": "-  -  -  200(200%200%)",
+        "Attack Speed": "-  -  -  0.66s",
+        "DPS": "-  -  -  266.6(266.6%266.6%)/s",
+        "Crit Damage/Chance": "-  -  -  x2.5 (10%)",
+        "Range": "-  -  -  200",
+        "Knockback": "-  -  -  5",
+        "Lifesteal": "-  -  -  0",
+        "Special Effects": "Alternates between thrusting and sweeping attacks. -3 Armor for every weapon you have",
+        "Base price": "-  -  -  230",
+        "Unlocked by": "Win a run with King"
+      },
+      {
+        "Name": "Gatling Laser",
+        "Class": "Legendary, Heavy",
+        "Damage": "-  -  -  10(100%)",
+        "Attack Speed": "-  -  -  0.073s",
+        "DPS": "-  -  -  137.0(1370%)/s",
+        "Crit Damage/Chance": "-  -  -  x3 (10%)",
+        "Range": "-  -  -  500",
+        "Knockback": "-  -  -  5",
+        "Lifesteal": "-  -  -  0",
+        "Special Effects": "Pierces 3 enemies dealing -25% less damage with each pierce.",
+        "Base price": "-  -  -  290",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Grenade Launcher(DLC)",
+        "Class": "Heavy, Explosive",
+        "Damage": "-  12(+100%)  18(+100%)  30(+100%)",
+        "Attack Speed": "-  0.37s  0.37s  0.37s",
+        "DPS": "--  5.9(49%)/s  13.7(76.1%)/s  31.5(105%)/s",
+        "Crit Damage/Chance": "-  x2.5 (5% chance)  x3 (10% chance)  x3.5 (20% chance)",
+        "Range": "-  350  400  450",
+        "Knockback": "-  0  0  0",
+        "Lifesteal": "-  0  0  0",
+        "Special Effects": "Every 2nd/3rd/4th shot has a longer cooldown: 3.7s/3.2s/2.7s. Projectiles explode on hit. Bounces 1 time.",
+        "Base price": "-  58  108  212",
+        "Unlocked by": "Win a run with Gangster"
+      },
+      {
+        "Name": "Icicle",
+        "Class": "Precise, Elemental",
+        "Damage": "10(+100%)  20(+100%)  30(+100%)  40(+100%)",
+        "Attack Speed": "1.03s  0.95s  0.87s  0.7s",
+        "DPS": "9.7(96.8%)/s  21.1(105.3%)/s  34.6(115.4%)/s  57.1(142.9%)/s",
+        "Crit Damage/Chance": "x2 (5% chance)  x2 (10% chance)  x2.5 (15% chance)  x3 (20% chance)",
+        "Range": "400  400  400  400",
+        "Knockback": "5  5  5  5",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Pierces 1 enemy dealing -50% less to the second enemy",
+        "Base price": "18-  36-  66-  140-",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Javelin(DLC)",
+        "Class": "Primitive",
+        "Damage": "8(+100%)  12(+100%)  16(+100%)  20(+100%)",
+        "Attack Speed": "1.2s  1.12s  1.03s  0.95s",
+        "DPS": "6.7(83.3%)/s  10.7(89.6%)/s  15.5(97.1%)/s  21.1(105.3%)/s",
+        "Crit Damage/Chance": "x2.5 (0% chance)  x2.75 (0% chance)  x3 (0% chance)  x3.25 (0% chance)",
+        "Range": "350  375  400  425",
+        "Knockback": "0  0  0  0",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Every 5th/4th/3rd/2nd projectile has +100 % Crit Chance. Pierces 2/3/4/5 enemies dealing -25% less damage with each pierce.",
+        "Base price": "18  36  66  140",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Knife",
+        "Class": "Precise",
+        "Damage": "6(80%)  9(80%)  12(80%)  20(80%)",
+        "Attack Speed": "1.01s  0.93s  0.86s  0.78s",
+        "DPS": "5.9(79%)/s  9.7(86%)/s  14.0(93%)/s  25.6(102%)/s",
+        "Crit Damage/Chance": "x2.5 (20%)  x3 (30%)  x3.5 (40%)  x4 (50%)",
+        "Range": "150  150  150  150",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Scissors",
+        "Class": "Medical, Precise",
+        "Damage": "5(80%)  10(80%)  15(80%)  20(80%)",
+        "Attack Speed": "1.01s  0.98s  0.94s  0.86s",
+        "DPS": "5.0(79%)/s  10.2(81%)/s  16.0(85%)/s  23.3(93%)/s",
+        "Crit Damage/Chance": "x2 (10%)  x2.15 (12%)  x2.3 (15%)  x2.5 (20%)",
+        "Range": "150  150  150  150",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "40%  45%  50%  60%",
+        "Special Effects": "",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Sharp Tooth",
+        "Class": "Primitive, Precise",
+        "Damage": "5(+50%+50%)  8(+50%+65%)  11(+50%+80%)  15(+50%+100%)",
+        "Attack Speed": "1.14s  1.07s  1s  0.93s",
+        "DPS": "4.4(43.7%43.7%)/s  7.5(46.7%60.7%)/s  11(50.1%80.1%)/s  16.2(54%108%)/s",
+        "Crit Damage/Chance": "x2 (3% chance)  x2.15 (6% chance)  x2.3 (9% chance)  x2.5 (12% chance)",
+        "Range": "150  160  170  180",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "+1 % Life Steal for every 25%/20%/15%/10% of missing health",
+        "Base price": "12  26  52  105",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Sniper Gun",
+        "Class": "Gun, Precise",
+        "Damage": "-  -  50(100%20%)  80(100%30%)",
+        "Attack Speed": "-  -  2.4s  2.4s",
+        "DPS": "-  -  20.8(41%8%)/s  33.3(41%12%)/s",
+        "Crit Damage/Chance": "-  -  x3 (20%)  x4 (20%)",
+        "Range": "-  -  800  1000",
+        "Knockback": "-  -  30  30",
+        "Lifesteal": "-  -  0  0",
+        "Special Effects": "Hitting an enemy spawns 5/8 projectiles dealing 5 +(10%/15%)",
+        "Base price": "-  -  115  245",
+        "Unlocked by": "Win a run with Hunter"
+      },
+      {
+        "Name": "Spoon(DLC)",
+        "Class": "Blunt",
+        "Damage": "10(+50%+15%)  15(+50%+20%)  20(+50%+25%)  25(+50%+25%)",
+        "Attack Speed": "1.06s  0.99s  0.93s  0.86s",
+        "DPS": "9.4(47.1%14.1%)/s  15.1(50.3%20.1%)/s  21.6(54%27%)/s  28.9(57.9%28.9%)/s",
+        "Crit Damage/Chance": "x2 (0% chance)  x2.25 (0% chance)  x2.5 (0% chance)  x3 (0% chance)",
+        "Range": "150  165  180  200",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "Always crits when hitting burning targets",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Win a run with Chef"
+      }
+    ]
+  },
+  {
+    "table_index": 7,
+    "section": "Weapon Classes",
+    "columns": [
+      "Class",
+      "Bonuses",
+      "Weapons"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Class": "Precise",
+        "Bonuses": "(2)+3% Crit Chance (3)+6% Crit Chance (4)+9% Crit Chance (5)+12% Crit Chance (6)+15% Crit Chance",
+        "Weapons": "Claw  Crossbow  Icicle  Knife  Lightning Shiv  Scissors  Sharp Tooth  Shuriken  Thief Dagger  Sniper Gun  Drill"
+      }
+    ]
+  },
+  {
+    "table_index": 8,
+    "section": "",
+    "columns": [
+      "Stats",
+      "Stats.1",
+      "Stats.2",
+      "Stats.3"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Stats": "Max HP",
+        "Stats.1": "Melee Damage",
+        "Stats.2": "Crit Chance",
+        "Stats.3": "Dodge"
+      },
+      {
+        "Stats": "HP Regeneration",
+        "Stats.1": "Ranged Damage",
+        "Stats.2": "Engineering",
+        "Stats.3": "Speed"
+      },
+      {
+        "Stats": "Life Steal",
+        "Stats.1": "Elemental Damage",
+        "Stats.2": "Range",
+        "Stats.3": "Luck"
+      },
+      {
+        "Stats": "Damage",
+        "Stats.1": "Attack Speed",
+        "Stats.2": "Armor",
+        "Stats.3": "Harvesting"
+      },
+      {
+        "Stats": "DLC Stats",
+        "Stats.1": "DLC Stats",
+        "Stats.2": "DLC Stats",
+        "Stats.3": "DLC Stats"
+      },
+      {
+        "Stats": "Curse",
+        "Stats.1": "Curse",
+        "Stats.2": "Curse",
+        "Stats.3": "Curse"
+      }
+    ]
+  }
+]

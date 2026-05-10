@@ -1,0 +1,473 @@
+[
+  {
+    "table_index": 0,
+    "section": "Items > Positive",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 19,
+    "rows": [
+      {
+        "Name": "Alloy",
+        "Rarity": "Tier 3",
+        "Effects": "+3 Melee Damage +3 Ranged Damage +3 Elemental Damage +3 Engineering +5 % Crit Chance -6 % Dodge",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Ranged Damage, Engineering, Crit Chance, Elemental Damage"
+      },
+      {
+        "Name": "Big Arms",
+        "Rarity": "Tier 4",
+        "Effects": "+12 Melee Damage +6 Ranged Damage +3 Knockback -3 % Attack Speed -3 % Speed",
+        "Base Price": "105",
+        "Limit": "",
+        "Unlocked By": "Win a run with Generalist",
+        "Tags": "Melee Damage, Ranged Damage, Knockback"
+      },
+      {
+        "Name": "Black Belt",
+        "Rarity": "Tier 2",
+        "Effects": "+25 % XP Gain +3 Melee Damage +3 Knockback -8 Luck",
+        "Base Price": "50",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, XP Gain, Knockback"
+      },
+      {
+        "Name": "Boxing Glove",
+        "Rarity": "Tier 1",
+        "Effects": "+1 Melee Damage +3 Knockback",
+        "Base Price": "18",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Knockback"
+      },
+      {
+        "Name": "Charcoal",
+        "Rarity": "Tier 1",
+        "Effects": "+1 Elemental Damage +2 Melee Damage -2 Harvesting",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Elemental Damage, Melee Damage"
+      },
+      {
+        "Name": "Claw Tree",
+        "Rarity": "Tier 1",
+        "Effects": "+1 Melee Damage +3 % Crit Chance -1 Max HP",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Crit Chance"
+      },
+      {
+        "Name": "Defective Steroids",
+        "Rarity": "Tier 1",
+        "Effects": "+2 Max HP +2 Melee Damage -3 % Attack Speed",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, Melee Damage"
+      },
+      {
+        "Name": "Gnome",
+        "Rarity": "Tier 4",
+        "Effects": "+10 Melee Damage +10 Elemental Damage -20 Range -20% pickup range",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "Win a run with Bull",
+        "Tags": "Melee Damage, Elemental Damage"
+      },
+      {
+        "Name": "Goat Skull",
+        "Rarity": "Tier 1",
+        "Effects": "+3 Melee Damage -2 % Crit Chance",
+        "Base Price": "25",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage"
+      },
+      {
+        "Name": "Handcuffs",
+        "Rarity": "Tier 3",
+        "Effects": "+8 Melee Damage +8 Ranged Damage +8 Elemental Damage Your Max HP is capped at its current value",
+        "Base Price": "80",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Ranged Damage, Elemental Damage"
+      },
+      {
+        "Name": "Hedgehog",
+        "Rarity": "Tier 1",
+        "Effects": "+2 Melee Damage +1 Ranged Damage -1 HP Regeneration",
+        "Base Price": "30",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Ranged Damage"
+      },
+      {
+        "Name": "Little Muscley Dude",
+        "Rarity": "Tier 2",
+        "Effects": "+3 Melee Damage +5 Max HP -15 Range",
+        "Base Price": "50",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Max HP"
+      },
+      {
+        "Name": "Mammoth",
+        "Rarity": "Tier 4",
+        "Effects": "+20 Melee Damage +5 HP Regeneration +5 Knockback -8 % Damage -3 % Speed",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, HP Regeneration, Knockback"
+      },
+      {
+        "Name": "Mastery",
+        "Rarity": "Tier 2",
+        "Effects": "+6 Melee Damage -3 Ranged Damage",
+        "Base Price": "55",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Melee Damage"
+      },
+      {
+        "Name": "Robot Arm",
+        "Rarity": "Tier 4",
+        "Effects": "+3 Melee Damage at the end of a wave +3 Engineering at the end of a wave -1 Max HP at the end of a wave",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "Win a run with Engineer",
+        "Tags": "Melee Damage, Engineering"
+      },
+      {
+        "Name": "Riposte",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Melee Damage 100% chance to deal 1 (300%) damage to an enemy when dodging their attack",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Dodge, Melee Damage"
+      },
+      {
+        "Name": "Saltwater(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Melee Damage +3 % Attack Speed +10 % Speed for 3 seconds when you take damage -1 Elemental Damage",
+        "Base Price": "50",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Attack Speed, Speed"
+      },
+      {
+        "Name": "Scarf(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "+4 HP Regeneration +4 Melee Damage +4 % Speed +25 % Enemy Speed during the next wave",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "Win a run with Hiker",
+        "Tags": "HP Regeneration, Melee Damage, Speed"
+      },
+      {
+        "Name": "Wheat",
+        "Rarity": "Tier 3",
+        "Effects": "+4 Melee Damage +2 Ranged Damage +10 Harvesting -2 Elemental Damage",
+        "Base Price": "85",
+        "Limit": "",
+        "Unlocked By": "Win a run with Farmer",
+        "Tags": "Melee Damage, Ranged Damage, Harvesting"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Items > Negative",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Name": "Cape",
+        "Rarity": "Tier 4",
+        "Effects": "+5 % Life Steal +20 % Dodge -2 Melee Damage -2 Ranged Damage -2 Elemental Damage",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Life Steal, Dodge"
+      },
+      {
+        "Name": "Fertilizer",
+        "Rarity": "Tier 1",
+        "Effects": "+8 Harvesting -1 Melee Damage",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Harvesting"
+      },
+      {
+        "Name": "Fuel Tank",
+        "Rarity": "Tier 2",
+        "Effects": "+4 Elemental Damage -1 Melee Damage -1 Ranged Damage",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Elemental Damage"
+      },
+      {
+        "Name": "Lucky Charm",
+        "Rarity": "Tier 3",
+        "Effects": "+30 Luck -2 Melee Damage -1 Ranged Damage",
+        "Base Price": "75",
+        "Limit": "",
+        "Unlocked By": "Win a run with Lucky",
+        "Tags": "Luck"
+      },
+      {
+        "Name": "Peaceful Bee",
+        "Rarity": "Tier 1",
+        "Effects": "+4 % Dodge +4 Harvesting -1 Melee Damage -1 Ranged Damage",
+        "Base Price": "18",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Dodge, Harvesting"
+      },
+      {
+        "Name": "Shmoop",
+        "Rarity": "Tier 3",
+        "Effects": "+6 Max HP +2 HP Regeneration -2 Melee Damage -1 Ranged Damage",
+        "Base Price": "60",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, HP Regeneration"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Items > Mechanics",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Rip and Tear",
+        "Rarity": "Tier 3",
+        "Effects": "Enemies have a 20% chance to explode for 10 (+50%) damage when they die -5 % Crit Chance",
+        "Base Price": "65",
+        "Limit": "5.0",
+        "Unlocked By": "Win a run with Loud",
+        "Tags": "Melee Damage, Explosive"
+      },
+      {
+        "Name": "Riposte",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Melee Damage 100% chance to deal 1 (300%) damage to an enemy when dodging their attack",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Dodge, Melee Damage"
+      },
+      {
+        "Name": "Sunken Bell(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "Once per wave, you explode for 100 (+500%+500%+500%+500%) damage when you fall below 40% health",
+        "Base Price": "65",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Explosive"
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Characters > Positive Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 8,
+    "rows": [
+      {
+        "Name": "Apprentice",
+        "Stats": "+2 Melee Damage when you level up +1 Ranged Damage when you level up +1 Elemental Damage when you level up +1 Engineering when you level up -2 Max HP when you level up",
+        "Unlocked By": "Reach level 20",
+        "Unlocks": "Quarterstaff",
+        "Item Tags": "XP Gain"
+      },
+      {
+        "Name": "Diver(DLC)",
+        "Stats": "You start with 1 Harpoon Gun -100% Harpoon Gun price +200 % Crit Damage with Precise weapons % Crit Chance modifications are increased by 25% +1 HP Regeneration for every 2 Melee Damage you have Enemies take 300% more damage for 3 seconds when hit by Ranged Damage -100 Ranged Damage +250 % Enemy health",
+        "Unlocked By": "Kill 1000 enemies that are more than 700 range away from you",
+        "Unlocks": "Starfish",
+        "Item Tags": "Crit Chance, Melee Damage"
+      },
+      {
+        "Name": "Dwarf(DLC)",
+        "Stats": "+1 Engineering when killing at least 6 enemies with a direct weapon hit +1 Melee Damage for every permanent 2 Engineering you have You can't equip ranged weapons -20 % Dodge -100 % Attack Speed % Attack Speed modifications are reduced by 50%",
+        "Unlocked By": "Hit at least 25 enemies with a single melee attack",
+        "Unlocks": "War Hammer",
+        "Item Tags": "Engineering, Structure"
+      },
+      {
+        "Name": "Generalist",
+        "Stats": "+2 Melee Damage for every 1 Ranged Damage you have +1 Ranged Damage for every 2 Melee Damage you have You can only equip 3 melee weapons and 3 ranged weapons at a time",
+        "Unlocked By": "Collect 2000 materials",
+        "Unlocks": "Big Arms",
+        "Item Tags": "Melee Damage, Ranged Damage"
+      },
+      {
+        "Name": "Gladiator",
+        "Stats": "+20% Attack Speed for every different weapon you have  +5 Melee Damage You can't equip ranged weapons -40% Attack Speed -30 Luck",
+        "Unlocked By": "Kill 20000 enemies",
+        "Unlocks": "Spider",
+        "Item Tags": "Melee Damage"
+      },
+      {
+        "Name": "Knight",
+        "Stats": "+2 Melee Damage for every 1 Armor you have +3 Armor You can't equip ranged weapons You can only equip tier 2 weapons or above % Attack Speed modifications are reduced by 50% Harvesting modifications are reduced by 80%",
+        "Unlocked By": "Win a run in Danger 4",
+        "Unlocks": "Plasma Sledge",
+        "Item Tags": "Armor"
+      },
+      {
+        "Name": "Ogre(DLC)",
+        "Stats": "Enemies taking double their max health as damage explode for 10 (+50%-50%) damage +10 Melee Damage You can't equip ranged weapons -50 % Attack Speed -10 % Speed",
+        "Unlocked By": "Deal 1000 damage to an enemy in a single hit",
+        "Unlocks": "Mace",
+        "Item Tags": "Max HP, Melee Damage, Explosive (Item Tag)"
+      },
+      {
+        "Name": "Speedy",
+        "Stats": "+30% Speed +1 Melee Damage for every 2% Speed you have -100 Armor while standing still -3 Armor",
+        "Unlocked By": "Reach +50% Speed",
+        "Unlocks": "Fin",
+        "Item Tags": "Speed"
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "Characters > Negative Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Cyborg",
+        "Stats": "You start with 1 Minigun Ranged Damage modifications are increased by 200% 100% of your Ranged Damage are temporarily converted into Engineering halfway through a wave (1 Ranged Damage = 2 Engineering) Engineering modifications are reduced by 75% Melee modifications are reduced by 100% Elemental modifications are reduced by 100%",
+        "Unlocked By": "Reach 10 Ranged Damage and get 3 structures at the same time",
+        "Unlocks": "Improved Tools",
+        "Item Tags": "Structure, Ranged Damage"
+      },
+      {
+        "Name": "Mage",
+        "Stats": "Elemental Damage modifications are increased by 25% You start with 1 Snake You start with 1 Scared Sausage  Melee Damage Modifications are reduced by -100% Ranged Damage Modifications are reduced by -100% Engineering Modifications are reduced by -50%",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Thunder Sword",
+        "Item Tags": "Elemental Damage"
+      },
+      {
+        "Name": "Technomage",
+        "Stats": "You start with 2 Turret +5 % Structure attack speed for every permanent 1 Elemental Damage you have +2 Elemental Damage for every 1 Structure you have +75% XP required to level up Melee Damage modifications are reduced by 100% Ranged Damage modifications are reduced by 100%",
+        "Unlocked By": "Reach 10 Elemental Damage and get 3 structures at the same time",
+        "Unlocks": "Particle Accelerator",
+        "Item Tags": "Elemental Damage, Engineering, Structure"
+      }
+    ]
+  },
+  {
+    "table_index": 5,
+    "section": "Weapon Classes",
+    "columns": [
+      "Class",
+      "Bonuses",
+      "Weapons"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Class": "Blade",
+        "Bonuses": "(2)+1 Melee Damage 1% Life Steal (3)+2 Melee Damage 2% Life Steal (4)+3 Melee Damage 3% Life Steal (5)+4 Melee Damage 4% Life Steal (6)+5 Melee Damage 5% Life Steal",
+        "Weapons": "Chopper  Circular Saw  Sword  Vorpal Sword  Captain's Sword  Chainsaw  Thunder Sword  Excalibur"
+      }
+    ]
+  },
+  {
+    "table_index": 6,
+    "section": "",
+    "columns": [
+      "Stats",
+      "Stats.1",
+      "Stats.2",
+      "Stats.3"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Stats": "Max HP",
+        "Stats.1": "Melee Damage",
+        "Stats.2": "Crit Chance",
+        "Stats.3": "Dodge"
+      },
+      {
+        "Stats": "HP Regeneration",
+        "Stats.1": "Ranged Damage",
+        "Stats.2": "Engineering",
+        "Stats.3": "Speed"
+      },
+      {
+        "Stats": "Life Steal",
+        "Stats.1": "Elemental Damage",
+        "Stats.2": "Range",
+        "Stats.3": "Luck"
+      },
+      {
+        "Stats": "Damage",
+        "Stats.1": "Attack Speed",
+        "Stats.2": "Armor",
+        "Stats.3": "Harvesting"
+      },
+      {
+        "Stats": "DLC Stats",
+        "Stats.1": "DLC Stats",
+        "Stats.2": "DLC Stats",
+        "Stats.3": "DLC Stats"
+      },
+      {
+        "Stats": "Curse",
+        "Stats.1": "Curse",
+        "Stats.2": "Curse",
+        "Stats.3": "Curse"
+      }
+    ]
+  }
+]

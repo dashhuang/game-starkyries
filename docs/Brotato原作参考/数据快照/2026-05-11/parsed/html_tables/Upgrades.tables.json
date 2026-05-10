@@ -1,0 +1,254 @@
+[
+  {
+    "table_index": 0,
+    "section": "Overview",
+    "columns": [
+      "Stat",
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "row_count": 16,
+    "rows": [
+      {
+        "Stat": "Max HP",
+        "I": "3",
+        "II": "6",
+        "III": "9",
+        "IV": "12"
+      },
+      {
+        "Stat": "HP Regeneration",
+        "I": "2",
+        "II": "3",
+        "III": "4",
+        "IV": "5"
+      },
+      {
+        "Stat": "Life Steal",
+        "I": "1",
+        "II": "2",
+        "III": "3",
+        "IV": "4"
+      },
+      {
+        "Stat": "Damage",
+        "I": "5",
+        "II": "8",
+        "III": "12",
+        "IV": "16"
+      },
+      {
+        "Stat": "Melee Damage",
+        "I": "2",
+        "II": "4",
+        "III": "6",
+        "IV": "8"
+      },
+      {
+        "Stat": "Ranged Damage",
+        "I": "1",
+        "II": "2",
+        "III": "3",
+        "IV": "4"
+      },
+      {
+        "Stat": "Elemental Damage",
+        "I": "1",
+        "II": "2",
+        "III": "3",
+        "IV": "4"
+      },
+      {
+        "Stat": "Attack Speed",
+        "I": "5",
+        "II": "10",
+        "III": "15",
+        "IV": "20"
+      },
+      {
+        "Stat": "Crit Chance",
+        "I": "3",
+        "II": "5",
+        "III": "7",
+        "IV": "9"
+      },
+      {
+        "Stat": "Engineering",
+        "I": "2",
+        "II": "3",
+        "III": "4",
+        "IV": "5"
+      },
+      {
+        "Stat": "Range",
+        "I": "15",
+        "II": "30",
+        "III": "45",
+        "IV": "60"
+      },
+      {
+        "Stat": "Armor",
+        "I": "1",
+        "II": "2",
+        "III": "3",
+        "IV": "4"
+      },
+      {
+        "Stat": "Dodge",
+        "I": "3",
+        "II": "6",
+        "III": "9",
+        "IV": "12"
+      },
+      {
+        "Stat": "Speed",
+        "I": "3",
+        "II": "6",
+        "III": "9",
+        "IV": "12"
+      },
+      {
+        "Stat": "Luck",
+        "I": "5",
+        "II": "10",
+        "III": "15",
+        "IV": "20"
+      },
+      {
+        "Stat": "Harvesting",
+        "I": "5",
+        "II": "8",
+        "III": "10",
+        "IV": "12"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Upgrades List",
+    "columns": [
+      "Stat",
+      "Tier I",
+      "Tier II",
+      "Tier III",
+      "Tier IV"
+    ],
+    "row_count": 16,
+    "rows": [
+      {
+        "Stat": "Max HP",
+        "Tier I": "Heart  Upgrade  +3 Max HP",
+        "Tier II": "Heart II  Upgrade  +6 Max HP",
+        "Tier III": "Heart III  Upgrade  +9 Max HP",
+        "Tier IV": "Heart IV  Upgrade  +12 Max HP"
+      },
+      {
+        "Stat": "HP Regeneration",
+        "Tier I": "Lungs  Upgrade  +2 HP Regeneration",
+        "Tier II": "Lungs II  Upgrade  +3 HP Regeneration",
+        "Tier III": "Lungs III  Upgrade  +4 HP Regeneration",
+        "Tier IV": "Lungs IV  Upgrade  +5 HP Regeneration"
+      },
+      {
+        "Stat": "Life Steal",
+        "Tier I": "Teeth  Upgrade  +1 Life Steal",
+        "Tier II": "Teeth II  Upgrade  +2 Life Steal",
+        "Tier III": "Teeth III  Upgrade  +3 Life Steal",
+        "Tier IV": "Teeth IV  Upgrade  +4 Life Steal"
+      },
+      {
+        "Stat": "Damage",
+        "Tier I": "Triceps  Upgrade  +5 Damage",
+        "Tier II": "Triceps II  Upgrade  +8 Damage",
+        "Tier III": "Triceps III  Upgrade  +12 Damage",
+        "Tier IV": "Triceps IV  Upgrade  +16 Damage"
+      },
+      {
+        "Stat": "Melee Damage",
+        "Tier I": "Forearms  Upgrade  +2 Melee Damage",
+        "Tier II": "Forearms II  Upgrade  +4 Melee Damage",
+        "Tier III": "Forearms III  Upgrade  +6 Melee Damage",
+        "Tier IV": "Forearms IV  Upgrade  +8 Melee Damage"
+      },
+      {
+        "Stat": "Ranged Damage",
+        "Tier I": "Shoulders  Upgrade  +1 Ranged Damage",
+        "Tier II": "Shoulders II  Upgrade  +2 Ranged Damage",
+        "Tier III": "Shoulders III  Upgrade  +3 Ranged Damage",
+        "Tier IV": "Shoulders IV  Upgrade  +4 Ranged Damage"
+      },
+      {
+        "Stat": "Elemental Damage",
+        "Tier I": "Brain  Upgrade  +1 Elemental Damage",
+        "Tier II": "Brain II  Upgrade  +2 Elemental Damage",
+        "Tier III": "Brain III  Upgrade  +3 Elemental Damage",
+        "Tier IV": "Brain IV  Upgrade  +4 Elemental Damage"
+      },
+      {
+        "Stat": "Attack Speed",
+        "Tier I": "Reflexes  Upgrade  +5 Attack Speed",
+        "Tier II": "Reflexes II  Upgrade  +10 Attack Speed",
+        "Tier III": "Reflexes III  Upgrade  +15 Attack Speed",
+        "Tier IV": "Reflexes IV  Upgrade  +20 Attack Speed"
+      },
+      {
+        "Stat": "Crit Chance",
+        "Tier I": "Fingers  Upgrade  +3 Crit Chance",
+        "Tier II": "Fingers II  Upgrade  +5 Crit Chance",
+        "Tier III": "Fingers III  Upgrade  +7 Crit Chance",
+        "Tier IV": "Fingers IV  Upgrade  +9 Crit Chance"
+      },
+      {
+        "Stat": "Engineering",
+        "Tier I": "Skull  Upgrade  +2 Engineering",
+        "Tier II": "Skull II  Upgrade  +3 Engineering",
+        "Tier III": "Skull III  Upgrade  +4 Engineering",
+        "Tier IV": "Skull IV  Upgrade  +5 Engineering"
+      },
+      {
+        "Stat": "Range",
+        "Tier I": "Eyes  Upgrade  +15 Range",
+        "Tier II": "Eyes II  Upgrade  +30 Range",
+        "Tier III": "Eyes III  Upgrade  +45 Range",
+        "Tier IV": "Eyes IV  Upgrade  +60 Range"
+      },
+      {
+        "Stat": "Armor",
+        "Tier I": "Chest  Upgrade  +1 Armor",
+        "Tier II": "Chest II  Upgrade  +2 Armor",
+        "Tier III": "Chest III  Upgrade  +3 Armor",
+        "Tier IV": "Chest IV  Upgrade  +4 Armor"
+      },
+      {
+        "Stat": "Dodge",
+        "Tier I": "Back  Upgrade  +3 Dodge",
+        "Tier II": "Back II  Upgrade  +6 Dodge",
+        "Tier III": "Back III  Upgrade  +9 Dodge",
+        "Tier IV": "Back IV  Upgrade  +12 Dodge"
+      },
+      {
+        "Stat": "Speed",
+        "Tier I": "Legs  Upgrade  +3 Speed",
+        "Tier II": "Legs II  Upgrade  +6 Speed",
+        "Tier III": "Legs III  Upgrade  +9 Speed",
+        "Tier IV": "Legs IV  Upgrade  +12 Speed"
+      },
+      {
+        "Stat": "Luck",
+        "Tier I": "Nose  Upgrade  +5 Luck",
+        "Tier II": "Nose II  Upgrade  +10 Luck",
+        "Tier III": "Nose III  Upgrade  +15 Luck",
+        "Tier IV": "Nose IV  Upgrade  +20 Luck"
+      },
+      {
+        "Stat": "Harvesting",
+        "Tier I": "Hands  Upgrade  +5 Harvesting",
+        "Tier II": "Hands II  Upgrade  +8 Harvesting",
+        "Tier III": "Hands III  Upgrade  +10 Harvesting",
+        "Tier IV": "Hands IV  Upgrade  +12 Harvesting"
+      }
+    ]
+  }
+]

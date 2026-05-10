@@ -1,0 +1,4 @@
+Name,Stats,Unlocked By,Unlocks,Item Tags
+Druid(DLC),+5 Max HP +15 Luck Enemies have a higher chance of dropping fruits 33% chance to get +1 Luck when you pick up a fruit 33% of fruits are poisoned and hurt you (ignores Dodge and Armor) -100 HP Regeneration -100 % Life Steal Engineering modifications are reduced by 50%,Collect 250 consumables by the end of wave 20,Cauldron,"Consumable, Luck"
+Sick,+12 Max HP +25% Life Steal You take 1 damage per second (does not give invulnerability time) -100 HP Regeneration,Reach -5 % HP Regeneration,Whetstone,Life Steal
+Vampire,+2 % Damage for every 1% of missing health +1 % Life Steal for every 3% of missing health +1 Armor for every 5% of missing health Max HP modifications are reduced by 25% -60 % Damage -100 HP Regeneration -100 HP recovered from consumables,Reach +40 % Life Steal,Decomposing Flesh,Life Steal

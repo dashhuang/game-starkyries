@@ -1,0 +1,13 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Boiling Water,Tier 1,+2 Elemental Damage -1 Max HP,30,,,Elemental Damage
+Bone Dice(DLC),Tier 2,+50% chance to get +1 % Damage when rerolling in the shop +10% chance to get -1 Max HP when rerolling in the shop,30,2.0,,Damage
+Claw Tree,Tier 1,+1 Melee Damage +3 % Crit Chance -1 Max HP,20,,,"Melee Damage, Crit Chance"
+Decomposing Flesh,Tier 2,+1 % Life Steal when you level up -1 Max HP when you level up,30,,Win a run with Vampire,Life Steal
+Diploma,Tier 4,+10 Engineering +50 % XP Gain -3 Max HP,90,,,"Engineering, XP Gain"
+Duct Tape,Tier 1,+1 Armor +1 Engineering -2 Max HP,20,,,"Armor, Engineering"
+Injection,Tier 1,+7 % Damage -2 Max HP,20,,,Damage
+Jet Pack,Tier 4,+15 % Speed +10 % Dodge -5 Max HP -1 Armor,100,,,"Speed, Dodge"
+Leather Vest,Tier 2,+2 Armor +6 % Dodge -3 Max HP,45,,,"Armor, Dodge"
+Night Goggles,Tier 4,+15 % Crit Chance +50 Range -3 Max HP -1 Armor,95,,Win a run with Ranger,"Crit Chance, Range"
+Robot Arm,Tier 4,+3 Melee Damage at the end of a wave +3 Engineering at the end of a wave -1 Max HP at the end of a wave,100,,Win a run with Engineer,"Melee Damage, Engineering"
+Snake,Tier 1,Burning spreads to an additional nearby enemy -1 Max HP,25,,,Elemental Damage

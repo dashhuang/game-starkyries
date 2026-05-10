@@ -1,0 +1,12 @@
+Item Tag,Character(s),Related Stats
+Consumable (Item Tag),"Chunky, Druid, Explorer, Farmer, Glutton,","Consumable healing, bonuses for consumables, spawns consumables."
+Economy,Entrepreneur,"Shop Discount, Free Rerolls Count, Item Recycling Rewards"
+Exploration,"Cryptid, Explorer, Lucky","Tree HP, Trees Spawn Count"
+Explosive (Item Tag),"Artificer, Bull, Glutton, Ogre","Explosion Damage, Explosion Size"
+Less Enemies,Old,Enemies Spawn Count (-)
+Less Enemy Speed,Old,Enemy Speed
+More Enemies,Loud,Enemies Spawn Count (+)
+Pickup,"Buccaneer, Lucky",Pickup Range (and many others)
+Stand Still,Soldier,Bonuses to base stats while standing still
+Structure (Item Tag),"Cyborg, Dwarf, Engineer, Streamer, Technomage",Structures
+XP Gain,"Apprentice, Baby, Captain, Creature, Mutant",XP Gain

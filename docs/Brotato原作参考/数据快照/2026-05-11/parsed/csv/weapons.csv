@@ -1,0 +1,99 @@
+id,name,rarity,types,special,unlocked_by,attacktype,is_dlc
+cacti club,Cacti Club,1,"Primitive, Heavy",Hitting an enemy spawns 3/4/5/6 projectiles dealing 50%/60%/70%/80% RangedDamage damage,Default,Sweep,-
+chopper,Chopper,1,Blade,+1/+1/+1/+2 health healed from consumables,Win a run with Multitasker,Sweep,-
+circular saw,Circular Saw,2,"Blade, Medical",,Default,Sweep,-
+claw,Claw,1,"Unarmed, Precise",-,Win a run with Cryptid,Thrust,-
+drill,Drill,4,"Legendary, Precise","100% chance to gain 1 material when killing an enemy with a critical hit.
++10 % Attack Speed every 5 seconds until the end of the wave",Default,,-
+excalibur,Excalibur,4,"Legendary, Blade","Alternates between thrusting and sweeping attacks.
+-3 Armor for every weapon you have",Win a run with King,Thrust,-
+quarterstaff,Quarterstaff,1,"Primitive, Medieval","Alternates between thrusting and sweeping attacks
++2% XP Gain/+5% XP Gain/+9% XP Gain/+15% XP Gain",Win a run with Apprentice,Thrust,-
+fist,Fist,1,Unarmed,,Default,Thrust,-
+flaming brass knuckles,Flaming Brass Knuckles,2,"Unarmed, Elemental",Deals -/8x5/12x6/15x7(100% ElementalDamage) burning damage,Default,Thrust,-
+ghost axe,Ghost Axe,1,Ethereal,+1% Damage for every 20/18/16/12 kills in a wave with this weapon,Default,Sweep,-
+ghost flint,Ghost Flint,1,Ethereal,+1% Attack Speed for every 20/18/16/12 kills in a wave with this weapon,Default,Thrust,-
+hammer,Hammer,2,"Blunt, Heavy",+2/+4/+6 Knockback,Default,Sweep,-
+hand,Hand,1,"Unarmed, Support",+3/+6/+9/+18 Harvesting,Default,Thrust,-
+hatchet,Hatchet,1,Primitive,,Win a run with Wildling,Sweep,-
+jousting lance,Jousting Lance,1,Medieval,"+2/+3/+4/+5 % Speed
+-10/-15/-20/-25 % Damage while standing still",Default,Thrust,-
+knife,Knife,1,Precise,,Default,Thrust,-
+lightning shiv,Lightning Shiv,1,"Precise, Elemental",Hitting an enemy spawns a lightning projectile flying towards another random enemy that bounces -/1/2/3 times and inflicts 5/6/8/11 + (80% ElementalDamage) damage,Default,Thrust,-
+plank,Plank,1,"Explosive, Elemental",Hits have 25%/30%/35%/40% chance to explode.,Default,Sweep,-
+plasma sledge,Plasma Sledge,3,"Elemental, Explosive",Hits have 25%/50% chance to explode.,Win a run with Knight,Sweep,-
+power fist,Power Fist,3,"Unarmed, Explosive",Hits have 25%/50% chance to explode.,Win a run with Brawler,Thrust,-
+pruner,Pruner,1,Support,Spawns a garden that creates a fruit every 15/14/12/10 seconds,Default,Thrust,-
+rock,Rock,1,"Primitive, Blunt","-/+1 Armor/+1 Armor, +2 Max HP/+2 Armor, +2 Max HP",Default,Thrust,-
+scissors,Scissors,1,"Medical, Precise",,Default,Thrust,-
+screwdriver,Screwdriver,1,Tool,A landmine spawns every 12s/9s/6s/3s dealing 10(100% Engineering) damage in an area,Default,Thrust,-
+scythe,Scythe,4,"Legendary, Ethereal","You take 3 damage per second (does not give invulnerability time).
++3 % Damage when you take damage until the end of the wave",Default,,-
+spear,Spear,1,Primitive,,Default,Thrust,-
+spiky shield,Spiky Shield,1,"Medieval, Blunt",,Win a run with Masochist,Thrust,-
+stick,Stick,1,Primitive,Deals +4/+6/+8/+10 base damage for every additional '''stick''' you have,Default,Thrust,-
+sword,Sword,2,"Blade, Medieval",Alternates between thrusting and sweeping attacks,Default,Thrust,-
+thief dagger,Thief Dagger,1,Precise,50%/56%/62%/80% to gain 1 material when killing an enemy with a critical hit with this weapon,Default,Thrust,-
+thunder sword,Thunder Sword,3,"Blade, Elemental",Hitting an enemy spawns 2/4 projectiles that slow and damage enemies by 100% ElementalDamage,Win a run with Mage,Sweep,-
+torch,Torch,1,"Primitive, Elemental","Deals 3x3/5x5/8x6/12x9(100% ElementalDamage) burning damage.
+Burning spreads to 0/0/1/1 additional nearby enemies.",Default,Sweep,-
+wrench,Wrench,1,Tool,Spawns a Turret/Incendiary Turret/Laser Turret/Explosive Turret,Default,Sweep,-
+chain gun,Chain Gun,4,"Legendary, Gun","Cooldown is 2.04s every 100 shots.
+Pierces 1 enemy dealing -50% less damage with each pierce.",Default,,-
+crossbow,Crossbow,1,"Precise, Medieval",Pierces up to 1/2/3/4 times on critical hit,Default,,-
+double barrel shotgun,Double Barrel Shotgun,1,Gun,"Pierces 2/2/2/3 enemies, dealing -30% less damage after each piercing",Default,,-
+flamethrower,Flamethrower,2,"Elemental, Heavy","Deals -/1x3/3x5/5x8(100% ElementalDamage) burning damage
+Pierces 99 enemies dealing 1 damage",Default,,-
+gatling laser,Gatling Laser,4,"Legendary, Heavy",Pierces 3 enemies dealing -25% less damage with each pierce.,Default,,-
+ghost scepter,Ghost Scepter,1,Ethereal,+1 Max HP for every 20/18/16/12 kills in a wave with this weapon,Default,,-
+laser gun,Laser Gun,1,Gun,Pierces 1 enemy dealing -25% less to the second enemy,Default,,-
+medical gun,Medical Gun,1,"Medical, Gun",,Default,,-
+minigun,Minigun,3,"Heavy, Gun",Pierces 1/2 enemies dealing -50% less damage with each pierce.,Default,,-
+nuclear launcher,Nuclear Launcher,3,"Heavy, Explosive",Projectiles explode on hit,Win a run with Soldier,,-
+obliterator,Obliterator,3,"Gun, Heavy",Pierces through enemies,Win a run with Demon,,-
+pistol,Pistol,1,Gun,Pierces 1 enemy dealing -50% less to the second enemy,Default,,-
+potato thrower,Potato Thrower,2,Support,,Win a run with Chunky,,-
+revolver,Revolver,1,Gun,Every 6th shot has a longer cooldown: 2.07s/1.93s/1.80s/1.67s,Default,,-
+rocket launcher,Rocket Launcher,2,"Heavy, Explosive",Projectiles explode on hit,Default,,-
+shredder,Shredder,1,"Gun, Explosive",50%/65%/80%/100% chance for projectiles to explode on hit. Pierces 3 enemies dealing 100% damage,Default,,-
+shuriken,Shuriken,1,Precise,Critical hits bounces 1/2/3/4 times,Default,,-
+slingshot,Slingshot,1,Primitive,Bounces 1/2/3/4 times,Default,,-
+smg,Smg,1,Gun,,Default,,-
+sniper gun,Sniper Gun,3,"Gun, Precise",Hitting an enemy spawns 5/8 projectiles dealing 5 +(10%/15% Range),Win a run with Hunter,,-
+taser,Taser,1,"Support, Elemental",Slows enemies in a radius around the projectile,Default,,-
+wand,Wand,1,Elemental,Deals 3x3/5x5/8x6/12x9(100% ElementalDamage) burning damage,Default,,-
+anchor,Anchor,2,"Naval, Heavy",,Default,Sweep,1
+blunderbuss,Blunderbuss,2,"Naval, Gun","Cooldown is reset when you pick up a material.
+Pierces 2 enemies dealing -25% less damage with each pierce.",Default,-,1
+brick,Brick,1,Blunt,Has a 1% chance to break and drop 10/30/60/120 materials on hit,Default,Sweep,1
+captain’s sword,Captain’s Sword,3,"Naval, Blade","Alternates between thrusting and sweeping attacks
+Deals +25/+50 Damage for every free weapon slot you have.",Win a run with Captain,Alternates between thrusting and sweeping attacks,1
+chainsaw,Chainsaw,3,"Blade, Tool","Cooldown is 1.83s/1.52s every 30/40 shots
+Deals 10%/20% of an enemy’s current health as bonus damage (1%/2% for bosses and elites)",Default,Thrust,1
+dex-troyer,Dex-troyer,4,"Legendary, Explosive","50% chance to explode on hit
+Hitting an enemy spawns a lightning projectile that bounces 5 times and deals 30 ({{Color|green|+100% Elemental Damage}}) damage",Default,Thrust,-
+fireball,Fireball,2,"Explosive, Elemental","Projectiles explode on hit.
+Deals -/5x3/6x4/8x5 ({{Color|green|+100% Elemental Damage}}) burning damage",Default,-,-
+flute,Flute,1,Musical,Hitting an enemy that has less than 60%/65%/70%/75% health has a 10%/15%/20%/25% chance to charm it for 8 seconds,Win a run with Romantic,-,1
+grenade launcher,Grenade Launcher,2,"Heavy, Explosive","Every 2nd/3rd/4th shot has a longer cooldown: 3.7s/3.2s/2.7s.
+Projectiles explode on hit.
+Bounces 1 time.",Win a run with Gangster,-,1
+harpoon gun,Harpoon Gun,2,"Naval, Gun","Slows enemies in a radius around the projectile.
+Pierces 3/4/5 enemies dealing -25% less damage with each pierce",Default,-,1
+hiking pole,Hiking Pole,1,Support,+1 Range for every 70/60/50/40 steps you take during a wave,Default,Thrust,1
+icicle,Icicle,1,"Precise, Elemental",,Default,-,-
+javelin,Javelin,1,Primitive,"Every 5th/4th/3rd/2nd projectile has +100 % Crit Chance.
+Pierces 2/3/4/5 enemies dealing -25% less damage with each pierce.",Default,-,1
+lute,Lute,1,"Musical, Support",Enemies hit take 10% more damage for 3 seconds (max: 30%/50%/70%/100%),Default,Sweep,1
+mace,Mace,2,"Heavy, Medieval",-3%/-6%/-10% Attack Speed,Win a run with Ogre,Sweep,1
+particle accelerator,Particle Accelerator,3,"Heavy, Elemental","Deals 8x8/10x10 ({{Color|green|+100% Elemental Damage}}) burning damage
+Slows enemies by 1%/2% on hit for every 1 Engineering you have [0%].
+Pierces through enemies.
+Can't bounce",Win a run with Technomage,-,-
+sharp tooth,Sharp Tooth,1,"Primitive, Precise",+1 % Life Steal for every 25%/20%/15%/10% of missing health,Default,Thrust,-
+sickle,Sickle,1,Support,+20%/+30%/+40%/+50% damage against targets below 30% health,Default,Sweep,1
+spoon,Spoon,1,Blunt,Always crits when hitting burning targets,Win a run with Chef,Sweep,1
+trident,Trident,2,"Naval, Medieval",+30%/+40%/+50% damage against targets above 80% health,Default,Thrust,1
+vorpal sword,Vorpal Sword,2,"Blade, Medieval","Alternates between thrusting and sweeping attacks
+-/1%/2%/3% chance to one shot the target when hitting it",Reach 100% Crit Chance,Thrust,-
+war hammer,War Hammer,3,"Blunt, Heavy",Resets the cooldown of all offensive turrets when attacking,Win a run with Dwarf,Sweep,1

@@ -1,0 +1,24 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Alien Magic,Tier 3,+8 Max HP +3 HP Regeneration -8 Luck,85,,,"Max HP, HP Regeneration"
+Alien Worm,Tier 1,+3 Max HP +2 HP Regeneration -1 HP recovered from consumables,15,,,"Max HP, HP Regeneration"
+Baby Squid(DLC),Tier 2,+1 HP Regeneration when you level up -3 % Attack Speed,55,,,HP Regeneration
+Blood Leech,Tier 2,+2 % Life Steal +2 HP Regeneration -3 Harvesting,45,,,"Life Steal, HP Regeneration"
+Campfire,Tier 2,+2 Elemental Damage +2 HP Regeneration -2 % Speed,40,,,"Elemental Damage, HP Regeneration"
+Candle,Tier 3,+4 Elemental Damage +1 HP Regeneration -10% Enemies -5 % Damage,65,1.0,,"Elemental Damage, HP Regeneration, Less Enemies"
+Coral(DLC),Tier 2,+10 HP Regeneration while standing still -10 Range,40,,,"HP Regeneration, Stand Still"
+Fairy,Tier 3,+1 HP Regeneration for every different Tier I item you have -3 HP Regeneration for every different Tier IV item you have,85,1.0,Win a run with Renegade,HP Regeneration
+Fried Rice,Tier 3,+1 HP Regeneration for every currently burning enemy,60,1.0,,HP Regeneration
+Grind's Magical Leaf,Tier 4,+3 Max HP at the end of a wave +1 HP Regeneration at the end of a wave +1 % Life Steal at the end of a wave,110,,,"Max HP, HP Regeneration, Life Steal"
+Lure,Tier 2,+2 HP Regeneration 2 additional loot aliens appear during the next wave,34,,Win a run with Fisherman,HP Regeneration
+Mammoth,Tier 4,+20 Melee Damage +5 HP Regeneration +5 Knockback -8 % Damage -3 % Speed,110,,,"Melee Damage, HP Regeneration, Knockback"
+Medikit,Tier 4,+10 HP Regeneration +2 HP Regeneration every 5 seconds until the end of the wave -10 Luck,95,,Win a run with Doctor,HP Regeneration
+Mushroom,Tier 1,+3 HP Regeneration -2 Luck,25,,,HP Regeneration
+Octopus,Tier 4,+12 Max HP +5 HP Regeneration +3 % Life Steal -8 % Crit Chance,105,,Win a run with Mutant,"Max HP, Life Steal, HP Regeneration"
+Penguin(DLC),Tier 1,+1 HP Regeneration +1 HP Regeneration until the end of the wave when picking up a consumable while at maximum health,25,3.0,,HP Regeneration
+Plant,Tier 1,+3 HP Regeneration -1 % Life Steal,15,,,HP Regeneration
+Potato,Tier 4,+3 Max HP +2 HP Regeneration +1 % Life Steal +5 % Damage +5 % Attack Speed +3 % Speed +3 % Dodge +1 Armor +5 Luck,95,,Win a run with Well Rounded,"Max HP, HP Regeneration, Damage, Speed, Luck"
+Regeneration Potion,Tier 4,HP Regeneration is doubled when you have less than 50% health +3 HP Regeneration,90,1.0,,HP Regeneration
+Sad Tomato,Tier 3,+8 HP Regeneration Start waves with -50% HP,50,1.0,,HP Regeneration
+Scarf(DLC),Tier 3,+4 HP Regeneration +4 Melee Damage +4 % Speed +25 % Enemy Speed during the next wave,80,,Win a run with Hiker,"HP Regeneration, Melee Damage, Speed"
+Shackles,Tier 3,+8 HP Regeneration +8 Engineering +80 Range Your Speed is capped at its current value,80,1.0,,"Range, HP Regeneration, Engineering"
+Shmoop,Tier 3,+6 Max HP +2 HP Regeneration -2 Melee Damage -1 Ranged Damage,60,,,"Max HP, HP Regeneration"

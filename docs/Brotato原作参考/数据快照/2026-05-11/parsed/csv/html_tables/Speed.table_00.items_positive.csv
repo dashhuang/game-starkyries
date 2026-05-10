@@ -1,0 +1,13 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Beanie,Tier 1,+4 % Speed -6 Range,20,,,Speed
+Clockwork Wasp,Tier 2,+10 % Structure attack speed +5 % Speed,45,,,"Structure, Speed"
+Compass,Tier 2,+5 % Speed +3 Engineering -3 % Crit Chance,40,,Win a run with Explorer,"Speed, Engineering"
+Exoskeleton,Tier 4,+3 Armor +5 % Crit Chance +5 Engineering +5 % Speed -2 HP Regeneration -2 % Life Steal,90,,,"Armor, Crit Chance, Engineering, Speed"
+Fin,Tier 3,+10 % Speed +3 % Life Steal -8 Luck,65,,Win a run with Speedy,"Speed, Life Steal"
+Jet Pack,Tier 4,+15 % Speed +10 % Dodge -5 Max HP -1 Armor,100,,,"Speed, Dodge"
+Medal,Tier 2,+3 Max HP +3 % Damage +1 Armor +3 % Speed -4 % Crit Chance,55,,,"Max HP, Damage, Armor, Speed"
+Potato,Tier 4,+3 Max HP +2 HP Regeneration +1 % Life Steal +5 % Damage +5 % Attack Speed +3 % Speed +3 % Dodge +1 Armor +5 Luck,95,,Win a run with Well Rounded,"Max HP, HP Regeneration, Damage, Speed, Luck"
+Saltwater(DLC),Tier 2,+2 Melee Damage +3 % Attack Speed +10 % Speed for 3 seconds when you take damage -1 Elemental Damage,50,1.0,,"Melee Damage, Attack Speed, Speed"
+Scarf(DLC),Tier 3,+4 HP Regeneration +4 Melee Damage +4 % Speed +25 % Enemy Speed during the next wave,80,,Win a run with Hiker,"HP Regeneration, Melee Damage, Speed"
+Terrified Onion,Tier 1,+4 % Speed -5 Luck,15,,,Speed
+Wings,Tier 3,+10 % Speed +30 Range -2 Elemental Damage,85,,,"Speed, Range"

@@ -1,0 +1,12 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Ashes(DLC),Tier 4,+20 % Damage +20 % Attack Speed +100 Range -1 Armor at the end of a wave,100,,,"Attack Speed, Damage, Range"
+Community Support,Tier 3,+1 % Attack Speed for every current living enemy -2 Armor,75,1.0,Win a run with Streamer,Attack Speed
+Gambling Token,Tier 2,+8 % Dodge -1 Armor,50,,,Dodge
+Ghost Outfit,Tier 3,Dodge is capped at 70% +10% Dodge -5% Speed -3 Armor,80,1.0,Reach 70% Dodge,Dodge
+Glass Cannon,Tier 3,+25 % Damage -3 Armor,75,,,Damage
+Gummy Berserker,Tier 1,+5 % Attack Speed +25 Range -1 Armor,25,,,"Attack Speed, Range"
+Jet Pack,Tier 4,+15 % Speed +10 % Dodge -5 Max HP -1 Armor,100,,,"Speed, Dodge"
+Lucky Coin,Tier 4,+2 Luck for every 1 % Crit Chance you have -2 Armor,105,1.0,,"Crit Chance, Luck"
+Night Goggles,Tier 4,+15 % Crit Chance +50 Range -3 Max HP -1 Armor,95,,Win a run with Ranger,"Crit Chance, Range"
+Sunglasses,Tier 2,+10 % Crit Chance -1 Armor,50,,,Crit Chance
+Wheelbarrow,Tier 2,+16 Harvesting -1 Armor,40,,,Harvesting

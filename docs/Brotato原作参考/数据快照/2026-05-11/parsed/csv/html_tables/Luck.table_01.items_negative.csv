@@ -1,0 +1,6 @@
+Name,Rarity,Effects,Base Price,Limit,Unlocked By,Tags
+Alien Magic,Tier 3,+8 Max HP +3 HP Regeneration -8 Luck,85,,,"Max HP, HP Regeneration"
+Fin,Tier 3,+10 % Speed +3 % Life Steal -8 Luck,65,,Win a run with Speedy,"Speed, Life Steal"
+Medikit,Tier 4,+10 HP Regeneration +2 HP Regeneration every 5 seconds until the end of the wave -10 Luck,95,,Win a run with Doctor,HP Regeneration
+Mushroom,Tier 1,+3 HP Regeneration -2 Luck,25,,,HP Regeneration
+Terrified Onion,Tier 1,+4 % Speed -5 Luck,15,,,Speed

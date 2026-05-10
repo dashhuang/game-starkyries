@@ -1,0 +1,426 @@
+[
+  {
+    "table_index": 0,
+    "section": "Items > Positive",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 12,
+    "rows": [
+      {
+        "Name": "Bat",
+        "Rarity": "Tier 1",
+        "Effects": "+2 % Life Steal -2 Harvesting",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Life Steal"
+      },
+      {
+        "Name": "Blood Leech",
+        "Rarity": "Tier 2",
+        "Effects": "+2 % Life Steal +2 HP Regeneration -3 Harvesting",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Life Steal, HP Regeneration"
+      },
+      {
+        "Name": "Bloody Hand",
+        "Rarity": "Tier 4",
+        "Effects": "+10 % Life Steal +2 % Damage for every 1 % Life Steal you have You take 1 damage per second (does not give invulnerability time)",
+        "Base Price": "110",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Life Steal"
+      },
+      {
+        "Name": "Butterfly",
+        "Rarity": "Tier 1",
+        "Effects": "+2 % Life Steal -1 Elemental Damage",
+        "Base Price": "30",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Life Steal"
+      },
+      {
+        "Name": "Cape",
+        "Rarity": "Tier 4",
+        "Effects": "+5 % Life Steal +20 % Dodge -2 Melee Damage -2 Ranged Damage -2 Elemental Damage",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Life Steal, Dodge"
+      },
+      {
+        "Name": "Decomposing Flesh",
+        "Rarity": "Tier 2",
+        "Effects": "+1 % Life Steal when you level up -1 Max HP when you level up",
+        "Base Price": "30",
+        "Limit": "",
+        "Unlocked By": "Win a run with Vampire",
+        "Tags": "Life Steal"
+      },
+      {
+        "Name": "Fin",
+        "Rarity": "Tier 3",
+        "Effects": "+10 % Speed +3 % Life Steal -8 Luck",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "Win a run with Speedy",
+        "Tags": "Speed, Life Steal"
+      },
+      {
+        "Name": "Fresh Meat",
+        "Rarity": "Tier 1",
+        "Effects": "+2 % Life Steal -1 HP Regeneration",
+        "Base Price": "25",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Life Steal"
+      },
+      {
+        "Name": "Mouse",
+        "Rarity": "Tier 3",
+        "Effects": "+5 % Life Steal +10% Enemies -5 Harvesting",
+        "Base Price": "55",
+        "Limit": "5.0",
+        "Unlocked By": "",
+        "Tags": "Life Steal, More Enemies"
+      },
+      {
+        "Name": "Octopus",
+        "Rarity": "Tier 4",
+        "Effects": "+12 Max HP +5 HP Regeneration +3 % Life Steal -8 % Crit Chance",
+        "Base Price": "105",
+        "Limit": "",
+        "Unlocked By": "Win a run with Mutant",
+        "Tags": "Max HP, Life Steal, HP Regeneration"
+      },
+      {
+        "Name": "Ritual",
+        "Rarity": "Tier 2",
+        "Effects": "+6 % Damage +2 % Life Steal -2 Engineering",
+        "Base Price": "60",
+        "Limit": "",
+        "Unlocked By": "Win a run with Ghost",
+        "Tags": "Damage, Life Steal"
+      },
+      {
+        "Name": "Whetstone",
+        "Rarity": "Tier 2",
+        "Effects": "+4 % Life Steal -3 Knockback",
+        "Base Price": "40",
+        "Limit": "",
+        "Unlocked By": "Win a run with Sick",
+        "Tags": "Life Steal"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Items > Negative",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 4,
+    "rows": [
+      {
+        "Name": "Bean Teacher",
+        "Rarity": "Tier 3",
+        "Effects": "+50 % XP Gain -2 % Life Steal",
+        "Base Price": "70",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "XP Gain"
+      },
+      {
+        "Name": "Clover",
+        "Rarity": "Tier 3",
+        "Effects": "+20 Luck +6 % Dodge -2 % Life Steal",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Luck, Dodge"
+      },
+      {
+        "Name": "Exoskeleton",
+        "Rarity": "Tier 4",
+        "Effects": "+3 Armor +5 % Crit Chance +5 Engineering +5 % Speed -2 HP Regeneration -2 % Life Steal",
+        "Base Price": "90",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Armor, Crit Chance, Engineering, Speed"
+      },
+      {
+        "Name": "Plant",
+        "Rarity": "Tier 1",
+        "Effects": "+3 HP Regeneration -1 % Life Steal",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "HP Regeneration"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Characters > Positive Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 4,
+    "rows": [
+      {
+        "Name": "Lich",
+        "Stats": "+10 HP Regeneration +10 % Life Steal 100% chance to deal 10 () damage to a random enemy when you heal Damage modifications are reduced by 50%",
+        "Unlocked By": "Reach +100 Max HP",
+        "Unlocks": "Tentacle",
+        "Item Tags": "Max HP, HP Regeneration, Life Steal"
+      },
+      {
+        "Name": "Sick",
+        "Stats": "+12 Max HP +25% Life Steal You take 1 damage per second (does not give invulnerability time) -100 HP Regeneration",
+        "Unlocked By": "Reach -5 % HP Regeneration",
+        "Unlocks": "Whetstone",
+        "Item Tags": "Life Steal"
+      },
+      {
+        "Name": "Vampire",
+        "Stats": "+2 % Damage for every 1% of missing health +1 % Life Steal for every 3% of missing health +1 Armor for every 5% of missing health Max HP modifications are reduced by 25% -60 % Damage -100 HP Regeneration -100 HP recovered from consumables",
+        "Unlocked By": "Reach +40 % Life Steal",
+        "Unlocks": "Decomposing Flesh",
+        "Item Tags": "Life Steal"
+      },
+      {
+        "Name": "Wildling",
+        "Stats": "+30% Life Steal with Primitive weapons You start with 1 Stick You can't equip weapons above tier 2",
+        "Unlocked By": "Kill 10000 enemies",
+        "Unlocks": "Hatchet",
+        "Item Tags": ""
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Characters > Negative Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Chunky",
+        "Stats": "Max HP modifications are increased by 25%  +1% Damage for every 3 Max HP you have +3 HP recovered from consumables -100% Life Steal HP Regeneration modifications are reduced by 50%  Dodge modifications are reduced by 50% Speed modifications are reduced by 100%",
+        "Unlocked By": "Die for the first time",
+        "Unlocks": "Potato Thrower",
+        "Item Tags": "Max HP, Luck, Consumable"
+      },
+      {
+        "Name": "Cryptid",
+        "Stats": "More trees spawn (+6) Gain 12 material and XP for every living tree at the end of a wave +3 HP Regeneration for every current living tree Dodge is capped at 70% +3 Attack Speed until the end of the wave when you dodge an attack -100 % Life Steal -100 Range -50% materials dropped from enemies",
+        "Unlocked By": "Finish a wave with 10 or more living trees",
+        "Unlocks": "Claw",
+        "Item Tags": "Exploration, Dodge"
+      },
+      {
+        "Name": "Druid(DLC)",
+        "Stats": "+5 Max HP +15 Luck Enemies have a higher chance of dropping fruits 33% chance to get +1 Luck when you pick up a fruit 33% of fruits are poisoned and hurt you (ignores Dodge and Armor) -100 HP Regeneration -100 % Life Steal Engineering modifications are reduced by 50%",
+        "Unlocked By": "Collect 250 consumables by the end of wave 20",
+        "Unlocks": "Cauldron",
+        "Item Tags": "Consumable, Luck"
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "Weapons",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Name": "Medical Gun",
+        "Class": "Medical, Gun",
+        "Damage": "10(100%)  15(100%)  20(100%)  30(100%)",
+        "Attack Speed": "0.87s  0.77s  0.65s  0.53s",
+        "DPS": "11.5(115%)/s  19.5(130%)/s  30.8(154%)/s  56.6(189%)/s",
+        "Crit Damage/Chance": "x2 (3%)  x2 (3%)  x2 (3%)  x2 (3%)",
+        "Range": "400  400  400  400",
+        "Knockback": "0  0  0  0",
+        "Lifesteal": "40%  45%  50%  60%",
+        "Special Effects": "",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Scissors",
+        "Class": "Medical, Precise",
+        "Damage": "5(80%)  10(80%)  15(80%)  20(80%)",
+        "Attack Speed": "1.01s  0.98s  0.94s  0.86s",
+        "DPS": "5.0(79%)/s  10.2(81%)/s  16.0(85%)/s  23.3(93%)/s",
+        "Crit Damage/Chance": "x2 (10%)  x2.15 (12%)  x2.3 (15%)  x2.5 (20%)",
+        "Range": "150  150  150  150",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "40%  45%  50%  60%",
+        "Special Effects": "",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Sharp Tooth",
+        "Class": "Primitive, Precise",
+        "Damage": "5(+50%+50%)  8(+50%+65%)  11(+50%+80%)  15(+50%+100%)",
+        "Attack Speed": "1.14s  1.07s  1s  0.93s",
+        "DPS": "4.4(43.7%43.7%)/s  7.5(46.7%60.7%)/s  11(50.1%80.1%)/s  16.2(54%108%)/s",
+        "Crit Damage/Chance": "x2 (3% chance)  x2.15 (6% chance)  x2.3 (9% chance)  x2.5 (12% chance)",
+        "Range": "150  160  170  180",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "+1 % Life Steal for every 25%/20%/15%/10% of missing health",
+        "Base price": "12  26  52  105",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Circular Saw",
+        "Class": "Blade, Medical",
+        "Damage": "-  10(100%)  15(100%)  25(100%)",
+        "Attack Speed": "-  0.72s  0.67s  0.62s",
+        "DPS": "-  13.9(138%)/s  22.4(149%)/s  40.3(161%)/s",
+        "Crit Damage/Chance": "-  x2 (5%)  x2 (10%)  x2 (20%)",
+        "Range": "-  175  175  175",
+        "Knockback": "-  0  0  0",
+        "Lifesteal": "-  45%  50%  60%",
+        "Special Effects": "",
+        "Base price": "-  46  86  173",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Chainsaw(DLC)",
+        "Class": "Blade, Tool",
+        "Damage": "-  -  10(+75%+75%+75%)  20(+100%+100%+100%)",
+        "Attack Speed": "-  -  0.53s  0.56s",
+        "DPS": "--  --  18.8(141.3%141.3%141.3%)/s  35.9(179.3%179.3%179.3%)/s",
+        "Crit Damage/Chance": "-  -  x1.5 (3% chance)  x1.5 (3% chance)",
+        "Range": "-  -  175  200",
+        "Knockback": "-  -  0  0",
+        "Lifesteal": "-  -  15%  30%",
+        "Special Effects": "Cooldown is 1.83s/1.52s every 30/40 shots Deals 10%/20% of an enemy’s current health as bonus damage (1%/2% for bosses and elites)",
+        "Base price": "-  -  112  242",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Scythe",
+        "Class": "Legendary, Ethereal",
+        "Damage": "-  -  -  150(150%100%)",
+        "Attack Speed": "-  -  -  0.72s",
+        "DPS": "-  -  -  208.3(208.3%138.9%)/s",
+        "Crit Damage/Chance": "-  -  -  x2 (3%)",
+        "Range": "-  -  -  250",
+        "Knockback": "-  -  -  5",
+        "Lifesteal": "-  -  -  100%",
+        "Special Effects": "You take 3 damage per second (does not give invulnerability time). +3 % Damage when you take damage until the end of the wave",
+        "Base price": "-  -  -  285",
+        "Unlocked by": "Default"
+      }
+    ]
+  },
+  {
+    "table_index": 5,
+    "section": "Weapon Classes",
+    "columns": [
+      "Class",
+      "Bonuses",
+      "Weapons"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Class": "Blade",
+        "Bonuses": "(2)+1 Melee Damage 1% Life Steal (3)+2 Melee Damage 2% Life Steal (4)+3 Melee Damage 3% Life Steal (5)+4 Melee Damage 4% Life Steal (6)+5 Melee Damage 5% Life Steal",
+        "Weapons": "Chopper  Circular Saw  Sword  Vorpal Sword  Captain's Sword  Chainsaw  Thunder Sword  Excalibur"
+      }
+    ]
+  },
+  {
+    "table_index": 6,
+    "section": "",
+    "columns": [
+      "Stats",
+      "Stats.1",
+      "Stats.2",
+      "Stats.3"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Stats": "Max HP",
+        "Stats.1": "Melee Damage",
+        "Stats.2": "Crit Chance",
+        "Stats.3": "Dodge"
+      },
+      {
+        "Stats": "HP Regeneration",
+        "Stats.1": "Ranged Damage",
+        "Stats.2": "Engineering",
+        "Stats.3": "Speed"
+      },
+      {
+        "Stats": "Life Steal",
+        "Stats.1": "Elemental Damage",
+        "Stats.2": "Range",
+        "Stats.3": "Luck"
+      },
+      {
+        "Stats": "Damage",
+        "Stats.1": "Attack Speed",
+        "Stats.2": "Armor",
+        "Stats.3": "Harvesting"
+      },
+      {
+        "Stats": "DLC Stats",
+        "Stats.1": "DLC Stats",
+        "Stats.2": "DLC Stats",
+        "Stats.3": "DLC Stats"
+      },
+      {
+        "Stats": "Curse",
+        "Stats.1": "Curse",
+        "Stats.2": "Curse",
+        "Stats.3": "Curse"
+      }
+    ]
+  }
+]

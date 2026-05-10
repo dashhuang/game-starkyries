@@ -1,0 +1,660 @@
+<includeonly>{{#switch:{{lc:{{{1|}}}}}
+|well rounded= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+5</span> Max Hp<br><span style="color:rgb(0,255,0);">+5%</span> Speed<br><span style="color:rgb(0,255,0);">+8</span> Harvesting
+	|unlockedby=Unlocked by default
+	|unlocks= Potato
+	|unlocktype= Item
+	|wantedtags=''None''
+	|startingwpns=Knife,Stick,Fist,Cacti Club,Ghost Flint,Wrench,Pistol,SMG,Double Barrel Shotgun,Slingshot,Taser,Wand,Icicle,Lute
+	|isdlc=-
+	|#default=-
+}}
+|brawler= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+50%</span> Attack Speed with <span style="color:rgb(0,255,0);">Unarmed</span> weapons<br>You start with <span style="color:rgb(0,255,0);">1 Fist</span><br><span style="color:rgb(0,255,0);">+15%</span> Dodge<br><span style="color:rgb(244,0,0);">-50</span> Range<br><span style="color:rgb(244,0,0);">-50</span> Ranged Damage
+	|unlockedby=Unlocked by default
+	|unlocks= Power Fist
+	|unlocktype= Weapon
+	|wantedtags=[[Melee Damage]]
+	|startingwpns=Fist,Hand,Claw
+	|isdlc=-
+	|#default=-
+}}
+|crazy= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+100 Range</span> with <span style="color:rgb(0,255,0);">Precise</span> weapons<br><span style="color:rgb(0,255,0);">+25%</span> Attack Speed<br>You start with <span style="color:rgb(0,255,0);">1 Knife</span><br><span style="color:rgb(244,0,0);">-30%</span> Dodge<br><span style="color:rgb(244,0,0);">-10</span> Engineering<br><span style="color:rgb(244,0,0);">-10</span> Ranged Damage
+	|unlockedby=Unlocked by default
+	|unlocks= Hunting Trophy
+	|unlocktype= Item
+	|wantedtags=[[Crit Chance]], [[Melee Damage]]
+	|startingwpns=Knife,Thief Dagger,Scissors,Lightning Shiv,Claw,Sharp Tooth,Shuriken,Icicle
+	|isdlc=-
+	|#default=-
+}}
+|ranger= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+50</span> Range<br>You start with <span style="color:rgb(0,255,0);">1 Pistol</span><br><span style="color:rgb(0,255,0);">Ranged Damage</span> modifications are increased by <span style="color:rgb(0,255,0);">50%</span><br>You can't equip melee weapons<br><span style="color:rgb(244,0,0);">Max HP</span> modifications are reduced by <span style="color:rgb(244,0,0);">25%</span>
+	|unlockedby=Unlocked by default
+	|unlocks= Night Goggles
+	|unlocktype= Item
+	|wantedtags=[[Ranged Damage]], [[Range]]
+	|startingwpns=Pistol,SMG,Revolver,Double Barrel Shotgun,Laser Gun,Shredder,Crossbow,Slingshot
+	|isdlc=-
+	|#default=-
+}}
+|mage= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">Elemental Damage</span> modifications are increased by <span style="color:rgb(0,255,0);">25%</span><br>You start with <span style="color:rgb(0,255,0);">1 Snake</span><br>You start with <span style="color:rgb(0,255,0);">1 Scared Sausage</span><br> <span style="color:rgb(244,0,0);">Melee Damage</span> Modifications are reduced by <span style="color:rgb(244,0,0);">-100%</span> <br><span style="color:rgb(244,0,0);">Ranged Damage</span> Modifications are reduced by <span style="color:rgb(244,0,0);">-100%</span> <br>
+    <span style="color:rgb(244,0,0);">Engineering</span> Modifications are reduced by <span style="color:rgb(244,0,0);">-50%</span>
+	|unlockedby=Unlocked by default
+	|unlocks= Thunder Sword
+	|unlocktype= Weapon
+	|wantedtags=[[Elemental Damage]]
+	|startingwpns=Wand,Torch,Plank,Taser,Lightning Shiv,Icicle,SMG,Double Barrel Shotgun
+	|isdlc=-
+	|#default=-
+}}
+|chunky= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">Max HP</span> modifications are increased by <span style="color:rgb(0,255,0);">25%</span><br> <span style="color:rgb(0,255,0);">+1%</span> Damage for every <span style="color:rgb(0,255,0);">3 Max HP</span> you have<br><span style="color:rgb(0,255,0);">+3</span> HP recovered from consumables<br><span style="color:rgb(244,0,0);">-100%</span> Life Steal<br><span style="color:rgb(244,0,0);">HP Regeneration</span> modifications are reduced by <span style="color:rgb(244,0,0);">50%</span><br> <span style="color:rgb(244,0,0);">Dodge</span> modifications are reduced by <span style="color:rgb(244,0,0);">50%</span><br><span style="color:rgb(244,0,0);">Speed</span> modifications are reduced by <span style="color:rgb(244,0,0);">100%</span>
+	|unlockedby=Die for the first time
+	|unlocks= Potato Thrower
+	|unlocktype= Weapon
+	|wantedtags=[[Max HP]], [[Luck]], [[Consumable]]
+	|startingwpns=Fist,Cacti Club,Rock,Stick,Torch,Plank,Chopper,Pruner,Spiky Shield,Double Barrel Shotgun,Taser,Ghost Scepter,Shredder,Revolver,Spoon
+	|isdlc=-
+	|#default=-
+}}
+|old= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">-25%</span> Enemy speed<br><span style="color:rgb(0,255,0);">+10</span> Harvesting<br>-33%Map Size<br>-10% Enemies<br><span style="color:rgb(244,0,0);">-10%</span> Speed
+	|unlockedby=Kill 300 enemies
+	|unlocks= Snail
+	|unlocktype= Item
+	|wantedtags=[[Less Enemies]], [[Less Enemy Speed]]
+	|startingwpns=Scissors,Screwdriver,Wrench,Rock,Plank,Chopper,Pruner,Double Barrel Shotgun,Revolver,Taser,Wand,Icicle,Lute,Sickle
+	|isdlc=-
+	|#default=-
+}}
+|lucky= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+100</span> Luck<br><span style="color:rgb(0,255,0);">Luck</span> modifications are increased by <span style="color:rgb(0,255,0);">25%</span><br><span style="color:rgb(0,255,0);">+75%</span> chance to deal <span style="color:rgb(0,255,0);">1</span> (15%Luck) damage to a random enemy when you pick up a material<br><span style="color:rgb(244,0,0);">-60%</span> Attack Speed<br><span style="color:rgb(244,0,0);">-50%</span> XP Gain
+	|unlockedby=Collect 300 materials
+	|unlocks= Lucky Charm
+	|unlocktype= Item
+	|wantedtags=[[Luck]], [[Pickup]], [[Exploration]]
+	|startingwpns=Stick,Rock,Fist,Chopper,Plank,Screwdriver,Jousting Lance,Torch,Pruner,Slingshot,Wand,Icicle,Lute,Flute
+	|isdlc=-
+	|#default=-
+}}
+|mutant= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">-66%</span> XP required to level up<br><span style="color:rgb(244,0,0);">+50%</span> Items Price
+	|unlockedby=Kill 2000 enemies
+	|unlocks= Octopus
+	|unlocktype= Item
+	|wantedtags=[[XP Gain]]
+	|startingwpns=Cacti Club,Ghost Axe,Stick,Quarterstaff,Rock,Plank,Lightning Shiv,Double Barrel Shotgun,SMG,Revolver,Shredder,Crossbow,Taser,Wand,Icicle,Brick
+	|isdlc=-
+	|#default=-
+}}
+|generalist= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+2 Melee Damage</span> for every <span style="color:rgb(0,255,0);">1 Ranged Damage</span> you have<br><span style="color:rgb(0,255,0);">+1 Ranged Damage</span> for every <span style="color:rgb(0,255,0);">2 Melee Damage</span> you have<br>You can only equip <span style="color:rgb(244,0,0);">3</span> melee weapons and <span style="color:rgb(244,0,0);">3</span> ranged weapons at a time
+	|unlockedby=Collect 2000 materials
+	|unlocks= Big Arms
+	|unlocktype= Item
+	|wantedtags=[[Melee Damage]], [[Ranged Damage]]
+	|startingwpns=Fist,Cacti Club,Ghost Axe,Ghost Flint,Lightning Shiv,Knife,Scissors,Spear,Shuriken,Double Barrel Shotgun,SMG,Shredder,Revolver,Laser Gun,Slingshot,Ghost Scepter,Javelin
+	|isdlc=-
+	|#default=-
+}}
+|loud= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+30%</span> Damage<br>+50% Enemies<br><span style="color:rgb(244,0,0);">-3 Harvesting</span> at the end of a wave
+	|unlockedby=Kill 5000 enemies
+	|unlocks= Rip and Tear
+	|unlocktype= Item
+	|wantedtags=[[More Enemies]]
+	|startingwpns=Cacti Club,Ghost Axe,Ghost Flint,Lightning Shiv,Thief Dagger,Claw,Spear,Torch,Rock,Hatchet,Plank,Wrench,Jousting Lance,Quarterstaff,Pruner,Screwdriver,Double Barrel Shotgun,Pistol,SMG,Shredder,Icicle,Shuriken,Slingshot,Crossbow,Javelin
+	|isdlc=-
+	|#default=-
+}}
+|multitasker= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+20%</span> Damage<br>You can equip up to <span style="color:rgb(0,255,0);">12</span> weapons at a time<br><span style="color:rgb(244,0,0);">-5% Damage</span> for every weapon you have
+	|unlockedby=Collect 5000 materials
+	|unlocks= Chopper
+	|unlocktype= Weapon
+	|wantedtags=''None''
+	|startingwpns=Cacti Club,Fist,Claw,Knife,Spear,Stick,Quarterstaff,Lightning Shiv,Screwdriver,Wrench,Ghost Flint,Ghost Axe,Plank,Chopper,Hatchet,Jousting Lance,Pruner,Rock,Spiky Shield,Sharp Tooth,Double Barrel Shotgun,SMG,Revolver,Laser Gun,Wand,Icicle,Slingshot,Taser,Shuriken,Crossbow,Hiking Pole,Lute
+	|isdlc=-
+	|#default=-
+}}
+|wildling= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+30% Life Steal</span> with <span style="color:rgb(0,255,0);">Primitive</span> weapons<br>You start with <span style="color:rgb(0,255,0);">1 Stick</span><br>You can't equip weapons above tier <span style="color:rgb(244,0,0);">2</span>
+	|unlockedby=Kill 10000 enemies
+	|unlocks= Hatchet
+	|unlocktype= Weapon
+	|wantedtags=''None''
+	|startingwpns=Stick,Spear,Torch,Rock,Cacti Club,Hatchet,Quarterstaff,Sharp Tooth,Slingshot,Javelin
+	|isdlc=-
+	|#default=-
+}}
+|pacifist= {{#switch:{{lc:{{{2|}}}}}
+	|stats=Gain <span style="color:rgb(0,255,0);">0.65</span> material and XP for every living enemy at the end of a wave<br>You start with <span style="color:rgb(0,255,0);">1 Lumberjack Shirt</span><br><span style="color:rgb(244,0,0);">-100%</span> Damage<br><span style="color:rgb(244,0,0);">-100</span> Engineering
+	|unlockedby=Collect 10000 materials
+	|unlocks= Panda
+	|unlocktype= Item
+	|wantedtags=[[Max HP]], [[HP Regeneration]], [[Armor]]
+	|startingwpns=Hand,Taser,Pruner
+	|isdlc=-
+	|#default=-
+}}
+|gladiator= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+20% Attack Speed</span> for every different weapon you have<br> <span style="color:rgb(0,255,0);">+5</span> Melee Damage<br>You can't equip ranged weapons<br><span style="color:rgb(244,0,0);">-40%</span> Attack Speed<br><span style="color:rgb(244,0,0);">-30</span> Luck
+	|unlockedby=Kill 20000 enemies
+	|unlocks= Spider
+	|unlocktype= Item
+	|wantedtags=[[Melee Damage]]
+	|startingwpns=Spear,Jousting Lance,Cacti Club,Torch,Thief Dagger,Knife,Plank,Ghost Axe,Ghost Flint,Sharp Tooth,Fist,Claw,Quarterstaff,Hatchet,Lightning Shiv
+	|isdlc=-
+	|#default=-
+}}
+|saver= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+15</span> Harvesting<br><span style="color:rgb(0,255,0);">+1% Damage</span> for every <span style="color:rgb(0,255,0);">25 Materials</span> you have<br>You start with <span style="color:rgb(0,255,0);">1 Piggy Bank</span><br><span style="color:rgb(244,0,0);">+50%</span> Item & Weapon Price
+	|unlockedby=Collect 20000 materials
+	|unlocks= Padding
+	|unlocktype= Item
+	|wantedtags=''None''
+	|startingwpns=Fist,Chopper,Thief Dagger,Ghost Flint,Pruner,Lightning Shiv,Cacti Club,Spear,Pistol,Revolver,Laser Gun,Taser,Wand,Icicle,Lute,Sickle
+	|isdlc=-
+	|#default=-
+}}
+|sick= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+12</span> Max HP<br><span style="color:rgb(0,255,0);">+25%</span> Life Steal<br>You take <span style="color:rgb(244,0,0);">1</span> damage per second (does not give invulnerability time)<br><span style="color:rgb(244,0,0);">-100</span> HP Regeneration
+	|unlockedby=Reach -5 % HP Regeneration
+	|unlocks= Whetstone
+	|unlocktype= Item
+	|wantedtags=[[Life Steal]]
+	|startingwpns=Fist,Scissors,Hatchet,Ghost Flint,Cacti Club,Lightning Shiv,Sharp Tooth,Pruner,Ghost Scepter,Slingshot,SMG,Medical Gun,Sickle
+	|isdlc=-
+	|#default=-
+}}
+|farmer= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+20</span> Harvesting <br> Harvesting increases by an additional <span style="color:rgb(0,255,0);">3%</span> at the end of a wave<br><span style="color:rgb(0,255,0);">+1</span> Harvesting when eating a consumable while at full health
+    <br><span style="color:rgb(244,0,0);">-50%</span> materials dropped
+	|unlockedby=Reach +200 Harvesting
+	|unlocks= Wheat
+	|unlocktype= Item
+	|wantedtags=[[Harvesting]], [[Consumable]]
+	|startingwpns=Hand,Spear,Stick,Torch,Quarterstaff,Screwdriver,Pruner,Thief Dagger,Wrench,Taser,Wand,Double Barrel Shotgun,Slingshot,Potato Thrower,Lute,Sickle
+	|isdlc=-
+	|#default=-
+}}
+|ghost= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+10 Damage</span> with <span style="color:rgb(0,255,0);">Ethereal</span> weapons<br><span style="color:rgb(0,255,0);">+30%</span> Dodge<br>Dodge is capped at <span style="color:rgb(0,255,0);">90%</span><br><span style="color:rgb(244,0,0);">-100</span> Armor
+	|unlockedby=Reach +60% Dodge
+	|unlocks=  Ritual
+	|unlocktype= Item
+	|wantedtags=[[Dodge]]
+	|startingwpns=Ghost Flint,Ghost Axe,Ghost Scepter
+	|isdlc=-
+	|#default=-
+}}
+|speedy= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+30%</span> Speed<br><span style="color:rgb(0,255,0);">+1 Melee Damage</span> for every <span style="color:rgb(0,255,0);">2% Speed</span> you have<br><span style="color:rgb(244,0,0);">-100 Armor</span> while standing still<br><span style="color:rgb(244,0,0);">-3</span> Armor
+	|unlockedby=Reach +50% Speed
+	|unlocks= Fin
+	|unlocktype= Item
+	|wantedtags=[[Speed]]
+	|startingwpns=Fist,Claw,Knife,Thief Dagger,Stick,Spear,Quarterstaff,Jousting Lance,Screwdriver,Ghost Flint,Pruner,Shuriken,Hiking Pole,Javelin
+	|isdlc=-
+	|#default=-
+}}
+|entrepreneur= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">-25%</span> Items Price<br><span style="color:rgb(0,255,0);">Harvesting</span> modifications are increased by <span style="color:rgb(0,255,0);">50%</span><br>Gain <span style="color:rgb(0,255,0);">25%</span> more materials from recycling items<br><span style="color:rgb(244,0,0);">-100%</span> of your materials at the start of waves<br><span style="color:rgb(244,0,0);">Damage</span> modifications are reduced by <span style="color:rgb(244,0,0);">50%</span>
+	|unlockedby=Hold 3000 Materials
+	|unlocks=Bowler Hat
+	|unlocktype= Item
+	|wantedtags=[[Harvesting]], [[Economy]]
+	|startingwpns=Fist,Claw,Hand,Knife,Thief Dagger,Pruner,Quarterstaff,Hatchet,Ghost Flint,Wrench,Plank,Pistol,Double Barrel Shotgun,Taser,Shuriken,Crossbow,Icicle,Hiking Pole,Lute,Sickle
+	|isdlc=-
+	|#default=-
+}}
+|engineer= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+10</span> Engineering<br><span style="color:rgb(0,255,0);">Engineering</span> modifications are increased by <span style="color:rgb(0,255,0);">25%</span><br>You start with <span style="color:rgb(0,255,0);">1 Wrench</span><br> Structures spawn close to each other<br><span style="color:rgb(244,0,0);">Damage</span> modifications are reduced by <span style="color:rgb(244,0,0);">50%</span>
+	|unlockedby=Get 5 turrets on the map simultaneously
+	|unlocks= Robot Arm
+	|unlocktype= Item
+	|wantedtags=[[Engineering]], [[Structure]]
+	|startingwpns=Wrench,Screwdriver,Plank,Hammer
+	|isdlc=-
+	|#default=-
+}}
+|explorer= {{#switch:{{lc:{{{2|}}}}}
+	|stats=More trees spawn<br>You start with <span style="color:rgb(0,255,0);">1 Lumberjack Shirt</span><br><span style="color:rgb(0,255,0);">+10%</span> Speed<br><span style="color:rgb(0,255,0);">+50%</span> pickup range<br>+33% Map Size<br>+25% Enemies<br><span style="color:rgb(244,0,0);">-50%</span> materials dropped from enemies<br><span style="color:rgb(244,0,0);">+10%</span> Enemy Speed<br><span style="color:rgb(244,0,0);">-40%</span> Damage
+	|unlockedby=Kill 50 trees
+	|unlocks= Compass
+	|unlocktype= Item
+	|wantedtags=[[Speed]], [[Exploration]], [[Consumable]]
+	|startingwpns=Hand,Cacti Club,Screwdriver,Thief Dagger,Wrench,Stick,Torch,Chopper,Plank,Hatchet,Jousting Lance,Ghost Axe,Crossbow,Shredder,Taser,Wand,Hiking Pole,Spoon
+	|isdlc=-
+	|#default=-
+}}
+|doctor= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+200% Attack Speed</span> with <span style="color:rgb(0,255,0);">Medical</span> weapons<br><span style="color:rgb(0,255,0);">+5</span> HP Regeneration<br><span style="color:rgb(0,255,0);">HP Regeneration</span> modifications are increased by <span style="color:rgb(0,255,0);">100%</span><br><span style="color:rgb(0,255,0);">+5</span> Harvesting<br><span style="color:rgb(244,0,0);">-100%</span> Attack Speed<br><span style="color:rgb(244,0,0);">Armor</span> modifications are reduced by <span style="color:rgb(244,0,0);">50%</span>
+	|unlockedby=Heal 200 HP in one wave
+	|unlocks= Medikit
+	|unlocktype= Item
+	|wantedtags=[[HP Regeneration]]
+	|startingwpns=Scissors,Medical Gun
+	|isdlc=-
+	|#default=-
+}}
+|hunter= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+100</span> Range<br><span style="color:rgb(0,255,0);">+1% Damage</span> for every <span style="color:rgb(0,255,0);">10 Range</span> you have<br><span style="color:rgb(0,255,0);">Crit Chance</span> modifications are increased by <span style="color:rgb(0,255,0);">25%</span><br><span style="color:rgb(244,0,0);">Harvesting</span> modifications are reduced by <span style="color:rgb(244,0,0);">100%</span><br><span style="color:rgb(244,0,0);">Max HP</span> modifications are reduced by <span style="color:rgb(244,0,0);">33%</span>
+	|unlockedby=Reach +300 Range
+	|unlocks= Sniper Gun
+	|unlocktype= Weapon
+	|wantedtags=[[Range]], [[Crit Chance]]
+	|startingwpns=Cacti Club,Thief Dagger,Spear,Claw,Scissors,Shuriken,Double Barrel Shotgun,Crossbow,Icicle,Hiking Pole,Javelin
+	|isdlc=-
+	|#default=-
+}}
+|artificer= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+175%</span> Explosion Damage<br><span style="color:rgb(0,255,0);">+4% Explosion Size</span> for every <span style="color:rgb(0,255,0);">1 Elemental Damage</span> you have<br><span style="color:rgb(0,255,0);">+100% Damage</span> with <span style="color:rgb(0,255,0);">Tool</span> weapons<br><span style="color:rgb(244,0,0);">-100%</span> Damage<br><span style="color:rgb(244,0,0);">Armor</span> modifications are reduced by <span style="color:rgb(244,0,0);">50%</span>
+	|unlockedby=Kill 15 Enemies with a single explosion
+	|unlocks= Explosive Shells
+	|unlocktype= Item
+	|wantedtags=[[Explosive (Item Tag)]]
+	|startingwpns=Plank,Screwdriver,Wrench,Shredder
+	|isdlc=-
+	|#default=-
+}}
+|arms dealer= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">-95%</span> Weapons Price<br><span style="color:rgb(0,255,0);">+30</span> Harvesting <br><span style="color:rgb(0,255,0);">Damage</span> modifications are increased by <span style="color:rgb(0,255,0);">+33%</span><br>You start with <span style="color:rgb(0,255,0);">1 Dangerous Bunny</span><br>Shops always sell at least <span style="color:rgb(0,255,0);">1</span> weapon<br>All of your weapons are destroyed when entering a shop
+	|unlockedby=Recycle 12 weapons during a run
+	|unlocks= Anvil
+	|unlocktype= Item
+	|wantedtags=''None''
+	|startingwpns=Pistol
+	|isdlc=-
+	|#default=-
+}}
+|streamer= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+3%</span> of your materials per second while standing still (<span style="color:rgb(0,255,0);">+25</span> max)<br><span style="color:rgb(0,255,0);">+40% Damage</span> while moving<br><span style="color:rgb(0,255,0);">+40% Attack Speed</span> while moving<br><span style="color:rgb(0,255,0);">+2 Armor</span> for every <span style="color:rgb(0,255,0);">1 Structure</span> you have<br><span style="color:rgb(244,0,0);">-50%</span> materials dropped<br><span style="color:rgb(244,0,0);">-1% Damage</span> for every <span style="color:rgb(244,0,0);">15 Materials</span> you have<br><span style="color:rgb(244,0,0);">-1% Speed</span> for every <span style="color:rgb(244,0,0);">30 Materials</span> you have
+	|unlockedby=Reach -20% Speed
+	|unlocks= Community Support
+	|unlocktype= Item
+	|wantedtags=[[Structure]]
+	|startingwpns=Fist,Stick,Cacti Club,Ghost Flint,Ghost Axe,Scissors,Screwdriver,Wrench,Spear,Plank,Pruner,Spiky Shield,Crossbow,Double Barrel Shotgun,Laser Gun,Medical Gun,Pistol,Shredder,SMG,Revolver,Slingshot,Ghost Scepter,Taser,Wand,Icicle,Javelin
+	|isdlc=-
+	|#default=-
+}}
+|cyborg= {{#switch:{{lc:{{{2|}}}}}
+	|stats=You start with {{Color|green|1 Minigun}}<br>{{Color|green|Ranged Damage}} modifications are increased by {{Color|green|200%}}<br>{{Color|green|100%}} of your {{Color|green|Ranged Damage}} are temporarily converted into {{Color|green|Engineering}} halfway through a wave ({{Color|green|1 Ranged Damage}} = {{Color|green|2 Engineering}})<br>{{Color|red|Engineering}} modifications are reduced by {{Color|red|75%}}<br>{{Color|red|Melee}} modifications are reduced by {{Color|red|100%}}<br>{{Color|red|Elemental}} modifications are reduced by {{Color|red|100%}}
+	|unlockedby=Reach 10 Ranged Damage and get 3 structures at the same time
+	|unlocks= Improved Tools
+	|unlocktype= Item
+	|wantedtags=[[Structure]], [[Ranged Damage]]
+	|startingwpns=Wrench,Screwdriver,Plank,Pistol,SMG,Revolver,Double Barrel Shotgun,Crossbow,Brick
+	|isdlc=-
+	|#default=-
+}}
+|glutton= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+50}} Luck<br>{{Color|green|+1 % Explosion Damage}} when picking up a consumable while at maximum health<br>Consumable have a {{Color|green|100%}} chance to explode for {{Color|green|10}} (500% {{StatIcon|Melee Damage}}) damage when picked up<br>{{Color|red|+25 %}} Items Price<br>{{Color|red|-25 %}} XP Gain
+	|unlockedby=Pick up 20 consumables during a run	
+	|unlocks= Spicy Sauce
+	|unlocktype= Item
+	|wantedtags=[[Consumable]], [[Explosive (Item Tag)]], [[Melee Damage]]
+	|startingwpns=Pruner,Chopper,Thief Dagger,Fist,Jousting Lance,Screwdriver,Plank,Shredder,Lute,Spoon,Flute
+	|isdlc=-
+	|#default=-
+}}
+|jack= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+125%}} damage against bosses and elites<br>{{Color|green|+200%}} materials dropped<br>-70% Enemies<br>{{Color|red|+175}} % Enemy health<br>{{Color|red|+35}} % Enemy damage<br>{{Color|grey|Note: On higher danger levels, only Elites spawn, never hordes}}
+	|unlockedby=Kill a boss or an elite in less than 15 seconds	
+	|unlocks= Giant Belt
+	|unlocktype= Item
+	|wantedtags=''None''
+	|startingwpns=Knife,Jousting Lance,Wrench,Torch,Hatchet,Stick,Spear,Spiky Shield,Shuriken,Laser Gun,Revolver,Crossbow,Taser,Wand,Icicle,Brick,Lute,Spoon,Flute
+	|isdlc=-
+	|#default=-
+}}
+|lich= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+10}} HP Regeneration<br>{{Color|green|+10}} % Life Steal<br>{{Color|green|100%}} chance to deal {{Color|green|10}} ({{StatIcon|Max HP}}) damage to a random enemy when you heal<br>{{Color|red|Damage}} modifications are reduced by {{Color|red|50%}}
+	|unlockedby=Reach +100 Max HP
+	|unlocks= Tentacle
+	|unlocktype= Item
+	|wantedtags=[[Max HP]], [[HP Regeneration]], [[Life Steal]]
+	|startingwpns=Scissors,Chopper,Thief Dagger,Stick,Knife,Ghost Flint,Sharp Tooth,Pruner,Hatchet,Rock,Spiky Shield,Lightning Shiv,Ghost Scepter,Medical Gun,SMG,Wand,Icicle,Slingshot,Crossbow,Spoon
+	|isdlc=-
+	|#default=-
+}}
+|apprentice= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+2 Melee Damage}} when you level up<br>{{Color|green|+1 Ranged Damage}} when you level up<br>{{Color|green|+1 Elemental Damage}} when you level up<br>{{Color|green|+1 Engineering}} when you level up<br>{{Color|red|-2 Max HP}} when you level up
+	|unlockedby= Reach level 20
+	|unlocks= Quarterstaff
+	|unlocktype= Weapon
+	|wantedtags=[[XP Gain]]
+	|startingwpns=Fist,Knife,Lightning Shiv,Cacti Club,Quarterstaff,Ghost Flint,Ghost Axe,Hatchet,Torch,Plank,Pruner,Screwdriver,Wrench,Medical Gun,SMG,Double Barrel Shotgun,Shredder,Slingshot,Taser,Icicle,Shuriken,Ghost Scepter,Brick
+	|isdlc=-
+	|#default=-
+}}
+|cryptid= {{#switch:{{lc:{{{2|}}}}}
+	|stats=More trees spawn {{Color|color=grey|text=(+6)}}<br>Gain {{Color|color=green|text=12}} material and XP for every living tree at the end of a wave<br>{{Color|green|+3 HP Regeneration}} for every current living tree<br>Dodge is capped at {{Color|green|70%}}<br>{{Color|green|+3 Attack Speed}} until the end of the wave when you dodge an attack<br>{{Color|red|-100}} % Life Steal<br>{{Color|red|-100}} Range<br>{{Color|red|-50%}} materials dropped from enemies
+	|unlockedby= Finish a wave with 10 or more living trees
+	|unlocks= Claw
+	|unlocktype= Weapon
+	|wantedtags=[[Exploration]], [[Dodge]]
+	|startingwpns=Fist,Hand,Claw,Knife,Cacti Club,Pruner,Chopper,Ghost Axe,Thief Dagger,Lightning Shiv,Ghost Flint,Rock,Stick,Hatchet,Jousting Lance,Screwdriver,Plank,Ghost Scepter,Shredder,Pistol,SMG,Lute,Sickle
+	|isdlc=-
+	|#default=-
+}}
+|fisherman= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+5}} Max HP<br>{{Color|green|+20}} Harvesting<br>Shops always sell a {{Color|green|Bait}}<br>{{Color|green|-100% Bait}} price<br>{{Color|green|+2 Harvesting}} for every {{Color|green|1 Bait}} you have<br>Baits make some special enemies spawn throughout all future waves<br>{{Color|red|-50%}} materials dropped from enemies
+	|unlockedby= Get 2 Bait during a run
+	|unlocks= Lure
+	|unlocktype= Item
+	|wantedtags=''None'' 
+	|startingwpns=Knife,Rock,Spear,Quarterstaff,Spiky Shield,Torch,Stick,Sharp Tooth,Plank,Pruner,Scissors,Pistol,SMG,Crossbow,Double Barrel Shotgun,Laser Gun,Revolver,Shredder,Slingshot,Icicle,Javelin
+	|isdlc=-
+	|#default=-
+}}
+|golem= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+20}} Max HP<br>{{Color|green|Max HP}} modifications are increased by {{Color|green|33%}}<br>{{Color|green|Armor}} modifications are increased by {{Color|green|33%}}<br>{{Color|green|+40 % Attack Speed}} when you have less than 50% health<br>{{Color|green|+20 % Speed}} when you have less than 50% health<br>You can't heal in any way
+	|unlockedby= Finish a wave with 1 HP
+	|unlocks= Stone Skin
+	|unlocktype= Item
+	|wantedtags=[[Max HP]], [[Armor]]
+	|startingwpns=Cacti Club,Chopper,Fist,Ghost Axe,Hatchet,Knife,Plank,Rock,Spiky Shield,Stick,Torch,Pistol,Revolver,Slingshot,Crossbow,Ghost Scepter,Brick,Spoon,Flute
+	|isdlc=-
+	|#default=-
+}}
+|king= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+50}} Luck<br>{{Color|green|+25 % Damage}} for every {{Color|green|Tier IV weapon}} you have<br>{{Color|green|+25% Attack Speed}} for every {{Color|green|Tier IV weapon}} you have<br>{{Color|green|+5 Max HP}} for every different {{Color|green|Tier IV item}} you have<br>{{Color|red|-15% Damage}} for every {{Color|red|Tier I weapon}} you have<br>{{Color|red|-15% Attack Speed}} for every {{Color|red|Tier I weapon}} you have<br>{{Color|red|-2 Max HP}} for every different {{Color|red|Tier I item}} you have<br>{{Color|cream|UNLISTED BONUS:}} Starting weapon is {{Color|tier2|Tier II}}
+	|unlockedby= Get 3 tier IV weapons at once
+	|unlocks= Excalibur
+	|unlocktype= Weapon
+	|wantedtags=''None''
+	|startingwpns=Fist,Circular Saw,Knife,Hatchet,Ghost Axe,Lightning Shiv,Torch,Plank,Spear,Jousting Lance,Sword,Hammer,Spiky Shield,Vorpal Sword,Pistol,SMG,Crossbow,Double Barrel Shotgun,Rocket Launcher,Taser,Fireball,Lute,Trident,Flute,Grenade Launcher,Javelin
+	|isdlc=-
+	|#default=-
+}}
+|renegade= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+2}} projectiles<br>Projectiles pierce through {{Color|green|1}} additional target<br>{{Color|green|+10 % Damage}} for every different {{Color|tier1|Tier I}} item you have<br>You can't equip melee weapons<br>{{Color|red|-400%}} Damage<br>{{Color|red|-50%}} accuracy<br>{{Color|red|% Damage}} modifications are reduced by {{Color|red|80%}}
+	|unlockedby= Get 10 different tier I items during a run
+	|unlocks= Fairy
+	|unlocktype= Item
+	|wantedtags=''None''
+	|startingwpns=Pistol,Revolver,Shredder,SMG,Laser Gun,Medical Gun,Double Barrel Shotgun,Taser,Wand,Icicle,Ghost Scepter,Crossbow,Shuriken,Slingshot,Flute,Javelin
+	|isdlc=-
+	|#default=-
+}}
+|one armed= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+200%</span> Attack Speed<br><span style="color:rgb(0,255,0);">Damage</span> modifications are increased by <span style="color:rgb(0,255,0);">100%</span><br>You can only equip one weapon at a time
+	|unlockedby=Win a run in Danger 0
+	|unlocks= Focus
+	|unlocktype= Item
+	|wantedtags=[[Damage]]
+	|startingwpns=Claw,Thief Dagger,Ghost Axe,Lightning Shiv,Scissors,Cacti Club,Torch,Plank,Hatchet,Pruner,Jousting Lance,Double Barrel Shotgun,Shredder,SMG,Taser,Revolver,Icicle,Shuriken,Javelin
+	|isdlc=-
+	|#default=-
+}}
+|bull= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+20</span> Max HP<br><span style="color:rgb(0,255,0);">+15</span> HP Regeneration<br><span style="color:rgb(0,255,0);">+10</span> Armor<br><span style="color:rgb(0,255,0);">HP Regeneration</span> modifications are increased by <span style="color:rgb(0,255,0);">50%</span><br>You explode for <span style="color:rgb(0,255,0);">30</span> (300%{{StatIcon|MeleeDamage}} 300%{{StatIcon|RangedDamage}} 300%{{StatIcon|ElementalDamage}}) damage when you take damage<br>This explosion has a 1.5x crit multiplier<br>You can't equip weapons
+	|unlockedby=Win a run in Danger 1
+	|unlocks= Gnome
+	|unlocktype= Item
+	|wantedtags=[[Armor]], [[HP Regeneration]], [[Explosive (Item Tag)]]
+	|startingwpns=-
+	|isdlc=-
+	|#default=-
+}}
+|soldier= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+50% Damage</span> while standing still<br><span style="color:rgb(0,255,0);">+50% Attack Speed</span> while standing still<br><span style="color:rgb(0,255,0);">+10%</span> Speed<br><span style="color:rgb(0,255,0);">+200%</span> pickup range<br><span style="color:rgb(0,255,0);">+15</span> Knockback<br>You cant attack while moving
+	|unlockedby=Win a run in Danger 2 
+	|unlocks= Nuclear Launcher
+	|unlocktype= Weapon
+	|wantedtags=[[Stand Still]]
+	|startingwpns=Knife,Lightning Shiv,Crossbow,Double Barrel Shotgun,Laser Gun,Pistol,Shredder,Revolver,SMG,Taser,Wand,Icicle,Flute,Javelin
+	|isdlc=-
+	|#default=-
+}}
+|masochist= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+5% Damage</span> when you take damage until the end of the wave<br><span style="color:rgb(0,255,0);">+10</span> Max HP<br><span style="color:rgb(0,255,0);">+20</span> HP Regeneration<br><span style="color:rgb(0,255,0);">+8</span> Armor<br><span style="color:rgb(244,0,0);">-100%</span> Damage
+	|unlockedby=Win a run in Danger 3
+	|unlocks= Spiky Shield
+	|unlocktype= Weapon
+	|wantedtags=[[Max HP]], [[Armor]], [[HP Regeneration]], [[Life Steal]]
+	|startingwpns=Rock,Scissors,Cacti Club,Ghost Axe,Spiky Shield,Sharp Tooth,Torch,Double Barrel Shotgun,Medical Gun,Wand,Icicle,Brick,Lute,Sickle
+	|isdlc=-
+	|#default=-
+}}
+|knight= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+2 Melee Damage</span> for every <span style="color:rgb(0,255,0);">1 Armor</span> you have<br><span style="color:rgb(0,255,0);">+3</span> Armor<br>You can't equip ranged weapons<br>You can only equip tier <span style="color:rgb(0,255,0);">2</span> weapons or above<br><span style="color:rgb(244,0,0);">% Attack Speed</span> modifications are reduced by <span style="color:rgb(244,0,0);">50%</span><br><span style="color:rgb(244,0,0);">Harvesting</span> modifications are reduced by <span style="color:rgb(244,0,0);">80%</span>
+	|unlockedby=Win a run in Danger 4
+	|unlocks= Plasma Sledge
+	|unlocktype= Weapon
+	|wantedtags=[[Armor]]
+	|startingwpns=Sword,Hammer,Spear,Torch,Jousting Lance,Quarterstaff,Plank,Rock,Fist,Knife,Scissors,Cacti Club,Vorpal Sword,Mace,Anchor
+	|isdlc=-
+	|#default=-
+}}
+|demon= {{#switch:{{lc:{{{2|}}}}}
+	|stats=<span style="color:rgb(0,255,0);">+50%</span> of your <span style="color:rgb(0,255,0);">Materials</span> are converted into <span style="color:rgb(0,255,0);">Max HP</span> at the end of a wave (<span style="color:rgb(0,255,0);">13 Materials=1 Max HP</span>)<br>You buy items using Max HP instead of materials
+	|unlockedby=Win a run in Danger 5
+	|unlocks= Obliterator
+	|unlocktype= Weapon
+	|wantedtags=''None''
+	|startingwpns=Thief Dagger,Lightning Shiv,Ghost Axe,Ghost Flint,Torch,Chopper,Sharp Tooth,Wrench,Ghost Scepter,Wand,Taser,Icicle,Spoon,Flute
+	|isdlc=-
+	|#default=-
+}}
+|baby= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+12}} Harvesting<br>{{Color|green|-20}} % Items Price<br>You gain a weapon slot when you level up instead of a stat upgrade (max: {{Color|green|24}})<br>You start with one weapon slot<br>Shops always sell at least one weapon<br>{{Color|red|+130%}} XP required to level up
+	|unlockedby=Reach level 10 before wave 6
+	|unlocks=Celery Tea
+	|unlocktype=Item
+	|wantedtags=[[XP Gain]]
+	|startingwpns=Fist,Scissors,Screwdriver,Pruner,Sharp Tooth,Quarterstaff,Knife,Stick,Plank,Rock,Wrench,Shuriken,Taser,Wand,Icicle,Slingshot,Pistol,Hiking Pole,Spoon,Flute
+	|isdlc=-
+	|#default=-
+}}
+|vagabond= {{#switch:{{lc:{{{2|}}}}}
+	|stats=Equipped weapons always contribute to the class bonuses of other equipped weapons<br>You can't equip two of the same weapon at the same time<br>{{Color|red|-5}} Armor<br>{{Color|red|-5}} % Dodge<br>{{Color|red|Luck}} modifications are reduced by {{Color|red|50%}}<br>{{Color|red|Harvesting}} modifications are reduced by {{Color|red|50%}}
+	|unlockedby=Have 6 different weapons at once
+	|unlocks=Jelly
+	|unlocktype=Item
+	|wantedtags=''None''
+	|startingwpns=Cacti Club,Chopper,Thief Dagger,Spear,Sharp Tooth,Hand,Claw,Quarterstaff,Hatchet,Plank,Ghost Flint,Spiky Shield,Lightning Shiv,Torch,Shuriken,Crossbow,Revolver,Laser Gun,Lute
+	|isdlc=-
+	|#default=-
+}}
+|technomage= {{#switch:{{lc:{{{2|}}}}}
+	|stats=You start with {{Color|green|2}} {{Color|green|Turret}}<br>{{Color|green|+5}} {{Color|green|% Structure attack speed}} for every permanent {{Color|green|1}} {{Color|green|Elemental Damage}} you have <br>{{Color|green|+2}} {{Color|green|Elemental Damage}} for every {{Color|green|1}} {{Color|green|Structure}} you have <br>{{Color|red|+75%}} XP required to level up<br>{{Color|red|Melee Damage}} modifications are reduced by {{Color|red|100%}}<br>{{Color|red|Ranged Damage}} modifications are reduced by {{Color|red|100%}}
+	|unlockedby=Reach 10 Elemental Damage and get 3 structures at the same time
+	|unlocks=Particle Accelerator
+	|unlocktype=Weapon
+	|wantedtags=[[Elemental Damage]], [[Engineering]], [[Structure]]
+	|startingwpns=Wrench,Screwdriver,Plank,Torch,Lightning Shiv,Pruner,Taser,Wand,Icicle
+	|isdlc=-
+	|#default=-
+}}
+|vampire= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+2}} {{Color|green|% Damage}} for every {{Color|green|1%}} of missing health <br>{{Color|green|+1}} {{Color|green|% Life Steal}} for every {{Color|green|3%}} of missing health <br>{{Color|green|+1}} {{Color|green|Armor}} for every {{Color|green|5%}} of missing health <br>{{Color|red|Max HP}} modifications are reduced by {{Color|red|25%}}<br>{{Color|red|-60}} % Damage<br>{{Color|red|-100}} HP Regeneration<br>{{Color|red|-100}} HP recovered from consumables
+	|unlockedby=Reach +40 % Life Steal
+	|unlocks=Decomposing Flesh
+	|unlocktype=Item
+	|wantedtags= [[Life Steal]]
+	|startingwpns=Fist,Claw,Sharp Tooth,Ghost Flint,Hatchet,Knife,Thief Dagger,Lightning Shiv,Scissors,Spiky Shield,Stick,Torch,Screwdriver,Wrench,Shuriken,Pistol,SMG,Double Barrel Shotgun,Medical Gun,Revolver,Shredder,Crossbow,Sickle
+	|isdlc=-
+	|#default=-
+}}
+|sailor= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+200%}} damage with {{Color|green|Naval}} weapons against cursed enemies<br>{{Color|curse|+25}} Curse<br>{{Color|red|-25}} % Damage<br>You can only equip tier {{Color|red|II}} weapons or above<br>Dodge is capped at {{Color|red|20%}}<br>{{Color|red|Harvesting}} modifications are reduced by {{Color|red|100%}}
+	|unlockedby=Unlocked by default
+	|unlocks=Treasure Map
+	|unlocktype=Item
+	|wantedtags=[[Curse]]
+	|startingwpns=Anchor,Trident,Blunderbuss
+	|isdlc=1
+	|#default=-
+}}
+|curious= {{#switch:{{lc:{{{2|}}}}}
+	|stats=You start with {{Color|green|1}} {{Color|green|Spyglass}}<br>{{Color|green|2}} additional loot aliens appear every wave<br>All future loot aliens become stronger when you kill a loot alien<br>{{Color|green|+2}} {{Color|green|% XP Gain}} for every different {{Color|green|Item}} you have <br>{{Color|red|-10}} {{Color|red|% Damage}} for every duplicate item or weapon you have <br>{{Color|red|+25}} % Enemy health
+	|unlockedby=Unlocked by default
+	|unlocks=Pearl
+	|unlocktype=Item
+	|wantedtags=[[Luck]]
+	|startingwpns=Brick,Cacti Club,Ghost Axe,Hatchet,Knife,Plank,Rock,Torch,Lightning Shiv,Pistol,Double Barrel Shotgun,Icicle,Lute,Javelin,Slingshot
+	|isdlc=1
+	|#default=-
+}}
+|builder= {{#switch:{{lc:{{{2|}}}}}
+	|stats=You start with {{Color|green|1}} {{Color|green|Builder's Turret}}<br><br>Every {{Color|green|5}} uncollected materials are converted into {{Color|green|1}} {{Color|green|% Structure attack speed}} and {{Color|green|1}} {{Color|green|Structure Range}} at the end of a wave<br>{{Color|green|Engineering}} modifications are increased by {{Color|green|50%}}<br>{{Color|green|+20}} Harvesting<br>You can't have structures<br>{{Color|red|-30%}} pickup range<br>{{Color|red|Damage}} modifications are reduced by {{Color|red|75%}}
+	|unlockedby=Unlocked by default
+	|unlocks=Lighthouse
+	|unlocktype=Item
+	|wantedtags=[[Engineering]]
+	|startingwpns=Brick,Plank,Javelin,Double Barrel Shotgun,Laser Gun,Medical Gun,Revolver,Shredder,SMG,Slingshot,Ghost Scepter,Flute,Taser,Wand
+	|isdlc=1
+	|#default=-
+}}
+|captain= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+60}} {{Color|green|% XP Gain}} for every free weapon slot you have<br>{{Color|green|+100%}} stats gained from level upgrades<br>{{Color|red|+200%}} XP required to level up<br>{{Color|red|+2}} {{Color|red|% Enemy health}} at the end of a wave<br>{{Color|red|+2}} {{Color|red|% Enemy damage}} at the end of a wave
+	|unlockedby=Unlocked by default
+	|unlocks=Captain's Sword
+	|unlocktype=Weapon
+	|wantedtags=[[XP Gain]]
+	|startingwpns=Fist,Knife,Hatchet,Spear,Ghost Axe,Ghost Flint,Chopper,Quarterstaff,Torch,Plank,Lightning Shiv,Double Barrel Shotgun,SMG,Revolver,Slingshot,Shredder,Javelin
+	|isdlc=1
+	|#default=-
+}}
+|creature= {{#switch:{{lc:{{{2|}}}}}
+	|stats=Weapon damage additionally scales with {{Color|curse|35%}} {{Color|curse|Curse}}<br>You start with {{Color|green|1}} cursed {{Color|green|Fish Hook}}<br>{{Color|curse|+1}} {{Color|curse|Curse}} when you level up<br>{{Color|red|-10}} {{Color|red|Range}} at the end of a wave<br>{{Color|red|-5}} {{Color|red|% XP Gain}} at the end of a wave
+	|unlockedby=Unlocked by default
+	|unlocks=Barnacle
+	|unlocktype=Item
+	|wantedtags=[[Curse]], [[XP Gain]]
+	|startingwpns=Fist,Claw,Cacti Club,Sharp Tooth,Sickle,Hatchet,Rock,Stick,Spiky Shield,Chopper,Torch,Plank,SMG,Shredder,Icicle,Ghost Scepter,Javelin
+	|isdlc=1
+	|#default=-
+}}
+|chef= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+35}} Luck<br>{{Color|green|+200%}} damage from non elemental sources against burning targets<br>Consumables explode for 5x{{Color|green|1}} ({{Color|green|+100%{{StatIcon|Elemental Damage}}}}) burning damage when picked up<br>You start with {{Color|green|1}} {{Color|green|Scared Sausage}}<br>{{Color|red|+100}} % Enemy health<br>{{Color|red|Elemental Damage}} modifications are reduced by {{Color|red|75%}}
+	|unlockedby=Have at least 25 enemies burning at the same time
+	|unlocks=Spoon
+	|unlocktype=Weapon
+	|wantedtags=''None''
+	|startingwpns=Spoon,Chopper,Fist,Knife,Hatchet,Stick,Torch,Screwdriver,Wrench,Plank,Pruner,Cacti Club,Wand
+	|isdlc=1
+	|#default=-
+}}
+|druid= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+5}} Max HP<br>{{Color|green|+15}} Luck<br>Enemies have a higher chance of dropping fruits<br>{{Color|green|33%}} chance to get {{Color|green|+1}} {{Color|green|Luck}} when you pick up a fruit<br>{{Color|red|33%}} of fruits are poisoned and hurt you (ignores Dodge and Armor)<br>{{Color|red|-100}} HP Regeneration<br>{{Color|red|-100}} % Life Steal<br>{{Color|red|Engineering}} modifications are reduced by {{Color|red|50%}}
+	|unlockedby=Collect 250 consumables by the end of wave 20
+	|unlocks=Cauldron
+	|unlocktype=Item
+	|wantedtags=[[Consumable]], [[Luck]]
+	|startingwpns=Fist,Claw,Ghost Flint,Cacti Club,Rock,Chopper,Quarterstaff,Pruner,Sickle,Lute,Stick,Spear,Torch,Flute,Slingshot,Ghost Scepter,Icicle,Wand,Javelin
+	|isdlc=1
+	|#default=-
+}}
+|dwarf= {{#switch:{{lc:{{{2|}}}}}
+	|stats={{Color|green|+1}} {{Color|green|Engineering}} when killing at least {{Color|green|6}} enemies with a direct weapon hit<br>{{Color|green|+1}} {{Color|green|Melee Damage}} for every permanent {{Color|green|2}} {{Color|green|Engineering}} you have <br>You can't equip ranged weapons<br>{{Color|red|-20}} % Dodge<br>{{Color|red|-100}} % Attack Speed<br>{{Color|red|% Attack Speed}} modifications are reduced by {{Color|red|50%}}
+	|unlockedby=Hit at least 25 enemies with a single melee attack
+	|unlocks=War Hammer
+	|unlocktype=Weapon
+	|wantedtags=[[Engineering]], [[Structure]]
+	|startingwpns=Hammer,Wrench,Brick,Mace
+	|isdlc=1
+	|#default=-
+}}
+|gangster= {{#switch:{{lc:{{{2|}}}}}
+	|stats=Can steal {{Color|green|1}} item per shop<br>Stealing from the shop can spawn an elite<br>All future elites and bosses become stronger when you kill an elite or a boss<br>{{Color|red|+20}} % Items Price<br>Can't lock items<br>
+	|unlockedby=Reroll 10 times in a single shop
+	|unlocks=Grenade Launcher
+	|unlocktype=Weapon
+	|wantedtags=''None''
+	|startingwpns=Knife,Thief Dagger,Lightning Shiv,Pistol,Revolver,SMG,Double Barrel Shotgun
+	|isdlc=1
+	|#default=-
+}}
+|diver= {{#switch:{{lc:{{{2|}}}}}
+	|stats=You start with {{Color|green|1}} {{Color|green|Harpoon Gun}}<br>{{Color|green|-100%}} {{Color|green|Harpoon Gun}} price<br>{{Color|green|+200}} {{Color|green|% Crit Damage}} with {{Color|green|Precise}} weapons<br>{{Color|green|% Crit Chance}} modifications are increased by {{Color|green|25%}}<br>{{Color|green|+1}} {{Color|green|HP Regeneration}} for every {{Color|green|2}} {{Color|green|Melee Damage}} you have <br>Enemies take {{Color|green|300%}} more damage for {{Color|green|3}} seconds when hit by {{Color|green|Ranged Damage}}<br>{{Color|red|-100}} Ranged Damage<br>{{Color|red|+250}} % Enemy health
+	|unlockedby=Kill 1000 enemies that are more than 700 range away from you
+	|unlocks=Starfish
+	|unlocktype=Item
+	|wantedtags=[[Crit Chance]], [[Melee Damage]]
+	|startingwpns=Claw,Thief Dagger,Knife,Scissors,Sharp Tooth,Shuriken
+	|isdlc=1
+	|#default=-
+}}
+|hiker= {{#switch:{{lc:{{{2|}}}}}
+	|stats=Earn {{Color|green|5}} materials for every {{Color|green|10}} steps you take during a wave<br>{{Color|green|+1}} {{Color|green|Max HP}} for every {{Color|green|80}} steps you take during a wave<br>{{Color|green|% Speed}} modifications are increased by {{Color|green|10%}}<br>{{Color|red|-5}} % Speed<br>{{Color|red|-50%}} materials dropped
+	|unlockedby=Walk a total of 20000 steps
+	|unlocks=Scarf
+	|unlocktype=Item
+	|wantedtags=[[Speed]]
+	|startingwpns=Hiking Pole,Fist,Hand,Lute,Flute,Thief Dagger,Jousting Lance,Stick,Pistol,Taser
+	|isdlc=1
+	|#default=-
+}}
+|buccaneer= {{#switch:{{lc:{{{2|}}}}}
+	|stats=Picked up materials have {{Color|green|+100%}} value<br>Picking up a material resets the cooldown of all your weapons<br>{{Color|red|-100}} % Attack Speed<br>{{Color|red|-50%}} materials dropped from enemies
+	|unlockedby=Reach +100 % Pickup Range
+	|unlocks=Eyepatch
+	|unlocktype=Item
+	|wantedtags=[[Pickup]]
+	|startingwpns=Brick,Cacti Club,Rock,Spear,Torch,Double Barrel Shotgun,Laser Gun,Shredder,Icicle,Flute,Slingshot,Crossbow
+	|isdlc=1
+	|#default=-
+}}
+|ogre= {{#switch:{{lc:{{{2|}}}}}
+	|stats=Enemies taking double their max health as damage explode for {{Color|green|10}} ({{Color|green|+50%{{StatIcon|Max HP}}{{Color|pastelred|-50%}}{{StatIcon|Attack Speed}}}}) damage<br>{{Color|green|+10}} Melee Damage<br>You can't equip ranged weapons<br>{{Color|red|-50}} % Attack Speed<br>{{Color|red|-10}} % Speed
+	|unlockedby=Deal 1000 damage to an enemy in a single hit
+	|unlocks=Mace
+	|unlocktype=Weapon
+	|wantedtags=[[Max HP]], [[Melee Damage]], [[Explosive (Item Tag)]]
+	|startingwpns=Fist,Brick,Rock,Plank,Cacti Club,Chopper,Spoon
+	|isdlc=1
+	|#default=-
+}}
+|romantic= {{#switch:{{lc:{{{2|}}}}}
+	|stats=Hitting an enemy that has less than {{Color|green|25%}} health has a {{Color|green|5%}} ({{Color|green|50%{{StatIcon|Max HP}}}}) chance to charm it for {{Color|green|8}} seconds<br>{{Color|green|+50}} {{Color|green|Range}} with melee weapons<br>{{Color|red|-3}} {{Color|red|% Damage}} for every {{Color|curse|5}} {{Color|curse|Curse}} you have <br>{{Color|red|-1}} {{Color|red|Armor}} for every {{Color|curse|5}} {{Color|curse|Curse}} you have <br>{{Color|curse|+1}} {{Color|curse|Curse}} at the end of a wave
+	|unlockedby=Finish a run with 0 Curse
+	|unlocks=Flute
+	|unlocktype=Weapon
+	|wantedtags=''None''
+	|startingwpns=Lute,Chopper,Fist,Spoon,Scissors,Sharp Tooth,Hatchet,Flute,Double Barrel Shotgun,Shuriken,Slingshot,Medical Gun,SMG,Taser,Cacti Club,Claw
+	|isdlc=1
+	|#default=-
+}}
+|#default=Character name not found}}</includeonly><noinclude>
+== Usage ==
+<pre>
+{{Character Data
+|any character name
+|select one of these to output corresponding information (stats/unlockedby/unlocks/unlocktype/wantedtags/isdlc)
+}}
+</pre>
+
+== Examples ==
+
+{| class="wikitable"
+|-
+! Name
+! Code
+! Preview
+|-
+| Is DLC? || <code><nowiki>{{Character Data|Sailor|isdlc}}</nowiki></code> || {{Character Data|Sailor|isdlc}}
+|-
+| Stats || <code><nowiki>{{Character Data|Mutant|stats}}</nowiki></code> || {{Character Data|Mutant|stats}}
+|-
+| Unlocked By || <code><nowiki>{{Character Data|Mutant|unlockedby}}</nowiki></code> || {{Character Data|Mutant|unlockedby}}
+|-
+| Unlocks || <code><nowiki>{{Character Data|Mutant|unlocks}}</nowiki></code> || {{Character Data|Mutant|unlocks}}
+|-
+| Unlock Type || <code><nowiki>{{Character Data|Mutant|unlocktype}}</nowiki></code> || {{Character Data|Mutant|unlocktype}}
+|-
+| Wanted Tags (Item Tags) || <code><nowiki>{{Character Data|Mutant|wantedtags}}</nowiki></code> || {{Character Data|Mutant|wantedtags}}
+|-
+| Starting Weapons || <code><nowiki>{{Character Data|Mutant|startingwpns}}</nowiki></code> || {{Character Data|Mutant|startingwpns}}
+|-
+| Invalid: No options passed || <code><nowiki>{{Character_Data|Mutant}}</nowiki></code> || {{Character_Data|Mutant}}
+|-
+| Error: Not a character || <code><nowiki>{{Character_Data|Knife}}</nowiki></code> || {{Character_Data|Knife}}
+|}
+
+</noinclude>

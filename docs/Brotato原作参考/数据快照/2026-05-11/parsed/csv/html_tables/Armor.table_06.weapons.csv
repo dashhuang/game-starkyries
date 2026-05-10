@@ -1,0 +1,2 @@
+Name,Class,Damage,Attack Speed,DPS,Crit Damage/Chance,Range,Knockback,Lifesteal,Special Effects,Base price,Unlocked by
+Rock,"Primitive, Blunt",20(100%)  35(100%)  50(100%)  70(100%),1.68s  1.61s  1.53s  1.46s,11.9(59%)/s  21.7(62%)/s  32.7(65%)/s  47.9(68%)/s,x1.5 (10%)  x1.5 (15%)  x1.5 (20%)  x1.5 (25%),150  150  150  150,5  5  5  5,0  0  0  0,"-/+1 Armor/+1 Armor, +2 Max HP/+2 Armor, +2 Max HP",10  22  45  91,Default

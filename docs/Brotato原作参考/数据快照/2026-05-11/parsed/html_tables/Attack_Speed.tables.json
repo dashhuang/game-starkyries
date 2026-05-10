@@ -1,0 +1,680 @@
+[
+  {
+    "table_index": 0,
+    "section": "Items > Positive",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 14,
+    "rows": [
+      {
+        "Name": "Ashes(DLC)",
+        "Rarity": "Tier 4",
+        "Effects": "+20 % Damage +20 % Attack Speed +100 Range -1 Armor at the end of a wave",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed, Damage, Range"
+      },
+      {
+        "Name": "Banner",
+        "Rarity": "Tier 2",
+        "Effects": "+20 Range +10 % Attack Speed -5 Knockback",
+        "Base Price": "55",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Range, Attack Speed"
+      },
+      {
+        "Name": "Coffee",
+        "Rarity": "Tier 1",
+        "Effects": "+10 % Attack Speed -2 % Damage",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed"
+      },
+      {
+        "Name": "Community Support",
+        "Rarity": "Tier 3",
+        "Effects": "+1 % Attack Speed for every current living enemy -2 Armor",
+        "Base Price": "75",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Streamer",
+        "Tags": "Attack Speed"
+      },
+      {
+        "Name": "Crystal(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "+5 % Attack Speed +1 % Attack Speed every 1 second until the end of the wave Bonus is lost when taking damage -2 Engineering",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed"
+      },
+      {
+        "Name": "Gummy Berserker",
+        "Rarity": "Tier 1",
+        "Effects": "+5 % Attack Speed +25 Range -1 Armor",
+        "Base Price": "25",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed, Range"
+      },
+      {
+        "Name": "Improved Tools",
+        "Rarity": "Tier 3",
+        "Effects": "+10 % Attack Speed Increases the attack speed of your structures by 0% (50%)",
+        "Base Price": "70",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Cyborg",
+        "Tags": "Structure, Attack Speed"
+      },
+      {
+        "Name": "Poisonous Tonic",
+        "Rarity": "Tier 3",
+        "Effects": "+10 % Attack Speed +5 % Crit Chance +15 Range -2 HP Regeneration",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed, Crit Chance, Range"
+      },
+      {
+        "Name": "Potato",
+        "Rarity": "Tier 4",
+        "Effects": "+3 Max HP +2 HP Regeneration +1 % Life Steal +5 % Damage +5 % Attack Speed +3 % Speed +3 % Dodge +1 Armor +5 Luck",
+        "Base Price": "95",
+        "Limit": "",
+        "Unlocked By": "Win a run with Well Rounded",
+        "Tags": "Max HP, HP Regeneration, Damage, Speed, Luck"
+      },
+      {
+        "Name": "Retromation's Hoodie",
+        "Rarity": "Tier 4",
+        "Effects": "+2 % Attack Speed for every 1 % Dodge you have -80 Range",
+        "Base Price": "110",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Dodge"
+      },
+      {
+        "Name": "Saltwater(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Melee Damage +3 % Attack Speed +10 % Speed for 3 seconds when you take damage -1 Elemental Damage",
+        "Base Price": "50",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Melee Damage, Attack Speed, Speed"
+      },
+      {
+        "Name": "Small Magazine",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Ranged Damage +10 % Attack Speed -6 % Damage",
+        "Base Price": "60",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage, Attack Speed"
+      },
+      {
+        "Name": "Spider",
+        "Rarity": "Tier 4",
+        "Effects": "+12 % Damage +6 % Attack Speed for every different weapon you have -3 % Dodge -5 Harvesting",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "Win a run with Gladiator",
+        "Tags": "Damage, Attack Speed"
+      },
+      {
+        "Name": "Statue",
+        "Rarity": "Tier 3",
+        "Effects": "+40 % Attack Speed while standing still -10 % Speed",
+        "Base Price": "60",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed, Stand Still"
+      }
+    ]
+  },
+  {
+    "table_index": 1,
+    "section": "Items > Negative",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 13,
+    "rows": [
+      {
+        "Name": "Baby Squid(DLC)",
+        "Rarity": "Tier 2",
+        "Effects": "+1 HP Regeneration when you level up -3 % Attack Speed",
+        "Base Price": "55",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "HP Regeneration"
+      },
+      {
+        "Name": "Big Arms",
+        "Rarity": "Tier 4",
+        "Effects": "+12 Melee Damage +6 Ranged Damage +3 Knockback -3 % Attack Speed -3 % Speed",
+        "Base Price": "105",
+        "Limit": "",
+        "Unlocked By": "Win a run with Generalist",
+        "Tags": "Melee Damage, Ranged Damage, Knockback"
+      },
+      {
+        "Name": "Bowler Hat",
+        "Rarity": "Tier 3",
+        "Effects": "+15 Luck +18 Harvesting -5 % Attack Speed -3 % Crit Chance",
+        "Base Price": "75",
+        "Limit": "",
+        "Unlocked By": "Win a run with Entrepreneur",
+        "Tags": "Luck, Harvesting"
+      },
+      {
+        "Name": "Defective Steroids",
+        "Rarity": "Tier 1",
+        "Effects": "+2 Max HP +2 Melee Damage -3 % Attack Speed",
+        "Base Price": "20",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Max HP, Melee Damage"
+      },
+      {
+        "Name": "Focus",
+        "Rarity": "Tier 4",
+        "Effects": "+30 % Damage -3 % Attack Speed for every different weapon you have",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "Win a run with One Armed",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Heavy Bullets",
+        "Rarity": "Tier 4",
+        "Effects": "+5 Ranged Damage +10 % Damage +10 Range -5 % Attack Speed -5 % Crit Chance",
+        "Base Price": "100",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage, Damage, Range"
+      },
+      {
+        "Name": "Missile",
+        "Rarity": "Tier 2",
+        "Effects": "+10 % Damage -4 % Attack Speed",
+        "Base Price": "45",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Pencil",
+        "Rarity": "Tier 1",
+        "Effects": "+2 Engineering -1 % Attack Speed -1 % Crit Chance",
+        "Base Price": "15",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering"
+      },
+      {
+        "Name": "Scope",
+        "Rarity": "Tier 2",
+        "Effects": "+2 Ranged Damage +25 Range -7 % Attack Speed",
+        "Base Price": "48",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Ranged Damage, Range"
+      },
+      {
+        "Name": "Small Fish(DLC)",
+        "Rarity": "Tier 1",
+        "Effects": "+10% damage against targets above 75% health -3 % Attack Speed",
+        "Base Price": "18",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Stone Skin",
+        "Rarity": "Tier 3",
+        "Effects": "+1 Max HP for every permanent 1 Armor you have -6 % Attack Speed",
+        "Base Price": "85",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Golem",
+        "Tags": "Armor, Max HP"
+      },
+      {
+        "Name": "Toolbox",
+        "Rarity": "Tier 3",
+        "Effects": "+6 Engineering -8 % Attack Speed",
+        "Base Price": "55",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Engineering"
+      },
+      {
+        "Name": "Will-o'-Wisp",
+        "Rarity": "Tier 3",
+        "Effects": "+1 Elemental Damage for every 30 burning enemies you kill during a wave (max +4 per wave) -7% Attack Speed",
+        "Base Price": "80",
+        "Limit": "",
+        "Unlocked By": "Kill 30 enemies by burning them in a single wave",
+        "Tags": "Elemental Damage"
+      }
+    ]
+  },
+  {
+    "table_index": 2,
+    "section": "Items > Mechanics",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Name": "Community Support",
+        "Rarity": "Tier 3",
+        "Effects": "+1 % Attack Speed for every current living enemy -2 Armor",
+        "Base Price": "75",
+        "Limit": "1.0",
+        "Unlocked By": "Win a run with Streamer",
+        "Tags": "Attack Speed"
+      },
+      {
+        "Name": "Crystal(DLC)",
+        "Rarity": "Tier 3",
+        "Effects": "+5 % Attack Speed +1 % Attack Speed every 1 second until the end of the wave Bonus is lost when taking damage -2 Engineering",
+        "Base Price": "65",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed"
+      },
+      {
+        "Name": "Focus",
+        "Rarity": "Tier 4",
+        "Effects": "+30 % Damage -3 % Attack Speed for every different weapon you have",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "Win a run with One Armed",
+        "Tags": "Damage"
+      },
+      {
+        "Name": "Retromation's Hoodie",
+        "Rarity": "Tier 4",
+        "Effects": "+2 % Attack Speed for every 1 % Dodge you have -80 Range",
+        "Base Price": "110",
+        "Limit": "1.0",
+        "Unlocked By": "",
+        "Tags": "Dodge"
+      },
+      {
+        "Name": "Spider",
+        "Rarity": "Tier 4",
+        "Effects": "+12 % Damage +6 % Attack Speed for every different weapon you have -3 % Dodge -5 Harvesting",
+        "Base Price": "110",
+        "Limit": "",
+        "Unlocked By": "Win a run with Gladiator",
+        "Tags": "Damage, Attack Speed"
+      },
+      {
+        "Name": "Statue",
+        "Rarity": "Tier 3",
+        "Effects": "+40 % Attack Speed while standing still -10 % Speed",
+        "Base Price": "60",
+        "Limit": "",
+        "Unlocked By": "",
+        "Tags": "Attack Speed, Stand Still"
+      }
+    ]
+  },
+  {
+    "table_index": 3,
+    "section": "Items > Ball and Chain",
+    "columns": [
+      "Name",
+      "Rarity",
+      "Effects",
+      "Base Price",
+      "Limit",
+      "Unlocked By",
+      "Tags"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "Name": "Ball and Chain",
+        "Rarity": "Tier 3",
+        "Effects": "+15 % Damage +3 Armor +5 Knockback -3 % Speed Weapons have a minimum cooldown of 0.75 seconds between attacks",
+        "Base Price": "75",
+        "Limit": "1",
+        "Unlocked By": "",
+        "Tags": "Damage, Armor, Knockback"
+      }
+    ]
+  },
+  {
+    "table_index": 4,
+    "section": "Characters > Positive Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 7,
+    "rows": [
+      {
+        "Name": "Brawler",
+        "Stats": "+50% Attack Speed with Unarmed weapons You start with 1 Fist +15% Dodge -50 Range -50 Ranged Damage",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Power Fist",
+        "Item Tags": "Melee Damage"
+      },
+      {
+        "Name": "Crazy",
+        "Stats": "+100 Range with Precise weapons +25% Attack Speed You start with 1 Knife -30% Dodge -10 Engineering -10 Ranged Damage",
+        "Unlocked By": "Unlocked by default",
+        "Unlocks": "Hunting Trophy",
+        "Item Tags": "Crit Chance, Melee Damage"
+      },
+      {
+        "Name": "Cryptid",
+        "Stats": "More trees spawn (+6) Gain 12 material and XP for every living tree at the end of a wave +3 HP Regeneration for every current living tree Dodge is capped at 70% +3 Attack Speed until the end of the wave when you dodge an attack -100 % Life Steal -100 Range -50% materials dropped from enemies",
+        "Unlocked By": "Finish a wave with 10 or more living trees",
+        "Unlocks": "Claw",
+        "Item Tags": "Exploration, Dodge"
+      },
+      {
+        "Name": "Golem",
+        "Stats": "+20 Max HP Max HP modifications are increased by 33% Armor modifications are increased by 33% +40 % Attack Speed when you have less than 50% health +20 % Speed when you have less than 50% health You can't heal in any way",
+        "Unlocked By": "Finish a wave with 1 HP",
+        "Unlocks": "Stone Skin",
+        "Item Tags": "Max HP, Armor"
+      },
+      {
+        "Name": "King",
+        "Stats": "+50 Luck +25 % Damage for every Tier IV weapon you have +25% Attack Speed for every Tier IV weapon you have +5 Max HP for every different Tier IV item you have -15% Damage for every Tier I weapon you have -15% Attack Speed for every Tier I weapon you have -2 Max HP for every different Tier I item you have UNLISTED BONUS: Starting weapon is Tier II",
+        "Unlocked By": "Get 3 tier IV weapons at once",
+        "Unlocks": "Excalibur",
+        "Item Tags": ""
+      },
+      {
+        "Name": "One Armed",
+        "Stats": "+200% Attack Speed Damage modifications are increased by 100% You can only equip one weapon at a time",
+        "Unlocked By": "Win a run in Danger 0",
+        "Unlocks": "Focus",
+        "Item Tags": "Damage"
+      },
+      {
+        "Name": "Soldier",
+        "Stats": "+50% Damage while standing still +50% Attack Speed while standing still +10% Speed +200% pickup range +15 Knockback You cant attack while moving",
+        "Unlocked By": "Win a run in Danger 2",
+        "Unlocks": "Nuclear Launcher",
+        "Item Tags": "Stand Still"
+      }
+    ]
+  },
+  {
+    "table_index": 5,
+    "section": "Characters > Negative Characters",
+    "columns": [
+      "Name",
+      "Stats",
+      "Unlocked By",
+      "Unlocks",
+      "Item Tags"
+    ],
+    "row_count": 8,
+    "rows": [
+      {
+        "Name": "Buccaneer(DLC)",
+        "Stats": "Picked up materials have +100% value Picking up a material resets the cooldown of all your weapons -100 % Attack Speed -50% materials dropped from enemies",
+        "Unlocked By": "Reach +100 % Pickup Range",
+        "Unlocks": "Eyepatch",
+        "Item Tags": "Pickup"
+      },
+      {
+        "Name": "Doctor",
+        "Stats": "+200% Attack Speed with Medical weapons +5 HP Regeneration HP Regeneration modifications are increased by 100% +5 Harvesting -100% Attack Speed Armor modifications are reduced by 50%",
+        "Unlocked By": "Heal 200 HP in one wave",
+        "Unlocks": "Medikit",
+        "Item Tags": "HP Regeneration"
+      },
+      {
+        "Name": "Dwarf(DLC)",
+        "Stats": "+1 Engineering when killing at least 6 enemies with a direct weapon hit +1 Melee Damage for every permanent 2 Engineering you have You can't equip ranged weapons -20 % Dodge -100 % Attack Speed % Attack Speed modifications are reduced by 50%",
+        "Unlocked By": "Hit at least 25 enemies with a single melee attack",
+        "Unlocks": "War Hammer",
+        "Item Tags": "Engineering, Structure"
+      },
+      {
+        "Name": "Gladiator",
+        "Stats": "+20% Attack Speed for every different weapon you have  +5 Melee Damage You can't equip ranged weapons -40% Attack Speed -30 Luck",
+        "Unlocked By": "Kill 20000 enemies",
+        "Unlocks": "Spider",
+        "Item Tags": "Melee Damage"
+      },
+      {
+        "Name": "King",
+        "Stats": "+50 Luck +25 % Damage for every Tier IV weapon you have +25% Attack Speed for every Tier IV weapon you have +5 Max HP for every different Tier IV item you have -15% Damage for every Tier I weapon you have -15% Attack Speed for every Tier I weapon you have -2 Max HP for every different Tier I item you have UNLISTED BONUS: Starting weapon is Tier II",
+        "Unlocked By": "Get 3 tier IV weapons at once",
+        "Unlocks": "Excalibur",
+        "Item Tags": ""
+      },
+      {
+        "Name": "Knight",
+        "Stats": "+2 Melee Damage for every 1 Armor you have +3 Armor You can't equip ranged weapons You can only equip tier 2 weapons or above % Attack Speed modifications are reduced by 50% Harvesting modifications are reduced by 80%",
+        "Unlocked By": "Win a run in Danger 4",
+        "Unlocks": "Plasma Sledge",
+        "Item Tags": "Armor"
+      },
+      {
+        "Name": "Lucky",
+        "Stats": "+100 Luck Luck modifications are increased by 25% +75% chance to deal 1 (15%Luck) damage to a random enemy when you pick up a material -60% Attack Speed -50% XP Gain",
+        "Unlocked By": "Collect 300 materials",
+        "Unlocks": "Lucky Charm",
+        "Item Tags": "Luck, Pickup, Exploration"
+      },
+      {
+        "Name": "Ogre(DLC)",
+        "Stats": "Enemies taking double their max health as damage explode for 10 (+50%-50%) damage +10 Melee Damage You can't equip ranged weapons -50 % Attack Speed -10 % Speed",
+        "Unlocked By": "Deal 1000 damage to an enemy in a single hit",
+        "Unlocks": "Mace",
+        "Item Tags": "Max HP, Melee Damage, Explosive (Item Tag)"
+      }
+    ]
+  },
+  {
+    "table_index": 6,
+    "section": "Weapons",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Claw",
+        "Class": "Unarmed, Precise",
+        "Damage": "5(15%50%)  10(20%50%)  15(25%50%)  25(30%50%)",
+        "Attack Speed": "0.78s  0.74s  0.69s  0.61s",
+        "DPS": "6.4(19.2%64.1%)/s  13.5(27%67.6%)/s  21.7(36.2%72.5%)/s  41.0(49.2%82%)/s",
+        "Crit Damage/Chance": "x2 (10%)  x2.15 (15%)  x2.3 (20%)  x2.5 (25%)",
+        "Range": "150  150  150  150",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "-",
+        "Base price": "15  28  55  110",
+        "Unlocked by": "Win a run with Cryptid"
+      },
+      {
+        "Name": "Hatchet",
+        "Class": "Primitive",
+        "Damage": "5(100%15%)  10(100%15%)  20(100%15%)  40(100%15%)",
+        "Attack Speed": "0.68s  0.65s  0.62s  0.58s",
+        "DPS": "7.4(147% 22.1%)/s  14.7(147% 22.1%)/s  29.4(147% 22.1%)/s  64.5(161% 24.2%)/s",
+        "Crit Damage/Chance": "x2 (3%)  x2 (3%)  x2 (3%)  x2 (3%)",
+        "Range": "125  125  125  125",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "",
+        "Base price": "15  31  61  122",
+        "Unlocked by": "Win a run with Wildling"
+      },
+      {
+        "Name": "Mace(DLC)",
+        "Class": "Heavy, Medieval",
+        "Damage": "-  40(+100%-50%)  60(+100%-75%)  100(+100%-100%)",
+        "Attack Speed": "-  1.39s  1.31s  1.23s",
+        "DPS": "--  28.7(71.7%-35.9%)/s  45.8(76.3%-57.2%)/s  81.5(81.5%-81.5%)/s",
+        "Crit Damage/Chance": "-  x1.5 (3% chance)  x1.5 (3% chance)  x1.5 (3% chance)",
+        "Range": "-  150  150  150",
+        "Knockback": "-  5  5  5",
+        "Lifesteal": "-  0  0  0",
+        "Special Effects": "-3%/-6%/-10% Attack Speed",
+        "Base price": "-  46  92  185",
+        "Unlocked by": "Win a run with Ogre"
+      }
+    ]
+  },
+  {
+    "table_index": 7,
+    "section": "Weapons",
+    "columns": [
+      "Name",
+      "Class",
+      "Damage",
+      "Attack Speed",
+      "DPS",
+      "Crit Damage/Chance",
+      "Range",
+      "Knockback",
+      "Lifesteal",
+      "Special Effects",
+      "Base price",
+      "Unlocked by"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "Name": "Drill",
+        "Class": "Legendary, Precise",
+        "Damage": "-  -  -  10(100%100%)",
+        "Attack Speed": "-  -  -  0.45s",
+        "DPS": "-  -  -  22.2(222.2%222.2%)/s",
+        "Crit Damage/Chance": "-  -  -  x2.5 (50%)",
+        "Range": "-  -  -  100",
+        "Knockback": "-  -  -  5",
+        "Lifesteal": "-  -  -  0",
+        "Special Effects": "100% chance to gain 1 material when killing an enemy with a critical hit. +10 % Attack Speed every 5 seconds until the end of the wave",
+        "Base price": "-  -  -  250",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Ghost Flint",
+        "Class": "Ethereal",
+        "Damage": "6(100%)  9(100%)  12(100%)  18(100%)",
+        "Attack Speed": "1.23s  1.17s  1.1s  1.04s",
+        "DPS": "4.9(81%)/s  7.7(85%)/s  10.9(90%)/s  17.3(96%)/s",
+        "Crit Damage/Chance": "x2 (3%)  x2 (3%)  x2 (3%)  x2 (3%)",
+        "Range": "150  160  170  180",
+        "Knockback": "2  2  2  2",
+        "Lifesteal": "0  0  0  0",
+        "Special Effects": "+1% Attack Speed for every 20/18/16/12 kills in a wave with this weapon",
+        "Base price": "12  26  52  105",
+        "Unlocked by": "Default"
+      },
+      {
+        "Name": "Mace(DLC)",
+        "Class": "Heavy, Medieval",
+        "Damage": "-  40(+100%-50%)  60(+100%-75%)  100(+100%-100%)",
+        "Attack Speed": "-  1.39s  1.31s  1.23s",
+        "DPS": "--  28.7(71.7%-35.9%)/s  45.8(76.3%-57.2%)/s  81.5(81.5%-81.5%)/s",
+        "Crit Damage/Chance": "-  x1.5 (3% chance)  x1.5 (3% chance)  x1.5 (3% chance)",
+        "Range": "-  150  150  150",
+        "Knockback": "-  5  5  5",
+        "Lifesteal": "-  0  0  0",
+        "Special Effects": "-3%/-6%/-10% Attack Speed",
+        "Base price": "-  46  92  185",
+        "Unlocked by": "Win a run with Ogre"
+      }
+    ]
+  },
+  {
+    "table_index": 8,
+    "section": "",
+    "columns": [
+      "Stats",
+      "Stats.1",
+      "Stats.2",
+      "Stats.3"
+    ],
+    "row_count": 6,
+    "rows": [
+      {
+        "Stats": "Max HP",
+        "Stats.1": "Melee Damage",
+        "Stats.2": "Crit Chance",
+        "Stats.3": "Dodge"
+      },
+      {
+        "Stats": "HP Regeneration",
+        "Stats.1": "Ranged Damage",
+        "Stats.2": "Engineering",
+        "Stats.3": "Speed"
+      },
+      {
+        "Stats": "Life Steal",
+        "Stats.1": "Elemental Damage",
+        "Stats.2": "Range",
+        "Stats.3": "Luck"
+      },
+      {
+        "Stats": "Damage",
+        "Stats.1": "Attack Speed",
+        "Stats.2": "Armor",
+        "Stats.3": "Harvesting"
+      },
+      {
+        "Stats": "DLC Stats",
+        "Stats.1": "DLC Stats",
+        "Stats.2": "DLC Stats",
+        "Stats.3": "DLC Stats"
+      },
+      {
+        "Stats": "Curse",
+        "Stats.1": "Curse",
+        "Stats.2": "Curse",
+        "Stats.3": "Curse"
+      }
+    ]
+  }
+]

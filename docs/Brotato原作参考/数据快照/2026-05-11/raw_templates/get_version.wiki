@@ -1,0 +1,9 @@
+<onlyinclude><includeonly>1.1.10.9</includeonly></onlyinclude><noinclude>
+
+Get the current game version.
+
+<code><nowiki>{{GetVersion}}</nowiki></code> = {{GetVersion}}
+
+Also provides a single place to update the current version used by [[Template:Version]].
+
+</noinclude>
