@@ -10,6 +10,7 @@ local UISafeArea = require("ui.UISafeArea")
 local UIScreen = require("ui.UIScreen")
 local Preview3D = require("ui.ship_select.Preview3D")
 local StatsManager = require("core.StatsManager")
+local ImageLoader = require("utils.ImageLoader")
 
 local ShipSelectUI = {}
 
@@ -96,10 +97,24 @@ function ShipSelectUI.Init()
     Preview3D.Init()
 end
 
+function ShipSelectUI.CollectImagePaths()
+    local paths = {}
+    local allShips = Ships.GetAll()
+    for _, ship in ipairs(allShips) do
+        if ship.captainPortrait then
+            paths[#paths + 1] = ship.captainPortrait
+        end
+    end
+    return paths
+end
+
 function ShipSelectUI.Show(callback)
-    ShipSelectUI.visible = true
-    ShipSelectUI.onSelect = callback
-    ShipSelectUI.Init()
+    local paths = ShipSelectUI.CollectImagePaths()
+    ImageLoader.PreloadGate(paths, function()
+        ShipSelectUI.visible = true
+        ShipSelectUI.onSelect = callback
+        ShipSelectUI.Init()
+    end, "正在加载战舰数据...")
 end
 
 function ShipSelectUI.Hide()
@@ -690,16 +705,10 @@ function ShipSelectUI.RenderShipIcon(nvg, x, y, size, ship, isSelected, isUnlock
     
     -- 绘制舰长头像或编号
     local hasPortrait = false
+    local portraitLoading = false
     if isUnlocked and ship.captainPortrait then
         -- 延迟加载舰长头像
-        if not ShipSelectUI.captainImages[ship.id] then
-            local img = nvgCreateImage(nvg, ship.captainPortrait, 0)
-            if img and img > 0 then
-                ShipSelectUI.captainImages[ship.id] = img
-            end
-        end
-        
-        local img = ShipSelectUI.captainImages[ship.id]
+        local img = ImageLoader.GetImage(nvg, ship.captainPortrait, ShipSelectUI.captainImages, ship.id)
         if img and img > 0 then
             hasPortrait = true
             -- 绘制头像（圆角裁剪效果）
@@ -713,11 +722,17 @@ function ShipSelectUI.RenderShipIcon(nvg, x, y, size, ship, isSelected, isUnlock
             nvgRoundedRect(nvg, imgX, imgY, imgSize, imgSize, baseUnit * 0.3)
             nvgFillPaint(nvg, imgPaint)
             nvgFill(nvg)
+        elseif img == -2 then
+            portraitLoading = true
         end
     end
     
-    -- 没有头像时显示编号
-    if not hasPortrait then
+    -- 头像下载中显示骨架屏占位
+    if not hasPortrait and portraitLoading then
+        local padding = baseUnit * 0.3
+        ImageLoader.RenderPlaceholder(nvg, x + padding, y + padding, size - padding * 2, size - padding * 2, ShipSelectUI.animTime, baseUnit * 0.3)
+    elseif not hasPortrait then
+        -- 没有头像配置或加载失败时显示编号
         local codeNum = string.sub(ship.code or "", 5, 6)  -- 取编号部分如 "01"
         nvgFontSize(nvg, size * 0.35)
         nvgTextAlign(nvg, NVG_ALIGN_CENTER + NVG_ALIGN_MIDDLE)

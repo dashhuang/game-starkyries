@@ -64,6 +64,15 @@ local function GetStatsManager()
     return StatsManager
 end
 
+-- ImageLoader 延迟加载
+local ImageLoader = nil
+local function GetImageLoader()
+    if not ImageLoader then
+        ImageLoader = require("utils.ImageLoader")
+    end
+    return ImageLoader
+end
+
 -- ============================================================================
 -- 游戏状态枚举
 -- ============================================================================
@@ -425,6 +434,28 @@ function Game.StartPlayerDeath()
     end
 end
 
+-- 内部：执行 GameOver 的通用逻辑（音频、统计、存档）+ 预加载图片后切换状态
+local function DoGameOver()
+    GetAudio().PlayGameOver()
+
+    -- 保存跨局统计
+    local finalWave = Game.battle and Game.battle.currentWave or 1
+    local playTime = Game.battle and Game.battle.playTime or 0
+    GetStatsManager().OnGameEnd(playTime, finalWave)
+
+    -- 游戏结束时清除存档
+    GetSaveManager().OnGameEnd()
+
+    -- 预加载 GameOver 图片后切换状态
+    local overlays = GetOverlays()
+    overlays.PrepareGameOverImage(Game.player)
+    local paths = overlays.CollectGameOverImagePaths()
+
+    GetImageLoader().PreloadGate(paths, function()
+        Game.SetState(Game.States.GAME_OVER)
+    end, "加载中...")
+end
+
 function Game.GameOver()
     -- 检查是否有拦截回调（如教程首次战败对话）
     if Game.onBeforeGameOver then
@@ -433,30 +464,13 @@ function Game.GameOver()
             return  -- 已被拦截，不执行默认逻辑
         end
     end
-    
-    Game.SetState(Game.States.GAME_OVER)
-    GetAudio().PlayGameOver()
-    
-    -- 保存跨局统计
-    local finalWave = Game.battle and Game.battle.currentWave or 1
-    local playTime = Game.battle and Game.battle.playTime or 0
-    GetStatsManager().OnGameEnd(playTime, finalWave)
-    
-    -- 游戏结束时清除存档
-    GetSaveManager().OnGameEnd()
+
+    DoGameOver()
 end
 
 -- 强制进入 GameOver 状态（跳过拦截检查，用于教程对话结束后）
 function Game.ForceGameOver()
-    Game.SetState(Game.States.GAME_OVER)
-    GetAudio().PlayGameOver()
-    
-    -- 保存跨局统计
-    local finalWave = Game.battle and Game.battle.currentWave or 1
-    local playTime = Game.battle and Game.battle.playTime or 0
-    GetStatsManager().OnGameEnd(playTime, finalWave)
-    
-    GetSaveManager().OnGameEnd()
+    DoGameOver()
 end
 
 function Game.Victory()

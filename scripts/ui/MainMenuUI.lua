@@ -578,10 +578,13 @@ end
 -- ============================================================================
 
 function MainMenuUI.DrawTitle(nvg, sw, sh, baseUnit, fonts)
-    -- 延迟加载 Logo 图片
+    -- DWP-safe: 仅在资源已下载到本地时创建 NVG 图片，避免占位符闪烁
     if not MainMenuUI.logoLoaded then
-        MainMenuUI.logoImage = nvgCreateImage(nvg, "image/logo.png", 0)
-        MainMenuUI.logoLoaded = true
+        if cache:Exists("image/logo.png") then
+            MainMenuUI.logoImage = nvgCreateImage(nvg, "image/logo.png", 0)
+            MainMenuUI.logoLoaded = true
+        end
+        -- 资源未就绪时不创建，下一帧重试
     end
     
     local L = MainMenuUI.Layout

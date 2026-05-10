@@ -9,6 +9,7 @@ local UIScreen = require("ui.UIScreen")
 local Modules = require("config.modules")
 local ShopCards = require("ui.shop.ShopCards")
 local TouchInput = require("utils.TouchInput")
+local ImageLoader = require("utils.ImageLoader")
 
 local CrateOpenUI = {}
 
@@ -289,16 +290,7 @@ function CrateOpenUI.RenderCrateCard(nvg, x, y, w, h, crate, index, isSelected, 
     if moduleId then
         local iconPath = "images/modules/" .. moduleId .. ".jpg"
         
-        if not CrateOpenUI.moduleImages[moduleId] then
-            local img = nvgCreateImage(nvg, iconPath, 0)
-            if img > 0 then
-                CrateOpenUI.moduleImages[moduleId] = img
-            else
-                CrateOpenUI.moduleImages[moduleId] = -1
-            end
-        end
-        
-        local img = CrateOpenUI.moduleImages[moduleId]
+        local img = ImageLoader.GetImage(nvg, iconPath, CrateOpenUI.moduleImages, moduleId)
         if img and img > 0 then
             hasIcon = true
             -- 图片背景
@@ -323,21 +315,9 @@ function CrateOpenUI.RenderCrateCard(nvg, x, y, w, h, crate, index, isSelected, 
         end
     end
     
-    -- 没有图片时显示渐变色块
+    -- 没有图片时显示骨架屏占位
     if not hasIcon then
-        nvgBeginPath(nvg)
-        nvgRoundedRect(nvg, iconX, iconY, iconSize, iconSize, baseUnit * 0.25)
-        local iconGrad = nvgLinearGradient(nvg, centerX, py, centerX, py + iconSize,
-            nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 200),
-            nvgRGBA(tierColor.r * 0.5, tierColor.g * 0.5, tierColor.b * 0.5, 200))
-        nvgFillPaint(nvg, iconGrad)
-        nvgFill(nvg)
-        
-        -- 模块图标
-        nvgFontSize(nvg, baseUnit * 2)
-        nvgTextAlign(nvg, NVG_ALIGN_CENTER + NVG_ALIGN_MIDDLE)
-        nvgFillColor(nvg, nvgRGBA(255, 255, 255, 200))
-        nvgText(nvg, centerX, iconY + iconSize / 2, "🔧")
+        ImageLoader.RenderPlaceholder(nvg, iconX, iconY, iconSize, iconSize, CrateOpenUI.animTime, baseUnit * 0.25)
     end
     py = py + iconSize + h * 0.02
     

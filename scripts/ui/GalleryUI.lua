@@ -13,6 +13,7 @@ local Enemies = require("config.enemies")
 local TagSetBonuses = require("data.TagSetBonuses")
 local StatsManager = require("core.StatsManager")
 local TouchInput = require("utils.TouchInput")
+local ImageLoader = require("utils.ImageLoader")
 
 local GalleryUI = {}
 
@@ -303,10 +304,30 @@ end
 -- 显示/隐藏
 -- ============================================================================
 
+function GalleryUI.CollectImagePaths()
+    local paths = {}
+    -- 武器图标（Weapons.List 是 key-value 表）
+    for id, _ in pairs(Weapons.List) do
+        paths[#paths + 1] = "images/weapons/" .. id .. ".jpg"
+    end
+    -- 模块图标（Modules.List 是数组）
+    for _, m in ipairs(Modules.List) do
+        paths[#paths + 1] = "images/modules/" .. m.id .. ".jpg"
+    end
+    -- 敌人图标（Enemies.List 是 key-value 表）
+    for id, _ in pairs(Enemies.List) do
+        paths[#paths + 1] = "images/enemies/" .. id .. ".jpg"
+    end
+    return paths
+end
+
 function GalleryUI.Show(onClose)
-    GalleryUI.visible = true
-    GalleryUI.onClose = onClose
-    GalleryUI.Init()
+    local paths = GalleryUI.CollectImagePaths()
+    ImageLoader.PreloadGate(paths, function()
+        GalleryUI.visible = true
+        GalleryUI.onClose = onClose
+        GalleryUI.Init()
+    end, "正在加载图鉴数据...")
 end
 
 function GalleryUI.Hide()
@@ -769,16 +790,11 @@ function GalleryUI.DrawItemDetail(nvg, x, y, w, h, baseUnit, fonts)
         end
         
         if imageCache and iconPath then
-            if not imageCache[item.id] then
-                local img = nvgCreateImage(nvg, iconPath, 0)
-                if img and img > 0 then
-                    imageCache[item.id] = img
-                end
-            end
+            local img = ImageLoader.GetImage(nvg, iconPath, imageCache, item.id)
             
-            if imageCache[item.id] then
+            if img and img > 0 then
                 hasDetailIcon = true
-                local imgPaint = nvgImagePattern(nvg, iconX, iconY, iconSize, iconSize, 0, imageCache[item.id], 1.0)
+                local imgPaint = nvgImagePattern(nvg, iconX, iconY, iconSize, iconSize, 0, img, 1.0)
                 nvgBeginPath(nvg)
                 nvgRoundedRect(nvg, iconX, iconY, iconSize, iconSize, baseUnit * 0.3)
                 nvgFillPaint(nvg, imgPaint)
@@ -792,6 +808,10 @@ function GalleryUI.DrawItemDetail(nvg, x, y, w, h, baseUnit, fonts)
                 nvgStrokeColor(nvg, nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 200))
                 nvgStrokeWidth(nvg, 2)
                 nvgStroke(nvg)
+            elseif img == -2 then
+                -- 下载中：显示骨架屏占位，保留图标区域布局
+                hasDetailIcon = true
+                ImageLoader.RenderPlaceholder(nvg, iconX, iconY, iconSize, iconSize, GalleryUI.animTime, baseUnit * 0.3)
             end
         end
     end

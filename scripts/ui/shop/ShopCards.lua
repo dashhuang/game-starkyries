@@ -7,6 +7,7 @@ local UIStyle = require("ui.UIStyle")
 local Weapons = require("config.weapons")
 local TagSetBonuses = require("data.TagSetBonuses")
 local TouchInput = require("utils.TouchInput")
+local ImageLoader = require("utils.ImageLoader")
 
 local ShopCards = {}
 
@@ -28,6 +29,8 @@ ShopCards.TierNames = {
 -- 图片缓存
 ShopCards.weaponImages = {}
 ShopCards.moduleImages = {}
+
+
 
 -- 详情弹窗滚动状态
 ShopCards.detailScrollOffset = 0
@@ -291,20 +294,13 @@ function ShopCards.RenderItemCard(nvg, x, y, w, h, item, isSelected, canAfford, 
     local hasIcon = false
     
     -- 尝试加载图片
+    local imgStatus = 0  -- 0=未尝试, >0=已加载, -2=下载中, -1=失败
     if item.type == "weapon" and item.weaponData then
         local weaponId = item.weaponData.id
         local iconPath = "images/weapons/" .. weaponId .. ".jpg"
         
-        if not ShopCards.weaponImages[weaponId] then
-            local img = nvgCreateImage(nvg, iconPath, 0)
-            if img > 0 then
-                ShopCards.weaponImages[weaponId] = img
-            else
-                ShopCards.weaponImages[weaponId] = -1
-            end
-        end
-        
-        local img = ShopCards.weaponImages[weaponId]
+        local img = ImageLoader.GetImage(nvg, iconPath, ShopCards.weaponImages, weaponId)
+        imgStatus = img or 0
         if img and img > 0 then
             hasIcon = true
             nvgBeginPath(nvg)
@@ -329,16 +325,8 @@ function ShopCards.RenderItemCard(nvg, x, y, w, h, item, isSelected, canAfford, 
         local moduleId = item.moduleId or item.id
         local iconPath = "images/modules/" .. moduleId .. ".jpg"
         
-        if not ShopCards.moduleImages[moduleId] then
-            local img = nvgCreateImage(nvg, iconPath, 0)
-            if img > 0 then
-                ShopCards.moduleImages[moduleId] = img
-            else
-                ShopCards.moduleImages[moduleId] = -1
-            end
-        end
-        
-        local img = ShopCards.moduleImages[moduleId]
+        local img = ImageLoader.GetImage(nvg, iconPath, ShopCards.moduleImages, moduleId)
+        imgStatus = img or 0
         if img and img > 0 then
             hasIcon = true
             nvgBeginPath(nvg)
@@ -363,15 +351,9 @@ function ShopCards.RenderItemCard(nvg, x, y, w, h, item, isSelected, canAfford, 
         end
     end
     
-    -- 没有图片时显示渐变色块
+    -- 图片未就绪时的占位设计
     if not hasIcon then
-        nvgBeginPath(nvg)
-        nvgRoundedRect(nvg, iconX, iconY, iconSize, iconSize, baseUnit * 0.25)
-        local iconGrad = nvgLinearGradient(nvg, centerX, py, centerX, py + iconSize,
-            nvgRGBA(themeColor.r, themeColor.g, themeColor.b, 200),
-            nvgRGBA(themeColor.r * 0.5, themeColor.g * 0.5, themeColor.b * 0.5, 200))
-        nvgFillPaint(nvg, iconGrad)
-        nvgFill(nvg)
+        ImageLoader.RenderPlaceholder(nvg, iconX, iconY, iconSize, iconSize, animTime, baseUnit * 0.25)
     end
     py = py + iconSize + h * 0.02
     
@@ -673,16 +655,14 @@ function ShopCards.RenderDetailPopup(nvg, layout, item, player, uiState, animTim
     local hasIcon = false
     
     -- 加载图标
+    local detailImgStatus = 0
     if isWeapon then
         local weapon = displayItem.weaponData or displayItem
         local weaponId = weapon.id
         if weaponId then
             local iconPath = "images/weapons/" .. weaponId .. ".jpg"
-            if not ShopCards.weaponImages[weaponId] then
-                local img = nvgCreateImage(nvg, iconPath, 0)
-                ShopCards.weaponImages[weaponId] = (img and img > 0) and img or -1
-            end
-            local img = ShopCards.weaponImages[weaponId]
+            local img = ImageLoader.GetImage(nvg, iconPath, ShopCards.weaponImages, weaponId)
+            detailImgStatus = img or 0
             if img and img > 0 then
                 hasIcon = true
                 local imgPaint = nvgImagePattern(nvg, iconX, iconY, iconSize, iconSize, 0, img, 1.0)
@@ -699,11 +679,8 @@ function ShopCards.RenderDetailPopup(nvg, layout, item, player, uiState, animTim
         local moduleId = displayItem.moduleId or displayItem.id
         if moduleId then
             local iconPath = "images/modules/" .. moduleId .. ".jpg"
-            if not ShopCards.moduleImages[moduleId] then
-                local img = nvgCreateImage(nvg, iconPath, 0)
-                ShopCards.moduleImages[moduleId] = (img and img > 0) and img or -1
-            end
-            local img = ShopCards.moduleImages[moduleId]
+            local img = ImageLoader.GetImage(nvg, iconPath, ShopCards.moduleImages, moduleId)
+            detailImgStatus = img or 0
             if img and img > 0 then
                 hasIcon = true
                 local imgPaint = nvgImagePattern(nvg, iconX, iconY, iconSize, iconSize, 0, img, 1.0)
@@ -720,14 +697,7 @@ function ShopCards.RenderDetailPopup(nvg, layout, item, player, uiState, animTim
     
     -- 无图标时显示占位
     if not hasIcon then
-        nvgBeginPath(nvg)
-        nvgRoundedRect(nvg, iconX, iconY, iconSize, iconSize, baseUnit * 0.3)
-        nvgFillColor(nvg, nvgRGBA(themeColor.r, themeColor.g, themeColor.b, 40))
-        nvgFill(nvg)
-        nvgFontSize(nvg, UIStyle.FontSize(baseUnit, 2.5, 24))
-        nvgTextAlign(nvg, NVG_ALIGN_CENTER + NVG_ALIGN_MIDDLE)
-        nvgFillColor(nvg, nvgRGBA(255, 255, 255, 200))
-        nvgText(nvg, iconX + iconSize/2, iconY + iconSize/2, isWeapon and "🔫" or "📦")
+        ImageLoader.RenderPlaceholder(nvg, iconX, iconY, iconSize, iconSize, animTime, baseUnit * 0.3)
     end
     
     -- 名称和品质（图标右侧）

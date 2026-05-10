@@ -21,6 +21,7 @@ local MainMenuUI, ShipSelectUI, WeaponSelectUI, OptionsUI, GalleryUI
 local TestMenuUI, DialogueUI, Overlays, Materials
 local Debris, DebrisPickup, CrateOpenUI
 local LoadingOverlay = require("ui.LoadingOverlay")
+local ImageLoader = require("utils.ImageLoader")
 
 local function LoadDependencies()
     if not Settings then
@@ -346,8 +347,9 @@ end
 -- ============================================================================
 
 function GameStateManager.EnterShop()
-    Game.SetState(Game.States.SHOP)
+    LoadDependencies()
     Shop.Init(Battle.currentWave)
+    Game.SetState(Game.States.SHOP)
     Audio.PlayUIClick()
 end
 
@@ -397,28 +399,39 @@ function GameStateManager.StartCrateOpenUI()
         return
     end
     
-    Game.SetState(Game.States.CRATE_OPEN)
-    
-    -- 初始化开箱UI
+    -- 先初始化开箱UI（确定模块内容和图片路径）
     CrateOpenUI.Init(collectedCrates, Game.player)
     
-    -- 设置回调
-    CrateOpenUI.onGetItem = function(crateData)
-        GameStateManager.HandleGetCrateItem(crateData)
+    -- 收集模块图片路径
+    local paths = {}
+    for _, crate in ipairs(CrateOpenUI.crates) do
+        if crate.moduleId then
+            table.insert(paths, "images/modules/" .. crate.moduleId .. ".jpg")
+        end
     end
-    
-    CrateOpenUI.onRecycleItem = function(crateData)
-        GameStateManager.HandleRecycleCrateItem(crateData)
-    end
-    
-    CrateOpenUI.onComplete = function()
-        -- 清空已收集列表
-        DebrisPickup.ClearCollectedCrates()
-        -- 继续流程
-        GameStateManager.ContinueAfterCrates()
-    end
-    
-    Audio.PlayUIClick()
+
+    -- 预加载后显示开箱界面
+    ImageLoader.PreloadGate(paths, function()
+        Game.SetState(Game.States.CRATE_OPEN)
+
+        -- 设置回调
+        CrateOpenUI.onGetItem = function(crateData)
+            GameStateManager.HandleGetCrateItem(crateData)
+        end
+
+        CrateOpenUI.onRecycleItem = function(crateData)
+            GameStateManager.HandleRecycleCrateItem(crateData)
+        end
+
+        CrateOpenUI.onComplete = function()
+            -- 清空已收集列表
+            DebrisPickup.ClearCollectedCrates()
+            -- 继续流程
+            GameStateManager.ContinueAfterCrates()
+        end
+
+        Audio.PlayUIClick()
+    end, "正在准备补给箱...")
 end
 
 -- 获取箱子物品
@@ -658,25 +671,18 @@ function GameStateManager.StartTutorialOpening()
         return
     end
     
-    -- 先预加载所有对话图片，完成后再播放（DWP 兼容）
-    LoadingOverlay.Show(function()
-        DialogueUI.Play(dialogueDataContent, function()
-            print("[Tutorial] Opening dialogue completed")
-            TutorialManager.CompleteOpening()
-            GameStateManager.StartTutorialGame()
-        end, { dialogueId = "Tutorial_Opening", scene = scene_ })
-    end, "正在加载剧情资源...", true)  -- manualComplete: 由 PreloadImages 控制完成
-
-    DialogueUI.PreloadImages(dialogueDataContent, function()
-        LoadingOverlay.Complete()
-    end, function(completed, total)
-        LoadingOverlay.SetProgress(completed, total)
-    end)
+    -- Play 内部自动预加载图片，下载完成后才开始对话
+    DialogueUI.Play(dialogueDataContent, function()
+        print("[Tutorial] Opening dialogue completed")
+        TutorialManager.CompleteOpening()
+        GameStateManager.StartTutorialGame()
+    end, { dialogueId = "Tutorial_Opening", scene = scene_ })
 end
 
 function GameStateManager.StartTutorialGame()
     print("[Tutorial] Starting game with default ship and weapon...")
-    
+    -- 注：战败剧情图片由 BackgroundPreloader 统一后台预加载，DialogueUI.Play 内部有安全网兜底
+
     local defaultShip = Ships.GetDefault()
     local defaultWeaponId = "ParticleMachinegun"
     
@@ -696,20 +702,12 @@ function GameStateManager.StartTutorialFirstDefeat()
         return
     end
     
-    -- 先预加载所有对话图片，完成后再播放（DWP 兼容）
-    LoadingOverlay.Show(function()
-        DialogueUI.Play(dialogueDataContent, function()
-            print("[Tutorial] First defeat dialogue completed")
-            TutorialManager.CompleteFirstDefeat()
-            Game.ForceGameOver()
-        end, { dialogueId = "Tutorial_FirstDefeat", scene = scene_ })
-    end, "正在加载剧情资源...", true)
-
-    DialogueUI.PreloadImages(dialogueDataContent, function()
-        LoadingOverlay.Complete()
-    end, function(completed, total)
-        LoadingOverlay.SetProgress(completed, total)
-    end)
+    -- Play 内部自动预加载图片，下载完成后才开始对话
+    DialogueUI.Play(dialogueDataContent, function()
+        print("[Tutorial] First defeat dialogue completed")
+        TutorialManager.CompleteFirstDefeat()
+        Game.ForceGameOver()
+    end, { dialogueId = "Tutorial_FirstDefeat", scene = scene_ })
 end
 
 -- ============================================================================

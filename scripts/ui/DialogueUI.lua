@@ -19,6 +19,8 @@ local UIStyle = require("ui.UIStyle")
 local Audio = require("core.Audio")
 local NvgHelper = require("render.NvgHelper")
 local TouchInput = require("utils.TouchInput")
+local ImageLoader = require("utils.ImageLoader")
+local LoadingOverlay = require("ui.LoadingOverlay")
 
 local DialogueUI = {}
 
@@ -286,32 +288,62 @@ function DialogueUI.Play(dialogues, onComplete, options)
         if onComplete then onComplete() end
         return
     end
-    
-    DialogueUI.visible = true
-    DialogueUI.dialogueData = dialogues
-    DialogueUI.currentIndex = 1
-    DialogueUI.onComplete = onComplete
-    DialogueUI.animTime = 0
-    DialogueUI.showingSummary = false
-    DialogueUI.skipButtonHover = false
-    
-    -- 提取剧情简介（如果有）
-    DialogueUI.dialogueSummary = dialogues.summary or nil
-    
-    -- 语音系统初始化
+
     options = options or {}
-    DialogueUI.currentDialogueId = options.dialogueId
-    DialogueUI.voiceLineIndex = 0
-    
-    -- 加载语音映射
-    DialogueUI.LoadVoiceMapping()
-    
-    -- 初始化音频（如果提供了 scene）
-    if options.scene then
-        DialogueUI.InitAudio(options.scene)
+
+    -- 内部启动函数：预加载完成后才真正开始对话
+    local function startDialogue()
+        DialogueUI.visible = true
+        DialogueUI.dialogueData = dialogues
+        DialogueUI.currentIndex = 1
+        DialogueUI.onComplete = onComplete
+        DialogueUI.animTime = 0
+        DialogueUI.showingSummary = false
+        DialogueUI.skipButtonHover = false
+
+        -- 提取剧情简介（如果有）
+        DialogueUI.dialogueSummary = dialogues.summary or nil
+
+        -- 语音系统初始化
+        DialogueUI.currentDialogueId = options.dialogueId
+        DialogueUI.voiceLineIndex = 0
+
+        -- 加载语音映射
+        DialogueUI.LoadVoiceMapping()
+
+        -- 初始化音频（如果提供了 scene）
+        if options.scene then
+            DialogueUI.InitAudio(options.scene)
+        end
+
+        DialogueUI.ShowCurrentLine()
     end
-    
-    DialogueUI.ShowCurrentLine()
+
+    -- 收集所有图片路径，检查是否需要预下载
+    local paths = DialogueUI.CollectImagePaths(dialogues)
+    local needDownload = false
+    for _, path in ipairs(paths) do
+        if not cache:Exists(path) then
+            needDownload = true
+            break
+        end
+    end
+
+    if not needDownload then
+        -- 所有图片已在本地，直接开始
+        startDialogue()
+    else
+        -- 有图片需要下载，显示加载界面等待完成
+        LoadingOverlay.Show(function()
+            startDialogue()
+        end, "正在加载剧情资源...", true)
+
+        DialogueUI.PreloadImages(dialogues, function()
+            LoadingOverlay.Complete()
+        end, function(completed, total)
+            LoadingOverlay.SetProgress(completed, total)
+        end)
+    end
 end
 
 ---停止对话
