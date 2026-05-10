@@ -1,0 +1,33 @@
+# 构建产物
+.build/
+dist/
+
+# 引擎内部（只读，由平台提供）
+engine-docs/
+examples/
+templates/
+urhox-libs/
+schemas/
+.emmylua/
+lua-tools/
+.claude/
+CLAUDE.md
+
+# 平台/编辑器生成
+.project/
+.tmp/
+.agent/
+.cli/
+.env
+logs/
+tools/
+
+# 游戏发布素材（AI 生成，体积大）
+game_material/
+
+# 编辑器/IDE
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db

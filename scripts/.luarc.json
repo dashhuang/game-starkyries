@@ -1,0 +1,73 @@
+{
+    "$schema": "https://raw.githubusercontent.com/sumneko/vscode-lua/master/setting/schema.json",
+    "emmyluaDir": "../.emmylua",
+    "runtime": {
+        "version": "Lua 5.4",
+        "special": {
+            "tolua": "require"
+        },
+        "path": [
+            "?.lua",
+            "?/init.lua",
+            "../?.lua",
+            "../?/init.lua"
+        ]
+    },
+    "workspace": {
+        "library": [
+            "../.emmylua",
+            "../urhox-libs"
+        ],
+        "checkThirdParty": false
+    },
+    "diagnostics": {
+        "severity": {
+            "undefined-global": "Error",
+            "undefined-field": "Warning",
+            "missing-parameter": "Error",
+            "param-type-mismatch": "Warning",
+            "undefined-doc-name": "Error",
+            "undefined-doc-param": "Error",
+            "undefined-doc-class": "Error",
+            "circle-doc-class": "Error",
+            "redundant-parameter": "Warning",
+            "unused-function": "Warning",
+            "global-in-nil-env": "Warning",
+            "redundant-value": "Warning",
+            "unused-local": "Hint",
+            "trailing-space": "Hint",
+            "empty-block": "Hint",
+            "inject-field": "Hint",
+            "duplicate-set-field": "Hint",
+            "cast-local-type": "Hint",
+            "redefined-local": "Error"
+        },
+        "groupSeverity": {
+            "strong": "Fallback",
+            "strict": "Fallback",
+            "ambiguity": "Fallback"
+        },
+        "neededFileStatus": {
+            "undefined-field": "Any!"
+        },
+        "globals": [
+            "tolua"
+        ],
+        "disable": [
+            "lowercase-global"
+        ]
+    },
+    "completion": {
+        "autoRequire": false
+    },
+    "hint": {
+        "enable": true,
+        "setType": true
+    },
+    "type": {
+        "weakNilCheck": true,
+        "weakUnionCheck": true,
+        "castNumberToInteger": true,
+        "castStringToEnum": true
+    }
+}
