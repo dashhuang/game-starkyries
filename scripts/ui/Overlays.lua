@@ -13,6 +13,7 @@
 -- ============================================================================
 
 local Waves = require("config.waves")
+local ImageLoader = require("utils.ImageLoader")
 local UIStyle = require("ui.UIStyle")
 local UISafeArea = require("ui.UISafeArea")
 local FrameCache = require("utils.FrameCache")
@@ -600,35 +601,50 @@ Overlays.gameOverImage = nil
 Overlays.gameOverImageLoaded = false
 Overlays.gameOverCaptain = nil  -- 记录当前加载的舰长
 
--- 加载随机 GameOver 图片（根据当前舰长）
+-- GameOver 图片加载状态
+local gameOverImageCache = {}       -- ImageLoader 缓存
+local gameOverPrimaryPath = nil     -- 当前舰长图片路径
+local gameOverFallbackPath = nil    -- 后备图片路径
+local gameOverCaptainName = nil     -- 当前舰长名称
+
+-- 加载随机 GameOver 图片（根据当前舰长，DWP-safe，每帧调用直到加载完成）
 local function LoadRandomGameOverImage(nvg)
     if Overlays.gameOverImageLoaded then return end
     
-    -- 获取当前舰长名称
-    local captain = "星遥"  -- 默认
-    local Game = require("core.Game")
-    if Game.player and Game.player.shipConfig and Game.player.shipConfig.captain then
-        captain = Game.player.shipConfig.captain
+    -- 首次调用：确定路径
+    if not gameOverPrimaryPath then
+        local captain = "星遥"
+        local Game = require("core.Game")
+        if Game.player and Game.player.shipConfig and Game.player.shipConfig.captain then
+            captain = Game.player.shipConfig.captain
+        end
+        local imageIndex = math.random(1, 5)
+        gameOverCaptainName = captain
+        gameOverPrimaryPath = "image/" .. captain .. "/gameover/" .. imageIndex .. ".jpg"
+        gameOverFallbackPath = "image/星遥/gameover/" .. imageIndex .. ".jpg"
     end
     
-    -- 随机选择1-5
-    local imageIndex = math.random(1, 5)
-    local imagePath = "image/" .. captain .. "/gameover/" .. imageIndex .. ".jpg"
-    
-    local img = nvgCreateImage(nvg, imagePath, 0)
+    -- 尝试主路径
+    local img = ImageLoader.GetImage(nvg, gameOverPrimaryPath, gameOverImageCache, "primary")
     if img and img > 0 then
         Overlays.gameOverImage = img
-        Overlays.gameOverCaptain = captain
-    else
-        -- 如果加载失败，尝试加载星遥的图片作为后备
-        imagePath = "image/星遥/gameover/" .. imageIndex .. ".jpg"
-        img = nvgCreateImage(nvg, imagePath, 0)
-        if img and img > 0 then
-            Overlays.gameOverImage = img
+        Overlays.gameOverCaptain = gameOverCaptainName
+        Overlays.gameOverImageLoaded = true
+        return
+    elseif img == -1 then
+        -- 主路径失败，尝试后备路径
+        local fallbackImg = ImageLoader.GetImage(nvg, gameOverFallbackPath, gameOverImageCache, "fallback")
+        if fallbackImg and fallbackImg > 0 then
+            Overlays.gameOverImage = fallbackImg
             Overlays.gameOverCaptain = "星遥"
+            Overlays.gameOverImageLoaded = true
+        elseif fallbackImg == -1 then
+            -- 两个都失败了，放弃
+            Overlays.gameOverImageLoaded = true
         end
+        -- fallbackImg == -2 表示还在下载，下一帧继续
     end
-    Overlays.gameOverImageLoaded = true
+    -- img == -2 表示还在下载，下一帧继续
 end
 
 -- 重置 GameOver 图片（在新游戏开始时调用）
@@ -639,6 +655,36 @@ function Overlays.ResetGameOverImage()
     Overlays.gameOverImage = nil
     Overlays.gameOverImageLoaded = false
     Overlays.gameOverCaptain = nil
+    -- 重置 DWP 状态，确保新游戏重新随机选择图片
+    gameOverImageCache = {}
+    gameOverPrimaryPath = nil
+    gameOverFallbackPath = nil
+    gameOverCaptainName = nil
+end
+
+-- 预先确定 GameOver 图片路径（在 PreloadGate 前调用）
+function Overlays.PrepareGameOverImage(player)
+    Overlays.ResetGameOverImage()
+    local captain = "星遥"
+    if player and player.shipConfig and player.shipConfig.captain then
+        captain = player.shipConfig.captain
+    end
+    local imageIndex = math.random(1, 5)
+    gameOverCaptainName = captain
+    gameOverPrimaryPath = "image/" .. captain .. "/gameover/" .. imageIndex .. ".jpg"
+    gameOverFallbackPath = "image/星遥/gameover/" .. imageIndex .. ".jpg"
+end
+
+-- 收集 GameOver 图片路径（供 PreloadGate 使用）
+function Overlays.CollectGameOverImagePaths()
+    local paths = {}
+    if gameOverPrimaryPath then
+        table.insert(paths, gameOverPrimaryPath)
+    end
+    if gameOverFallbackPath and gameOverFallbackPath ~= gameOverPrimaryPath then
+        table.insert(paths, gameOverFallbackPath)
+    end
+    return paths
 end
 
 -- 格式化时间（秒 -> 分:秒）
@@ -831,6 +877,9 @@ function Overlays.RenderGameOver(nvg, sw, sh, baseUnit, fontSize, battle)
             nvgText(nvg, imageX + imageW / 2, imageY + imageH - baseUnit * 0.5, 
                 "被 " .. battle.killedBy.name .. " 击毁")
         end
+    elseif not Overlays.gameOverImageLoaded then
+        -- 图片尚在下载，显示骨架屏占位
+        ImageLoader.RenderPlaceholder(nvg, imageX, imageY, imageW, imageH, Overlays.animTime, baseUnit * 0.4)
     end
     
     -- ========== 统计面板 ==========

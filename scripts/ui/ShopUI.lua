@@ -18,6 +18,7 @@ local TagSetBonuses = require("data.TagSetBonuses")
 local ShopDebug = require("ui.shop.ShopDebug")
 local ShopCards = require("ui.shop.ShopCards")
 local FrameCache = require("utils.FrameCache")
+local ImageLoader = require("utils.ImageLoader")
 local TouchInput = require("utils.TouchInput")
 
 local ShopUI = {}
@@ -720,14 +721,9 @@ function ShopUI.RenderInventoryWeapons(nvg, x, y, w, h, baseUnit, player)
         
         if weapon.id then
             local iconPath = "images/weapons/" .. weapon.id .. ".jpg"
-            if not ShopCards.weaponImages[weapon.id] then
-                local img = nvgCreateImage(nvg, iconPath, 0)
-                if img and img > 0 then
-                    ShopCards.weaponImages[weapon.id] = img
-                end
-            end
+            local img = ImageLoader.GetImage(nvg, iconPath, ShopCards.weaponImages, weapon.id)
             
-            if ShopCards.weaponImages[weapon.id] and ShopCards.weaponImages[weapon.id] > 0 then
+            if img and img > 0 then
                 hasIcon = true
                 -- 图标占满整个格子
                 local imgPaint = nvgImagePattern(nvg, itemX, itemY, itemSize, itemSize, 0, ShopCards.weaponImages[weapon.id], 1.0)
@@ -753,57 +749,9 @@ function ShopUI.RenderInventoryWeapons(nvg, x, y, w, h, baseUnit, player)
             end
         end
         
-        -- 没有图标时显示背景和名称缩写
+        -- 没有图标时显示骨架屏占位
         if not hasIcon then
-            -- 背景
-            nvgBeginPath(nvg)
-            nvgRoundedRect(nvg, itemX, itemY, itemSize, itemSize, baseUnit * 0.15)
-            if isMergeSource then
-                nvgFillColor(nvg, nvgRGBA(255, 200, 50, 100))
-            elseif isMergeTarget then
-                nvgFillColor(nvg, nvgRGBA(100, 255, 100, 100))
-            else
-                nvgFillColor(nvg, nvgRGBA(tierColor.r, tierColor.g, tierColor.b, isSelected and 80 or 40))
-            end
-            nvgFill(nvg)
-            
-            local iconGrad = nvgLinearGradient(nvg, itemX, itemY, itemX, itemY + itemSize,
-                nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 60),
-                nvgRGBA(tierColor.r * 0.3, tierColor.g * 0.3, tierColor.b * 0.3, 60))
-            nvgBeginPath(nvg)
-            nvgRoundedRect(nvg, itemX, itemY, itemSize, itemSize, baseUnit * 0.15)
-            nvgFillPaint(nvg, iconGrad)
-            nvgFill(nvg)
-            
-            -- 边框
-            nvgBeginPath(nvg)
-            nvgRoundedRect(nvg, itemX, itemY, itemSize, itemSize, baseUnit * 0.15)
-            if isMergeSource then
-                nvgStrokeColor(nvg, nvgRGBA(255, 200, 50, 255))
-                nvgStrokeWidth(nvg, 3)
-            elseif isMergeTarget then
-                nvgStrokeColor(nvg, nvgRGBA(100, 255, 100, 255))
-                nvgStrokeWidth(nvg, 2)
-            elseif isSelected then
-                nvgStrokeColor(nvg, nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 255))
-                nvgStrokeWidth(nvg, 2)
-            else
-                nvgStrokeColor(nvg, nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 100))
-                nvgStrokeWidth(nvg, 1)
-            end
-            nvgStroke(nvg)
-            
-            local weaponAbbr = def and string.sub(def.name, 1, 6) or "??"  -- UTF-8: 2个中文字符 = 6字节
-            nvgFontSize(nvg, UIStyle.FontSize(baseUnit, 0.55))
-            nvgTextAlign(nvg, NVG_ALIGN_CENTER + NVG_ALIGN_MIDDLE)
-            nvgFillColor(nvg, nvgRGBA(255, 255, 255, 230))
-            nvgText(nvg, itemX + itemSize / 2, itemY + itemSize * 0.45, weaponAbbr)
-            
-            -- Tier 文字（底部）- 仅在无图标时显示
-            nvgFontSize(nvg, UIStyle.FontSize(baseUnit, 0.45))
-            nvgTextAlign(nvg, NVG_ALIGN_CENTER + NVG_ALIGN_BOTTOM)
-            nvgFillColor(nvg, nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 255))
-            nvgText(nvg, itemX + itemSize / 2, itemY + itemSize - itemSize * 0.06, "T" .. tier)
+            ImageLoader.RenderPlaceholder(nvg, itemX, itemY, itemSize, itemSize, ShopUI.animTime, baseUnit * 0.15)
         end
         
         -- 合成提示图标（右上角显示升级标记）
@@ -914,14 +862,9 @@ function ShopUI.RenderInventoryModules(nvg, x, y, w, h, baseUnit, player)
             
             if moduleId then
                 local iconPath = "images/modules/" .. moduleId .. ".jpg"
-                if not ShopCards.moduleImages[moduleId] then
-                    local img = nvgCreateImage(nvg, iconPath, 0)
-                    if img and img > 0 then
-                        ShopCards.moduleImages[moduleId] = img
-                    end
-                end
+                local img = ImageLoader.GetImage(nvg, iconPath, ShopCards.moduleImages, moduleId)
                 
-                if ShopCards.moduleImages[moduleId] and ShopCards.moduleImages[moduleId] > 0 then
+                if img and img > 0 then
                     hasIcon = true
                     -- 图标占满整个格子
                     local imgPaint = nvgImagePattern(nvg, itemX, itemY, itemSize, itemSize, 0, ShopCards.moduleImages[moduleId], 1.0)
@@ -939,33 +882,9 @@ function ShopUI.RenderInventoryModules(nvg, x, y, w, h, baseUnit, player)
                 end
             end
             
-            -- 没有图标时显示背景和名称缩写
+            -- 没有图标时显示骨架屏占位
             if not hasIcon then
-                -- 背景（根据品质着色）
-                nvgBeginPath(nvg)
-                nvgRoundedRect(nvg, itemX, itemY, itemSize, itemSize, baseUnit * 0.15)
-                nvgFillColor(nvg, nvgRGBA(tierColor.r, tierColor.g, tierColor.b, isSelected and 100 or 50))
-                nvgFill(nvg)
-                
-                -- 边框
-                nvgBeginPath(nvg)
-                nvgRoundedRect(nvg, itemX, itemY, itemSize, itemSize, baseUnit * 0.15)
-                if isSelected then
-                    nvgStrokeColor(nvg, nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 255))
-                    nvgStrokeWidth(nvg, 2)
-                else
-                    nvgStrokeColor(nvg, nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 100))
-                    nvgStrokeWidth(nvg, 1)
-                end
-                nvgStroke(nvg)
-                
-                if moduleDef and moduleDef.name then
-                    local abbr = string.sub(moduleDef.name, 1, 6)  -- UTF-8中文2字=6字节
-                    nvgFontSize(nvg, UIStyle.FontSize(baseUnit, 0.7))
-                    nvgTextAlign(nvg, NVG_ALIGN_CENTER + NVG_ALIGN_MIDDLE)
-                    nvgFillColor(nvg, nvgRGBA(255, 255, 255, 220))
-                    nvgText(nvg, itemX + itemSize / 2, itemY + itemSize / 2, abbr)
-                end
+                ImageLoader.RenderPlaceholder(nvg, itemX, itemY, itemSize, itemSize, ShopUI.animTime, baseUnit * 0.15)
             end
             
             -- 数量标记（右下角）

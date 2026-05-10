@@ -28,6 +28,7 @@ TestMenuUI.options = {
     { id = "dialogue", name = "对话系统测试", description = "测试对话UI和基础逻辑" },
     { id = "reset_tutorial", name = "重置新手引导", description = "重置教程进度，下次开始游戏将播放开场对话" },
     { id = "invincible", name = "无敌模式", description = "开启后血量最低为1，不会死亡", toggle = true },
+    { id = "preload_verbose", name = "预加载调试", description = "开启后在控制台输出后台预加载进度信息", toggle = true },
 }
 
 -- ============================================================================

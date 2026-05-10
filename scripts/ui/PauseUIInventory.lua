@@ -8,6 +8,7 @@ local Weapons = require("config.weapons")
 local Modules = require("config.modules")
 local Settings = require("config.settings")
 local Game = require("core.Game")
+local ImageLoader = require("utils.ImageLoader")
 
 local PauseUIInventory = {}
 
@@ -180,16 +181,11 @@ function PauseUIInventory.RenderWeaponsGrid(nvg, x, y, w, h, baseUnit, fonts, pl
 
             if weapon.id then
                 -- 加载武器图标
-                if not PauseUI.weaponImages[weapon.id] then
-                    local iconPath = "images/weapons/" .. weapon.id .. ".jpg"
-                    local img = nvgCreateImage(nvg, iconPath, 0)
-                    if img and img > 0 then
-                        PauseUI.weaponImages[weapon.id] = img
-                    end
-                end
+                local iconPath = "images/weapons/" .. weapon.id .. ".jpg"
+                local weaponImg = ImageLoader.GetImage(nvg, iconPath, PauseUI.weaponImages, weapon.id)
 
                 -- 显示图标（占满整个格子）
-                if PauseUI.weaponImages[weapon.id] then
+                if weaponImg and weaponImg > 0 then
                     hasIcon = true
                     local imgPaint = nvgImagePattern(nvg, cellX, cellY, cellSize, cellSize, 0, PauseUI.weaponImages[weapon.id], 1.0)
                     nvgBeginPath(nvg)
@@ -206,36 +202,9 @@ function PauseUIInventory.RenderWeaponsGrid(nvg, x, y, w, h, baseUnit, fonts, pl
                 end
             end
 
-            -- 没有图标时显示背景和名称缩写
+            -- 没有图标时显示骨架屏占位
             if not hasIcon then
-                local iconGrad = nvgLinearGradient(nvg, cellX, cellY, cellX, cellY + cellSize,
-                    nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 60),
-                    nvgRGBA(tierColor.r * 0.3, tierColor.g * 0.3, tierColor.b * 0.3, 60))
-                nvgBeginPath(nvg)
-                nvgRoundedRect(nvg, cellX, cellY, cellSize, cellSize, baseUnit * 0.15)
-                nvgFillColor(nvg, nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 40))
-                nvgFill(nvg)
-                nvgBeginPath(nvg)
-                nvgRoundedRect(nvg, cellX, cellY, cellSize, cellSize, baseUnit * 0.15)
-                nvgFillPaint(nvg, iconGrad)
-                nvgFill(nvg)
-                nvgBeginPath(nvg)
-                nvgRoundedRect(nvg, cellX, cellY, cellSize, cellSize, baseUnit * 0.15)
-                nvgStrokeWidth(nvg, 1)
-                nvgStrokeColor(nvg, nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 100))
-                nvgStroke(nvg)
-
-                local weaponAbbr = weaponDef and string.sub(weaponDef.name, 1, 6) or "??"
-                nvgFontSize(nvg, cellSize * 0.35)
-                nvgTextAlign(nvg, NVG_ALIGN_CENTER + NVG_ALIGN_MIDDLE)
-                nvgFillColor(nvg, nvgRGBA(255, 255, 255, 230))
-                nvgText(nvg, cellX + cellSize / 2, cellY + cellSize * 0.45, weaponAbbr)
-
-                -- Tier标签（底部）
-                nvgFontSize(nvg, cellSize * 0.28)
-                nvgTextAlign(nvg, NVG_ALIGN_CENTER + NVG_ALIGN_BOTTOM)
-                nvgFillColor(nvg, nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 255))
-                nvgText(nvg, cellX + cellSize / 2, cellY + cellSize - cellSize * 0.06, "T" .. tier)
+                ImageLoader.RenderPlaceholder(nvg, cellX, cellY, cellSize, cellSize, PauseUI.animTime, baseUnit * 0.15)
             end
 
             -- 记录点击区域
@@ -332,15 +301,10 @@ function PauseUIInventory.RenderItemsGrid(nvg, x, y, w, h, baseUnit, fonts, play
             local moduleId = item.moduleId
             local hasIcon = false
             if moduleId and moduleDef then
-                if not PauseUI.moduleImages[moduleId] then
-                    local iconPath = "images/modules/" .. moduleId .. ".jpg"
-                    local img = nvgCreateImage(nvg, iconPath, 0)
-                    if img and img > 0 then
-                        PauseUI.moduleImages[moduleId] = img
-                    end
-                end
+                local iconPath = "images/modules/" .. moduleId .. ".jpg"
+                local moduleImg = ImageLoader.GetImage(nvg, iconPath, PauseUI.moduleImages, moduleId)
 
-                if PauseUI.moduleImages[moduleId] then
+                if moduleImg and moduleImg > 0 then
                     hasIcon = true
                     local imgPaint = nvgImagePattern(nvg, cellX, cellY, cellSize, cellSize, 0, PauseUI.moduleImages[moduleId], 1.0)
                     nvgBeginPath(nvg)
@@ -356,23 +320,9 @@ function PauseUIInventory.RenderItemsGrid(nvg, x, y, w, h, baseUnit, fonts, play
                 end
             end
 
-            -- 如果没有图标，显示背景和模块名称缩写
+            -- 如果没有图标，显示骨架屏占位
             if not hasIcon then
-                nvgBeginPath(nvg)
-                nvgRoundedRect(nvg, cellX, cellY, cellSize, cellSize, baseUnit * 0.15)
-                nvgFillColor(nvg, nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 50))
-                nvgFill(nvg)
-                nvgBeginPath(nvg)
-                nvgRoundedRect(nvg, cellX, cellY, cellSize, cellSize, baseUnit * 0.15)
-                nvgStrokeWidth(nvg, 1)
-                nvgStrokeColor(nvg, nvgRGBA(tierColor.r, tierColor.g, tierColor.b, 100))
-                nvgStroke(nvg)
-
-                local moduleAbbr = moduleDef and string.sub(moduleDef.name, 1, 6) or "??"
-                nvgFontSize(nvg, cellSize * 0.35)
-                nvgTextAlign(nvg, NVG_ALIGN_CENTER + NVG_ALIGN_MIDDLE)
-                nvgFillColor(nvg, nvgRGBA(255, 255, 255, 220))
-                nvgText(nvg, cellX + cellSize / 2, cellY + cellSize / 2, moduleAbbr)
+                ImageLoader.RenderPlaceholder(nvg, cellX, cellY, cellSize, cellSize, PauseUI.animTime, baseUnit * 0.15)
             end
 
             -- 数量标签（右下角）

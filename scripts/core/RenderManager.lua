@@ -11,7 +11,7 @@ local RenderManager = {}
 local UIStyle, HUD, ShopUI, Overlays, PauseUI, MainMenuUI, OptionsUI
 local GalleryUI, ShipSelectUI, WeaponSelectUI, TestMenuUI, DialogueTestUI
 local VirtualJoystick, DialogueUI, BridgeUpgrade, Game, Shop, Enemy, Effects
-local CrateOpenUI, LoadingOverlay
+local CrateOpenUI, LoadingOverlay, BackgroundPreloader
 
 local function LoadDependencies()
     if not UIStyle then
@@ -36,6 +36,7 @@ local function LoadDependencies()
         Effects = require("entities.Effects")
         CrateOpenUI = require("ui.CrateOpenUI")
         LoadingOverlay = require("ui.LoadingOverlay")
+        BackgroundPreloader = require("utils.BackgroundPreloader")
     end
 end
 
@@ -84,7 +85,7 @@ function RenderManager.Render()
     
     nvgFontFace(nvg_, "sans")
     
-    -- 加载遮罩显示期间，绘制遮罩后立即结束帧
+    -- 加载遮罩显示期间，绘制遮罩后立即结束帧（遮罩上不叠加调试信息）
     if LoadingOverlay and LoadingOverlay.IsActive() then
         LoadingOverlay.Render(nvg_, sw, sh)
         nvgEndFrame(nvg_)
@@ -94,33 +95,19 @@ function RenderManager.Render()
     -- 教程/剧情对话界面（最高优先级）
     if DialogueUI.IsVisible() then
         DialogueUI.Render(nvg_, sw, sh)
-        nvgEndFrame(nvg_)
-        return
-    end
-    
-    -- 主菜单界面
-    if inputHandler_.mainMenuActive then
+    elseif inputHandler_.mainMenuActive then
         RenderManager.RenderMainMenu(sw, sh)
-        nvgEndFrame(nvg_)
-        return
-    end
-    
-    -- 战舰选择界面
-    if inputHandler_.shipSelectActive then
+    elseif inputHandler_.shipSelectActive then
         ShipSelectUI.Render(nvg_, sw, sh)
-        nvgEndFrame(nvg_)
-        return
-    end
-    
-    -- 武器选择界面
-    if inputHandler_.weaponSelectActive then
+    elseif inputHandler_.weaponSelectActive then
         WeaponSelectUI.Render(nvg_, sw, sh)
-        nvgEndFrame(nvg_)
-        return
+    else
+        -- 游戏状态渲染
+        RenderManager.RenderGameState(sw, sh, baseUnit, fontSize)
     end
     
-    -- 游戏状态渲染
-    RenderManager.RenderGameState(sw, sh, baseUnit, fontSize)
+    -- 调试：后台下载状态指示器（叠加在所有界面上）
+    RenderManager.RenderDownloadStatus(sw, sh)
     
     nvgEndFrame(nvg_)
 end
@@ -207,6 +194,118 @@ function RenderManager.RenderGameState(sw, sh, baseUnit, fontSize)
         if inputHandler_.galleryActive then
             GalleryUI.Render(nvg_, sw, sh)
         end
+    end
+end
+
+-- ============================================================================
+-- 后台下载状态指示器（右下角半透明小面板）
+-- ============================================================================
+
+function RenderManager.RenderDownloadStatus(sw, sh)
+    if not BackgroundPreloader then return end
+
+    -- verbose 关闭时不渲染面板
+    if not BackgroundPreloader.IsVerbose() then return end
+
+    local s = BackgroundPreloader.GetStats()
+
+    -- 未启动过且未完成 → 不显示
+    if not s.active and not s.finished then return end
+
+    local nvg = nvg_
+    local fs = math.max(11, math.min(sw, sh) * 0.016)  -- 字号
+    local pad = fs * 0.6
+    local lineH = fs * 1.35
+
+    -- 状态文字
+    local statusLabel
+    if s.finished then
+        statusLabel = "预加载完成"
+    elseif s.paused then
+        statusLabel = "预加载暂停(前台优先)"
+    elseif s.downloading then
+        statusLabel = "预加载中..."
+    else
+        statusLabel = "预加载等待"
+    end
+
+    local progressText = string.format("%d/%d  下载:%d 跳过:%d 失败:%d",
+        s.processed, s.total, s.completed, s.skipped, s.failed)
+
+    -- 当前文件名（截短显示）
+    local fileText = ""
+    if s.currentPath ~= "" then
+        local name = s.currentPath
+        if #name > 30 then
+            name = "..." .. name:sub(-27)
+        end
+        fileText = name
+    end
+
+    -- 计算面板尺寸
+    local lines = 2
+    if fileText ~= "" then lines = 3 end
+    local panelH = pad * 2 + lineH * lines
+    local panelW = math.max(sw * 0.22, 200)
+    local panelX = sw - panelW - pad * 2
+    local panelY = sh - panelH - pad * 2
+
+    -- 半透明背景
+    nvgBeginPath(nvg)
+    nvgRoundedRect(nvg, panelX, panelY, panelW, panelH, 6)
+    nvgFillColor(nvg, nvgRGBA(8, 12, 24, 180))
+    nvgFill(nvg)
+
+    -- 边框
+    nvgBeginPath(nvg)
+    nvgRoundedRect(nvg, panelX, panelY, panelW, panelH, 6)
+    nvgStrokeColor(nvg, nvgRGBA(60, 180, 255, s.finished and 60 or 120))
+    nvgStrokeWidth(nvg, 1)
+    nvgStroke(nvg)
+
+    -- 文字
+    nvgFontFace(nvg, "sans")
+    nvgFontSize(nvg, fs)
+    nvgTextAlign(nvg, NVG_ALIGN_LEFT + NVG_ALIGN_TOP)
+
+    local tx = panelX + pad
+    local ty = panelY + pad
+
+    -- 第 1 行：状态
+    local statusColor = s.finished and nvgRGBA(80, 200, 120, 220)
+        or s.paused and nvgRGBA(255, 180, 60, 220)
+        or nvgRGBA(100, 210, 255, 220)
+    nvgFillColor(nvg, statusColor)
+    nvgText(nvg, tx, ty, statusLabel)
+    ty = ty + lineH
+
+    -- 第 2 行：进度数字
+    nvgFillColor(nvg, nvgRGBA(180, 190, 200, 200))
+    nvgText(nvg, tx, ty, progressText)
+    ty = ty + lineH
+
+    -- 第 3 行：当前文件（如果有）
+    if fileText ~= "" then
+        nvgFillColor(nvg, nvgRGBA(120, 130, 140, 180))
+        nvgFontSize(nvg, fs * 0.85)
+        nvgText(nvg, tx, ty, fileText)
+    end
+
+    -- 进度条
+    local barH = 3
+    local barY = panelY + panelH - barH
+    local progress = s.total > 0 and s.processed / s.total or 0
+
+    nvgBeginPath(nvg)
+    nvgRect(nvg, panelX, barY, panelW, barH)
+    nvgFillColor(nvg, nvgRGBA(30, 40, 60, 200))
+    nvgFill(nvg)
+
+    if progress > 0 then
+        nvgBeginPath(nvg)
+        nvgRect(nvg, panelX, barY, panelW * progress, barH)
+        nvgFillColor(nvg, s.finished and nvgRGBA(80, 200, 120, 200) or nvgRGBA(60, 180, 255, 200))
+        nvgFill(nvg)
     end
 end
 

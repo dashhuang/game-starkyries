@@ -15,6 +15,7 @@ local Weapons = require("config.weapons")
 local UIStyle = require("ui.UIStyle")
 local UISafeArea = require("ui.UISafeArea")
 local UIScreen = require("ui.UIScreen")
+local ImageLoader = require("utils.ImageLoader")
 
 local WeaponSelectUI = {}
 
@@ -174,21 +175,32 @@ function WeaponSelectUI.Init()
     WeaponSelectUI.showKeyboardFocus = false
 end
 
+function WeaponSelectUI.CollectImagePaths()
+    local paths = {}
+    for _, weaponId in ipairs(WeaponSelectUI.StarterWeapons) do
+        paths[#paths + 1] = "images/weapons/" .. weaponId .. ".jpg"
+    end
+    return paths
+end
+
 function WeaponSelectUI.Show(ship, callback)
-    WeaponSelectUI.visible = true
-    WeaponSelectUI.selectedShip = ship
-    WeaponSelectUI.onSelect = callback
-    WeaponSelectUI.Init()
-    
-    -- 默认选中战舰推荐的武器（如果在列表中）
-    if ship and ship.initialWeapon then
-        for i, weapon in ipairs(WeaponSelectUI.weapons) do
-            if weapon.id == ship.initialWeapon then
-                WeaponSelectUI.selectedIndex = i
-                break
+    local paths = WeaponSelectUI.CollectImagePaths()
+    ImageLoader.PreloadGate(paths, function()
+        WeaponSelectUI.visible = true
+        WeaponSelectUI.selectedShip = ship
+        WeaponSelectUI.onSelect = callback
+        WeaponSelectUI.Init()
+        
+        -- 默认选中战舰推荐的武器（如果在列表中）
+        if ship and ship.initialWeapon then
+            for i, weapon in ipairs(WeaponSelectUI.weapons) do
+                if weapon.id == ship.initialWeapon then
+                    WeaponSelectUI.selectedIndex = i
+                    break
+                end
             end
         end
-    end
+    end, "正在加载武器数据...")
 end
 
 function WeaponSelectUI.Hide()
@@ -1051,16 +1063,7 @@ function WeaponSelectUI.RenderWeaponCard(nvg, x, y, w, h, weapon, isSelected, is
     local hasIcon = false
     local iconPath = "images/weapons/" .. weapon.id .. ".jpg"
     
-    if not WeaponSelectUI.weaponImages[weapon.id] then
-        local img = nvgCreateImage(nvg, iconPath, 0)
-        if img and img > 0 then
-            WeaponSelectUI.weaponImages[weapon.id] = img
-        else
-            WeaponSelectUI.weaponImages[weapon.id] = -1  -- 标记为无图标
-        end
-    end
-    
-    local img = WeaponSelectUI.weaponImages[weapon.id]
+    local img = ImageLoader.GetImage(nvg, iconPath, WeaponSelectUI.weaponImages, weapon.id)
     if img and img > 0 then
         hasIcon = true
         -- 绘制图标背景（轻微透明）
@@ -1077,15 +1080,9 @@ function WeaponSelectUI.RenderWeaponCard(nvg, x, y, w, h, weapon, isSelected, is
         nvgFill(nvg)
     end
     
-    -- 没有图标时使用渐变色块
+    -- 没有图标时显示骨架屏占位
     if not hasIcon then
-        nvgBeginPath(nvg)
-        nvgRoundedRect(nvg, iconX, iconY, iconSize, iconSize, baseUnit * 0.25)
-        local iconGrad = nvgLinearGradient(nvg, cx, py, cx, py + iconSize,
-            nvgRGBA(typeColor.r, typeColor.g, typeColor.b, 200),
-            nvgRGBA(typeColor.r * 0.5, typeColor.g * 0.5, typeColor.b * 0.5, 200))
-        nvgFillPaint(nvg, iconGrad)
-        nvgFill(nvg)
+        ImageLoader.RenderPlaceholder(nvg, iconX, iconY, iconSize, iconSize, WeaponSelectUI.animTime, baseUnit * 0.25)
     end
     py = py + iconSize + baseUnit * 0.5
     

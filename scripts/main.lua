@@ -20,6 +20,7 @@ local Waves = require("config.waves")
 -- 工具
 local Math = require("utils.Math")
 local TouchInput = require("utils.TouchInput")
+local ImageLoader = require("utils.ImageLoader")
 
 -- 渲染
 local Materials = require("render.Materials")
@@ -286,61 +287,68 @@ function InitGame()
         end)
         
         SaveManager.Init(function(hasSaveData)
-            MainMenuUI.Show({
-                hasSaveData = hasSaveData,
-                onStartGame = function()
-                    if SaveManager.HasSave() then
-                        SaveManager.Delete()
-                    end
-                    
-                    if TutorialManager.NeedsOpeningDialogue() then
-                        InputHandler.SetMainMenuActive(false)
-                        MainMenuUI.Hide()
-                        LoadingOverlay.Show(function()
-                            GameStateManager.StartTutorialOpening()
-                        end, "正在初始化战姬系统...")
-                        return
-                    end
-                    
-                    InputHandler.SetMainMenuActive(false)
-                    InputHandler.SetShipSelectActive(true)
-                    MainMenuUI.Hide()
-                    
-                    ShipSelectUI.Show(function(ship)
-                        InputHandler.SetShipSelectActive(false)
-                        InputHandler.SetWeaponSelectActive(true)
-                        InputHandler.SetSelectedShipConfig(ship)
+            -- 预下载 Logo 图片，确保就绪后再显示主菜单
+            ImageLoader.Preload({"image/logo.png"}, function()
+                -- 后台预加载：主菜单显示后开始逐个下载所有游戏图片资源
+                local BackgroundPreloader = require("utils.BackgroundPreloader")
+                BackgroundPreloader.Start()
+
+                MainMenuUI.Show({
+                    hasSaveData = hasSaveData,
+                    onStartGame = function()
+                        if SaveManager.HasSave() then
+                            SaveManager.Delete()
+                        end
                         
-                        WeaponSelectUI.Show(ship, function(weapon)
-                            InputHandler.SetWeaponSelectActive(false)
+                        if TutorialManager.NeedsOpeningDialogue() then
+                            InputHandler.SetMainMenuActive(false)
+                            MainMenuUI.Hide()
                             LoadingOverlay.Show(function()
-                                GameStateManager.StartGameWithShip(ship, weapon.id)
-                            end, "战舰整备中...")
+                                GameStateManager.StartTutorialOpening()
+                            end, "正在初始化战姬系统...")
+                            return
+                        end
+                        
+                        InputHandler.SetMainMenuActive(false)
+                        InputHandler.SetShipSelectActive(true)
+                        MainMenuUI.Hide()
+                        
+                        ShipSelectUI.Show(function(ship)
+                            InputHandler.SetShipSelectActive(false)
+                            InputHandler.SetWeaponSelectActive(true)
+                            InputHandler.SetSelectedShipConfig(ship)
+                            
+                            WeaponSelectUI.Show(ship, function(weapon)
+                                InputHandler.SetWeaponSelectActive(false)
+                                LoadingOverlay.Show(function()
+                                    GameStateManager.StartGameWithShip(ship, weapon.id)
+                                end, "战舰整备中...")
+                            end)
                         end)
-                    end)
-                end,
-                onContinue = function()
-                    LoadingOverlay.Show(function()
-                        GameStateManager.ContinueFromSave()
-                    end, "正在恢复存档...")
-                end,
-                onOptions = function()
-                    InputHandler.SetOptionsActive(true)
-                    OptionsUI.Show(function()
-                        InputHandler.SetOptionsActive(false)
-                    end)
-                end,
-                onGallery = function()
-                    InputHandler.SetGalleryActive(true)
-                    GalleryUI.Show(function()
-                        InputHandler.SetGalleryActive(false)
-                    end)
-                end,
-                onTest = function()
-                    print("[Main] onTest callback triggered!")
-                    TestMenuUI.Show()
-                end,
-            })
+                    end,
+                    onContinue = function()
+                        LoadingOverlay.Show(function()
+                            GameStateManager.ContinueFromSave()
+                        end, "正在恢复存档...")
+                    end,
+                    onOptions = function()
+                        InputHandler.SetOptionsActive(true)
+                        OptionsUI.Show(function()
+                            InputHandler.SetOptionsActive(false)
+                        end)
+                    end,
+                    onGallery = function()
+                        InputHandler.SetGalleryActive(true)
+                        GalleryUI.Show(function()
+                            InputHandler.SetGalleryActive(false)
+                        end)
+                    end,
+                    onTest = function()
+                        print("[Main] onTest callback triggered!")
+                        TestMenuUI.Show()
+                    end,
+                })
+            end)
         end)
     end)
 end
@@ -405,6 +413,15 @@ function Start()
     end)
     TestMenuUI.SetToggleStateGetter("invincible", function()
         return Game.debugInvincible
+    end)
+
+    TestMenuUI.SetTestHandler("preload_verbose", function()
+        local BackgroundPreloader = require("utils.BackgroundPreloader")
+        BackgroundPreloader.SetVerbose(not BackgroundPreloader.IsVerbose())
+    end)
+    TestMenuUI.SetToggleStateGetter("preload_verbose", function()
+        local BackgroundPreloader = require("utils.BackgroundPreloader")
+        return BackgroundPreloader.IsVerbose()
     end)
     
     -- 第10波快速测试（预配置）
@@ -620,7 +637,7 @@ function HandleUpdate(eventType, eventData)
         if UIScreen.IsMouseReleased() then
             if UIScreen.CheckButtonRelease(mx, my, "hud_pause") then
                 Audio.PlayUIClick()
-                PauseUI.Show()
+                PauseUI.Show(Game.player)
                 UIScreen.UpdateMouseState()
                 return
             end
@@ -640,7 +657,7 @@ function HandleUpdate(eventType, eventData)
         end
         
         if input:GetKeyPress(KEY_ESCAPE) then
-            PauseUI.Show()
+            PauseUI.Show(Game.player)
             UIScreen.UpdateMouseState()
             return
         end

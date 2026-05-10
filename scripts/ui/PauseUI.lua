@@ -15,6 +15,7 @@ local UIStyle = require("ui.UIStyle")
 local UIScreen = require("ui.UIScreen")
 local UISafeArea = require("ui.UISafeArea")
 local ShopCards = require("ui.shop.ShopCards")
+local ImageLoader = require("utils.ImageLoader")
 
 -- 子模块
 local PauseUIStats = require("ui.PauseUIStats")
@@ -80,13 +81,38 @@ PauseUI.safeArea = nil
 -- 公共接口
 -- ============================================================================
 
-function PauseUI.Show()
-    PauseUI.visible = true
-    PauseUI.animTime = 0
-    PauseUI.statsTab = 1
-    PauseUI.scrollOffset = 0
-    PauseUI.showDetail = false
-    PauseUI.detailItem = nil
+function PauseUI.CollectImagePaths(player)
+    local paths = {}
+    if not player then return paths end
+    -- 装备的武器图标
+    if player.weapons then
+        for _, weapon in ipairs(player.weapons) do
+            if weapon.id then
+                paths[#paths + 1] = "images/weapons/" .. weapon.id .. ".jpg"
+            end
+        end
+    end
+    -- 装备的模块图标
+    if player.modules then
+        for moduleId, count in pairs(player.modules) do
+            if count > 0 then
+                paths[#paths + 1] = "images/modules/" .. moduleId .. ".jpg"
+            end
+        end
+    end
+    return paths
+end
+
+function PauseUI.Show(player)
+    local paths = PauseUI.CollectImagePaths(player)
+    ImageLoader.PreloadGate(paths, function()
+        PauseUI.visible = true
+        PauseUI.animTime = 0
+        PauseUI.statsTab = 1
+        PauseUI.scrollOffset = 0
+        PauseUI.showDetail = false
+        PauseUI.detailItem = nil
+    end, "正在加载暂停菜单...")
 end
 
 function PauseUI.Hide()
