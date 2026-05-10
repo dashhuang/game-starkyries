@@ -14,7 +14,7 @@
 
 ## 关于 TapTap Maker
 
-[TapTap Maker](https://www.taptap.cn/app/375534) 是 TapTap 推出的游戏创作工具，基于 UrhoX 引擎，使用 Lua 编写游戏逻辑，支持 AI 辅助编程，可直接发布到 TapTap 平台（移动端 + PC）。
+[TapTap Maker](https://maker.taptap.cn/) 是 TapTap 推出的游戏创作工具，基于 UrhoX 引擎，使用 Lua 编写游戏逻辑，支持 AI 辅助编程，可直接发布到 TapTap 平台（移动端 + PC）。
 
 本项目是一个 TapTap Maker 的开源示例，展示了如何用这套工具链完成一款完整游戏的开发。
 
